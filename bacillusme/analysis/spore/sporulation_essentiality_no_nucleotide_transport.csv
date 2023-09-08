@@ -1,0 +1,964 @@
+,FS,MC,VG,annotation
+BSU14670,0,0,0,inositol monophosphatase / 5' nucleotidase (purine nucleoside monophosphate)
+BSU13110,0,0,0,formyltetrahydrofolate hydrolase
+BSU14520,0,0,0,adenine deaminase
+BSU13180,0,0,1,cobalamin-independent methionine synthase
+BSU14830,0,0,0,L-glutamine amidohydrolase; glutaminase
+BSU13960,0,0,0,beta-hydroxyacid dehydrogenase (acts on 3-hydroxypropionate with NADP)
+BSU13730,0,0,0,"6-carboxy-5,6,7,8-tetrahydropterin synthase; queuosine biosynthesis"
+BSU15350,0,0,0,<i>N</i>-formyl-4-amino-5-aminomethyl-2-methylpyrimidine deformylase
+BSU15020,0,0,0,phosphopantetheine adenylyltransferase
+BSU15700,0,0,0,coenzyme A biosynthesis bifunctional protein CoaBC; phosphopantothenoylcysteine synthetase/decarboxylase
+BSU14190,1,0,1,<i>N</i>-acetyl-diaminopimelate deacetylase
+BSU14000,1,0,1,"N-acetyl-L,L-diaminopimelate aminotransferase"
+BSU14180,1,0,1,tetrahydrodipicolinate N-acetyltransferase
+BSU15430,1,1,1,isoleucyl-tRNA synthetase
+BSU15080,1,1,1,ribosomal protein L32
+BSU15790,0,0,0,ribulose-5-phosphate 3-epimerase
+BSU15850,0,0,0,L-serine dehydratase (beta chain)
+BSU15690,1,1,1,omega subunit of RNA polymerase
+BSU15860,0,0,0,L-serine dehydratase (alpha chain)
+BSU15680,1,1,1,guanylate kinase
+BSU15920,0,0,0,acyl carrier protein
+BSU15720,1,1,1,peptide deformylase
+BSU15730,1,1,1,methionyl-tRNA formyltransferase
+BSU15750,1,1,1,23S rRNA m2A2503 methyltransferase and tRNA A37 C2 methyltransferase
+BSU16510,0,0,0,uridylate kinase
+BSU16530,0,0,0,undecaprenyl pyrophosphate synthase
+BSU16020,1,1,1,16S rRNA processing protein
+BSU16520,1,1,1,ribosome recycling factor
+BSU16500,1,1,1,elongation factor Ts
+BSU16040,1,1,1,ribosomal protein L19
+BSU16490,1,1,1,ribosomal protein S2
+BSU16540,1,0,1,phosphatidate cytidylyltransferase (CDP-diglyceride synthase)
+BSU16570,1,1,1,prolyl-tRNA synthetase
+BSU16990,0,0,0,threonine 3-dehydrogenase
+BSU17660,0,0,0,deoxyuridine 5'-triphosphate pyrophosphatase (phage origin)
+BSU17000,0,0,0,2-amino-3-ketobutyrate CoA ligase (glycine acetyl transferase)
+BSU16550,1,0,1,1-deoxy-D-xylulose-5-phosphate reductoisomerase
+BSU16670,1,0,1,riboflavin biosynthesis protein RibC
+BSU16680,1,1,1,ribosomal protein S15 (BS18)
+BSU17710,0,0,0,component of the twin-arginine pre-protein translocation pathway
+BSU18480,0,0,0,pyrroline-5-carboxylate reductase ProH
+BSU18830,0,0,0,putative PEP-dependent enzyme
+BSU19310,0,0,0,aldehyde dehydrogenase
+BSU18540,0,0,0,negatively charged metabolite transporter
+BSU18570,0,0,0,molybdopterin cofactor oxido-reductase
+BSU19520,0,0,0,putative H+/anion permease
+BSU19630,0,0,0,purine nucleoside phosphorylase
+BSU19690,0,0,0,"lysine 2,3-aminomutase"
+BSU19710,0,0,0,putative deacetylase
+BSU20020,0,0,0,SPbeta phage deoxyuridine 5'-triphosphate nucleotidohydrolase
+BSU21690,0,0,0,peptide methionine S-sulfoxide reductase
+BSU20250,0,0,0,DNA (cytosine-5-)-methyltransferase; phage SPbeta
+BSU21820,0,0,0,thymidylate synthase B
+BSU21900,0,0,0,bacillithiol peroxidase
+BSU22130,0,0,0,"4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase, 5-keto-4-deoxyuronate isomerase"
+BSU22140,0,0,0,2-keto-3-deoxygluconate oxidoreductase
+BSU22370,0,1,1,anabolic oxaloacetate / glutamate aminotransferase
+BSU22410,0,0,0,aspartate 1-decarboxylase
+BSU16690,1,1,1,polynucleotide phosphorylase (PNPase)
+BSU16960,1,1,1,endoribonuclease Y
+BSU22420,0,0,0,pantothenate synthetase
+BSU22430,0,0,0,ketopantoate hydroxymethyltransferase
+BSU22700,0,0,1,3-dehydroquinate synthase
+BSU22690,0,0,0,chorismate mutase
+BSU22710,0,0,1,chorismate synthase
+BSU22830,0,0,1,NADPH-dependent glycerol-3-phosphate dehydrogenase
+BSU22870,0,0,0,isopentenyl diphosphate isomerase (typeII)
+BSU21810,1,0,1,dihydrofolate reductase
+BSU22890,0,0,0,cytidylate kinase
+BSU23380,0,0,1,"meso-2,6-diaminopimelate decarboxylase"
+BSU22360,1,1,1,asparaginyl-tRNA synthetase
+BSU21920,1,0,1,UDP-glucose diacylglyceroltransferase
+BSU23610,0,0,0,isopentenyl pyrophosphate and dimethylallyl pyrophosphate diphosphatase (moonlighting ADP-ribose pyrophosphatase)
+BSU23560,0,0,0,malate-H+/Na+-lactate antiporter
+BSU23920,0,0,0,putative propionyl-CoA carboxylase beta chain
+BSU23960,0,0,0,arginine ABC transporter ATP-binding protein
+BSU23970,0,0,0,arginine ABC transporter membrane subunit
+BSU23980,0,0,0,arginine ABC transporter substrate-binding lipoprotein
+BSU22740,1,0,1,heptaprenyl diphosphate synthase component II
+BSU22760,1,0,1,heptaprenyl diphosphate synthase component I
+BSU22750,1,0,1,demethylmenaquinone methyltransferase
+BSU24850,0,0,0,glucose kinase
+BSU22730,1,1,1,nucleoside diphosphate kinase
+BSU25020,0,0,0,superoxide dismutase (Mn[2+]-dependent)
+BSU22880,1,1,1,RNA degradation presenting factor (ribosomal protein S1 homolog)
+BSU25310,0,0,0,undecaprenol kinase
+BSU25660,0,0,1,shikimate 5-dehydrogenase
+BSU25900,0,0,0,N-acetylmuramoyl-L-alanine amidase; skin element
+BSU26640,0,0,0,putative oxidoreductase
+BSU26650,0,0,0,potassium/proton-divalent cation antiporter
+BSU26810,0,0,0,glutamate racemase
+BSU27200,0,0,0,putative formate/nitrite transporter
+BSU26860,0,0,0,putative citrate transporter
+BSU24270,1,0,1,1-deoxyxylulose-5-phosphate synthase
+BSU24280,1,0,1,farnesyl diphosphate synthase
+BSU24900,1,1,1,ribosomal protein L33
+BSU25410,1,1,1,ribosomal protein S21
+BSU25160,1,0,1,1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase
+BSU25640,1,0,1,nicotinate-nucleotide adenylyltransferase
+BSU28750,0,0,0,sugar-binding lipoprotein
+BSU28790,0,0,0,L-ribulokinase
+BSU28780,0,0,0,L-ribulose-5-phosphate 4-epimerase
+BSU29060,0,0,0,dephosphocoenzyme A kinase
+BSU08840,0,0,0,"aliphatic sulfonate ABC transporter, substrate-binding lipoprotein"
+BSU28800,0,0,0,L-arabinose isomerase
+BSU28740,0,0,0,arabinose/arabinan permease
+BSU28720,0,0,0,&alpha;-L-arabinofuranosidase 1
+BSU03070,0,0,0,multidrug-efflux transporter
+BSU28730,0,0,0,arabinose/arabinan permease
+BSU33040,0,0,0,fumarate hydratase
+BSU34130,0,0,0,"short chain beta-1,4-galacto-oligosaccharides beta-galactosidase (beta-galacto-pyranoside hydrolase)"
+BSU18120,0,0,0,H+/Na+:nitrogen-donor aminoacid symporter
+BSU24740,0,0,0,CorA-family divalent ion transporter
+BSU29680,0,0,0,acetyl-CoA synthetase
+BSU03860,0,0,0,NADPH-FMN oxidoreductase (nitroreductase)
+BSU39920,0,0,0,asparagine synthetase (glutamine-hydrolyzing)
+BSU37660,0,0,0,phosphotransacetylase
+BSU27010,0,0,0,<em>S</em>-(hydroxymethyl)bacillithiol dehydrogenase
+BSU25580,0,0,0,dCMP deaminase associated to DNA transport (competence)
+BSU27070,0,0,0,phosphotransferase system (PTS) fructose-specific enzyme IIA component
+BSU30230,0,0,0,L-lysine-8-amino-7-oxononanoate aminotransferase
+BSU27060,0,0,0,phosphotransferase system (PTS) fructose-specific enzyme IIB component
+BSU27040,0,0,0,phosphotransferase system (PTS) fructose-specific enzyme IID component
+BSU27050,0,0,0,phosphotransferase system (PTS) fructose-specific enzyme IIC component
+BSU17390,0,0,1,ribonucleoside-diphosphate reductase (minor subunit)
+BSU19800,0,0,0,phytase
+BSU30210,0,0,0,dethiobiotin synthetase
+BSU17380,0,0,1,ribonucleoside-diphosphate reductase (major subunit)
+BSU30240,0,0,0,6-carboxyhexanoate-CoA ligase monomer
+BSU27870,0,0,1,L-aspartate oxidase
+BSU21910,0,0,1,homoserine O-acetyltransferase
+BSU30220,0,0,0,8-amino-7-oxononanoate synthase (pimeloyl-CoA-dependent)
+BSU28080,0,0,1,folyl-polyglutamate synthase
+BSU30200,0,0,0,biotin synthase
+BSU27850,0,0,1,quinolinate synthetase
+BSU02140,0,0,0,sn-glycerol-3-phosphate permease
+BSU27860,0,0,1,nicotinate-nucleotide pyrophosphorylase (quinolinate phosphoribosyltransferase)
+BSU14730,0,0,0,RNA polymerase ECF-type sigma factor
+BSU02130,0,0,0,secreted glycerophosphoryl diester phosphodiesterase
+BSU15580,0,0,0,sulfate permease
+BSU28500,0,0,1,thioredoxin
+BSU38760,0,0,0,cytochrome bb' ubiquinol oxidase (subunit I)
+BSU09410,0,0,0,alkaline phosphatase A
+BSU15610,0,0,0,uroporphyrinogen III and precorrin-1 C-methyltransferase
+BSU38750,0,0,0,cytochrome bb' ubiquinol oxidase (subunit II)
+BSU15590,0,0,1,sulfate adenylyltransferase
+BSU15630,0,0,0,precorrin-2 dehydrogenase
+BSU15570,0,0,1,(phospho)adenosine phosphosulfate reductase
+BSU15600,0,0,0,adenylylsulfate kinase
+BSU15620,0,0,0,sirohydrochlorin ferrochelatase
+BSU28430,0,0,0,succinate dehydrogenase (iron-sulfur protein)
+BSU02480,0,0,0,glucarate transporter
+BSU28440,0,0,0,succinate dehydrogenase (flavoprotein subunit)
+BSU28450,0,0,0,succinate dehydrogenase (cytochrome b558 subunit)
+BSU02490,0,0,0,glucarate dehydratase
+BSU02510,0,0,0,D-galactarate dehydratase
+BSU10010,0,0,0,"putative tryptophan ECF transporter, S component"
+BSU16760,0,0,0,aspartokinase I (alpha and beta subunits)
+BSU02460,0,0,0,5-dehydro-4-deoxyglucarate dehydratase
+BSU16740,0,0,0,spore dipicolinate synthase subunit B
+BSU28090,1,1,1,valyl-tRNA synthetase
+BSU16730,0,0,0,spore dipicolinate synthase subunit A
+BSU28510,0,0,0,&alpha;-L-arabinofuranosidase 2
+BSU07610,0,0,0,transporter of divalent metal ions/citrate complexes
+BSU03060,0,0,0,L-lactate permease
+BSU36920,0,0,0,D-ribose 5-phosphate epimerase (promiscuous)
+BSU03050,0,0,0,L-lactate dehydrogenase
+BSU24170,0,0,0,degradative acetoacetyl-CoA thiolase
+BSU39060,0,0,0,secondary transporter of divalent metal ions/citrate complexes
+BSU24140,0,0,0,bifunctional citrate synthase/2-methylcitrate synthase
+BSU28900,0,0,0,pyruvate import system subunit B
+BSU24160,0,0,0,3-hydroxybutyryl-CoA dehydrogenase
+BSU33630,1,1,1,preprotein translocase subunit
+BSU24120,0,0,0,2-methylisocitrate lyase
+BSU24130,0,0,0,2-methylcitrate dehydratase (promiscuous)
+BSU24150,0,0,0,propionyl-CoA dehydrogenase subunit
+BSU10790,0,0,0,asparagine synthetase (sporulation related)
+BSU04740,0,1,1,serine phosphatase
+BSU16770,1,0,1,4-hydroxy-tetrahydrodipicolinate synthase
+BSU39260,0,0,0,aryl-phospho-beta-d-glucosidase
+BSU39270,0,0,0,phosphotransferase system (PTS) beta-glucoside-specific enzyme IIBCA component
+BSU08000,0,0,0,CorA-family transporter YfjQ
+BSU16750,1,1,1,aspartate-semialdehyde dehydrogenase
+BSU29210,1,0,1,acetyl-CoA carboxylase (carboxyltransferase beta subunit)
+BSU29200,1,0,1,acetyl-CoA carboxylase (carboxyltransferase alpha subunit)
+BSU04730,1,0,1,RNA polymerase sigma-37 factor (sigma(B))
+BSU27600,0,0,0,GTP pyrophosphokinase (RelA/SpoT)
+BSU25790,0,0,0,arsenite efflux transporter
+BSU33800,0,0,0,"glycine betaine/carnitine/choline/choline sulfate ABC transporter, membrane subunit OpuCD"
+BSU13170,0,0,0,guanine deaminase
+BSU38290,0,0,0,thiamine-phosphate pyrophosphorylase (thiamine phosphate synthase)
+BSU12840,0,0,0,putative low-affinity inorganic phosphate transporter
+BSU38630,0,0,0,major catalase in spores
+BSU38300,0,0,0,5-(2-hydroxyethyl)-4-methylthiazole kinase
+BSU33400,0,0,0,promiscuous glyoxal/methylglyoxal reductase
+BSU29620,0,1,1,histidinol phosphate phosphatase
+BSU33830,0,0,0,"glycine betaine/carnitine/choline/choline sulfate ABC transporter, ATP-binding protein"
+BSU36470,0,0,0,allantoin permease
+BSU33820,0,0,0,"glycine betaine/carnitine/choline/choline sulfate ABC transporter, membrane subunit OpuCB"
+BSU23570,0,0,0,L-aspartase (aspartate ammonia lyase)
+BSU33810,0,0,0,"glycine betaine/carnitine/choline/choline sulfate ABC transporter, substrate-binding lipoprotein"
+BSU23580,0,0,0,exported L-asparaginase
+BSU09840,0,0,0,coproporphyrinogen III oxidase
+BSU23860,0,0,0,NADP<sup>+</sup>-dependent 6-P-gluconate dehydrogenase
+BSU23280,0,0,1,fused diaminohydroxyphosphoribosylaminopyrimidine deaminase; 5-amino-6-(5-phosphoribosylamino) uracil reductase
+BSU23250,0,0,1,"6,7-dimethyl-8-ribityllumazine synthase, beta subunit"
+BSU23260,0,0,1,"fused 3,4-dihydroxy-2-butanone 4-phosphate synthase and GTP cyclohydrolase II"
+BSU23270,0,0,1,riboflavin synthase (alpha subunit)
+BSU07570,0,0,0,malate (2-oxoglutarate) transporter
+BSU31930,0,0,0,L-alanine dehydrogenase (NAD-dependent)
+BSU37490,0,0,0,agmatinase
+BSU37500,0,0,0,spermidine synthase; polyamine metabolism
+BSU17600,0,0,0,xylose isomerase
+BSU17610,0,0,0,xylulose kinase
+BSU03790,0,0,0,aspartate kinase III
+BSU29660,1,1,1,ribosomal protein S4 (BS4)
+BSU00180,0,0,0,tRNA specific adenosine A34 deaminase
+BSU08180,0,0,0,6-phospho-alpha-glucosidase
+BSU08200,0,0,0,phosphotransferase system (PTS) maltose-specific enzyme IICB component
+BSU15320,1,0,1,RNA polymerase sporulation-specific sigma-29 factor (sigma-E)
+BSU02230,0,0,0,phosphoribosylglycinamide formyltransferase 2
+BSU33940,0,0,0,"glyceraldehyde-3-phosphate dehydrogenase (NAD-dependent, glycolytic)"
+BSU33920,0,0,0,triose phosphate isomerase
+BSU33910,0,0,0,phosphoglycerate mutase
+BSU33930,0,0,0,phosphoglycerate kinase
+BSU39860,0,0,0,putative aldehyde dehydrogenase
+BSU36900,1,1,1,serine hydroxymethyltransferase
+BSU24350,1,0,1,acetyl-CoA carboxylase subunit (biotin carboxyl carrier subunit)
+BSU38280,0,0,0,ferrous ion permease
+BSU24340,1,0,1,acetyl-CoA carboxylase subunit (biotin carboxylase subunit)
+BSU38270,0,0,0,lipoprotein binding ferrous or ferric iron for transport
+BSU38260,0,0,0,peroxidase converting ferric iron into ferrous iron
+BSU25500,0,0,0,coproporphyrinogen III oxidase
+BSU04030,0,0,0,putative hydroxyacyl-(acyl carrier protein) dehydratase
+BSU02270,1,0,1,phosphatidylserine synthase
+BSU00500,0,0,1,bifunctional glucosamine-1-phosphate N-acetyltransferase/UDP-N-acetylglucosamine pyrophosphorylase
+BSU02290,1,0,1,phosphatidylserine decarboxylase; 32 kDa precursor processed into a 29 kDa protein
+BSU17680,0,0,0,thymidylate synthase A (phage origin)
+BSU00510,0,0,1,phosphoribosylpyrophosphate synthetase
+BSU04470,0,0,0,C4-dicarboxylate transport protein
+BSU30070,0,0,0,glycine betaine transporter
+BSU13910,0,0,0,phosphotransferase system (PTS) enzyme I
+BSU26690,0,0,0,low-affinity branched-chain amino acid transporter
+BSU13890,0,0,0,phosphotransferase system (PTS) glucose-specific enzyme IICBA component
+BSU13900,0,0,0,histidine-containing phosphocarrier protein of the phosphotransferase system (PTS) (HPr protein)
+BSU35780,0,0,0,exported N-acetylglucosaminidase (major autolysin) (CWBP90)
+BSU06240,0,0,0,"acetoin reductase/2,3-butanediol dehydrogenase"
+BSU30560,0,0,0,phosphoenolpyruvate carboxykinase
+BSU33900,1,1,1,enolase
+BSU15110,0,0,0,2-dehydropantoate 2-reductase
+BSU09440,0,0,0,citrate synthase I
+BSU01770,0,0,1,phosphoglucosamine mutase
+BSU36890,0,0,0,uracil phosphoribosyltransferase
+BSU10140,0,0,0,promiscuous protoporphyrinogen IX and coproporphyrinogen III oxidase
+BSU10120,0,0,0,uroporphyrinogen III decarboxylase
+BSU10130,0,0,0,coproporphyrin ferrochelatase
+BSU39020,0,0,0,purine nucleoside transporter
+BSU29020,0,0,0,"glyceraldehyde-3-phosphate dehydrogenase (NADP-dependent, gluconeogenesis)"
+BSU29010,0,0,0,S-adenosylmethionine decarboxylase
+BSU24070,0,0,0,branched-chain fatty-acid kinase
+BSU24090,0,0,0,phosphate BCFA and butyryl coenzyme A transferase
+BSU00380,1,1,1,methionyl-tRNA synthetase
+BSU24080,0,0,1,branched-chain amino acid dehydrogenase
+BSU18000,0,0,0,aconitate hydratase (bifunctional aconitase)
+BSU39450,0,0,0,putative ethanolamine permease
+BSU29300,0,0,0,RNA-binding riboflavin kinase
+BSU40500,1,1,1,ribosomal protein L9
+BSU29380,0,0,0,S-alkyl cysteine ABC transporter substrate-binding lipoprotein TcyJ
+BSU29370,0,0,0,S-alkyl cysteine ABC transporter substrate-binding lipoprotein TcyK
+BSU29350,0,0,0,S-alkyl cysteine ABC transporter membrane subunit TcyM
+BSU29340,0,0,0,S-alkyl cysteine ABC transporter ATP-binding protein TcyN
+BSU16780,1,1,1,dual activity 5' exo-and endoribonuclease J2
+BSU29360,0,0,0,S-alkyl cysteine ABC transporter membrane subunit TcyL
+BSU29130,0,0,0,isocitrate dehydrogenase
+BSU29140,0,0,0,citrate synthase II
+BSU29120,0,0,0,malate dehydrogenase (NAD-dependent)
+BSU11330,0,0,0,beta-ketoacyl-acyl carrier protein synthase III 1
+BSU33730,0,0,0,choline ABC transporter ATP-binding protein
+BSU33700,0,0,0,choline ABC transporter membrane subunit OpuBD
+BSU24060,1,0,1,branched-chain alpha-keto acid dehydrogenase E3 subunit (dihydrolipoamide dehydrogenase)
+BSU24030,1,0,1,branched-chain alpha-keto acid dehydrogenase E2 subunit (lipoamide acyltransferase)
+BSU24040,1,0,1,branched-chain alpha-keto acid dehydrogenase E1 subunit
+BSU33710,0,0,0,choline ABC transporter substrate-binding lipoprotein
+BSU24050,1,0,1,branched-chain alpha-keto acid dehydrogenase E1 subunit
+BSU33720,0,0,0,choline ABC transporter membrane subunit OpuBB
+BSU11340,1,0,1,beta-ketoacyl-acyl carrier protein synthase II (involved in pimelate synthesis)
+BSU38990,0,0,0,acetoacetyl CoA-transferase (subunit A)
+BSU38980,0,0,0,succinyl CoA:3-oxoacid CoA-transferase (subunit B)
+BSU03330,0,0,0,putative nitrate transporter
+BSU05860,0,0,0,ROK fructokinase; glucomannan utilization protein E
+BSU03000,0,0,0,glycine betaine ABC transporter substrate-binding lipoprotein
+BSU05810,0,0,0,oligo-alpha-mannoside phosphotransferase system enzyme IIB
+BSU02980,0,0,0,glycine betaine ABC transporter ATP-binding protein
+BSU05830,0,0,0,oligo-alpha-mannoside phosphotransferase system enzyme IIC
+BSU37790,0,0,0,glutamate dehydrogenase
+BSU05820,0,0,0,oligo-alpha-mannoside phosphotransferase system enzyme IIA
+BSU00150,0,0,0,deoxyguanosine kinase
+BSU39380,0,0,0,formiminoglutamate hydrolase
+BSU07920,0,0,0,Ca<sup>2+</sup>/H<sup>+</sup> antiporter
+BSU39350,0,0,0,histidine ammonia-lyase (histidase)
+BSU39360,0,0,0,urocanase
+BSU39390,0,0,0,histidine degradation metabolites permease
+BSU00140,0,0,0,deoxyadenosine/deoxycytidine kinase
+BSU39370,0,0,0,imidazolone-5-propionate hydrolase
+BSU08060,0,0,0,acetoin dehydrogenase E1 component (TPP-dependent alpha subunit)
+BSU08070,0,0,0,acetoin dehydrogenase E1 component (TPP-dependent beta subunit)
+BSU33430,0,0,0,assimilatory sulfite reductase (hemoprotein beta-subunit)
+BSU33440,0,0,0,assimilatory sulfite reductase (flavoprotein alpha-subunit)
+BSU38550,0,0,0,branched-chain amino acid aminotransferase
+BSU04000,0,0,0,putative tartrate dehydrogenase
+BSU40060,0,0,0,D-gluconate kinase
+BSU40070,0,0,0,gluconate/proton permease
+BSU27430,0,0,0,putative L-glutamine ABC transporter ATP-binding protein
+BSU27450,0,0,0,putative L-glutamine ABC transporter membrane subunit GlnM
+BSU14630,0,0,0,arginine decarboxylase
+BSU27440,0,0,0,putative L-glutamine ABC transporter substrate-binding lipoprotein
+BSU27460,0,0,0,putative L-glutamine ABC transporter membrane subunit GlnP
+BSU30530,0,0,0,alanine permease
+BSU38710,0,0,0,putative purine-cytosine (pyridoxine) permease
+BSU30540,0,0,0,meso-diaminopimelic acid amidotransferase (asparagine synthetase)
+BSU14400,0,0,0,phosphotransferase system (PTS) fructose-specific enzyme IIABC component
+BSU09290,0,0,0,glycerol kinase (sn-glycerol-3-phosphate generating)
+BSU14390,0,0,0,fructose-1-phosphate kinase
+BSU09280,0,0,0,glycerol permease
+BSU30960,0,0,0,glucose-1-phosphate adenylyltransferase (ADP-glucose pyrophosphorylase) beta subunit
+BSU25070,1,0,1,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase)
+BSU30940,0,0,0,glycogen phosphorylase
+BSU30950,0,0,0,glycogen (starch) synthase
+BSU30980,0,0,0,"1,4-alpha-glucan branching enzyme"
+BSU30970,0,0,0,glucose-1-phosphate adenylyltransferase (ADP-glucose pyrophosphorylase) subunit alpha
+BSU23100,0,0,0,RNA polymerase ECF(extracytoplasmic function)-type sigma factor sigma(X)
+BSU35020,0,0,0,glucosamine-6-phosphate isomerase
+BSU35010,0,0,0,N-acetylglucosamine-6-phosphate deacetylase
+BSU32820,0,0,0,acyl-CoA dehydrogenase (FAD dependent)
+BSU32840,0,0,0,bifunctional enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase
+BSU07490,0,0,0,ferric citrate ABC transporter ATP-binding protein
+BSU07500,0,0,0,ferric citrate ABC transporter membrane subunit YfmE
+BSU07520,0,0,0,ferric citrate ABC transporter substrate-binding lipoprotein
+BSU32830,0,0,0,acetyl-CoA C-acyltransferase
+BSU07510,0,0,0,ferric citrate ABC transporter membrane subunit YfmD
+BSU27940,1,1,1,ribosomal protein L27 (BL24)
+BSU03280,0,0,0,uroporphyrin-III C-methyltransferase
+BSU17460,0,1,1,glutamine synthetase
+BSU03300,0,0,0,assimilatory nitrite reductase subunit
+BSU03310,0,0,0,assimilatory nitrate reductase (catalytic subunit)
+BSU03320,0,0,0,assimilatory nitrate reductase (electron transfer subunit NasB)
+BSU01070,1,1,1,RNA polymerase (beta subunit)
+BSU03290,0,0,0,assimilatory nitrite reductase subunit
+BSU03990,0,0,0,mannitol-1-phosphate 5-dehydrogenase
+BSU11720,0,0,0,enoyl-acyl carrier protein reductase
+BSU03981,0,0,0,phosphotransferase system (PTS) mannitol-specific enzyme IICB component
+BSU38110,0,0,0,FMN-containing NADPH-linked nitro/flavin reductase
+BSU40420,0,0,1,adenylosuccinate synthetase
+BSU33370,0,0,0,putative molybdate binding regulator
+BSU00130,1,1,1,seryl-tRNA synthetase
+BSU15140,1,1,1,putative 16S rRNA m4C1402 methyltransferase
+BSU01610,0,0,0,iron-uptake protein
+BSU32110,0,0,0,ferredoxin/flavodoxin&mdash;NADP<sup>+</sup> reductase
+BSU01630,0,0,0,ferri-bacillibactin-binding lipoprotein
+BSU01620,0,0,0,ferri-bacillibactin permease
+BSU22060,0,0,0,xanthine permease
+BSU22070,0,0,0,xanthine phosphoribosyltransferase
+BSU01780,0,0,1,L-glutamine-D-fructose-6-phosphate amidotransferase
+BSU08820,0,0,0,vegetative catalase 1
+BSU23080,0,0,1,3-dehydroquinate dehydratase
+BSU38770,0,0,0,citrate/malate/H+ symporter
+BSU28950,1,1,1,threonyl-tRNA synthetase
+BSU25420,0,0,0,putative Na+/anion cotransporter
+BSU23450,0,0,0,RNA polymerase sporulation-specific sigma factor (sigma-F)
+BSU03040,0,0,0,alpha-amylase
+BSU39050,0,0,0,catalase 2
+BSU10170,0,0,0,beta-ketoacyl-acyl carrier protein synthase III 2
+BSU39540,0,0,0,penicillin V amidase
+BSU03820,0,0,0,iron(III)-petrobactin ABC transporter ATP-binding protein
+BSU03800,0,0,0,iron(III)-petrobactin ABC transporter membrane subunit FpiB
+BSU03810,0,0,0,iron(III)-petrobactin ABC transporter membrane subunit FpiC
+BSU12360,0,0,0,hexuronate transporter
+BSU03830,0,0,0,iron(III)-petrobactin ABC transporter substrate-binding lipoprotein
+BSU12390,0,0,0,altronate dehydratase
+BSU12330,0,0,0,putative oxidoreductase
+BSU12340,0,0,0,D-mannonate dehydratase
+BSU35720,1,0,1,CDP-glycerol:polyglycerol phosphate glycero-phosphotransferase (poly(glycerol phosphate) polymerase)
+BSU12300,0,0,0,galacturonate isomerase
+BSU35740,1,0,1,glycerol-3-phosphate cytidylyltransferase monomer
+BSU35730,1,0,1,UDP-glucose:polyglycerol phosphate alpha-glucosyltransferase
+BSU12380,0,0,0,tagaturonate reductase (altronate oxidoreductase)
+BSU27330,0,0,0,uridine kinase
+BSU27220,0,0,0,formate dehydrogenase ForC2
+BSU28390,0,0,0,glutamate racemase
+BSU28680,0,0,0,glycolate oxidase subunit
+BSU29050,0,0,0,promiscuous aldo/keto reductase
+BSU29440,0,1,1,argininosuccinate lyase
+BSU29450,0,1,1,argininosuccinate synthase
+BSU30870,0,0,0,putative UDP-glucose epimerase
+BSU31050,0,0,0,choline dehydrogenase
+BSU31060,0,0,0,"glycine betaine aldehyde dehydrogenase, NAD+-dependent"
+BSU27410,1,1,1,alanyl-tRNA synthetase
+BSU27560,1,1,1,histidyl-tRNA synthetase
+BSU27550,1,1,1,"aspartyl-tRNA synthetase, promiscuous (also recognizes tRNAasn)"
+BSU28370,1,1,1,ribonuclease PH
+BSU27960,1,1,1,ribosomal protein L21 (BL20)
+BSU31090,0,0,0,potassium uptake protein
+BSU31100,0,0,0,potassium transporter ATPase
+BSU27320,1,1,1,transcription elongation factor resolving backtracking / stalling
+BSU31600,0,0,0,Na<sup>+</sup>:H<sup>+</sup> antiporter subunit A
+BSU31400,0,1,1,putative aspartate aminotransferase
+BSU27650,1,1,1,protein-export membrane protein
+BSU31760,0,0,0,nicotinamidase; NAD salvage pathway
+BSU32100,0,0,0,putative NAD-disulfide oxidoreductase
+BSU32180,0,0,0,putative Na+(H+)/nucleoside cotransporter
+BSU32680,0,1,1,iron-sulfur cluster assembly sulfur-transfer protein (Zn(2+)-dependent)
+BSU33170,0,1,1,putative vitamin B12 permease
+BSU33160,0,0,0,"putative vitamin B12 transport system, ATPase component"
+BSU33180,0,0,0,putative lipoprotein binding vitamin B12
+BSU33290,0,0,0,iron(III) hydroxamate ABC transporter ATP-binding protein
+BSU30690,1,1,1,carbonic anhydrase
+BSU33300,0,0,0,iron(III) hydroxamate ABC transporter membrane subunit FhuG
+BSU33310,0,0,0,iron(III) hydroxamate ABC transporter membrane subunit FhuB
+BSU33330,0,0,0,lysine permease
+BSU33380,0,0,0,molybdate-binding lipoprotein
+BSU33390,0,0,0,molybdenum transport permease
+BSU33420,0,0,0,Na+/H+ antiporter
+BSU33490,0,0,0,Cd<sup>2+</sup> / Zn<sup>2+</sup> / Co<sup>2+</sup> exporting P-type ATPase
+BSU34550,0,0,0,bifunctional beta-phosphoglucomutase / glucose-1-phosphate phosphodismutase
+BSU34560,0,0,0,"oligo-1,4-1,6-alpha-glucosidase (sucrase-maltase-isomaltase)"
+BSU34570,0,0,0,maltose phosphorylase
+BSU34590,0,0,0,maltodextrin ABC transporter membrane subunit MdxG
+BSU34600,0,0,0,maltodextrin ABC transporter membrane subunit MdxF
+BSU34610,0,0,0,maltodextrin ABC transporter substrate-binding lipoprotein
+BSU34660,0,0,0,putative anion transporter
+BSU34790,0,0,0,thioredoxin reductase
+BSU34860,0,1,1,bifunctional phosphoribosyl-AMP cyclohydrolase; phosphoribosyl-ATP pyrophosphohydrolase
+BSU34870,0,1,1,imidazole glycerol phosphate synthase subunit
+BSU31150,1,0,1,undecaprenyl-pyrophosphate phosphatase
+BSU34880,0,1,1,phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase
+BSU34890,0,0,0,"imidazole glycerol phosphate synthase, glutamine amidotransferase subunit"
+BSU34900,0,1,1,imidazoleglycerol-phosphate dehydratase [Mn(II)-dependent]
+BSU34910,0,1,1,histidinol dehydrogenase
+BSU34920,0,1,1,ATP phosphoribosyltransferase
+BSU32170,1,0,1,diaminopimelate epimerase
+BSU36030,0,0,0,putative Na+/H+ antiporter
+BSU36120,0,0,0,putative chromate efflux transporter subunit ChrB
+BSU36130,0,0,0,putative chromate efflux transporter subunit ChrA
+BSU36370,0,0,0,beta-hydroxyacyl-[acyl carrier protein] dehydratase
+BSU36710,0,0,0,protein sulfur transferase involved in molybdenum cofactor synthesis
+BSU37060,0,0,0,thymidine kinase
+BSU37100,0,0,0,UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+BSU37190,0,0,0,minor cardiolipin synthetase (phospholipase D family)
+BSU37240,0,0,0,minor cardiolipin synthetase
+BSU38240,0,0,0,acetate Na+-dependent symporter subunit involved in volatile signal for biofilm formation
+BSU38390,0,0,0,putative cellobiose phosphotransferase system enzyme IIC permease component
+BSU40850,0,0,0,maltose O-acetyltransferase
+BSU35530,1,0,1,UDP-N-acetylglucosamine:undecaprenyl-P N-acetylglucosaminyl-1-P transferase
+BSU35680,1,0,1,poly(glucosyl N-acetylgalactosamine 1-phosphate) glucosyltransferase
+BSU35690,1,0,1,poly(glucosyl N-acetylgalactosamine 1-phosphate) glucosyltransferase (missing signal peptide)
+BSU35700,1,0,1,wall teichoic acid ABC transporter ATP-binding protein
+BSU35710,1,0,1,wall teichoic acid ABC transporter membrane subunit
+BSU37010,1,1,1,peptide chain release factor 1
+BSU37080,1,1,1,transcriptional terminator Rho
+BSU41050,1,1,1,protein component of ribonuclease P (RNase P) (substrate specificity)
+BSU39740,0,0,0,2-deoxy-5-keto-D-gluconic acid kinase
+BSU39720,0,0,0,scyllo-inosose dehydratase
+BSU29180,0,0,0,pyruvate kinase
+BSU39670,0,0,0,2-deoxy-5-keto-D-gluconic acid 6-phosphate aldolase
+BSU39750,0,0,0,5-deoxy-D-glucuronate isomerase
+BSU39710,0,0,0,inositol transport protein
+BSU39700,0,0,0,myo-inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+BSU39730,0,0,0,"3D-(3,5/4)-trihydroxycyclohexane-1,2-dione hydrolase"
+BSU39760,0,0,0,(methyl)malonate-semialdehyde dehydrogenase monomer
+BSU03930,0,0,0,forespore glucose 1-dehydrogenase
+BSU40320,0,0,0,arginase
+BSU10270,0,0,0,long-chain fatty-acid-CoA ligase (degradative)
+BSU12910,0,0,0,redundant pyrroline-5-carboxylate reductase
+BSU04340,0,0,0,acetyl-phosphate generating pyruvate oxidase
+BSU40330,0,0,0,arginine/ornithine/gamma-aminobutyrate permease
+BSU40340,0,0,0,ornithine aminotransferase
+BSU35620,0,0,0,N-acetylmuramoyl-L-alanine amidase (major autolysin)
+BSU08450,0,0,0,xenosiderophore schizokinen (dihydroxamate) transporter (permease)
+BSU29190,1,1,1,6-phosphofructokinase
+BSU08460,0,0,0,xenosiderophore schizokinen (dihydroxamate) transporter (permease)
+BSU35660,1,0,1,UDP-<i>N</i>-acetylglucosamine 2-epimerase
+BSU06660,0,0,0,proline transporter
+BSU24310,1,1,1,methylenetetrahydrofolate dehydrogenase; methenyltetrahydrofolate cyclohydrolase
+BSU28870,1,1,1,initiation factor IF-3
+BSU25200,1,1,1,RNA polymerase major sigma-43 factor (sigma-A)
+BSU31350,0,0,0,glucose-6-phosphate isomerase
+BSU25760,1.0,1.0,1.0,
+BSU26390,1.0,1.0,1.0,
+BSU22960,0,0,0,cryptic glutamate dehydrogenase (active after removal of a 9 bp insert)
+BSU02090,0,0,0,exported beta-lactamase
+BSU13560,0,0,0,"methylthioribose kinase (methionine salvage pathway, promiscuous)"
+BSU28860,1,1,1,ribosomal protein L35
+BSU28850,1,1,1,ribosomal protein L20
+BSU13550,0,0,0,methylthioribose-1-phosphate isomerase (methionine salvage pathway)
+BSU07830,0,0,0,NAD(P)H-flavin oxidoreductase (nitroreductase)
+BSU32440,0,0,0,uric acid permease subunit
+BSU32430,0,0,0,uric acid permease
+BSU32450,0,0,0,urate oxidase with peroxide reductase N-terminal domain
+BSU32460,0,0,0,5-hydroxyisourate hydrolase; also uricase subunit
+BSU12010,0,0,0,phosphotransferase system (PTS) mannose-specific enzyme IIBCA component
+BSU41060,1,1,1,ribosomal protein L34
+BSU17890,0,0,1,transketolase
+BSU12020,0,0,0,mannose-6 phosphate isomerase; cupin family
+BSU03010,0,0,0,putative amidohydrolase
+BSU39420,0,0,0,deoxyribose-phosphate aldolase
+BSU39400,0,0,0,pyrimidine-nucleoside phosphorylase
+BSU39410,0,0,0,pyrimidine-nucleoside Na+(H+) cotransporter
+BSU16920,1,0,1,CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase
+BSU38200,0,0,0,galactokinase
+BSU10520,0,0,0,glucose/mannose:H+ symporter (recent HGT island)
+BSU38190,0,0,0,galactose-1-phosphate uridyltransferase
+BSU08440,0,0,0,xenosiderophore schizokinen (dihydroxamate) transporter binding lipoprotein
+BSU15990,1,1,1,ribosomal protein S16 (BS17)
+BSU36640,0,0,0,urease (alpha subunit)
+BSU36650,0,0,0,urease (beta subunit)
+BSU38560,0,0,0,6-phospho-beta-glucosidase
+BSU36660,0,0,0,urease (gamma subunit)
+BSU38580,0,0,0,phosphotransferase system (PTS) lichenan-specific enzyme IIC component
+BSU38570,0,0,0,phosphotransferase system (PTS) lichenan-specific enzyme IIA component
+BSU38590,0,0,0,phosphotransferase system (PTS) lichenan-specific enzyme IIB component
+BSU35670,1,0,1,UTP-glucose-1-phosphate uridylyltransferase
+BSU29990,0,0,0,hypoxanthine/guanine permease
+BSU01530,0,0,0,N-acetylmuramoyl-L-alanine amidase
+BSU30550,0,0,0,S-adenosylmethionine synthetase
+BSU06230,0,0,0,myo-inositol transporter
+BSU09300,0,0,0,sn-glycerol-3-phosphate oxidase (FAD-dependent)
+BSU23490,0,0,0,purine nucleoside phosphorylase
+BSU23500,0,0,0,"1,5-phosphopentomutase"
+BSU16470,0,0,0,RNA polymerase sigma-28 factor (sigma-D)
+BSU23840,1,1,1,ribonuclease Z
+BSU09520,0,0,0,RNA polymerase ECF (extracytoplasmic function)-type sigma factor (sigma(M))
+BSU02990,0,0,0,glycine betaine ABC transporter membrane subunit
+BSU11420,1,1,1,tryptophanyl-tRNA synthetase
+BSU37070,1,1,1,ribosomal protein L31
+BSU28630,1,1,1,phenylalanyl-tRNA synthetase (beta subunit)
+BSU01370,0,0,1,adenylate kinase
+BSU01390,1,1,1,initiation factor IF-I
+BSU01420,1,1,1,ribosomal protein S11 (BS11)
+BSU01350,1,1,1,ribosomal protein L15
+BSU01340,1,1,1,ribosomal protein L30 (BL27)
+BSU01380,1,1,1,methionine aminopeptidase
+BSU01410,1,1,1,ribosomal protein S13
+BSU01400,1,1,1,ribosomal protein L36 (ribosomal protein B)
+BSU01430,1,1,1,RNA polymerase (alpha subunit)
+BSU01360,1,1,1,preprotein translocase subunit
+BSU01580,0,0,0,putative permease
+BSU01680,0,0,0,N-acetylmuramic acid PTS permease-MurP subunit
+BSU02400,0,0,0,putative aminoacid permease
+BSU02340,0,0,0,proton/glutamate symport protein
+BSU02630,0,0,0,component of the twin-arginine pre-protein translocation pathway
+BSU01440,1,1,1,ribosomal protein L17 (BL15)
+BSU02640,0,0,0,component of the twin-arginine pre-protein translocation pathway
+BSU03950,0,0,0,copper import permease subunit
+BSU04620,0,0,0,holo-acyl carrier protein synthase (phosphopantetheinyl transferase)
+BSU04640,0,0,1,D-alanine racemase
+BSU05340,0,0,0,arsenite/antimonite/H+ antiporter
+BSU05900,0,0,0,thiamine monophosphate kinase
+BSU05980,0,0,0,component of the twin-arginine pre-protein translocation pathway
+BSU05990,0,0,0,component of the twin-arginine pre-protein translocation pathway
+BSU06170,0,0,0,putative sugar kinase (ribokinase family); prophage region 3
+BSU06970,0,0,0,rhamnogalacturonan trisaccharide-binding lipoprotein
+BSU06980,0,0,0,putative carbohydrate ABC transporter membrane subunit YesP
+BSU06990,0,0,0,putative carbohydrate ABC transporter membrane subunit YesQ
+BSU01490,1,1,1,ribosomal protein L13
+BSU01500,1,1,1,ribosomal protein S9
+BSU08710,0,0,0,"glutamate-1-semialdehyde aminotransferase, class III aminotransferase"
+BSU08790,0,0,0,phosphomethylpyrimidine synthase monomer
+BSU09310,0,0,0,alpha-phosphoglucomutase
+BSU09240,0,0,0,promiscuous phosphoglycolate phosphatase / glycerol-3-phosphate phosphatase / 2-deoxyglucose-6-phosphatase
+BSU04570,1,0,1,"UDP-N-acetylmuramoylalanyl-D-glutamyl-2, 6-diaminopimelate-D-alanyl-D-alanine ligase"
+BSU04560,1,0,1,D-alanyl-D-alanine ligase A
+BSU09680,0,0,0,Na+/H+ antiporter
+BSU06670,1,1,1,glutamyl-tRNA(Gln) amidotransferase (subunit C)
+BSU06680,1,1,1,glutamyl-tRNA(Gln) amidotransferase (subunit A)
+BSU06690,1,1,1,glutamyl-tRNA(Gln) amidotransferase (subunit B)
+BSU09850,0,0,0,proton/potassium antiporter; methylglyoxal resistance
+BSU10020,0,0,1,phosphoserine aminotransferase
+BSU10220,0,0,0,proton/sodium-glutamate (aspartate) symport permease
+BSU10870,0,0,0,putative aminoacid related metabolite efflux transporter
+BSU10360,0,0,0,putative long-chain fatty-acid-CoA ligase (proofreading for biotin synthesis)
+BSU06730,1,1,1,23S rRNA m<sup>5</sup>U747/m<sup>5</sup>U1939 RNA methyltransferase
+BSU11610,0,0,0,inorganic polyphosphate/ATP-NAD kinase (quinolate activated)
+BSU11640,0,0,0,gated K+/H+ antiporter
+BSU12080,0,0,0,heme <i>o</i> synthase 1
+BSU12160,0,0,0,formate dehydrogenase subunit ForC1
+BSU24960,0,0,0,phosphate ABC transporter ATP-binding protein PstBA
+BSU37760,0,0,0,basic aminoacid permease
+BSU35790,0,0,0,mannose-6-phosphate isomerase (active on aldose substrates with hydroxyl groups oriented in the same direction at the C-2 and C-3 positions as in mannose)
+BSU03910,0,0,0,succinate-semialdehyde dehydrogenase
+BSU24970,0,0,0,phosphate ABC transporter membrane subunit PstA
+BSU24990,0,0,0,phosphate ABC transporter substrate-binding lipoprotein
+BSU14870,0,0,0,heme <i>a</i> synthase
+BSU03900,0,0,0,4-aminobutyrate aminotransferase
+BSU37780,0,0,0,delta-1-pyrroline-5 carboxylate dehydrogenase
+BSU24950,0,0,0,phosphate ABC transporter ATP-binding protein PstBB
+BSU24980,0,0,0,phosphate ABC transporter membrane subunit PstC
+BSU18440,0,0,0,"glutamate synthase (small subunit, NADP-dependent)"
+BSU00110,0,0,0,"glutamine amidotransferase for pyridoxal phosphate synthesis; pyridoxal 5'-phosphate synthase complex, synthase subunit"
+BSU18450,0,0,0,"glutamate synthase (large subunit, NADP-dependent)"
+BSU00120,0,0,0,"glutamine amidotransferase for pyridoxal phosphate synthesis; pyridoxal 5'-phosphate synthase complex, glutamine amidotransferase subunit PdxT"
+BSU29750,0,0,1,bifunctional chorismate mutase type II-isozyme 3 (regulatory domain); 3-deoxy-D-arabino-heptulosonate 7-phosphate synthase
+BSU21680,0,0,0,peptide methionine R-sulfoxide reductase
+BSU25710,0,0,0,N-acetylmuramoyl-L-alanine amidase
+BSU30300,0,0,0,alpha-D-galactoside galactohydrolase
+BSU39980,0,0,0,quercetin dioxygenase
+BSU27120,0,0,0,RNA polymerase ECF(extracytoplasmic function)-type sigma factor (sigma(V))
+BSU00980,0,0,0,RNA polymerase sigma-30 factor (sigma(H))
+BSU35950,0,0,0,ribose ABC transporter membrane subunit
+BSU35930,0,0,0,D-ribose pyranase
+BSU35920,0,0,0,ribokinase
+BSU35960,0,0,0,ribose ABC transporter substrate-binding lipoprotein
+BSU35940,0,0,0,ribose ABC transporter ATP-binding protein
+BSU38020,0,0,0,"pyridoxine, pyridoxal, and pyridoxamine kinase"
+BSU06370,0,0,0,hypoxanthine/guanine permease
+BSU30830,0,0,0,menaquinone-specific isochorismate synthase
+BSU22600,0,0,1,3-phosphoshikimate 1-carboxyvinyltransferase (5-enolpyruvoylshikimate-3-phosphate synthase)
+BSU22610,0,0,1,prephenate dehydrogenase
+BSU22670,0,1,1,anthranilate phosphoribosyltransferase
+BSU22650,0,1,1,phosphoribosylanthranilate isomerase
+BSU22660,0,1,1,indole-3-glycerol phosphate synthase
+BSU22640,0,1,1,tryptophan synthase (beta subunit)
+BSU22630,0,1,1,tryptophan synthase (alpha subunit)
+BSU22620,0,0,0,histidinol-phosphate aminotransferase; tyrosine/phenylalanine aminotransferase (promiscuous)
+BSU22680,0,0,0,anthranilate synthase
+BSU06030,1,1,1,chaperonin large subunit
+BSU06020,1,1,1,chaperonin small subunit
+BSU13300,0,0,0,magnesium transporter
+BSU30780,1,0,1,<i>o</i>-succinylbenzoate synthase
+BSU28250,0,0,1,3-isopropylmalate dehydratase (small subunit)
+BSU30800,1,0,1,"1,4-dihydroxy-2-naphthoyl-CoA synthase"
+BSU30820,1,0,1,2-oxoglutarate decarboxylase and 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1- carboxylic-acid synthase
+BSU30790,1,0,1,O-succinylbenzoyl-CoA synthetase
+BSU28260,0,0,1,3-isopropylmalate dehydratase (large subunit)
+BSU28280,0,0,1,2-isopropylmalate synthase
+BSU28290,0,1,1,acetohydroxy-acid isomeroreductase (NADP-dependent)
+BSU28310,0,0,0,acetohydroxy-acid synthase (large subunit)
+BSU28270,0,0,1,3-isopropylmalate dehydrogenase
+BSU28300,0,0,0,acetohydroxy-acid synthase (small subunit)
+BSU31580,0,0,0,Na+/malate symporter
+BSU19230,0,0,0,FMN-dependent NADH-azoreductase
+BSU27270,0,0,0,methylthioadenosine / S-adenosylhomocysteine nucleosidase
+BSU27260,0,0,0,cystathionine beta-synthase for the reverse transsulfuration pathway
+BSU27250,0,0,0,cystathionine gamma-lyase and homocysteine gamma-lyase for reverse transsulfuration pathway
+BSU03270,0,0,0,Fur-regulated NADPH:ferredoxin oxidoreductase
+BSU36590,0,0,0,cardiolipin synthase (major)
+BSU00090,0,0,0,inosine-monophosphate dehydrogenase
+BSU38160,0,0,0,cytochrome aa3-600 quinol oxidase (subunit I)
+BSU29220,0,0,0,"NADP-dependent malic enzyme (conversion of malate into pyruvate, anabolic)"
+BSU01040,1,1,1,ribosomal protein L10 (BL5)
+BSU38140,0,0,0,cytochrome aa3-600 quinol oxidase (subunit IV)
+BSU38170,0,0,0,cytochrome aa3-600 quinol oxidase (subunit II)
+BSU38150,0,0,0,cytochrome aa3-600 quinol oxidase (subunit III)
+BSU01050,1,1,1,ribosomal protein L12 (BL9)
+BSU29600,0,0,0,branched-chain amino acid-Na+ symporter
+BSU13010,0,0,0,6-phosphogluconolactonase
+BSU40040,0,0,0,D-glycerate kinase
+BSU00930,0,0,0,serine O-acetyltransferase
+BSU30430,0,0,0,putative ABC transporter membrane protein YtrD
+BSU08650,0,0,0,enoyl-acyl carrier protein reductase III
+BSU30450,0,0,0,putative ABC transporter ATP-binding protein YtrB
+BSU40890,1,1,1,ribosomal protein S18
+BSU30410,0,0,0,putative ABC transporter membrane protein
+BSU40910,1,1,1,ribosomal protein S6 (BS9)
+BSU30440,0,0,0,putative ABC transporter membrane protein YtrC
+BSU30420,0,0,0,putative ABC transporter ATP-binding protein YtrE
+BSU27900,0,0,1,prephenate dehydratase
+BSU27910,0,0,0,transcriptional repressor of operons hom-thrCB and thrD
+BSU37330,1,1,1,arginyl-tRNA synthetase
+BSU14860,0,0,0,pyruvate carboxylase
+BSU22560,0,0,0,menaquinol:cytochrome c oxidoreductase (iron-sulfur subunit)
+BSU22540,0,0,0,menaquinol:cytochrome c oxidoreductase (cytochrome cc subunit)
+BSU22550,0,0,0,menaquinol:cytochrome c oxidoreductase (cytochrome b subunit)
+BSU06160,0,0,0,H+-glucitol symporter; prophage region 3
+BSU06150,0,0,0,glucitol (sorbitol) dehydrogenase
+BSU31200,0,0,0,rhamnulokinase
+BSU31180,0,0,0,L-rhamnose isomerase
+BSU09530,0,0,0,aldo/keto reductase specific for NADPH; protects against methylglyoxal
+BSU00940,1,1,1,dual cysteinyl-tRNA synthetase; cysteine persulfide synthase
+BSU02360,0,0,0,glucosamine-6-phosphate deaminase
+BSU38490,1,0,1,"1,4-dihydroxy-2-naphthoate octaprenyltransferase"
+BSU25260,1,1,1,glycyl-tRNA synthetase (beta subunit)
+BSU25270,1,1,1,glycyl-tRNA synthetase (alpha subunit)
+BSU28230,1,1,1,prolyl isomerase (trigger factor)
+BSU09540,1,0,1,1-acylglycerol-phosphate (1-acyl-G3P) acyltransferase
+BSU07840,0,0,0,"exported 2',3'-cyclic-nucleotide 2'-phosphodiesterase, 2' (or 3') nucleotidase and 5' nucleotidase"
+BSU34190,0,0,0,L-lactate permease
+BSU00410,0,0,0,ribonuclease M5
+BSU40190,0,0,0,"fructose-1,6-bisphosphatase"
+BSU00760,0,0,1,4-amino-4-deoxychorismate pyruvate-lyase
+BSU00790,0,0,1,"7,8-dihydro-6-hydroxymethylpterin pyrophosphokinase"
+BSU00750,0,0,1,4-amino-4-deoxychorismate synthase; anthranilate synthase (subunit II)
+BSU00770,0,0,1,dihydropteroate synthase
+BSU00780,0,0,1,dihydroneopterin aldolase
+BSU00740,0,0,1,4-amino-4-deoxychorismate synthase (para-aminobenzoate synthase)
+BSU00810,0,0,0,tRNA-dihydrouridine synthase B
+BSU05740,0,0,0,"alkaline phosphatase III (promiscuous, heptaprenylglyceryl phosphate is a substrate)"
+BSU29670,1,1,1,tyrosyl-tRNA synthetase
+BSU38500,1,0,1,D-alanine--[D-alanyl carrier protein] ligase
+BSU29790,1,0,1,UDP-N-acetyl muramate-alanine ligase
+BSU38510,1,0,1,PG:teichoic acid D-alanyltransferase
+BSU38530,1,0,1,D-alanine carrier protein:PG D-alanyltransferase
+BSU38520,1,0,1,D-alanyl carrier protein
+BSU14580,0,0,0,pyruvate dehydrogenase (E1 alpha subunit)
+BSU14590,0,0,0,pyruvate dehydrogenase (E1 beta subunit)
+BSU14600,0,0,0,pyruvate dehydrogenase (dihydrolipoamide acetyltransferase E2 subunit)
+BSU14610,0,0,0,dihydrolipoamide dehydrogenase E3 subunit of both pyruvate dehydrogenase and 2-oxoglutarate dehydrogenase complexes
+BSU28910,0,0,0,pyruvate uptake system subunit A
+BSU18470,0,0,0,glutamate 5-kinase
+BSU15530,0,0,1,dihydroorotate dehydrogenase (electron transfer subunit)
+BSU15500,0,0,1,dihydroorotase
+BSU15540,0,0,1,dihydroorotate dehydrogenase (catalytic subunit)
+BSU15510,0,0,0,"pyrimidine-specific carbamoyl-phosphate synthetase (small subunit, glutaminase subunit)"
+BSU15520,0,0,0,pyrimidine-specific carbamoyl-phosphate synthetase (large subunit)
+BSU15480,0,0,0,uracil permease
+BSU15550,0,0,1,orotidine 5'-phosphate decarboxylase
+BSU15560,0,0,1,orotate phosphoribosyltransferase
+BSU00820,1,1,1,lysyl-tRNA synthetase
+BSU15490,0,0,1,aspartate carbamoyltransferase
+BSU02390,0,0,0,isoleucine-valine aminotransferase / aromatic amino acid aminotransferase
+BSU35290,1,1,1,peptide chain release factor 2
+BSU02430,0,0,0,glutaminase
+BSU02420,0,0,0,glutamine transporter
+BSU31322,0,0,0,potassium channel protein involved in biofilm formation
+BSU31980,0,0,0,"2,3-dihydroxybenzoate-AMP ligase"
+BSU31970,0,0,0,isochorismatase (siderophore specific)
+BSU31990,0,0,0,isochorismate synthase (siderophore-specific)
+BSU32000,0,0,0,"2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase"
+BSU35300,1,1,1,translocase binding subunit (ATPase)
+BSU38860,0,0,0,UDP-glucose 4-epimerase
+BSU07810,0,0,0,trehalose-6-phosphate hydrolase
+BSU07990,0,0,0,putative beta-hydroxyacid dehydrogenase
+BSU07800,0,0,0,phosphotransferase system (PTS) trehalose-specific enzyme IIBC component
+BSU35550,0,0,0,putative glycosyltransferase (teichuronic acid)
+BSU35580,0,0,0,UDP-glucose 6-dehydrogenase (teichuronic acid)
+BSU35570,0,0,0,putative polymerase of teichuronic acid repeating units
+BSU35600,0,0,0,putative exporter involved in biosynthesis of teichuronic acid
+BSU35540,0,0,0,putative glycosyltransferase (teichuronic acid)
+BSU35609,0,0,0,putative undecaprenyl-phosphate N-acetylgalactosaminyl-1-phosphate transferase; C-terminal part of TuaA
+BSU35590,0,0,0,putative glycosyltransferase (teichuronic acid)
+BSU32410,0,0,0,allantoinase
+BSU33960,0,0,0,arabinose-related compounds permease
+BSU19350,0,0,0,putative sodium-dependent symporter
+BSU39610,0,0,0,iron(III)-hydroxamate ABC transporter ferrioxamine-binding lipoprotein
+BSU26970,0,0,0,putative oxidoreductase (involving bacillithiol)
+BSU00730,0,0,0,cysteine synthase
+BSU27810,0,0,0,sodium/proton-dependent alanine transporter
+BSU21870,0,1,1,dihydroxy-acid dehydratase
+BSU14890,0,0,0,cytochrome caa3 oxidase (subunit II)
+BSU14910,0,0,0,cytochrome caa3 oxidase (subunit III)
+BSU14900,0,0,0,cytochrome caa3 oxidase (subunit I)
+BSU14880,0,0,0,heme <i>o</i> synthase
+BSU14920,0,0,0,cytochrome caa3 oxidase (subunit IV)
+BSU22780,0,0,1,GTP cyclohydrolase I
+BSU06450,0,0,1,phosphoribosylaminoimidazole succinocarboxamide synthetase
+BSU06430,0,0,0,N5-carboxyaminoimidazole ribonucleotide synthase
+BSU03130,1,0,1,ammonium-dependent NAD+ synthetase
+BSU06500,0,0,1,phosphoribosylaminoimidazole synthetase
+BSU15980,1,1,1,signal recognition particle-like (SRP) GTPase
+BSU06440,0,0,1,adenylosuccinate lyase
+BSU06480,0,0,0,phosphoribosylformylglycinamidine synthetase subunit II
+BSU06420,0,0,0,N5-carboxyaminoimidazole ribonucleotide mutase
+BSU06490,0,0,1,glutamine phosphoribosylpyrophosphate amidotransferase
+BSU06520,0,1,1,fused phosphoribosylaminoimidazole carboxy formyl formyltransferase; inosine-monophosphate cyclohydrolase
+BSU06510,0,0,0,phosphoribosylglycinamide formyltransferase
+BSU06470,0,0,0,phosphoribosylformylglycinamidine synthetase subunit I
+BSU06530,0,0,1,phosphoribosylglycinamide synthetase
+BSU12290,0,0,0,NADH dehydrogenase
+BSU13580,0,0,0,2-oxo-4-methylthiobutanoate-glutamine aminotransferase
+BSU28470,0,0,0,aspartokinase II alpha subunit (aa 1->408)
+BSU31630,0,0,0,Na<sup>+</sup>:H<sup>+</sup> antiporter subunit D
+BSU31640,0,0,0,Na<sup>+</sup>:H<sup>+</sup> antiporter subunit E
+BSU31660,0,0,0,Na<sup>+</sup>:H<sup>+</sup> antiporter subunit A
+BSU31620,0,0,0,Na<sup>+</sup>:H<sup>+</sup> antiporter subunit C
+BSU31610,0,0,0,Na<sup>+</sup>:H<sup>+</sup> antiporter subunit B
+BSU31650,0,0,0,Na<sup>+</sup>:H<sup>+</sup> antiporter subunit F
+BSU30320,1,1,1,leucyl-tRNA synthetase
+BSU04520,0,0,0,putative acyl-CoA dehydrogenase
+BSU14540,1,1,1,RNA polymerase (epsilon subunit)
+BSU14530,1,1,1,ribonuclease J1
+BSU37320,0,0,0,nitrite extrusion permease
+BSU11230,0,0,0,arginine-specific carbamoyl-phosphate synthetase (small subunit)
+BSU11190,0,1,1,N-acetylglutamate gamma-semialdehyde dehydrogenase
+BSU37710,0,0,0,alanine-anticapsin ligase
+BSU23800,0,0,0,"pyrroline-5-carboxylate reductase (NADP-dependent, weak activity)"
+BSU11220,0,1,1,N-acetylornithine aminotransferase
+BSU11250,0,1,1,ornithine carbamoyltransferase
+BSU11200,0,1,1,ornithine acetyltransferase; amino-acid acetyltransferase
+BSU02350,0,0,0,phosphotransferase system (PTS) glucosamine-specific enzyme IICBA component
+BSU39780,0,0,0,putative aldo-keto reductase
+BSU11240,0,0,0,arginine-specific carbamoyl-phosphate synthetase (large subunit)
+BSU33500,0,0,0,Cu<sup>+</sup> exporting P-type ATPase
+BSU11870,0,0,1,cystathionine gamma-synthase and O-acetylhomoserine thiolyase
+BSU33510,0,0,0,copper chaperone CopZ
+BSU11210,0,1,1,N-acetylglutamate 5-phosphotransferase (acetylglutamate kinase)
+BSU11880,0,0,0,cystathionine beta-lyase
+BSU12940,0,0,0,dipeptide ABC transporter membrane subunit DppC
+BSU12950,0,0,0,dipeptide ABC transporter ATP-binding protein
+BSU12960,0,0,0,dipeptide ABC transporter substrate-binding lipoprotein
+BSU04360,0,0,0,proton-coupled manganese transporter
+BSU12930,0,0,0,dipeptide ABC transporter membrane subunit DppB
+BSU18410,0,0,0,membrane bound gamma-glutamyltranspeptidase
+BSU12920,0,0,0,D-alanyl-aminopeptidase
+BSU03220,0,0,0,putative proline/ornithine permease
+BSU21770,0,0,0,threonine dehydratase
+BSU36000,0,0,0,alpha-acetolactate decarboxylase
+BSU32200,0,0,0,putative NADH dehydrogenase
+BSU32240,0,1,1,homoserine kinase
+BSU36010,0,0,0,alpha-acetolactate synthase
+BSU32260,0,1,1,homoserine dehydrogenase
+BSU16090,0,0,0,succinyl-CoA synthetase (beta subunit)
+BSU32250,0,1,1,threonine synthase
+BSU34200,1,0,1,RNA polymerase sigma-54 factor (sigma-L)
+BSU16100,0,0,0,succinyl-CoA synthetase (alpha subunit)
+BSU28560,0,0,0,long chain acyl-CoA ligase (degradative)
+BSU23070,0,0,1,3-phosphoglycerate dehydrogenase
+BSU28540,0,0,0,enoyl-CoA hydratase
+BSU02850,0,0,0,Zn<sup>2+</sup> ABC transporter substrate-binding lipoprotein
+BSU02860,0,0,0,Zn<sup>2+</sup> ABC transporter ATP-binding protein
+BSU02870,0,0,0,Zn<sup>2+</sup> ABC transporter membrane subunit
+BSU17410,0,0,0,N-acetylmuramoyl-L-alanine amidase (sporulation-specific)
+BSU03150,0,0,1,shikimate kinase
+BSU15650,0,0,0,P-type calcium transport ATPase (sporulation)
+BSU11010,0,0,1,"bifunctional homocysteine S-methyltransferase using (R,S)AdoMet and methylenetetrahydrofolate reductase [NAD(P)H]"
+BSU37110,0,0,0,transaldolase
+BSU37120,0,0,0,"fructose-1,6-bisphosphate aldolase"
+BSU23850,0,0,0,glucose-6-phosphate 1-dehydrogenase (NADP-dependent)
+BSU32480,0,0,0,"xanthine dehydrogenase, substrate and molybdenum cofactor subunit"
+BSU00900,1,0,1,"2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase, nonmevalonate isoprenoid pathway"
+BSU32470,0,0,0,"xanthine dehydrogenase, iron-sulfur subunit"
+BSU32490,0,0,0,"xanthine dehydrogenase, FAD-binding subunit"
+BSU00910,1,0,1,"2-C-methyl-D-erythritol-2,4-cyclodiphosphate synthase"
+BSU32500,0,0,0,putative molybdopterin cofactor synthesis cytidylyl transferase
+BSU32510,0,0,0,xanthine dehydrogenase molybdopterin recruitment factor
+BSU00270,0,0,0,putative decarboxylase
+BSU00680,0,0,0,hypoxanthine-guanine phosphoribosyltransferase
+BSU25550,1,1,1,ribosomal protein S20 (BS20)
+BSU00280,1,0,1,thymidylate kinase
+BSU00460,1,0,1,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase
+BSU00990,1,1,1,ribosomal protein L33
+BSU01020,1,1,1,ribosomal protein L11 (BL11)
+BSU01030,1,1,1,ribosomal protein L1 (BL1)
+BSU00550,1,1,1,transcription-repair coupling factor
+BSU01010,1,1,1,RNA polymerase elongation pause factor/intrinsic transcription termination factor NusG
+BSU01000,1,1,1,preprotein translocase subunit
+BSU01080,1,1,1,RNA polymerase (beta' subunit)
+BSU01100,1,1,1,ribosomal protein S12 (BS12)
+BSU01110,1,1,1,ribosomal protein S7 (BS7)
+BSU01120,1,1,1,elongation factor G
+BSU01150,1,1,1,ribosomal protein S10 (BS13); transcription antitermination factor
+BSU01160,1,1,1,ribosomal protein L3 (BL3)
+BSU01130,1,1,1,elongation factor Tu
+BSU01170,1,1,1,ribosomal protein L4
+BSU01180,1,1,1,ribosomal protein L23
+BSU01190,1,1,1,ribosomal protein L2 (BL2)
+BSU01200,1,1,1,ribosomal protein S19 (BS19)
+BSU01210,1,1,1,ribosomal protein L22 (BL17)
+BSU01220,1,1,1,ribosomal protein S3 (BS3)
+BSU01230,1,1,1,ribosomal protein L16
+BSU01240,1,1,1,ribosomal protein L29
+BSU01260,1,1,1,ribosomal protein L14
+BSU01250,1,1,1,ribosomal protein S17 (BS16)
+BSU01270,1,1,1,ribosomal protein L24 (BL23)
+BSU01280,1,1,1,ribosomal protein L5 (BL6)
+BSU01290,1,1,1,ribosomal protein S14
+BSU01300,1,1,1,ribosomal protein S8 (BS8)
+BSU01310,1,1,1,ribosomal protein L6 (BL8)
+BSU01320,1,1,1,ribosomal protein L18
+BSU01330,1,1,1,ribosomal protein S5
+BSU40110,0,0,0,aryl-6-phospho-beta-glucosidase
+BSU19580,0,0,0,putative Na+/metabolite permease
+BSU18670,0,0,0,oxalate decarboxylase (Mn2+-dependent); spore constituent
+BSU30750,0,0,0,Mn<sup>2+</sup> ABC transporter membrane subunit MntC
+BSU01730,0,0,0,RNA polymerase ECF(extracytoplasmic function)-type sigma factor W
+BSU13850,0,0,0,Fe(II) efflux transporter possibly involved in copper(II) uptake
+BSU30740,0,0,0,Mn<sup>2+</sup> ABC transporter membrane subunit MntD
+BSU38060,0,0,0,nitrite transporter
+BSU03200,0,0,0,proline oxidase
+BSU30770,0,0,0,Mn<sup>2+</sup> ABC transporter substrate-binding lipoprotein
+BSU30760,0,0,0,Mn<sup>2+</sup> ABC transporter ATP-binding protein
+BSU28150,0,0,0,porphobilinogen deaminase (hydroxymethylbilane synthase)
+BSU28140,0,0,0,uroporphyrinogen III cosynthase
+BSU28130,0,0,0,delta-aminolevulinic acid dehydratase (porphobilinogen synthase)
+BSU28120,0,0,0,"glutamate-1-semialdehyde 2,1-aminomutase"
+BSU06360,0,0,1,GMP synthetase
+BSU13130,0,0,0,gamma-glutamyl phosphate reductase
+BSU13120,0,0,0,glutamate 5-kinase
+BSU15930,0,0,0,ribonuclease III
+BSU17150,0,0,0,acetyl-S-AcpK beta-ketothioester bacillaene intermediate transferase
+BSU36820,0,1,1,"ATP synthase (subunit gamma, component F1)"
+BSU36870,0,1,1,"ATP synthase (subunit a, component F0)"
+BSU15220,1,0,1,UDP-N-acetylglucosamine-N-acetylmuramyl- (pentapeptide)pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+BSU15190,1,0,1,phospho-N-acetylmuramoyl-pentapeptide undecaprenyl phosphate (C55P) transferase
+BSU15180,1,0,1,"UDP-N-acetylmuramoylalanyl-D-glutamate-2, 6-diaminopimelate ligase"
+BSU15230,1,0,1,UDP-N-acetylenolpyruvoylglucosamine reductase
+BSU15200,1,0,1,UDP-N-acetylmuramoylalanyl-D-glutamate ligase
+BSU36880,0,1,1,AtpI protein
+BSU36850,0,1,1,"ATP synthase (subunit b, component F0)"
+BSU16630,1,1,1,initiation factor IF-2
+BSU36860,0,1,1,"ATP synthase (subunit c, component F0)"
+BSU36810,0,1,1,"ATP synthase (subunit beta, component F1)"
+BSU16650,1,1,1,pre-ribosomal (17S) RNA binding factor A
+BSU36840,0,1,1,"ATP synthase (subunit delta, component F1)"
+BSU36800,0,1,1,"ATP synthase (subunit epsilon, F1 subunit)"
+BSU36830,0,1,1,"ATP synthase (subunit alpha, component F1)"
+BSU02750,0,0,0,Na<sup>+</sup> ABC efflux transporter ATP-binding protein
+BSU02760,0,0,0,Na<sup>+</sup> ABC efflux transporter membrane subunit
+BSU31750,0,0,0,nicotinate phosphoribosyltransferase
+BSU09130,0,0,0,(sodium)-cystine symporter
+BSU37170,0,0,0,acyl-CoA dehydrogenase
+BSU07700,0,0,0,phosphotransferase system (PTS) N-acetylglucosamine-specific enzyme IICB component
+BSU32130,0,0,0,GMP reductase (NADP-dependent)
+BSU08030,0,0,0,tRNA-dihydrouridine synthase 2
+BSU16600,1,1,1,intrinsic transcription termination factor NusA
+BSU11670,0,0,0,glycine oxidase
+BSU11710,0,0,0,"phosphomethylpyrimidine kinase, 4-amino-5-hydroxymethyl-2-methylpyrimidine and 4-amino-5-hydroxymethyl-2-methylpyrimidine pyrophosphate kinase"
+BSU11650,0,0,0,thiaminase II
+BSU38050,0,0,0,phosphotransferase system (PTS) sucrose-specific enzyme IIBC component
+BSU38040,0,0,0,sucrose-6-phosphate hydrolase
+BSU18230,0,0,0,hydroxymethylglutaryl-CoA lyase (leucine degradation)
+BSU18210,0,0,0,methylcrotonoyl-CoA carboxylase subunit (leucine degradation)
+BSU18220,0,0,0,methylglutaconyl-CoA hydratase (leucine degradation)
+BSU18250,0,0,0,acetoacetyl-CoA synthetase
+BSU18260,0,0,0,isovaleryl-CoA dehydrogenase (leucine degradation)
+BSU29470,0,0,0,acetate kinase
+BSU13610,0,0,0,methylthioribulose-1-phosphate dehydratase (MTRu-1-P dehydratase)
+BSU13590,0,0,0,"2,3-diketo-5-methylthiopentyl-1-phosphate enolase (DK-MTP-1-P enolase)"
+BSU13620,0,0,0,acireductone dioxygenase (Ni2+ or Fe2+-requiring)
+BSU13600,0,0,0,2-hydroxy-3-keto-5-methylthiopentenyl-1- phosphatephosphatase (HK-MTPenyl-1-P phosphatase)
+BSU19370,0,0,0,2-oxoglutarate dehydrogenase (E1 subunit)
+BSU18800,0,0,0,beta-lactamase precursor (putative hydrolase)
+BSU19360,0,0,0,"2-oxoglutarate dehydrogenase complex (dihydrolipoamide transsuccinylase, E2 subunit)"
+BSU26590,0,0,0,spermidine efflux transporter Blt
+BSU26600,0,0,0,spermine/spermidine acetyltransferase
+BSU37160,1,1,1,RNA polymerase (delta subunit) and transcriptional repressor
+BSU13450,0,0,0,RNA polymerase sigma factor (heat stress responsive)
+BSU15900,1,0,1,malonyl CoA:acyl carrier protein transacylase
+BSU15910,1,0,1,beta-ketoacyl-acyl carrier protein reductase
+BSU38700,0,0,0,RNA polymerase ECF (extracytoplasmic function)-type sigma factor (sigma-Y)
+BSU27610,0,0,0,adenine phosphoribosyltransferase
+BSU22100,0,0,0,2-keto-3-deoxygluconate-6-phosphate aldolase
+BSU22090,0,0,0,2-keto-3-deoxygluconate permease
+BSU22110,0,0,0,2-keto-3-deoxygluconate kinase
+BSU40550,0,0,1,inorganic pyrophosphatase (Mn2+-dependent)
+BSU36510,0,1,1,ammonium transporter
+BSU25300,0,0,0,cytidine/deoxycytidine deaminase
+BSU06310,0,0,0,gamma-aminobutyrate (GABA) permease; proline permease
+BSU33240,0,0,0,oxalate decarboxylase
+BSU36760,0,0,0,UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+BSU22480,0,0,0,methylglyoxal synthase
+BSU37150,0,0,1,CTP synthetase
+BSU23760,0,0,0,pantothenate kinase
+BSU35760,1,0,1,"teichoic acid primase, CDP-glycerol:N-acetyl-beta-d-mannosaminyl-1, 4-N-acetyl-d-glucosaminyldiphosphoundecaprenyl glycerophosphotransferase"
+BSU23770,0,0,0,D-serine ammonia-lyase
+BSU35750,1,0,1,"N-acetylmannosamine (ManNAc) C4 hydroxyl of a membrane-anchored N-acetylglucosaminyl diphospholipid (GlcNAc-pp-undecaprenyl, lipid I) glycosyltransferase"
+BSU28640,1,1,1,phenylalanyl-tRNA synthetase (alpha subunit)
+BSU15820,1,1,1,ribosomal protein L28
+BSU38830,0,0,0,putative aldehyde dehydrogenase
+BSU08860,0,0,0,FMNH2-dependent aliphatic sulfonate monooxygenase
+BSU08830,0,0,0,"aliphatic sulfonate ABC transporter, ATP-binding subunit"
+BSU08850,0,0,0,"aliphatic sulfonate ABC transporter, membrane subunit"
+BSU25290,1,1,1,maturation of 16S RNA and assembly of 30S ribosomal subunit GTPase
+BSU22490,1,0,1,"(4S)-4-hydroxy-2,3,4, 5-tetrahydro-(2S)-dipicolinic acid (HTPA) dehydratase reductase"
+BSU22440,1,0,1,biotin acetyl-CoA-carboxylase ligase and biotin regulon repressor (BirA-biotinoyl-5'-AMP)

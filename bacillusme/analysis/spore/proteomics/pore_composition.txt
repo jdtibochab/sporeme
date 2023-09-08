@@ -1,0 +1,15 @@
+#spoIIIAA is likely a hexamer https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1000566
+#spoIIQ and spoIIIAH form a heterodimer https://www.pnas.org/doi/full/10.1073/pnas.1120087109
+#spoIIQ and spoIIIAH assemble in a dodecameric complex https://www.pnas.org/doi/full/10.1073/pnas.1120087109
+#spoIIQ and spoIIIAH form 12- 15- or 18-subunits rings https://www.pnas.org/doi/10.1073/pnas.1704310114
+#spoIIIAG forms a 30-mer ring https://www.pnas.org/doi/10.1073/pnas.1704310114
+Genes	Stoichiometry
+spoIIIAA	BSU24430(6)
+spoIIIAB	BSU24420()
+spoIIIAC	BSU24410()
+spoIIIAD	BSU24400()
+spoIIIAE	BSU24390()
+spoIIIAF	BSU24380()
+spoIIIAG	BSU24370(30)
+spoIIIAH	BSU24360(12)
+spoIIQ	BSU36550(12)

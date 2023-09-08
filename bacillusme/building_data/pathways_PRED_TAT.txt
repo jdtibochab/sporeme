@@ -1,0 +1,682 @@
+>BSU19880 - TM segment predicted: 33 - 53 - Reliability score: 0.928 
+>BSU19980 - No signal peptide predicted - Reliability score: 0.499 
+>BSU20000 - Sec signal peptide predicted. Most likely cleavage site: 1 - 30 [LFV-FV] - Reliability score: 0.858 
+>BSU20150 - TM segment predicted: 19 - 39 - Reliability score: 0.914 
+>BSU20190 - TM segment predicted: 10 - 33 - Reliability score: 0.822 
+>BSU20330 - Sec signal peptide predicted. Most likely cleavage site: 1 - 36 [VYS-AK] - Reliability score: 0.987 
+>BSU20520 - No signal peptide predicted - Reliability score: 0.948 
+>BSU20560 - Sec signal peptide predicted. Most likely cleavage site: 1 - 21 [FSA-ND] - Reliability score: 0.951 
+>BSU20710 - TM segment predicted: 46 - 66 - Reliability score: 0.960 
+>BSU20880 - TM segment predicted: 11 - 31 - Reliability score: 0.930 
+>BSU20890 - TM segment predicted: 56 - 76 - Reliability score: 0.899 
+>BSU20920 - TM segment predicted: 57 - 74 - Reliability score: 0.935 
+>BSU20929 - TM segment predicted: 2 - 22 - Reliability score: 0.702 
+>BSU20930 - TM segment predicted: 75 - 95 - Reliability score: 0.897 
+>BSU20960 - No signal peptide predicted - Reliability score: 0.996 
+>BSU20999 - TM segment predicted: 56 - 76 - Reliability score: 0.855 
+>BSU21000 - No signal peptide predicted - Reliability score: 0.226 
+>BSU21010 - Sec signal peptide predicted. Most likely cleavage site: 1 - 28 [EES-SS] - Reliability score: 0.969 
+>BSU21329 - TM segment predicted: 7 - 24 - Reliability score: 0.665 
+>BSU21330 - TM segment predicted: 71 - 91 - Reliability score: 0.962 
+>BSU21340 - TM segment predicted: 10 - 40 - Reliability score: 0.905 
+>BSU21350 - No signal peptide predicted - Reliability score: 0.956 
+>BSU21410 - No signal peptide predicted - Reliability score: 0.950 
+>BSU21430 - TM segment predicted: 5 - 25 - Reliability score: 0.882 
+>BSU21440 - Sec signal peptide predicted. Most likely cleavage site: 1 - 23 [TMA-SL] - Reliability score: 0.852 
+>BSU21460 - Sec signal peptide predicted. Most likely cleavage site: 1 - 22 [VYV-ST] - Reliability score: 0.982 
+>BSU21470 - No signal peptide predicted - Reliability score: 0.984 
+>BSU21480 - No signal peptide predicted - Reliability score: 0.841 
+>BSU21490 - TM segment predicted: 3 - 20 - Reliability score: 0.925 
+>BSU21610 - Sec signal peptide predicted. Most likely cleavage site: 1 - 18 [SLA-AC] - Reliability score: 0.966 
+>BSU21650 - Sec signal peptide predicted. Most likely cleavage site: 1 - 27 [ANS-ND] - Reliability score: 0.978 
+>BSU21710 - TM segment predicted: 47 - 67 - Reliability score: 0.955 
+>BSU21720 - Sec signal peptide predicted. Most likely cleavage site: 1 - 28 [HLA-AE] - Reliability score: 0.971 
+>BSU21730 - Sec signal peptide predicted. Most likely cleavage site: 1 - 33 [EQA-QV] - Reliability score: 0.998 
+>BSU21750 - Sec signal peptide predicted. Most likely cleavage site: 1 - 21 [CGG-QQ] - Reliability score: 0.974 
+>BSU21790 - TM segment predicted: 11 - 31 - Reliability score: 0.711 
+>BSU21840 - Sec signal peptide predicted. Most likely cleavage site: 1 - 29 [LMA-DK] - Reliability score: 0.999 
+>BSU21920 - Sec signal peptide predicted. Most likely cleavage site: 1 - 21 [VQV-AK] - Reliability score: 0.791 
+>BSU21980 - TM segment predicted: 6 - 26 - Reliability score: 0.973 
+>BSU22030 - No signal peptide predicted - Reliability score: 0.969 
+>BSU22040 - TM segment predicted: 41 - 61 - Reliability score: 0.738 
+>BSU22060 - TM segment predicted: 10 - 30 - Reliability score: 0.560 
+>BSU22090 - Sec signal peptide predicted. Most likely cleavage site: 1 - 29 [TFA-PG] - Reliability score: 0.738 
+>BSU22320 - TM segment predicted: 33 - 61 - Reliability score: 0.714 
+>BSU22380 - Sec signal peptide predicted. Most likely cleavage site: 1 - 32 [AMA-QK] - Reliability score: 0.997 
+>BSU22510 - TM segment predicted: 75 - 94 - Reliability score: 0.636 
+>BSU22520 - Sec signal peptide predicted. Most likely cleavage site: 1 - 22 [AKA-AE] - Reliability score: 1.000 
+>BSU22530 - TM segment predicted: 34 - 54 - Reliability score: 0.745 
+>BSU22540 - TM segment predicted: 42 - 62 - Reliability score: 0.956 
+>BSU22550 - TM segment predicted: 38 - 58 - Reliability score: 0.929 
+>BSU22800 - No signal peptide predicted - Reliability score: 0.988 
+>BSU22820 - TM segment predicted: 36 - 62 - Reliability score: 0.848 
+>BSU22850 - TM segment predicted: 38 - 58 - Reliability score: 0.922 
+>BSU22860 - TM segment predicted: 76 - 96 - Reliability score: 0.876 
+>BSU22940 - No signal peptide predicted - Reliability score: 0.664 
+>BSU22990 - TM segment predicted: 40 - 57 - Reliability score: 0.921 
+>BSU23000 - TM segment predicted: 57 - 77 - Reliability score: 0.950 
+>BSU23010 - TM segment predicted: 35 - 54 - Reliability score: 0.685 
+>BSU23050 - Sec signal peptide predicted. Most likely cleavage site: 1 - 28 [FPG-LP] - Reliability score: 0.839 
+>BSU23090 - TM segment predicted: 47 - 67 - Reliability score: 0.961 
+>BSU23100 - No signal peptide predicted - Reliability score: 0.981 
+>BSU23110 - TM segment predicted: 8 - 28 - Reliability score: 0.965 
+>BSU23130 - TM segment predicted: 77 - 96 - Reliability score: 0.801 
+>BSU23140 - TM segment predicted: 65 - 84 - Reliability score: 0.959 
+>BSU23150 - Sec signal peptide predicted. Most likely cleavage site: 1 - 31 [VFA-GK] - Reliability score: 0.999 
+>BSU23170 - No signal peptide predicted - Reliability score: 0.500 
+>BSU23180 - No signal peptide predicted - Reliability score: 0.466 
+>BSU23190 - Sec signal peptide predicted. Most likely cleavage site: 1 - 27 [AHA-AI] - Reliability score: 1.000 
+>BSU23310 - Sec signal peptide predicted. Most likely cleavage site: 1 - 35 [IFA-PY] - Reliability score: 0.898 
+>BSU23390 - No signal peptide predicted - Reliability score: 0.999 
+>BSU23410 - No signal peptide predicted - Reliability score: 0.899 
+>BSU23420 - TM segment predicted: 25 - 42 - Reliability score: 0.724 
+>BSU23430 - TM segment predicted: 5 - 33 - Reliability score: 0.699 
+>BSU23440 - No signal peptide predicted - Reliability score: 0.996 
+>BSU23480 - Sec signal peptide predicted. Most likely cleavage site: 1 - 23 [AFA-KQ] - Reliability score: 1.000 
+>BSU23519 - TM segment predicted: 10 - 30 - Reliability score: 0.968 
+>BSU23530 - TM segment predicted: 19 - 39 - Reliability score: 0.829 
+>BSU23560 - TM segment predicted: 10 - 30 - Reliability score: 0.911 
+>BSU23640 - TM segment predicted: 5 - 28 - Reliability score: 0.881 
+>BSU23730 - TM segment predicted: 10 - 30 - Reliability score: 0.639 
+>BSU23740 - TM segment predicted: 71 - 91 - Reliability score: 0.947 
+>BSU23880 - No signal peptide predicted - Reliability score: 0.366 
+>BSU23890 - Sec signal peptide predicted. Most likely cleavage site: 1 - 26 [AFA-AT] - Reliability score: 1.000 
+>BSU23950 - TM segment predicted: 56 - 86 - Reliability score: 0.787 
+>BSU23960 - No signal peptide predicted - Reliability score: 0.952 
+>BSU23970 - TM segment predicted: 20 - 43 - Reliability score: 0.883 
+>BSU23980 - Sec signal peptide predicted. Most likely cleavage site: 1 - 27 [SGS-ES] - Reliability score: 0.984 
+>BSU24010 - TM segment predicted: 71 - 91 - Reliability score: 0.616 
+>BSU24100 - No signal peptide predicted - Reliability score: 0.878 
+>BSU24110 - Sec signal peptide predicted. Most likely cleavage site: 1 - 18 [ISA-LG] - Reliability score: 0.338 
+>BSU24200 - Sec signal peptide predicted. Most likely cleavage site: 1 - 22 [ASA-DD] - Reliability score: 1.000 
+>BSU24360 - TM segment predicted: 6 - 26 - Reliability score: 0.878 
+>BSU24370 - TM segment predicted: 26 - 46 - Reliability score: 0.946 
+>BSU24380 - TM segment predicted: 7 - 26 - Reliability score: 0.811 
+>BSU24390 - Sec signal peptide predicted. Most likely cleavage site: 1 - 24 [VQA-AG] - Reliability score: 0.999 
+>BSU24400 - TM segment predicted: 26 - 46 - Reliability score: 0.945 
+>BSU24410 - TM segment predicted: 37 - 57 - Reliability score: 0.895 
+>BSU24440 - TM segment predicted: 72 - 92 - Reliability score: 0.674 
+>BSU24480 - TM segment predicted: 72 - 95 - Reliability score: 0.957 
+>BSU24490 - No signal peptide predicted - Reliability score: 0.855 
+>BSU24500 - Sec signal peptide predicted. Most likely cleavage site: 1 - 32 [EMA-KM] - Reliability score: 0.970 
+>BSU24510 - No signal peptide predicted - Reliability score: 0.640 
+>BSU24540 - TM segment predicted: 5 - 23 - Reliability score: 0.938 
+>BSU24620 - Sec signal peptide predicted. Most likely cleavage site: 1 - 27 [TWA-AF] - Reliability score: 1.000 
+>BSU24630 - Sec signal peptide predicted. Most likely cleavage site: 1 - 30 [SSG-GE] - Reliability score: 0.946 
+>BSU24640 - Sec signal peptide predicted. Most likely cleavage site: 1 - 38 [QFS-DD] - Reliability score: 0.963 
+>BSU24670 - Sec signal peptide predicted. Most likely cleavage site: 1 - 28 [VAA-QY] - Reliability score: 0.993 
+>BSU24680 - No signal peptide predicted - Reliability score: 0.990 
+>BSU24690 - TM segment predicted: 10 - 30 - Reliability score: 0.811 
+>BSU24700 - TM segment predicted: 10 - 30 - Reliability score: 0.614 
+>BSU24710 - TM segment predicted: 6 - 26 - Reliability score: 0.970 
+>BSU24720 - No signal peptide predicted - Reliability score: 0.999 
+>BSU24730 - No signal peptide predicted - Reliability score: 1.000 
+>BSU24740 - No signal peptide predicted - Reliability score: 0.999 
+>BSU24750 - TM segment predicted: 8 - 31 - Reliability score: 0.870 
+>BSU24780 - TM segment predicted: 52 - 72 - Reliability score: 0.904 
+>BSU24800 - TM segment predicted: 26 - 46 - Reliability score: 0.822 
+>BSU24820 - Sec signal peptide predicted. Most likely cleavage site: 1 - 33 [ASA-AK] - Reliability score: 0.977 
+>BSU24830 - No signal peptide predicted - Reliability score: 1.000 
+>BSU24840 - TM segment predicted: 70 - 89 - Reliability score: 0.427 
+>BSU24870 - No signal peptide predicted - Reliability score: 0.998 
+>BSU24930 - No signal peptide predicted - Reliability score: 0.573 
+>BSU24950 - No signal peptide predicted - Reliability score: 0.996 
+>BSU24960 - No signal peptide predicted - Reliability score: 0.996 
+>BSU24970 - TM segment predicted: 8 - 34 - Reliability score: 0.888 
+>BSU24980 - TM segment predicted: 30 - 50 - Reliability score: 0.955 
+>BSU24990 - Sec signal peptide predicted. Most likely cleavage site: 1 - 25 [GNA-GE] - Reliability score: 0.993 
+>BSU25000 - TM segment predicted: 18 - 38 - Reliability score: 0.690 
+>BSU25010 - TM segment predicted: 80 - 0 - Reliability score: 0.927 
+>BSU25030 - TM segment predicted: 7 - 37 - Reliability score: 0.933 
+>BSU25040 - TM segment predicted: 28 - 48 - Reliability score: 0.924 
+>BSU25050 - Sec signal peptide predicted. Most likely cleavage site: 1 - 28 [AEA-AS] - Reliability score: 0.995 
+>BSU25060 - TM segment predicted: 4 - 21 - Reliability score: 0.903 
+>BSU25080 - TM segment predicted: 68 - 98 - Reliability score: 0.939 
+>BSU25110 - TM segment predicted: 66 - 86 - Reliability score: 0.331 
+>BSU25190 - TM segment predicted: 5 - 25 - Reliability score: 0.869 
+>BSU25290 - No signal peptide predicted - Reliability score: 0.981 
+>BSU25310 - TM segment predicted: 39 - 69 - Reliability score: 0.929 
+>BSU25330 - Sec signal peptide predicted. Most likely cleavage site: 1 - 44 [VHV-KP] - Reliability score: 0.999 
+>BSU25350 - TM segment predicted: 81 - 0 - Reliability score: 0.981 
+>BSU25370 - No signal peptide predicted - Reliability score: 0.773 
+>BSU25380 - TM segment predicted: 5 - 35 - Reliability score: 0.853 
+>BSU25390 - Sec signal peptide predicted. Most likely cleavage site: 1 - 28 [AKA-EK] - Reliability score: 0.997 
+>BSU25420 - TM segment predicted: 47 - 77 - Reliability score: 0.928 
+>BSU25510 - No signal peptide predicted - Reliability score: 1.000 
+>BSU25569 - TM segment predicted: 19 - 39 - Reliability score: 0.891 
+>BSU25570 - TM segment predicted: 10 - 40 - Reliability score: 0.741 
+>BSU25590 - Sec signal peptide predicted. Most likely cleavage site: 1 - 30 [ATG-KN] - Reliability score: 0.987 
+>BSU25700 - Sec signal peptide predicted. Most likely cleavage site: 1 - 19 [CEG-RG] - Reliability score: 0.988 
+>BSU25710 - No signal peptide predicted - Reliability score: 0.374 
+>BSU25720 - TM segment predicted: 29 - 49 - Reliability score: 0.799 
+>BSU25740 - TM segment predicted: 10 - 36 - Reliability score: 0.909 
+>BSU25750 - Sec signal peptide predicted. Most likely cleavage site: 1 - 26 [IQG-AS] - Reliability score: 0.995 
+>BSU25790 - TM segment predicted: 10 - 30 - Reliability score: 0.966 
+>BSU25900 - No signal peptide predicted - Reliability score: 0.754 
+>BSU25910 - TM segment predicted: 56 - 76 - Reliability score: 0.924 
+>BSU26050 - TM segment predicted: 11 - 34 - Reliability score: 0.866 
+>BSU26160 - TM segment predicted: 8 - 25 - Reliability score: 0.963 
+>BSU26360 - TM segment predicted: 31 - 51 - Reliability score: 0.947 
+>BSU26410 - Sec signal peptide predicted. Most likely cleavage site: 1 - 28 [ALA-LS] - Reliability score: 0.937 
+>BSU26420 - TM segment predicted: 8 - 28 - Reliability score: 0.845 
+>BSU26440 - TM segment predicted: 65 - 83 - Reliability score: 0.933 
+>BSU26480 - TM segment predicted: 44 - 64 - Reliability score: 0.703 
+>BSU26490 - TM segment predicted: 5 - 35 - Reliability score: 0.900 
+>BSU26590 - TM segment predicted: 78 - 98 - Reliability score: 0.705 
+>BSU26610 - Sec signal peptide predicted. Most likely cleavage site: 1 - 25 [EFA-IV] - Reliability score: 0.989 
+>BSU26620 - TM segment predicted: 68 - 88 - Reliability score: 0.825 
+>BSU26640 - No signal peptide predicted - Reliability score: 0.987 
+>BSU26650 - TM segment predicted: 81 - 0 - Reliability score: 0.880 
+>BSU26690 - TM segment predicted: 5 - 25 - Reliability score: 0.945 
+>BSU26700 - TM segment predicted: 10 - 30 - Reliability score: 0.903 
+>BSU26710 - TM segment predicted: 36 - 66 - Reliability score: 0.901 
+>BSU26770 - TM segment predicted: 35 - 55 - Reliability score: 0.912 
+>BSU26860 - TM segment predicted: 53 - 73 - Reliability score: 0.908 
+>BSU26890 - Sec signal peptide predicted. Most likely cleavage site: 1 - 35 [VFA-AG] - Reliability score: 0.999 
+>BSU26950 - No signal peptide predicted - Reliability score: 1.000 
+>BSU26960 - No signal peptide predicted - Reliability score: 1.000 
+>BSU26990 - No signal peptide predicted - Reliability score: 0.999 
+>BSU27030 - Sec signal peptide predicted. Most likely cleavage site: 1 - 24 [ADA-AD] - Reliability score: 0.999 
+>BSU27040 - No signal peptide predicted - Reliability score: 0.911 
+>BSU27050 - Sec signal peptide predicted. Most likely cleavage site: 1 - 21 [ASV-LD] - Reliability score: 0.911 
+>BSU27070 - No signal peptide predicted - Reliability score: 0.998 
+>BSU27080 - No signal peptide predicted - Reliability score: 0.999 
+>BSU27090 - TM segment predicted: 48 - 68 - Reliability score: 0.930 
+>BSU27100 - TM segment predicted: 41 - 64 - Reliability score: 0.939 
+>BSU27130 - TM segment predicted: 38 - 57 - Reliability score: 0.915 
+>BSU27140 - TM segment predicted: 80 - 98 - Reliability score: 0.699 
+>BSU27150 - TM segment predicted: 51 - 68 - Reliability score: 0.847 
+>BSU27200 - TM segment predicted: 25 - 45 - Reliability score: 0.613 
+>BSU27240 - TM segment predicted: 12 - 32 - Reliability score: 0.766 
+>BSU27300 - TM segment predicted: 17 - 37 - Reliability score: 0.803 
+>BSU27310 - Sec signal peptide predicted. Most likely cleavage site: 1 - 26 [RLA-EI] - Reliability score: 0.980 
+>BSU27370 - Sec signal peptide predicted. Most likely cleavage site: 1 - 35 [LYG-KS] - Reliability score: 0.972 
+>BSU27420 - TM segment predicted: 37 - 57 - Reliability score: 0.750 
+>BSU27430 - No signal peptide predicted - Reliability score: 0.999 
+>BSU27440 - Sec signal peptide predicted. Most likely cleavage site: 1 - 28 [SNG-EA] - Reliability score: 0.973 
+>BSU27450 - TM segment predicted: 21 - 41 - Reliability score: 0.868 
+>BSU27460 - TM segment predicted: 13 - 33 - Reliability score: 0.882 
+>BSU27580 - Sec signal peptide predicted. Most likely cleavage site: 1 - 27 [VTA-AQ] - Reliability score: 0.995 
+>BSU27600 - No signal peptide predicted - Reliability score: 0.998 
+>BSU27630 - TM segment predicted: 41 - 61 - Reliability score: 0.579 
+>BSU27650 - TM segment predicted: 6 - 23 - Reliability score: 0.854 
+>BSU27670 - TM segment predicted: 6 - 26 - Reliability score: 0.583 
+>BSU27680 - No signal peptide predicted - Reliability score: 0.856 
+>BSU27690 - TM segment predicted: 66 - 85 - Reliability score: 0.691 
+>BSU27700 - TM segment predicted: 5 - 23 - Reliability score: 0.941 
+>BSU27729 - TM segment predicted: 5 - 25 - Reliability score: 0.503 
+>BSU27760 - TM segment predicted: 58 - 77 - Reliability score: 0.695 
+>BSU27809 - No signal peptide predicted - Reliability score: 0.461 
+>BSU27810 - TM segment predicted: 10 - 30 - Reliability score: 0.646 
+>BSU27830 - Sec signal peptide predicted. Most likely cleavage site: 1 - 22 [CGA-ND] - Reliability score: 0.997 
+>BSU27840 - No signal peptide predicted - Reliability score: 1.000 
+>BSU27970 - No signal peptide predicted - Reliability score: 0.302 
+>BSU27980 - TM segment predicted: 72 - 91 - Reliability score: 0.957 
+>BSU27990 - No signal peptide predicted - Reliability score: 0.983 
+>BSU28010 - Sec signal peptide predicted. Most likely cleavage site: 1 - 16 [FSA-ES] - Reliability score: 0.335 
+>BSU28020 - Sec signal peptide predicted. Most likely cleavage site: 1 - 26 [LKG-GR] - Reliability score: 0.922 
+>BSU28060 - No signal peptide predicted - Reliability score: 0.514 
+>BSU28070 - No signal peptide predicted - Reliability score: 0.372 
+>BSU28099 - TM segment predicted: 43 - 0 - Reliability score: 0.902 
+>BSU28160 - TM segment predicted: 40 - 60 - Reliability score: 0.954 
+>BSU28180 - Sec signal peptide predicted. Most likely cleavage site: 1 - 19 [VYA-WL] - Reliability score: 0.965 
+>BSU28430 - No signal peptide predicted - Reliability score: 1.000 
+>BSU28440 - Sec signal peptide predicted. Most likely cleavage site: 1 - 22 [IKA-AE] - Reliability score: 0.999 
+>BSU28450 - TM segment predicted: 57 - 77 - Reliability score: 0.836 
+>BSU28570 - TM segment predicted: 74 - 94 - Reliability score: 0.950 
+>BSU28600 - TM segment predicted: 22 - 42 - Reliability score: 0.760 
+>BSU28710 - TM segment predicted: 62 - 82 - Reliability score: 0.832 
+>BSU28730 - TM segment predicted: 10 - 38 - Reliability score: 0.598 
+>BSU28740 - TM segment predicted: 29 - 59 - Reliability score: 0.925 
+>BSU28750 - Sec signal peptide predicted. Most likely cleavage site: 1 - 24 [CSA-EK] - Reliability score: 0.997 
+>BSU28810 - Sec signal peptide predicted. Most likely cleavage site: 1 - 30 [APA-EA] - Reliability score: 0.995 
+>BSU28830 - No signal peptide predicted - Reliability score: 0.191 
+>BSU28840 - TM segment predicted: 67 - 87 - Reliability score: 0.906 
+>BSU28870 - No signal peptide predicted - Reliability score: 1.000 
+>BSU28900 - TM segment predicted: 28 - 48 - Reliability score: 0.903 
+>BSU28910 - TM segment predicted: 8 - 28 - Reliability score: 0.791 
+>BSU28930 - TM segment predicted: 37 - 57 - Reliability score: 0.940 
+>BSU28970 - TM segment predicted: 58 - 78 - Reliability score: 0.670 
+>BSU28980 - No signal peptide predicted - Reliability score: 1.000 
+>BSU29040 - Sec signal peptide predicted. Most likely cleavage site: 1 - 21 [AFA-IG] - Reliability score: 0.980 
+>BSU29070 - TM segment predicted: 31 - 51 - Reliability score: 0.943 
+>BSU29100 - TM segment predicted: 8 - 27 - Reliability score: 0.820 
+>BSU29150 - Sec signal peptide predicted. Most likely cleavage site: 1 - 27 [LFA-VS] - Reliability score: 0.977 
+>BSU29160 - Sec signal peptide predicted. Most likely cleavage site: 1 - 26 [AAA-YY] - Reliability score: 0.789 
+>BSU29170 - TM segment predicted: 5 - 28 - Reliability score: 0.920 
+>BSU29239 - TM segment predicted: 16 - 36 - Reliability score: 0.946 
+>BSU29240 - TM segment predicted: 15 - 35 - Reliability score: 0.934 
+>BSU29260 - TM segment predicted: 60 - 80 - Reliability score: 0.924 
+>BSU29280 - Sec signal peptide predicted. Most likely cleavage site: 1 - 24 [GMA-YG] - Reliability score: 0.894 
+>BSU29340 - No signal peptide predicted - Reliability score: 0.997 
+>BSU29350 - TM segment predicted: 65 - 82 - Reliability score: 0.619 
+>BSU29360 - TM segment predicted: 23 - 43 - Reliability score: 0.893 
+>BSU29370 - Sec signal peptide predicted. Most likely cleavage site: 1 - 23 [CGA-GS] - Reliability score: 0.984 
+>BSU29380 - Sec signal peptide predicted. Most likely cleavage site: 1 - 24 [SQT-NN] - Reliability score: 0.979 
+>BSU29520 - TM segment predicted: 37 - 57 - Reliability score: 0.892 
+>BSU29530 - TM segment predicted: 6 - 26 - Reliability score: 0.909 
+>BSU29600 - TM segment predicted: 5 - 25 - Reliability score: 0.885 
+>BSU29610 - No signal peptide predicted - Reliability score: 0.857 
+>BSU29720 - TM segment predicted: 26 - 46 - Reliability score: 0.966 
+>BSU29730 - TM segment predicted: 10 - 30 - Reliability score: 0.944 
+>BSU29780 - TM segment predicted: 2 - 22 - Reliability score: 0.904 
+>BSU29990 - TM segment predicted: 11 - 31 - Reliability score: 0.820 
+>BSU30000 - No signal peptide predicted - Reliability score: 0.412 
+>BSU30050 - TM segment predicted: 10 - 33 - Reliability score: 0.933 
+>BSU30070 - Sec signal peptide predicted. Most likely cleavage site: 1 - 39 [AQA-FI] - Reliability score: 0.927 
+>BSU30090 - TM segment predicted: 25 - 45 - Reliability score: 0.905 
+>BSU30110 - Sec signal peptide predicted. Most likely cleavage site: 1 - 23 [CSS-RP] - Reliability score: 0.984 
+>BSU30135 - TM segment predicted: 28 - 48 - Reliability score: 0.895 
+>BSU30150 - TM segment predicted: 11 - 31 - Reliability score: 0.939 
+>BSU30160 - Sec signal peptide predicted. Most likely cleavage site: 1 - 21 [VLA-GC] - Reliability score: 0.952 
+>BSU30170 - Sec signal peptide predicted. Most likely cleavage site: 1 - 30 [VIA-AS] - Reliability score: 0.936 
+>BSU30270 - Sec signal peptide predicted. Most likely cleavage site: 1 - 21 [CSA-EK] - Reliability score: 0.992 
+>BSU30280 - TM segment predicted: 21 - 41 - Reliability score: 0.968 
+>BSU30290 - TM segment predicted: 11 - 30 - Reliability score: 0.625 
+>BSU30330 - TM segment predicted: 38 - 58 - Reliability score: 0.933 
+>BSU30350 - TM segment predicted: 69 - 89 - Reliability score: 0.800 
+>BSU30360 - TM segment predicted: 39 - 58 - Reliability score: 0.945 
+>BSU30370 - TM segment predicted: 18 - 36 - Reliability score: 0.681 
+>BSU30390 - TM segment predicted: 33 - 53 - Reliability score: 0.890 
+>BSU30410 - Sec signal peptide predicted. Most likely cleavage site: 1 - 44 [GFG-IQ] - Reliability score: 0.953 
+>BSU30420 - No signal peptide predicted - Reliability score: 0.953 
+>BSU30430 - TM segment predicted: 15 - 32 - Reliability score: 0.956 
+>BSU30440 - TM segment predicted: 11 - 31 - Reliability score: 0.901 
+>BSU30450 - No signal peptide predicted - Reliability score: 0.987 
+>BSU30510 - No signal peptide predicted - Reliability score: 0.711 
+>BSU30530 - TM segment predicted: 40 - 60 - Reliability score: 0.655 
+>BSU30595 - Sec signal peptide predicted. Most likely cleavage site: 1 - 22 [ALA-AC] - Reliability score: 0.994 
+>BSU30620 - TM segment predicted: 26 - 45 - Reliability score: 0.912 
+>BSU30640 - TM segment predicted: 5 - 25 - Reliability score: 0.768 
+>BSU30659 - Sec signal peptide predicted. Most likely cleavage site: 1 - 38 [VKA-YN] - Reliability score: 0.916 
+>BSU30680 - No signal peptide predicted - Reliability score: 0.950 
+>BSU30710 - TM segment predicted: 59 - 79 - Reliability score: 0.795 
+>BSU30720 - TM segment predicted: 63 - 94 - Reliability score: 0.872 
+>BSU30740 - TM segment predicted: 7 - 27 - Reliability score: 0.817 
+>BSU30750 - TM segment predicted: 16 - 36 - Reliability score: 0.674 
+>BSU30760 - No signal peptide predicted - Reliability score: 0.880 
+>BSU30770 - Sec signal peptide predicted. Most likely cleavage site: 1 - 44 [ADA-AE] - Reliability score: 0.912 
+>BSU30900 - No signal peptide predicted - Reliability score: 0.998 
+>BSU30920 - No signal peptide predicted - Reliability score: 1.000 
+>BSU30930 - Sec signal peptide predicted. Most likely cleavage site: 1 - 20 [FSA-AG] - Reliability score: 0.854 
+>BSU30990 - TM segment predicted: 53 - 73 - Reliability score: 0.878 
+>BSU31010 - TM segment predicted: 5 - 25 - Reliability score: 0.917 
+>BSU31020 - TM segment predicted: 72 - 92 - Reliability score: 0.868 
+>BSU31080 - Sec signal peptide predicted. Most likely cleavage site: 1 - 28 [SFA-AE] - Reliability score: 1.000 
+>BSU31090 - No signal peptide predicted - Reliability score: 0.955 
+>BSU31100 - TM segment predicted: 19 - 39 - Reliability score: 0.961 
+>BSU31110 - TM segment predicted: 10 - 30 - Reliability score: 0.954 
+>BSU31120 - Sec signal peptide predicted. Most likely cleavage site: 1 - 29 [VLA-TT] - Reliability score: 0.991 
+>BSU31130 - Sec signal peptide predicted. Most likely cleavage site: 1 - 28 [ALS-SV] - Reliability score: 0.984 
+>BSU31150 - No signal peptide predicted - Reliability score: 0.558 
+>BSU31160 - TM segment predicted: 20 - 50 - Reliability score: 0.801 
+>BSU31230 - Sec signal peptide predicted. Most likely cleavage site: 1 - 33 [VLA-YF] - Reliability score: 0.951 
+>BSU31240 - Sec signal peptide predicted. Most likely cleavage site: 1 - 40 [QSA-SS] - Reliability score: 0.973 
+>BSU31250 - Sec signal peptide predicted. Most likely cleavage site: 1 - 36 [VSA-YQ] - Reliability score: 0.977 
+>BSU31260 - TM segment predicted: 12 - 32 - Reliability score: 0.654 
+>BSU31300 - Sec signal peptide predicted. Most likely cleavage site: 1 - 21 [FVA-AE] - Reliability score: 0.889 
+>BSU31310 - Sec signal peptide predicted. Most likely cleavage site: 1 - 17 [FWA-QF] - Reliability score: 0.991 
+>BSU31319 - TM segment predicted: 47 - 67 - Reliability score: 0.879 
+>BSU31321 - No signal peptide predicted - Reliability score: 1.000 
+>BSU31322 - TM segment predicted: 10 - 36 - Reliability score: 0.944 
+>BSU31340 - TM segment predicted: 10 - 30 - Reliability score: 0.782 
+>BSU31380 - TM segment predicted: 7 - 27 - Reliability score: 0.761 
+>BSU31450 - TM segment predicted: 7 - 26 - Reliability score: 0.679 
+>BSU31460 - No signal peptide predicted - Reliability score: 0.996 
+>BSU31480 - TM segment predicted: 64 - 90 - Reliability score: 0.908 
+>BSU31490 - Sec signal peptide predicted. Most likely cleavage site: 1 - 26 [VIA-SG] - Reliability score: 0.969 
+>BSU31510 - TM segment predicted: 55 - 75 - Reliability score: 0.488 
+>BSU31520 - Sec signal peptide predicted. Most likely cleavage site: 1 - 32 [VGA-QT] - Reliability score: 0.999 
+>BSU31540 - Sec signal peptide predicted. Most likely cleavage site: 1 - 29 [EKS-SG] - Reliability score: 0.970 
+>BSU31560 - Sec signal peptide predicted. Most likely cleavage site: 1 - 34 [SVA-SG] - Reliability score: 0.978 
+>BSU31570 - TM segment predicted: 65 - 85 - Reliability score: 0.877 
+>BSU31580 - TM segment predicted: 31 - 51 - Reliability score: 0.911 
+>BSU31590 - Sec signal peptide predicted. Most likely cleavage site: 1 - 19 [AGA-FM] - Reliability score: 0.978 
+>BSU31600 - TM segment predicted: 74 - 0 - Reliability score: 0.735 
+>BSU31610 - TM segment predicted: 10 - 30 - Reliability score: 0.658 
+>BSU31620 - TM segment predicted: 72 - 92 - Reliability score: 0.933 
+>BSU31630 - TM segment predicted: 5 - 22 - Reliability score: 0.641 
+>BSU31640 - Sec signal peptide predicted. Most likely cleavage site: 1 - 24 [PSA-AG] - Reliability score: 0.670 
+>BSU31650 - TM segment predicted: 59 - 79 - Reliability score: 0.897 
+>BSU31660 - Sec signal peptide predicted. Most likely cleavage site: 1 - 39 [AHA-AS] - Reliability score: 0.922 
+>BSU31690 - TM segment predicted: 5 - 25 - Reliability score: 0.939 
+>BSU31700 - No signal peptide predicted - Reliability score: 1.000 
+>BSU31710 - No signal peptide predicted - Reliability score: 0.995 
+>BSU31800 - TM segment predicted: 69 - 89 - Reliability score: 0.884 
+>BSU31850 - Sec signal peptide predicted. Most likely cleavage site: 1 - 16 [AQT-EE] - Reliability score: 0.989 
+>BSU31860 - TM segment predicted: 7 - 26 - Reliability score: 0.963 
+>BSU31875 - No signal peptide predicted - Reliability score: 0.977 
+>BSU31890 - No signal peptide predicted - Reliability score: 0.999 
+>BSU31910 - No signal peptide predicted - Reliability score: 1.000 
+>BSU32030 - Sec signal peptide predicted. Most likely cleavage site: 1 - 25 [VGA-NI] - Reliability score: 0.898 
+>BSU32040 - Sec signal peptide predicted. Most likely cleavage site: 1 - 24 [VIA-LI] - Reliability score: 0.895 
+>BSU32060 - Sec signal peptide predicted. Most likely cleavage site: 1 - 19 [IFA-QV] - Reliability score: 0.852 
+>BSU32070 - Sec signal peptide predicted. Most likely cleavage site: 1 - 31 [IEA-KD] - Reliability score: 0.998 
+>BSU32080 - TM segment predicted: 5 - 25 - Reliability score: 0.900 
+>BSU32120 - TM segment predicted: 18 - 38 - Reliability score: 0.884 
+>BSU32180 - Sec signal peptide predicted. Most likely cleavage site: 1 - 21 [LFS-EK] - Reliability score: 0.866 
+>BSU32270 - No signal peptide predicted - Reliability score: 0.995 
+>BSU32320 - Sec signal peptide predicted. Most likely cleavage site: 1 - 26 [DNA-QN] - Reliability score: 0.975 
+>BSU32350 - TM segment predicted: 18 - 38 - Reliability score: 0.968 
+>BSU32380 - TM segment predicted: 4 - 34 - Reliability score: 0.952 
+>BSU32430 - Sec signal peptide predicted. Most likely cleavage site: 1 - 33 [GRA-LN] - Reliability score: 0.947 
+>BSU32440 - TM segment predicted: 69 - 89 - Reliability score: 0.822 
+>BSU32469 - TM segment predicted: 20 - 40 - Reliability score: 0.914 
+>BSU32540 - Sec signal peptide predicted. Most likely cleavage site: 1 - 28 [ASA-QT] - Reliability score: 0.944 
+>BSU32550 - No signal peptide predicted - Reliability score: 0.998 
+>BSU32580 - TM segment predicted: 37 - 57 - Reliability score: 0.965 
+>BSU32590 - TM segment predicted: 8 - 28 - Reliability score: 0.971 
+>BSU32600 - Sec signal peptide predicted. Most likely cleavage site: 1 - 28 [SSA-DG] - Reliability score: 0.998 
+>BSU32730 - Sec signal peptide predicted. Most likely cleavage site: 1 - 26 [NGA-ES] - Reliability score: 0.962 
+>BSU32740 - TM segment predicted: 25 - 45 - Reliability score: 0.881 
+>BSU32750 - No signal peptide predicted - Reliability score: 0.971 
+>BSU32880 - Sec signal peptide predicted. Most likely cleavage site: 1 - 27 [FSA-LD] - Reliability score: 0.914 
+>BSU32940 - No signal peptide predicted - Reliability score: 0.987 
+>BSU33000 - TM segment predicted: 75 - 95 - Reliability score: 0.967 
+>BSU33020 - TM segment predicted: 10 - 30 - Reliability score: 0.952 
+>BSU33050 - No signal peptide predicted - Reliability score: 0.996 
+>BSU33060 - TM segment predicted: 81 - 0 - Reliability score: 0.492 
+>BSU33070 - No signal peptide predicted - Reliability score: 0.728 
+>BSU33090 - TM segment predicted: 16 - 36 - Reliability score: 0.624 
+>BSU33100 - TM segment predicted: 5 - 25 - Reliability score: 0.895 
+>BSU33130 - TM segment predicted: 10 - 30 - Reliability score: 0.891 
+>BSU33140 - TM segment predicted: 44 - 64 - Reliability score: 0.826 
+>BSU33170 - TM segment predicted: 15 - 45 - Reliability score: 0.883 
+>BSU33180 - Sec signal peptide predicted. Most likely cleavage site: 1 - 25 [NPA-DQ] - Reliability score: 0.993 
+>BSU33200 - No signal peptide predicted - Reliability score: 1.000 
+>BSU33210 - TM segment predicted: 11 - 31 - Reliability score: 0.952 
+>BSU33240 - No signal peptide predicted - Reliability score: 1.000 
+>BSU33250 - TM segment predicted: 78 - 98 - Reliability score: 0.452 
+>BSU33260 - TM segment predicted: 20 - 40 - Reliability score: 0.968 
+>BSU33280 - Sec signal peptide predicted. Most likely cleavage site: 1 - 21 [VLA-GI] - Reliability score: 0.910 
+>BSU33290 - No signal peptide predicted - Reliability score: 0.997 
+>BSU33300 - TM segment predicted: 7 - 27 - Reliability score: 0.866 
+>BSU33310 - TM segment predicted: 58 - 78 - Reliability score: 0.957 
+>BSU33320 - Sec signal peptide predicted. Most likely cleavage site: 1 - 22 [ALA-AC] - Reliability score: 0.972 
+>BSU33330 - TM segment predicted: 8 - 28 - Reliability score: 0.758 
+>BSU33350 - TM segment predicted: 67 - 87 - Reliability score: 0.697 
+>BSU33360 - TM segment predicted: 69 - 89 - Reliability score: 0.950 
+>BSU33380 - Sec signal peptide predicted. Most likely cleavage site: 1 - 44 [ASA-QD] - Reliability score: 0.950 
+>BSU33390 - Sec signal peptide predicted. Most likely cleavage site: 1 - 30 [AVA-GI] - Reliability score: 0.616 
+>BSU33420 - TM segment predicted: 80 - 0 - Reliability score: 0.907 
+>BSU33460 - Sec signal peptide predicted. Most likely cleavage site: 1 - 22 [IVA-ME] - Reliability score: 0.691 
+>BSU33470 - TM segment predicted: 5 - 25 - Reliability score: 0.688 
+>BSU33490 - No signal peptide predicted - Reliability score: 0.986 
+>BSU33500 - No signal peptide predicted - Reliability score: 0.918 
+>BSU33550 - TM segment predicted: 79 - 99 - Reliability score: 0.919 
+>BSU33560 - TM segment predicted: 8 - 28 - Reliability score: 0.833 
+>BSU33570 - TM segment predicted: 26 - 46 - Reliability score: 0.866 
+>BSU33620 - No signal peptide predicted - Reliability score: 0.618 
+>BSU33630 - Sec signal peptide predicted. Most likely cleavage site: 1 - 27 [SKS-AG] - Reliability score: 0.688 
+>BSU33690 - TM segment predicted: 8 - 28 - Reliability score: 0.918 
+>BSU33700 - TM segment predicted: 64 - 94 - Reliability score: 0.836 
+>BSU33710 - Sec signal peptide predicted. Most likely cleavage site: 1 - 31 [SAA-AD] - Reliability score: 0.996 
+>BSU33720 - TM segment predicted: 77 - 97 - Reliability score: 0.754 
+>BSU33730 - No signal peptide predicted - Reliability score: 0.996 
+>BSU33760 - TM segment predicted: 21 - 38 - Reliability score: 0.672 
+>BSU33770 - Sec signal peptide predicted. Most likely cleavage site: 1 - 32 [TSA-KE] - Reliability score: 0.991 
+>BSU33780 - Sec signal peptide predicted. Most likely cleavage site: 1 - 22 [ILY-QY] - Reliability score: 0.727 
+>BSU33800 - TM segment predicted: 64 - 94 - Reliability score: 0.825 
+>BSU33810 - Sec signal peptide predicted. Most likely cleavage site: 1 - 29 [GGA-SD] - Reliability score: 0.998 
+>BSU33820 - TM segment predicted: 77 - 97 - Reliability score: 0.726 
+>BSU33830 - No signal peptide predicted - Reliability score: 0.997 
+>BSU33850 - TM segment predicted: 44 - 64 - Reliability score: 0.961 
+>BSU33870 - TM segment predicted: 72 - 92 - Reliability score: 0.944 
+>BSU33880 - TM segment predicted: 52 - 72 - Reliability score: 0.961 
+>BSU33900 - No signal peptide predicted - Reliability score: 0.999 
+>BSU33960 - TM segment predicted: 64 - 84 - Reliability score: 0.861 
+>BSU34000 - Sec signal peptide predicted. Most likely cleavage site: 1 - 32 [ALA-YS] - Reliability score: 0.990 
+>BSU34010 - TM segment predicted: 40 - 60 - Reliability score: 0.592 
+>BSU34070 - TM segment predicted: 63 - 82 - Reliability score: 0.727 
+>BSU34080 - No signal peptide predicted - Reliability score: 0.325 
+>BSU34120 - Sec signal peptide predicted. Most likely cleavage site: 1 - 24 [GYA-AA] - Reliability score: 0.988 
+>BSU34140 - TM segment predicted: 13 - 33 - Reliability score: 0.952 
+>BSU34150 - TM segment predicted: 25 - 45 - Reliability score: 0.959 
+>BSU34160 - Sec signal peptide predicted. Most likely cleavage site: 1 - 31 [SSA-KS] - Reliability score: 0.992 
+>BSU34190 - TM segment predicted: 38 - 58 - Reliability score: 0.808 
+>BSU34250 - TM segment predicted: 10 - 30 - Reliability score: 0.895 
+>BSU34265 - Sec signal peptide predicted. Most likely cleavage site: 1 - 31 [VKT-LG] - Reliability score: 0.912 
+>BSU34310 - TM segment predicted: 37 - 54 - Reliability score: 0.885 
+>BSU34350 - TM segment predicted: 68 - 88 - Reliability score: 0.676 
+>BSU34370 - TM segment predicted: 18 - 35 - Reliability score: 0.913 
+>BSU34440 - No signal peptide predicted - Reliability score: 0.847 
+>BSU34450 - Sec signal peptide predicted. Most likely cleavage site: 1 - 29 [AFA-KE] - Reliability score: 1.000 
+>BSU34460 - TM segment predicted: 5 - 23 - Reliability score: 0.968 
+>BSU34470 - Sec signal peptide predicted. Most likely cleavage site: 1 - 32 [LFA-VS] - Reliability score: 0.851 
+>BSU34490 - TM segment predicted: 26 - 44 - Reliability score: 0.939 
+>BSU34500 - TM segment predicted: 32 - 52 - Reliability score: 0.812 
+>BSU34520 - No signal peptide predicted - Reliability score: 0.973 
+>BSU34530 - Sec signal peptide predicted. Most likely cleavage site: 1 - 27 [RLA-RQ] - Reliability score: 0.879 
+>BSU34570 - No signal peptide predicted - Reliability score: 0.923 
+>BSU34580 - TM segment predicted: 35 - 55 - Reliability score: 0.958 
+>BSU34590 - TM segment predicted: 11 - 31 - Reliability score: 0.817 
+>BSU34600 - No signal peptide predicted - Reliability score: 0.515 
+>BSU34610 - Sec signal peptide predicted. Most likely cleavage site: 1 - 30 [NPA-SS] - Reliability score: 0.983 
+>BSU34660 - Sec signal peptide predicted. Most likely cleavage site: 1 - 37 [AFA-IA] - Reliability score: 0.957 
+>BSU34690 - TM segment predicted: 18 - 41 - Reliability score: 0.855 
+>BSU34710 - Sec signal peptide predicted. Most likely cleavage site: 1 - 36 [SGA-EP] - Reliability score: 0.909 
+>BSU34729 - Sec signal peptide predicted. Most likely cleavage site: 1 - 22 [NYT-GK] - Reliability score: 0.973 
+>BSU34800 - Sec signal peptide predicted. Most likely cleavage site: 1 - 30 [ASA-ET] - Reliability score: 1.000 
+>BSU34820 - Sec signal peptide predicted. Most likely cleavage site: 1 - 50 [LLT-KQ] - Reliability score: 0.973 
+>BSU34850 - Sec signal peptide predicted. Most likely cleavage site: 1 - 20 [GCS-MN] - Reliability score: 0.959 
+>BSU34950 - Sec signal peptide predicted. Most likely cleavage site: 1 - 27 [VFA-AD] - Reliability score: 1.000 
+>BSU34980 - Sec signal peptide predicted. Most likely cleavage site: 1 - 20 [TLG-KV] - Reliability score: 0.816 
+>BSU34990 - TM segment predicted: 18 - 38 - Reliability score: 0.727 
+>BSU35090 - Sec signal peptide predicted. Most likely cleavage site: 1 - 22 [FFA-SL] - Reliability score: 0.879 
+>BSU35100 - TM segment predicted: 45 - 75 - Reliability score: 0.890 
+>BSU35110 - TM segment predicted: 34 - 54 - Reliability score: 0.927 
+>BSU35130 - TM segment predicted: 48 - 68 - Reliability score: 0.772 
+>BSU35180 - Sec signal peptide predicted. Most likely cleavage site: 1 - 31 [AIA-LT] - Reliability score: 0.955 
+>BSU35210 - Sec signal peptide predicted. Most likely cleavage site: 1 - 30 [AVA-LS] - Reliability score: 0.943 
+>BSU35220 - TM segment predicted: 66 - 97 - Reliability score: 0.886 
+>BSU35250 - TM segment predicted: 23 - 43 - Reliability score: 0.964 
+>BSU35260 - No signal peptide predicted - Reliability score: 0.991 
+>BSU35270 - Sec signal peptide predicted. Most likely cleavage site: 1 - 26 [NDA-KE] - Reliability score: 0.997 
+>BSU35280 - TM segment predicted: 27 - 46 - Reliability score: 0.926 
+>BSU35300 - No signal peptide predicted - Reliability score: 0.997 
+>BSU35340 - No signal peptide predicted - Reliability score: 0.909 
+>BSU35360 - No signal peptide predicted - Reliability score: 0.815 
+>BSU35400 - No signal peptide predicted - Reliability score: 0.996 
+>BSU35410 - Sec signal peptide predicted. Most likely cleavage site: 1 - 32 [ANA-NT] - Reliability score: 0.950 
+>BSU35500 - No signal peptide predicted - Reliability score: 1.000 
+>BSU35520 - Sec signal peptide predicted. Most likely cleavage site: 1 - 49 [INA-AD] - Reliability score: 0.977 
+>BSU35530 - TM segment predicted: 53 - 73 - Reliability score: 0.786 
+>BSU35560 - TM segment predicted: 16 - 35 - Reliability score: 0.746 
+>BSU35570 - TM segment predicted: 66 - 89 - Reliability score: 0.813 
+>BSU35600 - TM segment predicted: 80 - 0 - Reliability score: 0.743 
+>BSU35620 - Sec signal peptide predicted. Most likely cleavage site: 1 - 24 [ALA-DN] - Reliability score: 1.000 
+>BSU35630 - Sec signal peptide predicted. Most likely cleavage site: 1 - 25 [SFA-AD] - Reliability score: 1.000 
+>BSU35640 - Sec signal peptide predicted. Most likely cleavage site: 1 - 26 [SQG-ED] - Reliability score: 0.981 
+>BSU35650 - Sec signal peptide predicted. Most likely cleavage site: 1 - 31 [GYA-YY] - Reliability score: 0.997 
+>BSU35680 - No signal peptide predicted - Reliability score: 0.826 
+>BSU35700 - No signal peptide predicted - Reliability score: 0.973 
+>BSU35710 - TM segment predicted: 62 - 88 - Reliability score: 0.922 
+>BSU35720 - No signal peptide predicted - Reliability score: 1.000 
+>BSU35760 - TM segment predicted: 5 - 25 - Reliability score: 0.836 
+>BSU35780 - Sec signal peptide predicted. Most likely cleavage site: 1 - 27 [AQA-AA] - Reliability score: 1.000 
+>BSU35800 - No signal peptide predicted - Reliability score: 0.996 
+>BSU35810 - Sec signal peptide predicted. Most likely cleavage site: 1 - 33 [RSA-AE] - Reliability score: 0.917 
+>BSU35820 - Sec signal peptide predicted. Most likely cleavage site: 1 - 24 [DVK-DI] - Reliability score: 0.873 
+>BSU35830 - TM segment predicted: 74 - 94 - Reliability score: 0.800 
+>BSU35840 - Sec signal peptide predicted. Most likely cleavage site: 1 - 39 [AYA-FV] - Reliability score: 0.997 
+>BSU35860 - Sec signal peptide predicted. Most likely cleavage site: 1 - 27 [TKA-EI] - Reliability score: 0.974 
+>BSU35890 - TM segment predicted: 77 - 97 - Reliability score: 0.852 
+>BSU35900 - No signal peptide predicted - Reliability score: 0.210 
+>BSU35940 - No signal peptide predicted - Reliability score: 0.960 
+>BSU35950 - TM segment predicted: 22 - 42 - Reliability score: 0.818 
+>BSU35960 - Sec signal peptide predicted. Most likely cleavage site: 1 - 27 [QWA-KP] - Reliability score: 1.000 
+>BSU35970 - Sec signal peptide predicted. Most likely cleavage site: 1 - 30 [IHA-QQ] - Reliability score: 0.989 
+>BSU36030 - TM segment predicted: 21 - 40 - Reliability score: 0.594 
+>BSU36060 - No signal peptide predicted - Reliability score: 1.000 
+>BSU36090 - TM segment predicted: 43 - 73 - Reliability score: 0.937 
+>BSU36120 - TM segment predicted: 78 - 98 - Reliability score: 0.924 
+>BSU36130 - TM segment predicted: 75 - 95 - Reliability score: 0.768 
+>BSU36260 - TM segment predicted: 18 - 38 - Reliability score: 0.755 
+>BSU36350 - No signal peptide predicted - Reliability score: 0.990 
+>BSU36360 - TM segment predicted: 62 - 85 - Reliability score: 0.762 
+>BSU36450 - TM segment predicted: 73 - 93 - Reliability score: 0.541 
+>BSU36460 - Sec signal peptide predicted. Most likely cleavage site: 1 - 27 [TKA-NE] - Reliability score: 0.977 
+>BSU36470 - TM segment predicted: 63 - 83 - Reliability score: 0.823 
+>BSU36480 - Sec signal peptide predicted. Most likely cleavage site: 1 - 31 [SLA-LH] - Reliability score: 0.689 
+>BSU36500 - TM segment predicted: 11 - 31 - Reliability score: 0.378 
+>BSU36510 - TM segment predicted: 43 - 63 - Reliability score: 0.819 
+>BSU36520 - No signal peptide predicted - Reliability score: 0.976 
+>BSU36530 - TM segment predicted: 24 - 44 - Reliability score: 0.737 
+>BSU36540 - TM segment predicted: 5 - 25 - Reliability score: 0.855 
+>BSU36550 - TM segment predicted: 22 - 42 - Reliability score: 0.965 
+>BSU36570 - TM segment predicted: 51 - 81 - Reliability score: 0.941 
+>BSU36580 - Sec signal peptide predicted. Most likely cleavage site: 28 - 58 [ASA-DR] - Reliability score: 0.828 
+>BSU36590 - TM segment predicted: 34 - 54 - Reliability score: 0.977 
+>BSU36610 - TM segment predicted: 17 - 47 - Reliability score: 0.949 
+>BSU36680 - TM segment predicted: 15 - 35 - Reliability score: 0.938 
+>BSU36720 - TM segment predicted: 10 - 41 - Reliability score: 0.821 
+>BSU36780 - TM segment predicted: 5 - 25 - Reliability score: 0.750 
+>BSU36800 - No signal peptide predicted - Reliability score: 0.999 
+>BSU36810 - No signal peptide predicted - Reliability score: 0.995 
+>BSU36820 - No signal peptide predicted - Reliability score: 0.818 
+>BSU36830 - No signal peptide predicted - Reliability score: 1.000 
+>BSU36840 - No signal peptide predicted - Reliability score: 0.979 
+>BSU36850 - No signal peptide predicted - Reliability score: 0.974 
+>BSU36860 - TM segment predicted: 49 - 69 - Reliability score: 0.864 
+>BSU36870 - TM segment predicted: 68 - 88 - Reliability score: 0.791 
+>BSU36880 - TM segment predicted: 15 - 46 - Reliability score: 0.938 
+>BSU36940 - TM segment predicted: 40 - 59 - Reliability score: 0.690 
+>BSU36980 - TM segment predicted: 63 - 83 - Reliability score: 0.874 
+>BSU36990 - TM segment predicted: 75 - 0 - Reliability score: 0.745 
+>BSU37040 - TM segment predicted: 66 - 86 - Reliability score: 0.769 
+>BSU37180 - TM segment predicted: 68 - 88 - Reliability score: 0.672 
+>BSU37190 - No signal peptide predicted - Reliability score: 0.110 
+>BSU37220 - Sec signal peptide predicted. Most likely cleavage site: 1 - 19 [IAK-ED] - Reliability score: 0.901 
+>BSU37230 - TM segment predicted: 50 - 70 - Reliability score: 0.611 
+>BSU37240 - TM segment predicted: 31 - 51 - Reliability score: 0.763 
+>BSU37250 - TM segment predicted: 5 - 24 - Reliability score: 0.738 
+>BSU37270 - No signal peptide predicted - Reliability score: 0.723 
+>BSU37280 - No signal peptide predicted - Reliability score: 0.245 
+>BSU37300 - TM segment predicted: 11 - 31 - Reliability score: 0.895 
+>BSU37320 - TM segment predicted: 69 - 89 - Reliability score: 0.948 
+>BSU37350 - Sec signal peptide predicted. Most likely cleavage site: 1 - 23 [CLV-DG] - Reliability score: 0.773 
+>BSU37380 - TM segment predicted: 8 - 26 - Reliability score: 0.858 
+>BSU37400 - No signal peptide predicted - Reliability score: 0.596 
+>BSU37430 - Sec signal peptide predicted. Most likely cleavage site: 1 - 28 [AVA-EA] - Reliability score: 0.987 
+>BSU37510 - Sec signal peptide predicted. Most likely cleavage site: 1 - 41 [LIA-KY] - Reliability score: 0.928 
+>BSU37530 - TM segment predicted: 53 - 72 - Reliability score: 0.577 
+>BSU37570 - Sec signal peptide predicted. Most likely cleavage site: 1 - 41 [AMA-DM] - Reliability score: 0.937 
+>BSU37630 - Sec signal peptide predicted. Most likely cleavage site: 1 - 27 [ALA-PE] - Reliability score: 0.992 
+>BSU37700 - No signal peptide predicted - Reliability score: 0.721 
+>BSU37750 - Sec signal peptide predicted. Most likely cleavage site: 1 - 29 [VFA-AG] - Reliability score: 0.995 
+>BSU37760 - TM segment predicted: 18 - 38 - Reliability score: 0.683 
+>BSU37800 - Sec signal peptide predicted. Most likely cleavage site: 1 - 30 [AHA-QS] - Reliability score: 1.000 
+>BSU37850 - No signal peptide predicted - Reliability score: 0.997 
+>BSU37900 - No signal peptide predicted - Reliability score: 0.998 
+>BSU37920 - No signal peptide predicted - Reliability score: 0.992 
+>BSU37930 - Sec signal peptide predicted. Most likely cleavage site: 1 - 25 [AHG-LE] - Reliability score: 0.956 
+>BSU37940 - Sec signal peptide predicted. Most likely cleavage site: 1 - 26 [AVA-QS] - Reliability score: 0.990 
+>BSU37990 - TM segment predicted: 76 - 96 - Reliability score: 0.277 
+>BSU38000 - No signal peptide predicted - Reliability score: 0.764 
+>BSU38050 - No signal peptide predicted - Reliability score: 0.998 
+>BSU38060 - TM segment predicted: 59 - 78 - Reliability score: 0.764 
+>BSU38090 - Sec signal peptide predicted. Most likely cleavage site: 1 - 28 [VQA-AP] - Reliability score: 0.996 
+>BSU38120 - TM segment predicted: 11 - 31 - Reliability score: 0.932 
+>BSU38130 - TM segment predicted: 58 - 78 - Reliability score: 0.760 
+>BSU38140 - TM segment predicted: 16 - 35 - Reliability score: 0.646 
+>BSU38150 - TM segment predicted: 25 - 48 - Reliability score: 0.901 
+>BSU38160 - TM segment predicted: 10 - 36 - Reliability score: 0.750 
+>BSU38170 - Sec signal peptide predicted. Most likely cleavage site: 1 - 29 [SNA-SV] - Reliability score: 0.997 
+>BSU38180 - TM segment predicted: 54 - 74 - Reliability score: 0.670 
+>BSU38210 - No signal peptide predicted - Reliability score: 0.702 
+>BSU38230 - TM segment predicted: 24 - 43 - Reliability score: 0.938 
+>BSU38240 - Sec signal peptide predicted. Most likely cleavage site: 1 - 24 [FAA-KR] - Reliability score: 0.974 
+>BSU38260 - Tat signal peptide predicted. Most likely cleavage site: 1 - 45 [TAA-KP] - Reliability score: 0.992 
+>BSU38270 - Sec signal peptide predicted. Most likely cleavage site: 1 - 22 [CGA-ND] - Reliability score: 0.996 
+>BSU38280 - Sec signal peptide predicted. Most likely cleavage site: 1 - 22 [AHA-ED] - Reliability score: 1.000 
+>BSU38320 - TM segment predicted: 58 - 78 - Reliability score: 0.614 
+>BSU38330 - Sec signal peptide predicted. Most likely cleavage site: 1 - 18 [LGA-KK] - Reliability score: 0.639 
+>BSU38340 - TM segment predicted: 74 - 94 - Reliability score: 0.652 
+>BSU38390 - TM segment predicted: 31 - 51 - Reliability score: 0.954 
+>BSU38400 - Sec signal peptide predicted. Most likely cleavage site: 1 - 27 [AHA-QN] - Reliability score: 1.000 
+>BSU38410 - No signal peptide predicted - Reliability score: 0.952 
+>BSU38440 - TM segment predicted: 53 - 73 - Reliability score: 0.850 
+>BSU38470 - Sec signal peptide predicted. Most likely cleavage site: 1 - 31 [AHA-VQ] - Reliability score: 0.996 
+>BSU38480 - No signal peptide predicted - Reliability score: 0.999 
+>BSU38490 - TM segment predicted: 49 - 69 - Reliability score: 0.793 
+>BSU38499 - TM segment predicted: 13 - 33 - Reliability score: 0.895 
+>BSU38510 - TM segment predicted: 7 - 27 - Reliability score: 0.610 
+>BSU38530 - Sec signal peptide predicted. Most likely cleavage site: 1 - 21 [AIA-IP] - Reliability score: 0.971 
+>BSU38580 - TM segment predicted: 31 - 51 - Reliability score: 0.947 
+>BSU38640 - No signal peptide predicted - Reliability score: 0.453 
+>BSU38650 - TM segment predicted: 19 - 39 - Reliability score: 0.867 
+>BSU38670 - TM segment predicted: 37 - 57 - Reliability score: 0.783 
+>BSU38680 - TM segment predicted: 36 - 56 - Reliability score: 0.727 
+>BSU38690 - TM segment predicted: 46 - 66 - Reliability score: 0.933 
+>BSU38710 - TM segment predicted: 50 - 70 - Reliability score: 0.934 
+>BSU38730 - TM segment predicted: 17 - 37 - Reliability score: 0.812 
+>BSU38740 - No signal peptide predicted - Reliability score: 0.369 
+>BSU38750 - TM segment predicted: 7 - 27 - Reliability score: 0.920 
+>BSU38760 - TM segment predicted: 51 - 71 - Reliability score: 0.926 
+>BSU38770 - TM segment predicted: 33 - 53 - Reliability score: 0.931 
+>BSU38780 - Sec signal peptide predicted. Most likely cleavage site: 1 - 24 [ALA-AK] - Reliability score: 0.937 
+>BSU38800 - Sec signal peptide predicted. Most likely cleavage site: 1 - 27 [ANA-EQ] - Reliability score: 0.986 
+>BSU38810 - No signal peptide predicted - Reliability score: 0.996 
+>BSU38840 - Sec signal peptide predicted. Most likely cleavage site: 1 - 26 [LFA-IP] - Reliability score: 0.990 
+>BSU38850 - Sec signal peptide predicted. Most likely cleavage site: 1 - 40 [SKA-ET] - Reliability score: 0.944 
+>BSU38890 - TM segment predicted: 52 - 72 - Reliability score: 0.792 
+>BSU38900 - TM segment predicted: 37 - 67 - Reliability score: 0.931 
+>BSU38930 - TM segment predicted: 29 - 49 - Reliability score: 0.916 
+>BSU39000 - TM segment predicted: 56 - 76 - Reliability score: 0.532 
+>BSU39020 - TM segment predicted: 31 - 48 - Reliability score: 0.894 
+>BSU39060 - TM segment predicted: 53 - 73 - Reliability score: 0.853 
+>BSU39070 - Sec signal peptide predicted. Most likely cleavage site: 1 - 28 [ASA-QT] - Reliability score: 0.999 
+>BSU39100 - TM segment predicted: 13 - 33 - Reliability score: 0.602 
+>BSU39230 - Sec signal peptide predicted. Most likely cleavage site: 1 - 32 [VLA-KS] - Reliability score: 0.999 
+>BSU39240 - TM segment predicted: 14 - 33 - Reliability score: 0.815 
+>BSU39270 - No signal peptide predicted - Reliability score: 0.998 
+>BSU39330 - Sec signal peptide predicted. Most likely cleavage site: 1 - 26 [VYA-QK] - Reliability score: 1.000 
+>BSU39390 - TM segment predicted: 20 - 40 - Reliability score: 0.808 
+>BSU39410 - TM segment predicted: 27 - 47 - Reliability score: 0.880 
+>BSU39440 - TM segment predicted: 67 - 87 - Reliability score: 0.726 
+>BSU39450 - TM segment predicted: 37 - 67 - Reliability score: 0.888 
+>BSU39480 - No signal peptide predicted - Reliability score: 0.999 
+>BSU39490 - TM segment predicted: 16 - 44 - Reliability score: 0.924 
+>BSU39500 - Sec signal peptide predicted. Most likely cleavage site: 1 - 28 [SSS-KE] - Reliability score: 0.992 
+>BSU39560 - TM segment predicted: 66 - 86 - Reliability score: 0.909 
+>BSU39600 - TM segment predicted: 16 - 36 - Reliability score: 0.774 
+>BSU39610 - Sec signal peptide predicted. Most likely cleavage site: 1 - 34 [DSA-SE] - Reliability score: 0.962 
+>BSU39630 - TM segment predicted: 19 - 39 - Reliability score: 0.772 
+>BSU39650 - TM segment predicted: 10 - 30 - Reliability score: 0.959 
+>BSU39710 - TM segment predicted: 22 - 42 - Reliability score: 0.728 
+>BSU39790 - Sec signal peptide predicted. Most likely cleavage site: 1 - 27 [SHA-KS] - Reliability score: 0.945 
+>BSU39810 - TM segment predicted: 76 - 96 - Reliability score: 0.914 
+>BSU39830 - TM segment predicted: 11 - 31 - Reliability score: 0.680 
+>BSU39930 - TM segment predicted: 79 - 99 - Reliability score: 0.924 
+>BSU39940 - Sec signal peptide predicted. Most likely cleavage site: 1 - 24 [AGA-VS] - Reliability score: 0.902 
+>BSU39950 - Sec signal peptide predicted. Most likely cleavage site: 1 - 37 [AAA-NQ] - Reliability score: 0.994 
+>BSU39960 - TM segment predicted: 59 - 79 - Reliability score: 0.558 
+>BSU39970 - TM segment predicted: 70 - 90 - Reliability score: 0.924 
+>BSU40021 - TM segment predicted: 35 - 55 - Reliability score: 0.766 
+>BSU40022 - TM segment predicted: 33 - 53 - Reliability score: 0.933 
+>BSU40070 - TM segment predicted: 5 - 33 - Reliability score: 0.870 
+>BSU40100 - No signal peptide predicted - Reliability score: 0.879 
+>BSU40139 - TM segment predicted: 4 - 23 - Reliability score: 0.796 
+>BSU40140 - TM segment predicted: 13 - 33 - Reliability score: 0.935 
+>BSU40160 - TM segment predicted: 56 - 76 - Reliability score: 0.952 
+>BSU40259 - Sec signal peptide predicted. Most likely cleavage site: 1 - 29 [CKV-DF] - Reliability score: 0.701 
+>BSU40260 - TM segment predicted: 31 - 51 - Reliability score: 0.863 
+>BSU40330 - TM segment predicted: 21 - 41 - Reliability score: 0.821 
+>BSU40360 - TM segment predicted: 22 - 42 - Reliability score: 0.957 
+>BSU40380 - TM segment predicted: 5 - 23 - Reliability score: 0.947 
+>BSU40390 - TM segment predicted: 6 - 26 - Reliability score: 0.933 
+>BSU40400 - TM segment predicted: 10 - 33 - Reliability score: 0.964 
+>BSU40480 - TM segment predicted: 48 - 68 - Reliability score: 0.536 
+>BSU40490 - Sec signal peptide predicted. Most likely cleavage site: 1 - 27 [IWQ-DD] - Reliability score: 0.993 
+>BSU40510 - TM segment predicted: 14 - 34 - Reliability score: 0.896 
+>BSU40529 - TM segment predicted: 10 - 30 - Reliability score: 0.912 
+>BSU40530 - No signal peptide predicted - Reliability score: 1.000 
+>BSU40560 - Sec signal peptide predicted. Most likely cleavage site: 1 - 25 [DQV-ND] - Reliability score: 0.934 
+>BSU40570 - No signal peptide predicted - Reliability score: 0.360 
+>BSU40660 - TM segment predicted: 78 - 98 - Reliability score: 0.723 
+>BSU40760 - No signal peptide predicted - Reliability score: 0.565 
+>BSU40770 - TM segment predicted: 14 - 33 - Reliability score: 0.649 
+>BSU40810 - TM segment predicted: 67 - 87 - Reliability score: 0.502 
+>BSU40830 - TM segment predicted: 21 - 41 - Reliability score: 0.934 
+>BSU40840 - No signal peptide predicted - Reliability score: 0.518 
+>BSU41040 - Sec signal peptide predicted. Most likely cleavage site: 1 - 26 [SSV-KE] - Reliability score: 0.985 

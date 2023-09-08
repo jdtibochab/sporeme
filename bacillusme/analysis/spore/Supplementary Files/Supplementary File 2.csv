@@ -1,0 +1,724 @@
+,FS,MC,VG,name,annotation,model_annotation
+BSU27250,0,0,0,mccB,cystathionine gamma-lyase and homocysteine gamma-lyase for reverse transsulfuration pathway,"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU36590,0,0,0,clsA,cardiolipin synthase (major),S_Lipids
+BSU27270,0,0,0,mtnN,methylthioadenosine / S-adenosylhomocysteine nucleosidase,"S_Amino_acids_and_related_molecules,S_Nucleotides_and_nucleic_acids"
+BSU00090,0,0,0,guaB,inosine-monophosphate dehydrogenase,S_Nucleotides_and_nucleic_acids
+BSU03270,0,0,0,ffoR,Fur-regulated NADPH:ferredoxin oxidoreductase,S_Membrane_bioenergetics
+BSU27260,0,0,0,mccA,cystathionine beta-synthase for the reverse transsulfuration pathway,S_Amino_acids_and_related_molecules
+BSU29220,0,0,0,maeB,"NADP-dependent malic enzyme (conversion of malate into pyruvate, anabolic)",S_Carbohydrates_and_related_molecules
+BSU13010,0,0,0,pgl,6-phosphogluconolactonase,S_Carbohydrates_and_related_molecules
+BSU27910,0,0,0,thrR,transcriptional repressor of operons hom-thrCB and thrD,S_Amino_acids_and_related_molecules
+BSU00930,0,0,0,cysE,serine O-acetyltransferase,S_Amino_acids_and_related_molecules
+BSU38490,0,0,1,menA,"1,4-dihydroxy-2-naphthoate octaprenyltransferase",S_Coenzymes_and_prosthetic_groups
+BSU08650,0,0,0,fabL,enoyl-acyl carrier protein reductase III,"S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids"
+BSU40040,0,0,0,glxK,D-glycerate kinase,S_Carbohydrates_and_related_molecules
+BSU27900,0,0,1,pheA,prephenate dehydratase,S_Amino_acids_and_related_molecules
+BSU14860,0,0,0,pycA,pyruvate carboxylase,S_Carbohydrates_and_related_molecules
+BSU31200,0,0,0,rhaB,rhamnulokinase,S_Carbohydrates_and_related_molecules
+BSU06150,0,0,0,gutB,glucitol (sorbitol) dehydrogenase,S_Carbohydrates_and_related_molecules
+BSU37330,1,1,1,argS,arginyl-tRNA synthetase,S_Carbohydrates_and_related_molecules
+BSU40890,1,1,1,rpsR,ribosomal protein S18,S_Carbohydrates_and_related_molecules
+BSU31180,0,0,0,rhaA,L-rhamnose isomerase,S_Carbohydrates_and_related_molecules
+BSU09530,0,0,0,akrN,aldo/keto reductase specific for NADPH; protects against methylglyoxal,"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU40910,1,1,1,rpsF,ribosomal protein S6 (BS9),"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU02360,0,0,0,gamA,glucosamine-6-phosphate deaminase,S_Carbohydrates_and_related_molecules
+BSU23800,0,0,0,proI,"pyrroline-5-carboxylate reductase (NADP-dependent, weak activity)",S_Amino_acids_and_related_molecules
+BSU37710,0,0,0,bacD,alanine-anticapsin ligase,"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU11250,0,1,1,argF,ornithine carbamoyltransferase,S_Amino_acids_and_related_molecules
+BSU00940,1,1,1,cysS,dual cysteinyl-tRNA synthetase; cysteine persulfide synthase,S_Amino_acids_and_related_molecules
+BSU25260,1,1,1,glyS,glycyl-tRNA synthetase (beta subunit),S_Amino_acids_and_related_molecules
+BSU11190,0,1,1,argC,N-acetylglutamate gamma-semialdehyde dehydrogenase,S_Amino_acids_and_related_molecules
+BSU11230,0,0,0,carA,arginine-specific carbamoyl-phosphate synthetase (small subunit),S_Amino_acids_and_related_molecules
+BSU11200,0,1,1,argJ,ornithine acetyltransferase; amino-acid acetyltransferase,"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU25270,1,1,1,glyQ,glycyl-tRNA synthetase (alpha subunit),"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU11220,0,1,1,argD,N-acetylornithine aminotransferase,S_Amino_acids_and_related_molecules
+BSU11210,0,1,1,argB,N-acetylglutamate 5-phosphotransferase (acetylglutamate kinase),S_Amino_acids_and_related_molecules
+BSU11240,0,0,0,carB,arginine-specific carbamoyl-phosphate synthetase (large subunit),S_Amino_acids_and_related_molecules
+BSU11870,0,1,1,metI,cystathionine gamma-synthase and O-acetylhomoserine thiolyase,"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU09540,1,0,1,plsC,1-acylglycerol-phosphate (1-acyl-G3P) acyltransferase,S_Lipids
+BSU39780,0,0,0,iolS,putative aldo-keto reductase,"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU11880,0,0,0,metC,cystathionine beta-lyase,S_Amino_acids_and_related_molecules
+BSU12920,0,0,0,dppA,D-alanyl-aminopeptidase,S_Amino_acids_and_related_molecules
+BSU18410,0,0,0,ggt,membrane bound gamma-glutamyltranspeptidase,S_Amino_acids_and_related_molecules
+BSU28230,1,1,1,tig,prolyl isomerase (trigger factor),S_Amino_acids_and_related_molecules
+BSU00900,0,0,1,ispD,"2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase, nonmevalonate isoprenoid pathway",S_Lipids
+BSU00910,0,0,1,ispF,"2-C-methyl-D-erythritol-2,4-cyclodiphosphate synthase",S_Lipids
+BSU36000,0,0,0,alsD,alpha-acetolactate decarboxylase,S_Carbohydrates_and_related_molecules
+BSU32200,0,0,0,yutJ,putative NADH dehydrogenase,S_Membrane_bioenergetics
+BSU34200,1,0,1,sigL,RNA polymerase sigma-54 factor (sigma-L),S_Membrane_bioenergetics
+BSU21770,0,0,0,ilvA,threonine dehydratase,S_Amino_acids_and_related_molecules
+BSU36010,0,0,0,alsS,alpha-acetolactate synthase,"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU32260,0,1,1,hom,homoserine dehydrogenase,S_Amino_acids_and_related_molecules
+BSU32240,0,1,1,thrB,homoserine kinase,S_Amino_acids_and_related_molecules
+BSU16090,0,0,0,sucC,succinyl-CoA synthetase (beta subunit),S_Carbohydrates_and_related_molecules
+BSU32250,0,1,1,thrC,threonine synthase,S_Amino_acids_and_related_molecules
+BSU16100,0,0,0,sucD,succinyl-CoA synthetase (alpha subunit),S_Carbohydrates_and_related_molecules
+BSU28540,0,0,0,fadB,enoyl-CoA hydratase,"S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids"
+BSU23070,0,0,1,serA,3-phosphoglycerate dehydrogenase,S_Amino_acids_and_related_molecules
+BSU28560,0,0,0,lcfA,long chain acyl-CoA ligase (degradative),"S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids"
+BSU17410,0,0,0,cwlC,N-acetylmuramoyl-L-alanine amidase (sporulation-specific),S_Cell_wall
+BSU11010,0,0,1,samT,"bifunctional homocysteine S-methyltransferase using (R,S)AdoMet and methylenetetrahydrofolate reductase [NAD(P)H]",S_Coenzymes_and_prosthetic_groups
+BSU03150,0,0,1,aroK,shikimate kinase,S_Amino_acids_and_related_molecules
+BSU37120,0,0,0,fbaA,"fructose-1,6-bisphosphate aldolase","S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU37110,0,0,0,tal,transaldolase,S_Carbohydrates_and_related_molecules
+BSU23850,0,0,0,zwf,glucose-6-phosphate 1-dehydrogenase (NADP-dependent),S_Carbohydrates_and_related_molecules
+BSU32510,0,0,0,pucA,xanthine dehydrogenase molybdopterin recruitment factor,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU32480,0,0,0,pucD,"xanthine dehydrogenase, substrate and molybdenum cofactor subunit","S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU32470,0,0,0,pucE,"xanthine dehydrogenase, iron-sulfur subunit","S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU32500,0,0,0,pucB,putative molybdopterin cofactor synthesis cytidylyl transferase,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU32490,0,0,0,pucC,"xanthine dehydrogenase, FAD-binding subunit","S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU00270,0,0,0,yaaO,putative decarboxylase,S_Amino_acids_and_related_molecules
+BSU00460,0,0,1,ispE,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase,S_Carbohydrates_and_related_molecules
+BSU00680,0,0,0,hprT,hypoxanthine-guanine phosphoribosyltransferase,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU25550,1,1,1,rpsT,ribosomal protein S20 (BS20),"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU00280,1,0,1,tmk,thymidylate kinase,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU00990,1,1,1,rpmGB,ribosomal protein L33,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01010,1,1,1,nusG,RNA polymerase elongation pause factor/intrinsic transcription termination factor NusG,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01000,1,1,1,secE,preprotein translocase subunit,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01020,1,1,1,rplK,ribosomal protein L11 (BL11),"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU00550,1,1,1,mfd,transcription-repair coupling factor,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01030,1,1,1,rplA,ribosomal protein L1 (BL1),"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01080,1,1,1,rpoC,RNA polymerase (beta' subunit),"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01100,1,1,1,rpsL,ribosomal protein S12 (BS12),"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01110,1,1,1,rpsG,ribosomal protein S7 (BS7),"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01120,1,1,1,fusA,elongation factor G,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01130,1,1,1,tufA,elongation factor Tu,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01180,1,1,1,rplW,ribosomal protein L23,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01160,1,1,1,rplC,ribosomal protein L3 (BL3),"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01150,1,1,1,rpsJ,ribosomal protein S10 (BS13); transcription antitermination factor,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01170,1,1,1,rplD,ribosomal protein L4,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU05740,0,0,0,phoB,"alkaline phosphatase III (promiscuous, heptaprenylglyceryl phosphate is a substrate)","S_Phosphate_and_sulfur,S_Phosphate_and_sulfur"
+BSU18470,0,0,0,proJ,glutamate 5-kinase,S_Amino_acids_and_related_molecules
+BSU15490,0,0,1,pyrB,aspartate carbamoyltransferase,S_Nucleotides_and_nucleic_acids
+BSU14610,0,0,0,pdhD,dihydrolipoamide dehydrogenase E3 subunit of both pyruvate dehydrogenase and 2-oxoglutarate dehydrogenase complexes,"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU14590,0,0,0,pdhB,pyruvate dehydrogenase (E1 beta subunit),S_Carbohydrates_and_related_molecules
+BSU14600,0,0,0,pdhC,pyruvate dehydrogenase (dihydrolipoamide acetyltransferase E2 subunit),S_Carbohydrates_and_related_molecules
+BSU15560,0,0,1,pyrE,orotate phosphoribosyltransferase,S_Nucleotides_and_nucleic_acids
+BSU15540,0,0,1,pyrD,dihydroorotate dehydrogenase (catalytic subunit),S_Nucleotides_and_nucleic_acids
+BSU15500,0,0,1,pyrC,dihydroorotase,S_Nucleotides_and_nucleic_acids
+BSU14580,0,0,0,pdhA,pyruvate dehydrogenase (E1 alpha subunit),S_Carbohydrates_and_related_molecules
+BSU15520,0,0,0,pyrAB,pyrimidine-specific carbamoyl-phosphate synthetase (large subunit),S_Amino_acids_and_related_molecules
+BSU15530,0,0,1,pyrK,dihydroorotate dehydrogenase (electron transfer subunit),S_Nucleotides_and_nucleic_acids
+BSU15510,0,0,0,pyrAA,"pyrimidine-specific carbamoyl-phosphate synthetase (small subunit, glutaminase subunit)",S_Amino_acids_and_related_molecules
+BSU02390,0,0,0,ilvE,isoleucine-valine aminotransferase / aromatic amino acid aminotransferase,"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU32000,0,0,0,dhbA,"2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase",S_Coenzymes_and_prosthetic_groups
+BSU15550,0,0,1,pyrF,orotidine 5'-phosphate decarboxylase,S_Nucleotides_and_nucleic_acids
+BSU02430,0,0,0,glsA,glutaminase,S_Amino_acids_and_related_molecules
+BSU31990,0,0,0,dhbC,isochorismate synthase (siderophore-specific),S_Coenzymes_and_prosthetic_groups
+BSU31970,0,0,0,dhbB,isochorismatase (siderophore specific),S_Coenzymes_and_prosthetic_groups
+BSU31980,0,0,0,dhbE,"2,3-dihydroxybenzoate-AMP ligase",S_Coenzymes_and_prosthetic_groups
+BSU07990,0,0,0,yfjR,putative beta-hydroxyacid dehydrogenase,S_Amino_acids_and_related_molecules
+BSU35580,0,0,0,tuaD,UDP-glucose 6-dehydrogenase (teichuronic acid),S_Cell_wall
+BSU35600,0,0,0,tuaB,putative exporter involved in biosynthesis of teichuronic acid,S_Cell_wall
+BSU07810,0,0,0,treA,trehalose-6-phosphate hydrolase,S_Carbohydrates_and_related_molecules
+BSU35609,0,0,0,tuaAc,putative undecaprenyl-phosphate N-acetylgalactosaminyl-1-phosphate transferase; C-terminal part of TuaA,S_Cell_wall
+BSU35590,0,0,0,tuaC,putative glycosyltransferase (teichuronic acid),S_Cell_wall
+BSU38860,0,0,0,galE,UDP-glucose 4-epimerase,"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU35550,0,0,0,tuaG,putative glycosyltransferase (teichuronic acid),S_Cell_wall
+BSU35570,0,0,0,tuaE,putative polymerase of teichuronic acid repeating units,S_Cell_wall
+BSU32410,0,0,0,pucH,allantoinase,S_Nucleotides_and_nucleic_acids
+BSU00730,0,0,0,cysK,cysteine synthase,"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU35540,0,0,0,tuaH,putative glycosyltransferase (teichuronic acid),S_Cell_wall
+BSU26970,0,0,0,adhB,putative oxidoreductase (involving bacillithiol),S_Carbohydrates_and_related_molecules
+BSU21870,0,1,1,ilvD,dihydroxy-acid dehydratase,"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU14880,0,0,0,ctaB,heme <i>o</i> synthase,S_Membrane_bioenergetics
+BSU22780,0,0,1,folEA,GTP cyclohydrolase I,S_Coenzymes_and_prosthetic_groups
+BSU06430,0,0,0,purK,N5-carboxyaminoimidazole ribonucleotide synthase,S_Nucleotides_and_nucleic_acids
+BSU06480,0,0,0,purL,phosphoribosylformylglycinamidine synthetase subunit II,S_Nucleotides_and_nucleic_acids
+BSU06440,0,0,1,purB,adenylosuccinate lyase,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU06450,0,0,1,purC,phosphoribosylaminoimidazole succinocarboxamide synthetase,S_Nucleotides_and_nucleic_acids
+BSU06510,0,0,0,purN,phosphoribosylglycinamide formyltransferase,S_Nucleotides_and_nucleic_acids
+BSU15980,1,1,1,ffh,signal recognition particle-like (SRP) GTPase,S_Nucleotides_and_nucleic_acids
+BSU06530,0,0,1,purD,phosphoribosylglycinamide synthetase,S_Nucleotides_and_nucleic_acids
+BSU06500,0,0,1,purM,phosphoribosylaminoimidazole synthetase,S_Nucleotides_and_nucleic_acids
+BSU06520,0,1,1,purH,fused phosphoribosylaminoimidazole carboxy formyl formyltransferase; inosine-monophosphate cyclohydrolase,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU06420,0,0,0,purE,N5-carboxyaminoimidazole ribonucleotide mutase,S_Nucleotides_and_nucleic_acids
+BSU06470,0,0,0,purQ,phosphoribosylformylglycinamidine synthetase subunit I,S_Nucleotides_and_nucleic_acids
+BSU06490,0,0,1,purF,glutamine phosphoribosylpyrophosphate amidotransferase,S_Nucleotides_and_nucleic_acids
+BSU12290,0,0,0,ndh,NADH dehydrogenase,S_Membrane_bioenergetics
+BSU03130,1,0,1,nadE,ammonium-dependent NAD+ synthetase,S_Coenzymes_and_prosthetic_groups
+BSU13580,0,0,0,mtnE,2-oxo-4-methylthiobutanoate-glutamine aminotransferase,S_Amino_acids_and_related_molecules
+BSU28470,0,0,0,lysCA,aspartokinase II alpha subunit (aa 1->408),S_Amino_acids_and_related_molecules
+BSU04520,0,0,0,ydbM,putative acyl-CoA dehydrogenase,"S_Lipids,S_Lipids,S_Lipids"
+BSU14870,0,0,0,ctaA,heme <i>a</i> synthase,S_Membrane_bioenergetics
+BSU35790,0,0,0,pmiA,mannose-6-phosphate isomerase (active on aldose substrates with hydroxyl groups oriented in the same direction at the C-2 and C-3 positions as in mannose),S_Carbohydrates_and_related_molecules
+BSU37780,0,0,0,rocA,delta-1-pyrroline-5 carboxylate dehydrogenase,"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU03910,0,0,0,gabD,succinate-semialdehyde dehydrogenase,S_Amino_acids_and_related_molecules
+BSU30320,1,1,1,leuS,leucyl-tRNA synthetase,S_Amino_acids_and_related_molecules
+BSU03900,0,0,0,gabT,4-aminobutyrate aminotransferase,S_Amino_acids_and_related_molecules
+BSU18450,0,0,0,gltA,"glutamate synthase (large subunit, NADP-dependent)",S_Amino_acids_and_related_molecules
+BSU00110,0,0,0,pdxS,"glutamine amidotransferase for pyridoxal phosphate synthesis; pyridoxal 5'-phosphate synthase complex, synthase subunit",S_Coenzymes_and_prosthetic_groups
+BSU00120,0,0,0,pdxT,"glutamine amidotransferase for pyridoxal phosphate synthesis; pyridoxal 5'-phosphate synthase complex, glutamine amidotransferase subunit PdxT",S_Coenzymes_and_prosthetic_groups
+BSU18440,0,0,0,gltB,"glutamate synthase (small subunit, NADP-dependent)",S_Amino_acids_and_related_molecules
+BSU39980,0,0,0,qdoI,quercetin dioxygenase,S_Carbohydrates_and_related_molecules
+BSU29750,0,0,1,aroX,bifunctional chorismate mutase type II-isozyme 3 (regulatory domain); 3-deoxy-D-arabino-heptulosonate 7-phosphate synthase,"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU25710,0,0,0,cwlH,N-acetylmuramoyl-L-alanine amidase,S_Cell_wall
+BSU21680,0,0,0,msrB,peptide methionine R-sulfoxide reductase,"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU30300,0,0,0,melA,alpha-D-galactoside galactohydrolase,"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU27120,0,0,0,sigV,RNA polymerase ECF(extracytoplasmic function)-type sigma factor (sigma(V)),"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU00980,0,0,0,sigH,RNA polymerase sigma-30 factor (sigma(H)),"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU35920,0,0,0,rbsK,ribokinase,"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU30830,0,0,0,menF,menaquinone-specific isochorismate synthase,S_Coenzymes_and_prosthetic_groups
+BSU14530,1,1,1,rnjA,ribonuclease J1,S_Coenzymes_and_prosthetic_groups
+BSU30790,0,0,1,menE,O-succinylbenzoyl-CoA synthetase,S_Coenzymes_and_prosthetic_groups
+BSU14540,1,1,1,rnpZA,RNA polymerase (epsilon subunit),S_Coenzymes_and_prosthetic_groups
+BSU30820,0,0,1,menD,2-oxoglutarate decarboxylase and 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1- carboxylic-acid synthase,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU30780,0,0,1,menC,<i>o</i>-succinylbenzoate synthase,S_Coenzymes_and_prosthetic_groups
+BSU30800,0,0,1,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",S_Coenzymes_and_prosthetic_groups
+BSU38020,0,0,0,pdxK,"pyridoxine, pyridoxal, and pyridoxamine kinase","S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU22680,0,0,0,trpE,anthranilate synthase,S_Amino_acids_and_related_molecules
+BSU22650,0,1,1,trpF,phosphoribosylanthranilate isomerase,S_Amino_acids_and_related_molecules
+BSU22610,0,0,1,tyrA,prephenate dehydrogenase,S_Amino_acids_and_related_molecules
+BSU22600,0,0,1,aroA,3-phosphoshikimate 1-carboxyvinyltransferase (5-enolpyruvoylshikimate-3-phosphate synthase),S_Amino_acids_and_related_molecules
+BSU22640,0,1,1,trpB,tryptophan synthase (beta subunit),S_Amino_acids_and_related_molecules
+BSU22620,0,0,0,hisC,histidinol-phosphate aminotransferase; tyrosine/phenylalanine aminotransferase (promiscuous),"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU22660,0,1,1,trpC,indole-3-glycerol phosphate synthase,S_Amino_acids_and_related_molecules
+BSU22630,0,1,1,trpA,tryptophan synthase (alpha subunit),S_Amino_acids_and_related_molecules
+BSU22670,0,1,1,trpD,anthranilate phosphoribosyltransferase,S_Amino_acids_and_related_molecules
+BSU28280,0,0,1,leuA,2-isopropylmalate synthase,S_Amino_acids_and_related_molecules
+BSU28300,0,0,0,ilvH,acetohydroxy-acid synthase (small subunit),"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU28260,0,0,1,leuC,3-isopropylmalate dehydratase (large subunit),"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU28270,0,0,1,leuB,3-isopropylmalate dehydrogenase,S_Amino_acids_and_related_molecules
+BSU28310,0,0,0,ilvB,acetohydroxy-acid synthase (large subunit),"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU28250,0,0,1,leuD,3-isopropylmalate dehydratase (small subunit),"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU06020,1,1,1,groES,chaperonin small subunit,"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU06030,1,1,1,groEL,chaperonin large subunit,"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU19230,0,0,0,azoJ,FMN-dependent NADH-azoreductase,S_Lipids
+BSU28290,0,1,1,ilvC,acetohydroxy-acid isomeroreductase (NADP-dependent),"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU01050,1,1,1,rplL,ribosomal protein L12 (BL9),"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU01040,1,1,1,rplJ,ribosomal protein L10 (BL5),"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU39750,0,0,0,iolB,5-deoxy-D-glucuronate isomerase,S_Carbohydrates_and_related_molecules
+BSU39700,0,0,0,iolG,myo-inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase,S_Carbohydrates_and_related_molecules
+BSU29180,0,0,0,pyk,pyruvate kinase,S_Carbohydrates_and_related_molecules
+BSU39730,0,0,0,iolD,"3D-(3,5/4)-trihydroxycyclohexane-1,2-dione hydrolase",S_Carbohydrates_and_related_molecules
+BSU39760,0,0,0,iolA,(methyl)malonate-semialdehyde dehydrogenase monomer,"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU39670,0,0,0,iolJ,2-deoxy-5-keto-D-gluconic acid 6-phosphate aldolase,"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU39740,0,0,0,iolC,2-deoxy-5-keto-D-gluconic acid kinase,S_Carbohydrates_and_related_molecules
+BSU39720,0,0,0,iolE,scyllo-inosose dehydratase,S_Carbohydrates_and_related_molecules
+BSU03930,0,0,0,gdh,forespore glucose 1-dehydrogenase,S_Carbohydrates_and_related_molecules
+BSU10270,0,0,0,lcfB,long-chain fatty-acid-CoA ligase (degradative),"S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids"
+BSU04340,0,0,0,poxB,acetyl-phosphate generating pyruvate oxidase,S_Carbohydrates_and_related_molecules
+BSU12910,0,0,0,proCC,redundant pyrroline-5-carboxylate reductase,S_Amino_acids_and_related_molecules
+BSU40340,0,0,0,rocD,ornithine aminotransferase,S_Amino_acids_and_related_molecules
+BSU40320,0,0,0,argI,arginase,S_Amino_acids_and_related_molecules
+BSU35620,0,0,0,lytC,N-acetylmuramoyl-L-alanine amidase (major autolysin),S_Cell_wall
+BSU25760,0.0,1.0,1.0,,,
+BSU26390,0.0,1.0,1.0,,,
+BSU31350,0,0,0,pgi,glucose-6-phosphate isomerase,"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU29190,1,1,1,pfkA,6-phosphofructokinase,"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU24310,1,1,1,folD,methylenetetrahydrofolate dehydrogenase; methenyltetrahydrofolate cyclohydrolase,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU35660,1,0,1,mnaA,UDP-<i>N</i>-acetylglucosamine 2-epimerase,"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU25200,1,1,1,sigA,RNA polymerase major sigma-43 factor (sigma-A),"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU22960,0,0,0,gudB,cryptic glutamate dehydrogenase (active after removal of a 9 bp insert),S_Amino_acids_and_related_molecules
+BSU02090,0,0,0,ybxI,exported beta-lactamase,S_Other_function
+BSU13550,0,0,0,mtnA,methylthioribose-1-phosphate isomerase (methionine salvage pathway),S_Amino_acids_and_related_molecules
+BSU13560,0,0,0,mtnK,"methylthioribose kinase (methionine salvage pathway, promiscuous)",S_Amino_acids_and_related_molecules
+BSU28870,1,1,1,infC,initiation factor IF-3,S_Amino_acids_and_related_molecules
+BSU28850,1,1,1,rplT,ribosomal protein L20,S_Amino_acids_and_related_molecules
+BSU07830,0,0,0,hypO,NAD(P)H-flavin oxidoreductase (nitroreductase),S_Membrane_bioenergetics
+BSU28860,1,1,1,rpmI,ribosomal protein L35,S_Membrane_bioenergetics
+BSU41060,1,1,1,rpmH,ribosomal protein L34,S_Membrane_bioenergetics
+BSU16920,1,0,1,pgsA,CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase,S_Lipids
+BSU32460,0,0,0,pucM,5-hydroxyisourate hydrolase; also uricase subunit,S_Nucleotides_and_nucleic_acids
+BSU32450,0,0,0,pucL,urate oxidase with peroxide reductase N-terminal domain,S_Nucleotides_and_nucleic_acids
+BSU17890,0,0,1,tktA,transketolase,"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU12020,0,0,0,manA,mannose-6 phosphate isomerase; cupin family,S_Carbohydrates_and_related_molecules
+BSU03010,0,0,0,amhX,putative amidohydrolase,S_Coenzymes_and_prosthetic_groups
+BSU39400,0,0,0,pdp,pyrimidine-nucleoside phosphorylase,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU38200,0,0,0,galK,galactokinase,S_Carbohydrates_and_related_molecules
+BSU39420,0,0,0,deoC,deoxyribose-phosphate aldolase,S_Nucleotides_and_nucleic_acids
+BSU38190,0,0,0,galT,galactose-1-phosphate uridyltransferase,S_Carbohydrates_and_related_molecules
+BSU36650,0,0,0,ureB,urease (beta subunit),S_Amino_acids_and_related_molecules
+BSU36660,0,0,0,ureA,urease (gamma subunit),S_Amino_acids_and_related_molecules
+BSU15990,1,1,1,rpsP,ribosomal protein S16 (BS17),S_Amino_acids_and_related_molecules
+BSU36640,0,0,0,ureC,urease (alpha subunit),S_Amino_acids_and_related_molecules
+BSU38560,0,0,0,licH,6-phospho-beta-glucosidase,"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU01530,0,0,0,cwlD,N-acetylmuramoyl-L-alanine amidase,S_Cell_wall
+BSU09300,0,0,0,glpD,sn-glycerol-3-phosphate oxidase (FAD-dependent),S_Carbohydrates_and_related_molecules
+BSU30550,0,0,0,metK,S-adenosylmethionine synthetase,S_Amino_acids_and_related_molecules
+BSU23500,0,0,0,deoB,"1,5-phosphopentomutase","S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU35670,1,0,1,gtaB,UTP-glucose-1-phosphate uridylyltransferase,S_Cell_wall
+BSU23490,0,0,0,pupG,purine nucleoside phosphorylase,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU23840,1,1,1,rnz,ribonuclease Z,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU16470,0,0,0,sigD,RNA polymerase sigma-28 factor (sigma-D),"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU09520,0,0,0,sigM,RNA polymerase ECF (extracytoplasmic function)-type sigma factor (sigma(M)),"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU38980,0,0,0,scoB,succinyl CoA:3-oxoacid CoA-transferase (subunit B),S_Carbohydrates_and_related_molecules
+BSU38990,0,0,0,scoA,acetoacetyl CoA-transferase (subunit A),S_Carbohydrates_and_related_molecules
+BSU25070,0,0,1,ispG,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase),S_Lipids
+BSU37790,0,0,0,rocG,glutamate dehydrogenase,S_Amino_acids_and_related_molecules
+BSU05860,0,0,0,gmuE,ROK fructokinase; glucomannan utilization protein E,S_Carbohydrates_and_related_molecules
+BSU00150,0,0,0,dgk,deoxyguanosine kinase,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU00140,0,0,0,dck,deoxyadenosine/deoxycytidine kinase,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU39370,0,0,0,hutI,imidazolone-5-propionate hydrolase,S_Amino_acids_and_related_molecules
+BSU39380,0,0,0,hutG,formiminoglutamate hydrolase,S_Amino_acids_and_related_molecules
+BSU39360,0,0,0,hutU,urocanase,S_Amino_acids_and_related_molecules
+BSU39350,0,0,0,hutH,histidine ammonia-lyase (histidase),S_Amino_acids_and_related_molecules
+BSU08070,0,0,0,acoB,acetoin dehydrogenase E1 component (TPP-dependent beta subunit),S_Carbohydrates_and_related_molecules
+BSU08060,0,0,0,acoA,acetoin dehydrogenase E1 component (TPP-dependent alpha subunit),S_Carbohydrates_and_related_molecules
+BSU33440,0,0,0,cysJ,assimilatory sulfite reductase (flavoprotein alpha-subunit),S_Phosphate_and_sulfur
+BSU33430,0,0,0,cysI,assimilatory sulfite reductase (hemoprotein beta-subunit),S_Phosphate_and_sulfur
+BSU04000,0,0,0,ycsA,putative tartrate dehydrogenase,"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU38550,0,0,0,ilvK,branched-chain amino acid aminotransferase,"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU40060,0,0,0,gntK,D-gluconate kinase,S_Carbohydrates_and_related_molecules
+BSU37070,1,1,1,rpmEA,ribosomal protein L31,S_Carbohydrates_and_related_molecules
+BSU11420,1,1,1,trpS,tryptophanyl-tRNA synthetase,S_Carbohydrates_and_related_molecules
+BSU28630,1,1,1,pheT,phenylalanyl-tRNA synthetase (beta subunit),S_Carbohydrates_and_related_molecules
+BSU01770,0,1,1,glmM,phosphoglucosamine mutase,"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU36890,0,0,0,upp,uracil phosphoribosyltransferase,S_Nucleotides_and_nucleic_acids
+BSU30560,0,0,0,pckA,phosphoenolpyruvate carboxykinase,S_Carbohydrates_and_related_molecules
+BSU10130,0,0,0,hemH,coproporphyrin ferrochelatase,S_Coenzymes_and_prosthetic_groups
+BSU10140,0,0,0,hemY,promiscuous protoporphyrinogen IX and coproporphyrinogen III oxidase,S_Coenzymes_and_prosthetic_groups
+BSU06240,0,0,0,bdhA,"acetoin reductase/2,3-butanediol dehydrogenase",S_Carbohydrates_and_related_molecules
+BSU15110,0,0,0,panE,2-dehydropantoate 2-reductase,S_Coenzymes_and_prosthetic_groups
+BSU10120,0,0,0,hemE,uroporphyrinogen III decarboxylase,S_Coenzymes_and_prosthetic_groups
+BSU09440,0,0,0,citA,citrate synthase I,S_Carbohydrates_and_related_molecules
+BSU24080,0,0,1,bcd,branched-chain amino acid dehydrogenase,"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU29010,0,0,0,speD,S-adenosylmethionine decarboxylase,S_Amino_acids_and_related_molecules
+BSU29020,0,0,0,gapB,"glyceraldehyde-3-phosphate dehydrogenase (NADP-dependent, gluconeogenesis)",S_Carbohydrates_and_related_molecules
+BSU24090,0,0,0,ptb,phosphate BCFA and butyryl coenzyme A transferase,S_Carbohydrates_and_related_molecules
+BSU24070,0,0,0,buk,branched-chain fatty-acid kinase,S_Carbohydrates_and_related_molecules
+BSU18000,0,0,0,citB,aconitate hydratase (bifunctional aconitase),S_Carbohydrates_and_related_molecules
+BSU29120,0,0,0,mdh,malate dehydrogenase (NAD-dependent),S_Carbohydrates_and_related_molecules
+BSU29300,0,0,0,ribR,RNA-binding riboflavin kinase,S_Coenzymes_and_prosthetic_groups
+BSU29140,0,0,0,citZ,citrate synthase II,S_Carbohydrates_and_related_molecules
+BSU29130,0,0,0,icd,isocitrate dehydrogenase,S_Carbohydrates_and_related_molecules
+BSU11330,0,0,0,fabHA,beta-ketoacyl-acyl carrier protein synthase III 1,"S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids"
+BSU40110,0,0,0,bglA,aryl-6-phospho-beta-glucosidase,"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU18670,0,0,0,oxdD,oxalate decarboxylase (Mn2+-dependent); spore constituent,S_Carbohydrates_and_related_molecules
+BSU16780,1,1,1,rnjB,dual activity 5' exo-and endoribonuclease J2,S_Carbohydrates_and_related_molecules
+BSU01730,0,0,0,sigW,RNA polymerase ECF(extracytoplasmic function)-type sigma factor W,S_Carbohydrates_and_related_molecules
+BSU24040,1,0,1,bkdAB,branched-chain alpha-keto acid dehydrogenase E1 subunit,"S_Lipids,S_Lipids,S_Lipids"
+BSU03200,0,0,0,putB,proline oxidase,S_Amino_acids_and_related_molecules
+BSU24030,1,0,1,bkdB,branched-chain alpha-keto acid dehydrogenase E2 subunit (lipoamide acyltransferase),"S_Lipids,S_Lipids,S_Lipids"
+BSU15190,0,1,1,mraY,phospho-N-acetylmuramoyl-pentapeptide undecaprenyl phosphate (C55P) transferase,S_Cell_wall
+BSU15220,0,1,1,murG,UDP-N-acetylglucosamine-N-acetylmuramyl- (pentapeptide)pyrophosphoryl-undecaprenol N-acetylglucosamine transferase,S_Cell_wall
+BSU24060,1,0,1,lpdV,branched-chain alpha-keto acid dehydrogenase E3 subunit (dihydrolipoamide dehydrogenase),"S_Lipids,S_Lipids,S_Lipids"
+BSU15230,0,1,1,murB,UDP-N-acetylenolpyruvoylglucosamine reductase,S_Cell_wall
+BSU24050,1,0,1,bkdAA,branched-chain alpha-keto acid dehydrogenase E1 subunit,"S_Lipids,S_Lipids,S_Lipids"
+BSU15200,0,1,1,murD,UDP-N-acetylmuramoylalanyl-D-glutamate ligase,S_Cell_wall
+BSU28120,0,0,0,hemL,"glutamate-1-semialdehyde 2,1-aminomutase",S_Coenzymes_and_prosthetic_groups
+BSU15180,0,1,1,murE,"UDP-N-acetylmuramoylalanyl-D-glutamate-2, 6-diaminopimelate ligase",S_Cell_wall
+BSU28150,0,0,0,hemC,porphobilinogen deaminase (hydroxymethylbilane synthase),S_Coenzymes_and_prosthetic_groups
+BSU28140,0,0,0,hemD,uroporphyrinogen III cosynthase,S_Coenzymes_and_prosthetic_groups
+BSU28130,0,0,0,hemB,delta-aminolevulinic acid dehydratase (porphobilinogen synthase),S_Coenzymes_and_prosthetic_groups
+BSU06360,0,0,1,guaA,GMP synthetase,S_Nucleotides_and_nucleic_acids
+BSU13130,0,0,0,proA,gamma-glutamyl phosphate reductase,S_Amino_acids_and_related_molecules
+BSU13120,0,0,0,proB,glutamate 5-kinase,S_Amino_acids_and_related_molecules
+BSU15930,0,0,0,rnc,ribonuclease III,S_Amino_acids_and_related_molecules
+BSU11340,1,0,1,fabF,beta-ketoacyl-acyl carrier protein synthase II (involved in pimelate synthesis),"S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids"
+BSU17150,0,0,0,pksG,acetyl-S-AcpK beta-ketothioester bacillaene intermediate transferase,S_Carbohydrates_and_related_molecules
+BSU31750,0,0,0,pncB,nicotinate phosphoribosyltransferase,S_Coenzymes_and_prosthetic_groups
+BSU37170,0,0,0,acdA,acyl-CoA dehydrogenase,"S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids"
+BSU32130,0,0,0,guaC,GMP reductase (NADP-dependent),S_Nucleotides_and_nucleic_acids
+BSU08030,0,0,0,dusC,tRNA-dihydrouridine synthase 2,S_Nucleotides_and_nucleic_acids
+BSU11670,0,0,0,thiO,glycine oxidase,"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU11710,0,0,0,thiD,"phosphomethylpyrimidine kinase, 4-amino-5-hydroxymethyl-2-methylpyrimidine and 4-amino-5-hydroxymethyl-2-methylpyrimidine pyrophosphate kinase","S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU11650,0,0,0,tenA,thiaminase II,S_Coenzymes_and_prosthetic_groups
+BSU38040,0,0,0,sacA,sucrose-6-phosphate hydrolase,"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU18210,0,0,0,ldeE,methylcrotonoyl-CoA carboxylase subunit (leucine degradation),S_Carbohydrates_and_related_molecules
+BSU18230,0,0,0,ldeG,hydroxymethylglutaryl-CoA lyase (leucine degradation),S_Lipids
+BSU18250,0,0,0,ldeI,acetoacetyl-CoA synthetase,"S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids"
+BSU16630,1,1,1,infB,initiation factor IF-2,"S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids"
+BSU18220,0,0,0,ldeF,methylglutaconyl-CoA hydratase (leucine degradation),"S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids"
+BSU16650,1,1,1,rbfA,pre-ribosomal (17S) RNA binding factor A,"S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids"
+BSU18260,0,0,0,ldeJ,isovaleryl-CoA dehydrogenase (leucine degradation),"S_Lipids,S_Lipids,S_Lipids"
+BSU29470,0,0,0,ackA,acetate kinase,"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU13600,0,0,0,mtnX,2-hydroxy-3-keto-5-methylthiopentenyl-1- phosphatephosphatase (HK-MTPenyl-1-P phosphatase),S_Amino_acids_and_related_molecules
+BSU16600,1,1,1,nusA,intrinsic transcription termination factor NusA,S_Amino_acids_and_related_molecules
+BSU13610,0,0,0,mtnB,methylthioribulose-1-phosphate dehydratase (MTRu-1-P dehydratase),S_Amino_acids_and_related_molecules
+BSU37160,1,1,1,rpoE,RNA polymerase (delta subunit) and transcriptional repressor,S_Amino_acids_and_related_molecules
+BSU15900,1,0,1,fabD,malonyl CoA:acyl carrier protein transacylase,"S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids"
+BSU13620,0,0,0,mtnD,acireductone dioxygenase (Ni2+ or Fe2+-requiring),"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU13590,0,0,0,mtnW,"2,3-diketo-5-methylthiopentyl-1-phosphate enolase (DK-MTP-1-P enolase)",S_Amino_acids_and_related_molecules
+BSU18800,0,0,0,penP,beta-lactamase precursor (putative hydrolase),S_Other_function
+BSU15910,1,0,1,fabG,beta-ketoacyl-acyl carrier protein reductase,"S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids"
+BSU19370,0,0,0,odhA,2-oxoglutarate dehydrogenase (E1 subunit),S_Carbohydrates_and_related_molecules
+BSU19360,0,0,0,odhB,"2-oxoglutarate dehydrogenase complex (dihydrolipoamide transsuccinylase, E2 subunit)",S_Carbohydrates_and_related_molecules
+BSU26600,0,0,0,bltD,spermine/spermidine acetyltransferase,"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU13450,0,0,0,sigI,RNA polymerase sigma factor (heat stress responsive),"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU27610,0,0,0,apt,adenine phosphoribosyltransferase,S_Nucleotides_and_nucleic_acids
+BSU38700,0,0,0,sigY,RNA polymerase ECF (extracytoplasmic function)-type sigma factor (sigma-Y),S_Nucleotides_and_nucleic_acids
+BSU22110,0,0,0,kdgK,2-keto-3-deoxygluconate kinase,S_Carbohydrates_and_related_molecules
+BSU22100,0,0,0,kdgA,2-keto-3-deoxygluconate-6-phosphate aldolase,S_Carbohydrates_and_related_molecules
+BSU40550,0,0,1,ppaC,inorganic pyrophosphatase (Mn2+-dependent),S_Phosphate_and_sulfur
+BSU25300,0,0,0,cdd,cytidine/deoxycytidine deaminase,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU36760,0,0,0,murAA,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,S_Cell_wall
+BSU33240,0,0,0,oxdC,oxalate decarboxylase,S_Carbohydrates_and_related_molecules
+BSU22490,0,1,1,dapB,"(4S)-4-hydroxy-2,3,4, 5-tetrahydro-(2S)-dipicolinic acid (HTPA) dehydratase reductase",S_Amino_acids_and_related_molecules
+BSU22480,0,0,0,mgsA,methylglyoxal synthase,S_Carbohydrates_and_related_molecules
+BSU23770,0,0,0,dsdA,D-serine ammonia-lyase,S_Amino_acids_and_related_molecules
+BSU23760,0,0,0,coaA,pantothenate kinase,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU37150,0,0,1,pyrG,CTP synthetase,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU35750,1,0,1,tagA,"N-acetylmannosamine (ManNAc) C4 hydroxyl of a membrane-anchored N-acetylglucosaminyl diphospholipid (GlcNAc-pp-undecaprenyl, lipid I) glycosyltransferase","S_Cell_wall,S_Cell_wall,S_Cell_wall"
+BSU38830,0,0,0,aldY,putative aldehyde dehydrogenase,"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU35760,1,0,1,tagB,"teichoic acid primase, CDP-glycerol:N-acetyl-beta-d-mannosaminyl-1, 4-N-acetyl-d-glucosaminyldiphosphoundecaprenyl glycerophosphotransferase","S_Cell_wall,S_Cell_wall,S_Cell_wall"
+BSU15820,1,1,1,rpmB,ribosomal protein L28,"S_Cell_wall,S_Cell_wall,S_Cell_wall"
+BSU28640,1,1,1,pheS,phenylalanyl-tRNA synthetase (alpha subunit),"S_Cell_wall,S_Cell_wall,S_Cell_wall"
+BSU08860,0,0,0,ssuD,FMNH2-dependent aliphatic sulfonate monooxygenase,"S_Phosphate_and_sulfur,S_Phosphate_and_sulfur,S_Phosphate_and_sulfur,S_Phosphate_and_sulfur,S_Phosphate_and_sulfur,S_Phosphate_and_sulfur,S_Phosphate_and_sulfur"
+BSU28800,0,0,0,araA,L-arabinose isomerase,S_Carbohydrates_and_related_molecules
+BSU25290,1,1,1,era,maturation of 16S RNA and assembly of 30S ribosomal subunit GTPase,S_Carbohydrates_and_related_molecules
+BSU22440,1,0,1,birA,biotin acetyl-CoA-carboxylase ligase and biotin regulon repressor (BirA-biotinoyl-5'-AMP),S_Lipids
+BSU28790,0,0,0,araB,L-ribulokinase,"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU28720,0,0,0,abfA,&alpha;-L-arabinofuranosidase 1,S_Carbohydrates_and_related_molecules
+BSU03860,0,0,0,nfrAB,NADPH-FMN oxidoreductase (nitroreductase),S_Membrane_bioenergetics
+BSU25580,0,0,0,comEB,dCMP deaminase associated to DNA transport (competence),"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU33040,0,0,0,fumC,fumarate hydratase,S_Carbohydrates_and_related_molecules
+BSU28780,0,0,0,araD,L-ribulose-5-phosphate 4-epimerase,S_Carbohydrates_and_related_molecules
+BSU37660,0,0,0,pta,phosphotransacetylase,"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU34130,0,0,0,ganA,"short chain beta-1,4-galacto-oligosaccharides beta-galactosidase (beta-galacto-pyranoside hydrolase)",S_Carbohydrates_and_related_molecules
+BSU39920,0,0,0,asnH,asparagine synthetase (glutamine-hydrolyzing),S_Amino_acids_and_related_molecules
+BSU29060,0,0,0,coaE,dephosphocoenzyme A kinase,S_Coenzymes_and_prosthetic_groups
+BSU27010,0,0,0,adhA,<em>S</em>-(hydroxymethyl)bacillithiol dehydrogenase,S_Carbohydrates_and_related_molecules
+BSU19800,0,0,0,phyC,phytase,S_Carbohydrates_and_related_molecules
+BSU29680,0,0,0,acsA,acetyl-CoA synthetase,"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU17380,0,0,1,nrdE,ribonucleoside-diphosphate reductase (major subunit),"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU17390,0,0,1,nrdF,ribonucleoside-diphosphate reductase (minor subunit),"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU30230,0,0,0,bioK,L-lysine-8-amino-7-oxononanoate aminotransferase,S_Coenzymes_and_prosthetic_groups
+BSU30240,0,0,0,bioW,6-carboxyhexanoate-CoA ligase monomer,S_Coenzymes_and_prosthetic_groups
+BSU30200,0,0,0,bioB,biotin synthase,S_Coenzymes_and_prosthetic_groups
+BSU30210,0,0,0,bioD,dethiobiotin synthetase,S_Coenzymes_and_prosthetic_groups
+BSU30220,0,0,0,bioFC,8-amino-7-oxononanoate synthase (pimeloyl-CoA-dependent),S_Coenzymes_and_prosthetic_groups
+BSU21910,0,1,1,metAA,homoserine O-acetyltransferase,S_Amino_acids_and_related_molecules
+BSU27860,0,0,1,nadC,nicotinate-nucleotide pyrophosphorylase (quinolinate phosphoribosyltransferase),S_Coenzymes_and_prosthetic_groups
+BSU27870,0,0,1,nadB,L-aspartate oxidase,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU27850,0,0,1,nadA,quinolinate synthetase,S_Coenzymes_and_prosthetic_groups
+BSU28080,0,0,1,folC,folyl-polyglutamate synthase,S_Coenzymes_and_prosthetic_groups
+BSU14730,0,0,0,sigP,RNA polymerase ECF-type sigma factor,S_Coenzymes_and_prosthetic_groups
+BSU09410,0,0,0,phoA,alkaline phosphatase A,"S_Phosphate_and_sulfur,S_Phosphate_and_sulfur"
+BSU28500,0,1,1,trxA,thioredoxin,"S_Phosphate_and_sulfur,S_Phosphate_and_sulfur"
+BSU02130,0,0,0,glpQA,secreted glycerophosphoryl diester phosphodiesterase,"S_Lipids,S_Lipids,S_Lipids"
+BSU15630,0,0,0,sirC,precorrin-2 dehydrogenase,S_Coenzymes_and_prosthetic_groups
+BSU15590,0,1,1,sat,sulfate adenylyltransferase,S_Phosphate_and_sulfur
+BSU15570,0,1,1,cysH,(phospho)adenosine phosphosulfate reductase,"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU15620,0,0,0,sirB,sirohydrochlorin ferrochelatase,S_Coenzymes_and_prosthetic_groups
+BSU15610,0,0,0,sumT,uroporphyrinogen III and precorrin-1 C-methyltransferase,S_Coenzymes_and_prosthetic_groups
+BSU15600,0,0,0,cysC,adenylylsulfate kinase,S_Amino_acids_and_related_molecules
+BSU28430,0,0,0,sdhB,succinate dehydrogenase (iron-sulfur protein),"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU28440,0,0,0,sdhA,succinate dehydrogenase (flavoprotein subunit),"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU02510,0,0,0,garD,D-galactarate dehydratase,S_Carbohydrates_and_related_molecules
+BSU28450,0,0,0,sdhC,succinate dehydrogenase (cytochrome b558 subunit),"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU02490,0,0,0,gudD,glucarate dehydratase,S_Carbohydrates_and_related_molecules
+BSU02460,0,0,0,kdgD,5-dehydro-4-deoxyglucarate dehydratase,S_Carbohydrates_and_related_molecules
+BSU16740,0,0,0,spoVFB,spore dipicolinate synthase subunit B,S_Other_function
+BSU16760,0,0,0,dapG,aspartokinase I (alpha and beta subunits),S_Amino_acids_and_related_molecules
+BSU16730,0,0,0,spoVFA,spore dipicolinate synthase subunit A,S_Other_function
+BSU16770,0,1,1,dapA,4-hydroxy-tetrahydrodipicolinate synthase,S_Amino_acids_and_related_molecules
+BSU16750,0,1,1,asd,aspartate-semialdehyde dehydrogenase,S_Amino_acids_and_related_molecules
+BSU28510,0,0,0,abfB,&alpha;-L-arabinofuranosidase 2,"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU36920,0,0,0,rpiB,D-ribose 5-phosphate epimerase (promiscuous),S_Carbohydrates_and_related_molecules
+BSU03050,0,0,0,lctE,L-lactate dehydrogenase,"S_Membrane_bioenergetics,S_Membrane_bioenergetics"
+BSU28090,1,1,1,valS,valyl-tRNA synthetase,"S_Membrane_bioenergetics,S_Membrane_bioenergetics"
+BSU24170,0,0,0,mmgA,degradative acetoacetyl-CoA thiolase,S_Lipids
+BSU24160,0,0,0,mmgB,3-hydroxybutyryl-CoA dehydrogenase,S_Lipids
+BSU24120,0,0,0,mmgF,2-methylisocitrate lyase,S_Carbohydrates_and_related_molecules
+BSU24140,0,0,0,mmgD,bifunctional citrate synthase/2-methylcitrate synthase,S_Carbohydrates_and_related_molecules
+BSU24130,0,0,0,mmgE,2-methylcitrate dehydratase (promiscuous),S_Carbohydrates_and_related_molecules
+BSU24150,0,0,0,mmgC,propionyl-CoA dehydrogenase subunit,"S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids"
+BSU04740,0,1,1,rsbX,serine phosphatase,"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU10790,0,0,0,asnO,asparagine synthetase (sporulation related),S_Amino_acids_and_related_molecules
+BSU33630,1,1,1,secG,preprotein translocase subunit,S_Amino_acids_and_related_molecules
+BSU39260,0,0,0,bglH,aryl-phospho-beta-d-glucosidase,"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU07840,0,0,0,yfkN,"exported 2',3'-cyclic-nucleotide 2'-phosphodiesterase, 2' (or 3') nucleotidase and 5' nucleotidase","S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU29200,1,0,1,accA,acetyl-CoA carboxylase (carboxyltransferase alpha subunit),S_Lipids
+BSU00410,0,0,0,rnmV,ribonuclease M5,S_Lipids
+BSU40190,0,0,0,fbp,"fructose-1,6-bisphosphatase",S_Carbohydrates_and_related_molecules
+BSU29210,1,0,1,accD,acetyl-CoA carboxylase (carboxyltransferase beta subunit),S_Lipids
+BSU00790,0,0,1,folK,"7,8-dihydro-6-hydroxymethylpterin pyrophosphokinase",S_Coenzymes_and_prosthetic_groups
+BSU29790,0,1,1,murC,UDP-N-acetyl muramate-alanine ligase,S_Cell_wall
+BSU00810,0,0,0,dusB,tRNA-dihydrouridine synthase B,S_Cell_wall
+BSU04730,1,0,1,sigB,RNA polymerase sigma-37 factor (sigma(B)),S_Cell_wall
+BSU00740,0,0,1,pabB,4-amino-4-deoxychorismate synthase (para-aminobenzoate synthase),S_Coenzymes_and_prosthetic_groups
+BSU38530,1,0,1,dltD,D-alanine carrier protein:PG D-alanyltransferase,"S_Cell_wall,S_Cell_wall"
+BSU38500,1,0,1,dltA,D-alanine--[D-alanyl carrier protein] ligase,"S_Cell_wall,S_Cell_wall"
+BSU00770,0,0,1,folP,dihydropteroate synthase,S_Coenzymes_and_prosthetic_groups
+BSU00750,0,0,1,pabA,4-amino-4-deoxychorismate synthase; anthranilate synthase (subunit II),"S_Coenzymes_and_prosthetic_groups,S_Amino_acids_and_related_molecules"
+BSU38520,1,0,1,dltC,D-alanyl carrier protein,"S_Cell_wall,S_Cell_wall"
+BSU38510,1,0,1,dltB,PG:teichoic acid D-alanyltransferase,"S_Cell_wall,S_Cell_wall"
+BSU29670,1,1,1,tyrS,tyrosyl-tRNA synthetase,"S_Cell_wall,S_Cell_wall"
+BSU00760,0,0,1,pabC,4-amino-4-deoxychorismate pyruvate-lyase,S_Coenzymes_and_prosthetic_groups
+BSU00780,0,0,1,folB,dihydroneopterin aldolase,S_Coenzymes_and_prosthetic_groups
+BSU00820,1,1,1,lysS,lysyl-tRNA synthetase,S_Coenzymes_and_prosthetic_groups
+BSU35300,1,1,1,secA,translocase binding subunit (ATPase),S_Coenzymes_and_prosthetic_groups
+BSU35290,1,1,1,prfB,peptide chain release factor 2,S_Coenzymes_and_prosthetic_groups
+BSU01280,1,1,1,rplE,ribosomal protein L5 (BL6),S_Coenzymes_and_prosthetic_groups
+BSU01220,1,1,1,rpsC,ribosomal protein S3 (BS3),S_Coenzymes_and_prosthetic_groups
+BSU01210,1,1,1,rplV,ribosomal protein L22 (BL17),S_Coenzymes_and_prosthetic_groups
+BSU01230,1,1,1,rplP,ribosomal protein L16,S_Coenzymes_and_prosthetic_groups
+BSU01190,1,1,1,rplB,ribosomal protein L2 (BL2),S_Coenzymes_and_prosthetic_groups
+BSU01240,1,1,1,rpmC,ribosomal protein L29,S_Coenzymes_and_prosthetic_groups
+BSU01200,1,1,1,rpsS,ribosomal protein S19 (BS19),S_Coenzymes_and_prosthetic_groups
+BSU01260,1,1,1,rplNA,ribosomal protein L14,S_Coenzymes_and_prosthetic_groups
+BSU01270,1,1,1,rplX,ribosomal protein L24 (BL23),S_Coenzymes_and_prosthetic_groups
+BSU01250,1,1,1,rpsQ,ribosomal protein S17 (BS16),S_Coenzymes_and_prosthetic_groups
+BSU01370,0,0,1,adk,adenylate kinase,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01300,1,1,1,rpsH,ribosomal protein S8 (BS8),"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01330,1,1,1,rpsE,ribosomal protein S5,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01350,1,1,1,rplO,ribosomal protein L15,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01360,1,1,1,secY,preprotein translocase subunit,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01340,1,1,1,rpmD,ribosomal protein L30 (BL27),"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01290,1,1,1,rpsNA,ribosomal protein S14,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01380,1,1,1,mapA,methionine aminopeptidase,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01320,1,1,1,rplR,ribosomal protein L18,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01310,1,1,1,rplF,ribosomal protein L6 (BL8),"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01390,1,1,1,infA,initiation factor IF-I,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU02640,0,0,0,tatCD,component of the twin-arginine pre-protein translocation pathway,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU02630,0,0,0,tatAD,component of the twin-arginine pre-protein translocation pathway,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU04570,0,1,1,murF,"UDP-N-acetylmuramoylalanyl-D-glutamyl-2, 6-diaminopimelate-D-alanyl-D-alanine ligase",S_Cell_wall
+BSU04560,0,1,1,ddlA,D-alanyl-D-alanine ligase A,S_Cell_wall
+BSU04620,0,0,0,acpS,holo-acyl carrier protein synthase (phosphopantetheinyl transferase),S_Lipids
+BSU04640,0,1,1,alrA,D-alanine racemase,S_Amino_acids_and_related_molecules
+BSU05900,0,0,0,thiL,thiamine monophosphate kinase,S_Coenzymes_and_prosthetic_groups
+BSU05980,0,0,0,tatAY,component of the twin-arginine pre-protein translocation pathway,S_Coenzymes_and_prosthetic_groups
+BSU01430,1,1,1,rpoA,RNA polymerase (alpha subunit),S_Coenzymes_and_prosthetic_groups
+BSU01410,1,1,1,rpsM,ribosomal protein S13,S_Coenzymes_and_prosthetic_groups
+BSU01400,1,1,1,rpmJ,ribosomal protein L36 (ribosomal protein B),S_Coenzymes_and_prosthetic_groups
+BSU01420,1,1,1,rpsK,ribosomal protein S11 (BS11),S_Coenzymes_and_prosthetic_groups
+BSU05990,0,0,0,tatCY,component of the twin-arginine pre-protein translocation pathway,S_Coenzymes_and_prosthetic_groups
+BSU06170,0,0,0,ydjE,putative sugar kinase (ribokinase family); prophage region 3,S_Carbohydrates_and_related_molecules
+BSU01440,1,1,1,rplQ,ribosomal protein L17 (BL15),S_Carbohydrates_and_related_molecules
+BSU01490,1,1,1,rplM,ribosomal protein L13,S_Carbohydrates_and_related_molecules
+BSU01500,1,1,1,rpsI,ribosomal protein S9,S_Carbohydrates_and_related_molecules
+BSU08710,0,0,0,gsaB,"glutamate-1-semialdehyde aminotransferase, class III aminotransferase",S_Coenzymes_and_prosthetic_groups
+BSU09240,0,0,0,glpW,promiscuous phosphoglycolate phosphatase / glycerol-3-phosphate phosphatase / 2-deoxyglucose-6-phosphatase,S_Carbohydrates_and_related_molecules
+BSU08790,0,0,0,thiC,phosphomethylpyrimidine synthase monomer,S_Coenzymes_and_prosthetic_groups
+BSU09310,0,0,0,pgcA,alpha-phosphoglucomutase,S_Carbohydrates_and_related_molecules
+BSU10020,0,0,1,serC,phosphoserine aminotransferase,S_Amino_acids_and_related_molecules
+BSU10360,0,0,0,yhfT,putative long-chain fatty-acid-CoA ligase (proofreading for biotin synthesis),"S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids"
+BSU11610,0,0,0,ppnKA,inorganic polyphosphate/ATP-NAD kinase (quinolate activated),"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU12080,0,0,0,ctaO,heme <i>o</i> synthase 1,S_Membrane_bioenergetics
+BSU06670,1,1,1,gatC,glutamyl-tRNA(Gln) amidotransferase (subunit C),S_Membrane_bioenergetics
+BSU06680,1,1,1,gatA,glutamyl-tRNA(Gln) amidotransferase (subunit A),S_Membrane_bioenergetics
+BSU06690,1,1,1,gatB,glutamyl-tRNA(Gln) amidotransferase (subunit B),S_Membrane_bioenergetics
+BSU06730,1,1,1,rlmCD,23S rRNA m<sup>5</sup>U747/m<sup>5</sup>U1939 RNA methyltransferase,S_Membrane_bioenergetics
+BSU31050,0,0,0,gbsB,choline dehydrogenase,S_Other_function
+BSU29440,0,1,1,argH,argininosuccinate lyase,S_Amino_acids_and_related_molecules
+BSU28680,0,0,0,glcD,glycolate oxidase subunit,S_Carbohydrates_and_related_molecules
+BSU29050,0,0,0,ytbE,promiscuous aldo/keto reductase,S_Carbohydrates_and_related_molecules
+BSU29450,0,1,1,argG,argininosuccinate synthase,S_Amino_acids_and_related_molecules
+BSU31060,0,0,0,gbsA,"glycine betaine aldehyde dehydrogenase, NAD+-dependent",S_Other_function
+BSU28390,0,0,0,rcmE,glutamate racemase,S_Amino_acids_and_related_molecules
+BSU30870,0,0,0,ytcB,putative UDP-glucose epimerase,S_Carbohydrates_and_related_molecules
+BSU31400,0,1,1,yugH,putative aspartate aminotransferase,S_Amino_acids_and_related_molecules
+BSU32170,0,1,1,dapF,diaminopimelate epimerase,S_Amino_acids_and_related_molecules
+BSU31760,0,0,0,pncA,nicotinamidase; NAD salvage pathway,S_Coenzymes_and_prosthetic_groups
+BSU31150,0,1,1,uppP,undecaprenyl-pyrophosphate phosphatase,S_Cell_wall
+BSU33170,0,1,1,yvrB,putative vitamin B12 permease,S_Transport
+BSU32100,0,0,0,yumB,putative NAD-disulfide oxidoreductase,S_Membrane_bioenergetics
+BSU34550,0,0,0,mdxM,bifunctional beta-phosphoglucomutase / glucose-1-phosphate phosphodismutase,"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU32680,0,1,1,sufU,iron-sulfur cluster assembly sulfur-transfer protein (Zn(2+)-dependent),"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU34570,0,0,0,mdxK,maltose phosphorylase,S_Carbohydrates_and_related_molecules
+BSU34860,0,1,1,hisIE,bifunctional phosphoribosyl-AMP cyclohydrolase; phosphoribosyl-ATP pyrophosphohydrolase,"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU34870,0,1,1,hisF,imidazole glycerol phosphate synthase subunit,S_Amino_acids_and_related_molecules
+BSU34560,0,0,0,mdxL,"oligo-1,4-1,6-alpha-glucosidase (sucrase-maltase-isomaltase)","S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU34790,0,0,0,trxB,thioredoxin reductase,S_Membrane_bioenergetics
+BSU34880,0,1,1,hisA,phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase,S_Amino_acids_and_related_molecules
+BSU34900,0,1,1,hisB,imidazoleglycerol-phosphate dehydratase [Mn(II)-dependent],S_Amino_acids_and_related_molecules
+BSU34890,0,0,0,hisH,"imidazole glycerol phosphate synthase, glutamine amidotransferase subunit","S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU30690,1,1,1,ytiB,carbonic anhydrase,"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU34910,0,1,1,hisD,histidinol dehydrogenase,S_Amino_acids_and_related_molecules
+BSU34920,0,1,1,hisG,ATP phosphoribosyltransferase,S_Amino_acids_and_related_molecules
+BSU36370,0,0,0,fabZ,beta-hydroxyacyl-[acyl carrier protein] dehydratase,"S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids"
+BSU28370,1,1,1,rph,ribonuclease PH,"S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids"
+BSU36710,0,0,0,fdhD,protein sulfur transferase involved in molybdenum cofactor synthesis,S_Membrane_bioenergetics
+BSU37060,0,0,0,tdk,thymidine kinase,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU37100,0,0,0,murAB,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,S_Cell_wall
+BSU37190,0,0,0,clsB,minor cardiolipin synthetase (phospholipase D family),S_Lipids
+BSU37240,0,0,0,clsC,minor cardiolipin synthetase,S_Lipids
+BSU40850,0,0,0,maa,maltose O-acetyltransferase,S_Carbohydrates_and_related_molecules
+BSU35680,1,0,1,ggaB,poly(glucosyl N-acetylgalactosamine 1-phosphate) glucosyltransferase,S_Cell_wall
+BSU35700,1,0,1,tagH,wall teichoic acid ABC transporter ATP-binding protein,"S_Cell_wall,S_Cell_wall,S_Cell_wall"
+BSU35530,1,0,1,tagO,UDP-N-acetylglucosamine:undecaprenyl-P N-acetylglucosaminyl-1-P transferase,"S_Cell_wall,S_Cell_wall,S_Cell_wall"
+BSU35710,1,0,1,tagG,wall teichoic acid ABC transporter membrane subunit,"S_Cell_wall,S_Cell_wall,S_Cell_wall"
+BSU35690,1,0,1,ggaA,poly(glucosyl N-acetylgalactosamine 1-phosphate) glucosyltransferase (missing signal peptide),S_Cell_wall
+BSU37010,1,1,1,prfA,peptide chain release factor 1,S_Cell_wall
+BSU37080,1,1,1,rho,transcriptional terminator Rho,S_Cell_wall
+BSU41050,1,1,1,rnpA,protein component of ribonuclease P (RNase P) (substrate specificity),S_Cell_wall
+BSU09290,0,0,0,glpK,glycerol kinase (sn-glycerol-3-phosphate generating),S_Carbohydrates_and_related_molecules
+BSU30950,0,0,0,glgA,glycogen (starch) synthase,S_Carbohydrates_and_related_molecules
+BSU30970,0,0,0,glgC,glucose-1-phosphate adenylyltransferase (ADP-glucose pyrophosphorylase) subunit alpha,S_Carbohydrates_and_related_molecules
+BSU14630,0,0,0,speA,arginine decarboxylase,S_Amino_acids_and_related_molecules
+BSU14390,0,0,0,fruK,fructose-1-phosphate kinase,S_Carbohydrates_and_related_molecules
+BSU30940,0,0,0,glgP,glycogen phosphorylase,S_Carbohydrates_and_related_molecules
+BSU30960,0,0,0,glgD,glucose-1-phosphate adenylyltransferase (ADP-glucose pyrophosphorylase) beta subunit,S_Carbohydrates_and_related_molecules
+BSU30540,0,0,0,asnB,meso-diaminopimelic acid amidotransferase (asparagine synthetase),S_Amino_acids_and_related_molecules
+BSU30980,0,0,0,glgB,"1,4-alpha-glucan branching enzyme",S_Carbohydrates_and_related_molecules
+BSU35010,0,0,0,nagA,N-acetylglucosamine-6-phosphate deacetylase,S_Carbohydrates_and_related_molecules
+BSU35020,0,0,0,nagBA,glucosamine-6-phosphate isomerase,S_Carbohydrates_and_related_molecules
+BSU23100,0,0,0,sigX,RNA polymerase ECF(extracytoplasmic function)-type sigma factor sigma(X),S_Carbohydrates_and_related_molecules
+BSU32820,0,0,0,fadE,acyl-CoA dehydrogenase (FAD dependent),"S_Lipids,S_Lipids,S_Lipids"
+BSU32830,0,0,0,fadA,acetyl-CoA C-acyltransferase,"S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids"
+BSU32840,0,0,0,fadN,bifunctional enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase,"S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids"
+BSU17460,0,1,1,glnA,glutamine synthetase,S_Amino_acids_and_related_molecules
+BSU03290,0,0,0,nasE,assimilatory nitrite reductase subunit,S_Amino_acids_and_related_molecules
+BSU03300,0,0,0,nasD,assimilatory nitrite reductase subunit,S_Amino_acids_and_related_molecules
+BSU03280,0,0,0,nasF,uroporphyrin-III C-methyltransferase,S_Coenzymes_and_prosthetic_groups
+BSU01070,1,1,1,rpoB,RNA polymerase (beta subunit),S_Coenzymes_and_prosthetic_groups
+BSU11720,0,0,0,fabI,enoyl-acyl carrier protein reductase,"S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids"
+BSU03990,0,0,0,mtlD,mannitol-1-phosphate 5-dehydrogenase,S_Carbohydrates_and_related_molecules
+BSU38110,0,0,0,nfrAA,FMN-containing NADPH-linked nitro/flavin reductase,"S_Membrane_bioenergetics,S_Membrane_bioenergetics"
+BSU40420,0,0,1,purA,adenylosuccinate synthetase,S_Nucleotides_and_nucleic_acids
+BSU27940,1,1,1,rpmA,ribosomal protein L27 (BL24),S_Nucleotides_and_nucleic_acids
+BSU32110,0,0,0,trxBB,ferredoxin/flavodoxin&mdash;NADP<sup>+</sup> reductase,S_Membrane_bioenergetics
+BSU08820,0,0,0,katA,vegetative catalase 1,S_Other_function
+BSU22070,0,0,0,xpt,xanthine phosphoribosyltransferase,S_Nucleotides_and_nucleic_acids
+BSU15140,1,1,1,rsmH,putative 16S rRNA m4C1402 methyltransferase,S_Nucleotides_and_nucleic_acids
+BSU01780,0,0,1,glmS,L-glutamine-D-fructose-6-phosphate amidotransferase,S_Amino_acids_and_related_molecules
+BSU00130,1,1,1,serS,seryl-tRNA synthetase,S_Amino_acids_and_related_molecules
+BSU23080,0,0,1,aroC,3-dehydroquinate dehydratase,S_Amino_acids_and_related_molecules
+BSU03040,0,0,0,amyE,alpha-amylase,S_Carbohydrates_and_related_molecules
+BSU28950,1,1,1,thrS,threonyl-tRNA synthetase,S_Carbohydrates_and_related_molecules
+BSU39050,0,0,0,katE,catalase 2,S_Other_function
+BSU35720,1,0,1,tagF,CDP-glycerol:polyglycerol phosphate glycero-phosphotransferase (poly(glycerol phosphate) polymerase),"S_Cell_wall,S_Cell_wall,S_Cell_wall"
+BSU10170,0,0,0,fabHB,beta-ketoacyl-acyl carrier protein synthase III 2,"S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids"
+BSU12340,0,0,0,uxuA,D-mannonate dehydratase,S_Carbohydrates_and_related_molecules
+BSU35740,1,0,1,tagD,glycerol-3-phosphate cytidylyltransferase monomer,S_Cell_wall
+BSU39540,0,0,0,yxeI,penicillin V amidase,S_Other_function
+BSU35730,1,0,1,tagE,UDP-glucose:polyglycerol phosphate alpha-glucosyltransferase,S_Cell_wall
+BSU12330,0,0,0,yjmD,putative oxidoreductase,S_Carbohydrates_and_related_molecules
+BSU12300,0,0,0,uxaC,galacturonate isomerase,"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU12380,0,0,0,uxaB,tagaturonate reductase (altronate oxidoreductase),S_Carbohydrates_and_related_molecules
+BSU12390,0,0,0,uxaA,altronate dehydratase,S_Carbohydrates_and_related_molecules
+BSU33400,0,0,0,pgoN,promiscuous glyoxal/methylglyoxal reductase,S_Carbohydrates_and_related_molecules
+BSU38290,0,0,0,thiE,thiamine-phosphate pyrophosphorylase (thiamine phosphate synthase),S_Coenzymes_and_prosthetic_groups
+BSU38300,0,0,0,thiM,5-(2-hydroxyethyl)-4-methylthiazole kinase,S_Coenzymes_and_prosthetic_groups
+BSU23450,1,0,0,sigF,RNA polymerase sporulation-specific sigma factor (sigma-F),S_Coenzymes_and_prosthetic_groups
+BSU13170,0,0,0,guaN,guanine deaminase,S_Nucleotides_and_nucleic_acids
+BSU38630,0,0,0,katX,major catalase in spores,S_Other_function
+BSU27600,0,0,0,rsh,GTP pyrophosphokinase (RelA/SpoT),S_Nucleotides_and_nucleic_acids
+BSU15320,0,1,1,sigE,RNA polymerase sporulation-specific sigma-29 factor (sigma-E),S_Nucleotides_and_nucleic_acids
+BSU29620,0,1,1,hisK,histidinol phosphate phosphatase,S_Amino_acids_and_related_molecules
+BSU23570,0,0,0,ansB,L-aspartase (aspartate ammonia lyase),S_Amino_acids_and_related_molecules
+BSU23580,0,0,0,ansA,exported L-asparaginase,S_Amino_acids_and_related_molecules
+BSU09840,0,0,0,hemZ,coproporphyrinogen III oxidase,S_Coenzymes_and_prosthetic_groups
+BSU23860,0,0,0,gndA,NADP<sup>+</sup>-dependent 6-P-gluconate dehydrogenase,S_Carbohydrates_and_related_molecules
+BSU23260,0,0,1,ribBA,"fused 3,4-dihydroxy-2-butanone 4-phosphate synthase and GTP cyclohydrolase II","S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU23270,0,0,1,ribE,riboflavin synthase (alpha subunit),"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU23280,0,0,1,ribD,fused diaminohydroxyphosphoribosylaminopyrimidine deaminase; 5-amino-6-(5-phosphoribosylamino) uracil reductase,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU23250,0,0,1,ribH,"6,7-dimethyl-8-ribityllumazine synthase, beta subunit","S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU31930,0,0,0,ald,L-alanine dehydrogenase (NAD-dependent),S_Amino_acids_and_related_molecules
+BSU37490,0,0,0,speB,agmatinase,S_Amino_acids_and_related_molecules
+BSU37500,0,0,0,speE,spermidine synthase; polyamine metabolism,"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU17600,0,0,0,xylA,xylose isomerase,"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU17610,0,0,0,xylB,xylulose kinase,S_Carbohydrates_and_related_molecules
+BSU03790,0,0,0,thrD,aspartate kinase III,S_Amino_acids_and_related_molecules
+BSU29660,1,1,1,rpsD,ribosomal protein S4 (BS4),S_Amino_acids_and_related_molecules
+BSU00180,0,0,0,tadA,tRNA specific adenosine A34 deaminase,S_Nucleotides_and_nucleic_acids
+BSU08180,0,0,0,malA,6-phospho-alpha-glucosidase,S_Carbohydrates_and_related_molecules
+BSU02230,0,0,0,purT,phosphoribosylglycinamide formyltransferase 2,S_Nucleotides_and_nucleic_acids
+BSU33920,0,0,0,tpiA,triose phosphate isomerase,S_Carbohydrates_and_related_molecules
+BSU33930,0,0,0,pgk,phosphoglycerate kinase,S_Carbohydrates_and_related_molecules
+BSU36900,1,1,1,glyA,serine hydroxymethyltransferase,S_Amino_acids_and_related_molecules
+BSU33940,0,0,0,gapA,"glyceraldehyde-3-phosphate dehydrogenase (NAD-dependent, glycolytic)",S_Carbohydrates_and_related_molecules
+BSU33910,0,0,0,pgm,phosphoglycerate mutase,S_Carbohydrates_and_related_molecules
+BSU39860,0,0,0,aldX,putative aldehyde dehydrogenase,"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU04030,0,0,0,ycsD,putative hydroxyacyl-(acyl carrier protein) dehydratase,"S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids"
+BSU25500,0,0,0,hemN,coproporphyrinogen III oxidase,S_Coenzymes_and_prosthetic_groups
+BSU24350,1,0,1,accB,acetyl-CoA carboxylase subunit (biotin carboxyl carrier subunit),S_Lipids
+BSU24340,1,0,1,accC,acetyl-CoA carboxylase subunit (biotin carboxylase subunit),S_Lipids
+BSU02270,1,0,1,pssA,phosphatidylserine synthase,S_Lipids
+BSU02290,1,0,1,psd,phosphatidylserine decarboxylase; 32 kDa precursor processed into a 29 kDa protein,S_Lipids
+BSU00500,0,1,1,glmU,bifunctional glucosamine-1-phosphate N-acetyltransferase/UDP-N-acetylglucosamine pyrophosphorylase,"S_Cell_wall,S_Cell_wall"
+BSU00510,0,0,1,prs,phosphoribosylpyrophosphate synthetase,S_Nucleotides_and_nucleic_acids
+BSU17680,0,0,0,thyA,thymidylate synthase A (phage origin),S_Nucleotides_and_nucleic_acids
+BSU35780,0,0,0,lytD,exported N-acetylglucosaminidase (major autolysin) (CWBP90),S_Cell_wall
+BSU33900,1,1,1,eno,enolase,S_Carbohydrates_and_related_molecules
+BSU00380,1,1,1,metS,methionyl-tRNA synthetase,S_Other_function
+BSU40500,1,1,1,rplI,ribosomal protein L9,S_Other_function
+BSU14670,0,0,0,suhB,inositol monophosphatase / 5' nucleotidase (purine nucleoside monophosphate),S_Carbohydrates_and_related_molecules
+BSU12160,0,0,0,yjgC,formate dehydrogenase subunit ForC1,S_Membrane_bioenergetics
+BSU13730,0,0,0,queD,"6-carboxy-5,6,7,8-tetrahydropterin synthase; queuosine biosynthesis",S_Coenzymes_and_prosthetic_groups
+BSU13960,0,0,0,ohaC,beta-hydroxyacid dehydrogenase (acts on 3-hydroxypropionate with NADP),S_Carbohydrates_and_related_molecules
+BSU14000,0,1,1,dapX,"N-acetyl-L,L-diaminopimelate aminotransferase",S_Amino_acids_and_related_molecules
+BSU14190,0,1,1,dapI,<i>N</i>-acetyl-diaminopimelate deacetylase,S_Amino_acids_and_related_molecules
+BSU14520,0,0,0,adeC,adenine deaminase,S_Nucleotides_and_nucleic_acids
+BSU13180,0,0,1,metE,cobalamin-independent methionine synthase,S_Amino_acids_and_related_molecules
+BSU14180,0,1,1,dapH,tetrahydrodipicolinate N-acetyltransferase,S_Amino_acids_and_related_molecules
+BSU13110,0,0,0,purU,formyltetrahydrofolate hydrolase,S_Coenzymes_and_prosthetic_groups
+BSU15680,0,1,1,gmk,guanylate kinase,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU14830,0,0,0,glsB,L-glutamine amidohydrolase; glutaminase,S_Amino_acids_and_related_molecules
+BSU15350,0,0,0,thiQ,<i>N</i>-formyl-4-amino-5-aminomethyl-2-methylpyrimidine deformylase,S_Amino_acids_and_related_molecules
+BSU15020,0,0,0,coaD,phosphopantetheine adenylyltransferase,S_Coenzymes_and_prosthetic_groups
+BSU15700,0,0,0,coaBC,coenzyme A biosynthesis bifunctional protein CoaBC; phosphopantothenoylcysteine synthetase/decarboxylase,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU15790,0,0,0,rpe,ribulose-5-phosphate 3-epimerase,S_Carbohydrates_and_related_molecules
+BSU15850,0,0,0,sdaAB,L-serine dehydratase (beta chain),S_Amino_acids_and_related_molecules
+BSU15920,0,0,0,acpA,acyl carrier protein,S_Amino_acids_and_related_molecules
+BSU15860,0,0,0,sdaAA,L-serine dehydratase (alpha chain),S_Amino_acids_and_related_molecules
+BSU15430,1,1,1,ileS,isoleucyl-tRNA synthetase,S_Amino_acids_and_related_molecules
+BSU15690,1,1,1,rpoZ,omega subunit of RNA polymerase,S_Amino_acids_and_related_molecules
+BSU15720,1,1,1,defA,peptide deformylase,S_Amino_acids_and_related_molecules
+BSU15080,1,1,1,rpmF,ribosomal protein L32,S_Amino_acids_and_related_molecules
+BSU15730,1,1,1,fmt,methionyl-tRNA formyltransferase,S_Other_function
+BSU16510,0,0,0,pyrH,uridylate kinase,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU15750,1,1,1,rlmN,23S rRNA m2A2503 methyltransferase and tRNA A37 C2 methyltransferase,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU16530,0,0,0,uppS,undecaprenyl pyrophosphate synthase,S_Lipids
+BSU16550,0,0,1,dxr,1-deoxy-D-xylulose-5-phosphate reductoisomerase,S_Carbohydrates_and_related_molecules
+BSU16670,0,1,1,ribC,riboflavin biosynthesis protein RibC,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU16500,1,1,1,tsf,elongation factor Ts,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU16020,1,1,1,rimM,16S rRNA processing protein,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU16490,1,1,1,rpsB,ribosomal protein S2,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU16040,1,1,1,rplS,ribosomal protein L19,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU17660,0,0,0,dutA,deoxyuridine 5'-triphosphate pyrophosphatase (phage origin),S_Nucleotides_and_nucleic_acids
+BSU17000,0,0,0,kbl,2-amino-3-ketobutyrate CoA ligase (glycine acetyl transferase),S_Amino_acids_and_related_molecules
+BSU16990,0,0,0,tdh,threonine 3-dehydrogenase,S_Amino_acids_and_related_molecules
+BSU17710,0,0,0,tatAC,component of the twin-arginine pre-protein translocation pathway,S_Amino_acids_and_related_molecules
+BSU16520,1,1,1,frr,ribosome recycling factor,S_Amino_acids_and_related_molecules
+BSU16540,1,0,1,cdsA,phosphatidate cytidylyltransferase (CDP-diglyceride synthase),S_Lipids
+BSU18480,0,0,0,proH,pyrroline-5-carboxylate reductase ProH,S_Amino_acids_and_related_molecules
+BSU18570,0,0,0,yoaE,molybdopterin cofactor oxido-reductase,S_Membrane_bioenergetics
+BSU18830,0,0,0,yppS,putative PEP-dependent enzyme,S_Carbohydrates_and_related_molecules
+BSU19310,0,0,0,dhaS,aldehyde dehydrogenase,"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU19630,0,0,0,deoD,purine nucleoside phosphorylase,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU19690,0,0,0,kamA,"lysine 2,3-aminomutase",S_Amino_acids_and_related_molecules
+BSU19710,0,0,0,yodQ,putative deacetylase,S_Amino_acids_and_related_molecules
+BSU20250,0,0,0,mtbP,DNA (cytosine-5-)-methyltransferase; phage SPbeta,S_Amino_acids_and_related_molecules
+BSU20020,0,0,0,dutB,SPbeta phage deoxyuridine 5'-triphosphate nucleotidohydrolase,S_Nucleotides_and_nucleic_acids
+BSU21690,0,0,0,msrA,peptide methionine S-sulfoxide reductase,"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU16570,1,1,1,proS,prolyl-tRNA synthetase,"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU16680,1,1,1,rpsO,ribosomal protein S15 (BS18),"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU16690,1,1,1,pnpA,polynucleotide phosphorylase (PNPase),"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU21820,0,0,0,thyB,thymidylate synthase B,S_Nucleotides_and_nucleic_acids
+BSU22130,0,0,0,kduI,"4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase, 5-keto-4-deoxyuronate isomerase",S_Carbohydrates_and_related_molecules
+BSU21900,0,0,0,bsaA,bacillithiol peroxidase,S_Other_function
+BSU22140,0,0,0,kduD,2-keto-3-deoxygluconate oxidoreductase,S_Carbohydrates_and_related_molecules
+BSU16960,1,1,1,rny,endoribonuclease Y,S_Carbohydrates_and_related_molecules
+BSU22370,0,1,1,aspB,anabolic oxaloacetate / glutamate aminotransferase,S_Amino_acids_and_related_molecules
+BSU22410,0,0,0,panD,aspartate 1-decarboxylase,S_Coenzymes_and_prosthetic_groups
+BSU22420,0,0,0,panC,pantothenate synthetase,S_Coenzymes_and_prosthetic_groups
+BSU22700,0,0,1,aroB,3-dehydroquinate synthase,S_Amino_acids_and_related_molecules
+BSU22430,0,0,0,panB,ketopantoate hydroxymethyltransferase,S_Coenzymes_and_prosthetic_groups
+BSU22690,0,0,0,aroH,chorismate mutase,S_Amino_acids_and_related_molecules
+BSU22710,0,0,1,aroF,chorismate synthase,S_Amino_acids_and_related_molecules
+BSU22740,0,0,1,hepT,heptaprenyl diphosphate synthase component II,S_Coenzymes_and_prosthetic_groups
+BSU22750,0,0,1,menG,demethylmenaquinone methyltransferase,S_Coenzymes_and_prosthetic_groups
+BSU22760,0,0,1,hepS,heptaprenyl diphosphate synthase component I,S_Coenzymes_and_prosthetic_groups
+BSU22830,0,0,1,gpsA,NADPH-dependent glycerol-3-phosphate dehydrogenase,S_Carbohydrates_and_related_molecules
+BSU22870,0,0,0,fni,isopentenyl diphosphate isomerase (typeII),S_Lipids
+BSU22890,0,0,0,cmk,cytidylate kinase,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU21920,1,0,1,ugtP,UDP-glucose diacylglyceroltransferase,"S_Lipids,S_Lipids,S_Lipids"
+BSU21810,1,0,1,dfrA,dihydrofolate reductase,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU23380,0,1,1,lysA,"meso-2,6-diaminopimelate decarboxylase",S_Amino_acids_and_related_molecules
+BSU23610,0,0,0,nudF,isopentenyl pyrophosphate and dimethylallyl pyrophosphate diphosphatase (moonlighting ADP-ribose pyrophosphatase),S_Carbohydrates_and_related_molecules
+BSU23920,0,0,0,yqjD,putative propionyl-CoA carboxylase beta chain,S_Carbohydrates_and_related_molecules
+BSU24270,0,0,1,dxs,1-deoxyxylulose-5-phosphate synthase,S_Carbohydrates_and_related_molecules
+BSU22360,1,1,1,asnS,asparaginyl-tRNA synthetase,S_Carbohydrates_and_related_molecules
+BSU24280,0,0,1,ispA,farnesyl diphosphate synthase,"S_Lipids,S_Lipids"
+BSU24850,0,0,0,glcK,glucose kinase,S_Carbohydrates_and_related_molecules
+BSU25020,0,0,0,sodA,superoxide dismutase (Mn[2+]-dependent),S_Other_function
+BSU25310,0,0,0,unpK,undecaprenol kinase,S_Lipids
+BSU25160,0,0,1,ispH,1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase,"S_Lipids,S_Lipids"
+BSU25660,0,0,1,aroE,shikimate 5-dehydrogenase,S_Amino_acids_and_related_molecules
+BSU22730,1,1,1,ndk,nucleoside diphosphate kinase,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU25900,0,0,0,cwlA,N-acetylmuramoyl-L-alanine amidase; skin element,S_Cell_wall
+BSU27220,0,0,0,yrhE,formate dehydrogenase ForC2,S_Membrane_bioenergetics
+BSU26810,0,0,0,murI,glutamate racemase,S_Amino_acids_and_related_molecules
+BSU27330,0,0,0,udk,uridine kinase,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU22880,1,1,1,rpfA,RNA degradation presenting factor (ribosomal protein S1 homolog),"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU25640,1,0,1,nadD,nicotinate-nucleotide adenylyltransferase,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU24900,1,1,1,rpmGA,ribosomal protein L33,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU25410,1,1,1,rpsU,ribosomal protein S21,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU27320,1,1,1,greA,transcription elongation factor resolving backtracking / stalling,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU27410,1,1,1,alaS,alanyl-tRNA synthetase,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU27550,1,1,1,aspS,"aspartyl-tRNA synthetase, promiscuous (also recognizes tRNAasn)","S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU27560,1,1,1,hisS,histidyl-tRNA synthetase,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU27650,1,1,1,secDF,protein-export membrane protein,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU27960,1,1,1,rplU,ribosomal protein L21 (BL20),"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"

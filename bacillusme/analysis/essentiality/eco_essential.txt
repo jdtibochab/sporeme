@@ -1,0 +1,696 @@
+Set (sub-set)	# in sub-set	ERGO ID	b-number	gene name	"Gerdes et al, 2003"	PEC collection	Blattner et al.	SWISS-PROT FUNCTIONAL DESCRIPTION
+A1	1	REC04815	b1204	pth	E	E	N	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+A1	2	REC05684	b2828	lgt	E	E	N	Prolipoprotein diacylglyceryl transferase (EC 2.4.99.-)
+A1	3	REC02989	b3066	dnaG	E	E	N	DNA primase (EC 2.7.7.-)
+A1	4	REC05932	b3306	rpsH	E	E	N	30S ribosomal protein S8
+A1	5	REC06031	b3463	ftsE	E	E	N	Cell division ATP-binding protein ftsE
+A1	6	REC06080	b3560	glyQ	E	E	N	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)
+A1	7	REC03559	b3639	dfp	E	E	N	DNA/pantothenate metabolism flavoprotein
+A1	8	REC05018	b1637	tyrS	E	E	N	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+A1	9	REC05063	b1719	thrS	E	E	N	Threonyl-tRNA synthetase (EC 6.1.1.3)
+A1	10	REC05174	b1912	pgsA	E	E	N	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+A1	11	REC05355	b2231	gyrA	E	E	N	DNA gyrase subunit A (EC 5.99.1.3)
+A1	12	REC05516	b2515	ispG*	E	E	N	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase (gcpE)
+A1	13	REC05552	b2566	era	E	E	N	GTP-binding protein era
+A1	14	REC05554	b2568	lepB	E	E	N	Signal peptidase I (EC 3.4.21.89)
+A1	15	REC05600	b2697	alaS	E	E	N	Alanyl-tRNA synthetase (EC 6.1.1.7)
+A1	16	REC05733	b2925	fbaA	E	E	N	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+A2	1	REC06566	b0026	ileS	E	E	X	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+A2	2	REC00027	b0027	lspA	E	E	X	Lipoprotein signal peptidase (EC 3.4.23.36)
+A2	3	REC00029	b0029	ispH*	E	E	X	IspH protein (lytB)
+A2	4	REC00083	b0083	ftsL	E	E	X	Cell division protein ftsL
+A2	5	REC00084	b0084	ftsI	E	E	X	Peptidoglycan synthetase ftsI precursor
+A2	6	REC00085	b0085	murE	E	E	X	"UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)"
+A2	7	REC00088	b0088	murD	E	E	X	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+A2	8	REC00089	b0089	ftsW	E	E	X	Cell division protein ftsW
+A2	9	REC00090	b0090	murG	E	E	X	UDP-N-acetylglucosamine--N-acetylmuramyl-(Pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.-)
+A2	10	REC00091	b0091	murC	E	E	X	UDP-N-acetylmuramate--alanine ligase (EC 6.3.2.8)
+A2	11	REC00093	b0093	ftsQ	E	E	X	Cell division protein ftsQ
+A2	12	REC00094	b0094	ftsA	E	E	X	Cell division protein ftsA
+A2	13	REC00095	b0095	ftsZ	E	E	X	Cell division protein ftsZ
+A2	14	REC00098	b0098	secA	E	E	X	Preprotein translocase secA subunit
+A2	15	REC04364	b0168	map	E	E	X	Methionine aminopeptidase (EC 3.4.11.18)
+A2	16	REC00169	b0169	rpsB	E	E	X	30S ribosomal protein S2
+A2	17	REC00171	b0171	pyrH	E	E	X	Uridylate kinase (EC 2.7.4.-)
+A2	18	REC00172	b0172	frr	E	E	X	Ribosome recycling factor
+A2	19	REC00174	b0174	uppS	E	E	X	Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)
+A2	20	REC00175	b0175	cdsA	E	E	X	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+A2	21	REC00180	b0180	fabZ	E	E	X	(3R)-hydroxymyristoyl-[acyl carrier protein] dehydratase (EC 4.2.1.-)
+A2	22	REC00181	b0181	lpxA	E	E	X	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)
+A2	23	REC00182	b0182	lpxB	E	E	X	Lipid-A-disaccharide synthase (EC 2.4.1.182)
+A2	24	REC00184	b0184	dnaE	E	E	X	DNA polymerase III alpha subunit (EC 2.7.7.7)
+A2	25	REC00185	b0185	accA	E	E	X	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha (EC 6.4.1.2)
+A2	26	REC04367	b0194	proS	E	E	X	Prolyl-tRNA synthetase (EC 6.1.1.15)
+A2	27	REC00400	b0416	nusB	E	E	X	N utilization substance protein B
+A2	28	REC04462	b0420	dxs	E	E	X	1-deoxy-D-xylulose 5-phosphate synthase (EC 4.1.3.37)
+A2	29	REC04463	b0421	ispA	E	E	X	Geranyltranstransferase (EC 2.5.1.10)
+A2	30	REC00453	b0470	dnaX	E	E	X	DNA polymerase III subunit tau (EC 2.7.7.7)
+A2	31	REC00457	b0474	adk	E	E	X	Adenylate kinase (EC 2.7.4.3)
+A2	32	REC00509	b0526	cysS	E	E	X	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+A2	33	REC04561	b0634	mrdB	E	E	X	Rod shape-determining protein rodA
+A2	34	REC04562	b0635	mrdA	E	E	X	Penicillin-binding protein 2
+A2	35	REC04567	b0640	holA	E	E	X	"DNA polymerase III, delta subunit (EC 2.7.7.7)"
+A2	36	REC04569	b0642	leuS	E	E	X	Leucyl-tRNA synthetase (EC 6.1.1.4)
+A2	37	REC00654	b0680	glnS	E	E	X	Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+A2	38	REC00859	b0893	serS	E	E	X	Seryl-tRNA synthetase (EC 6.1.1.11)
+A2	39	REC00880	b0914	msbA	E	E	X	Probable transport ATP-binding protein msbA
+A2	40	REC00884	b0918	kdsB	E	E	X	3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)
+A2	41	REC04692	b0930	asnS	E	E	X	Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+A2	42	REC04700	b0954	fabA	E	E	X	3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase (EC 4.2.1.60)
+A2	43	REC04762	b1084	rne	E	E	X	Ribonuclease E (EC 3.1.4.-)
+A2	44	REC01054	b1092	fabD	E	E	X	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+A2	45	REC01055	b1093	fabG	E	E	X	3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)
+A2	46	REC01060	b1098	tmk	E	E	X	Thymidylate kinase (EC 2.7.4.9)
+A2	47	REC01061	b1099	holB	E	E	X	"DNA polymerase III, delta' subunit (EC 2.7.7.7)"
+A2	48	REC01078	b1116	lolC	E	E	X	Lipoprotein releasing system transmembrane protein lolC
+A2	49	REC01079	b1117	lolD	E	E	X	Lipoprotein releasing system ATP-binding protein lolD
+A2	50	REC01080	b1118	lolE	E	E	X	Lipoprotein releasing system transmembrane protein lolE
+A2	51	REC04780	b1133	trmU	E	E	X	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase (EC 2.1.1.61)
+A2	52	REC04817	b1207	prsA	E	E	X	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+A2	53	REC01234	b1274	topA	E	E	X	DNA topoisomerase I (EC 5.99.1.2)
+A2	54	REC04856	b1288	fabI	E	E	X	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)
+A2	55	REC05058	b1714	pheS	E	E	X	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+A2	56	REC05060	b1716	rplT	E	E	X	50S ribosomal protein L20
+A2	57	REC05062	b1718	infC	E	E	X	Translation initiation factor IF-3
+A2	58	REC01697	b1740	nadE	E	E	X	NH(3)-dependent NAD(+) synthetase (EC 6.3.5.1)
+A2	59	REC05144	b1866	aspS	E	E	X	Aspartyl-tRNA synthetase (EC 6.1.1.12)
+A2	60	REC01833	b1876	argS	E	E	X	Arginyl-tRNA synthetase (EC 6.1.1.19)
+A2	61	REC02134	b2185	rplY	E	E	X	50S ribosomal protein L25
+A2	62	REC06544	b2234	nrdA	E	E	X	Ribonucleoside-diphosphate reductase 1 alpha chain (EC 1.17.4.1)
+A2	63	REC02184	b2235	nrdB	E	E	X	Ribonucleoside-diphosphate reductase 1 beta chain (EC 1.17.4.1)
+A2	64	REC05416	b2323	fabB	E	E	X	3-oxoacyl-[acyl-carrier-protein] synthase I (EC 2.3.1.41)
+A2	65	REC05459	b2400	gltX	E	E	X	Glutamyl-tRNA synthetase (EC 6.1.1.17)
+A2	66	REC05464	b2411	ligA	E	E	X	DNA ligase (EC 6.5.1.2)
+A2	67	REC05465	b2412	zipA	E	E	X	Cell division protein zipA
+A2	68	REC05505	b2496	yfgE	E	E	X	Hypothetical protein yfgE
+A2	69	REC05515	b2514	hisS	E	E	X	Histidyl-tRNA synthetase (EC 6.1.1.21)
+A2	70	REC05549	b2563	acpS	E	E	X	Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)
+A2	71	REC05570	b2606	rplS	E	E	X	50S ribosomal protein L19
+A2	72	REC05571	b2607	trmD	E	E	X	tRNA (Guanine-N(1)-)-methyltransferase (EC 2.1.1.31)
+A2	73	REC05573	b2609	rpsP	E	E	X	30S ribosomal protein S16
+A2	74	REC05574	b2610	ffh	E	E	X	Signal recognition particle protein
+A2	75	REC05575	b2614	grpE	E	E	X	GrpE protein
+A2	76	REC05792	b3018	plsC	E	E	X	1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)
+A2	77	REC05793	b3019	parC	E	E	X	Topoisomerase IV subunit A (EC 5.99.1.-)
+A2	78	REC05800	b3030	parE	E	E	X	Topoisomerase IV subunit B (EC 5.99.1.-)
+A2	79	REC05806	b3041	ribB	E	E	X	"3,4-dihydroxy-2-butanone 4-phosphate synthase"
+A2	80	REC02990	b3067	rpoD	E	E	X	RNA polymerase sigma factor rpoD
+A2	81	REC05854	b3165	rpsO	E	E	X	30S ribosomal protein S15
+A2	82	REC05867	b3183	yhbZ	E	E	X	Hypothetical GTP-binding protein yhbZ
+A2	83	REC05891	b3230	rpsI	E	E	X	30S ribosomal protein S9
+A2	84	REC05892	b3231	rplM	E	E	X	50S ribosomal protein L13
+A2	85	REC03205	b3287	def	E	E	X	Peptide deformylase (EC 3.5.1.88)
+A2	86	REC05924	b3298	rpsM	E	E	X	30S ribosomal protein S13
+A2	87	REC05926	b3300	secY	E	E	X	Preprotein translocase secY subunit
+A2	88	REC05927	b3301	rplO	E	E	X	50S ribosomal protein L15
+A2	89	REC05929	b3303	rpsE	E	E	X	30S ribosomal protein S5
+A2	90	REC05930	b3304	rplR	E	E	X	50S ribosomal protein L18
+A2	91	REC05931	b3305	rplF	E	E	X	50S ribosomal protein L6
+A2	92	REC05933	b3307	rpsN	E	E	X	30S ribosomal protein S14
+A2	93	REC05935	b3309	rplX	E	E	X	50S ribosomal protein L24
+A2	94	REC05936	b3310	rplN	E	E	X	50S ribosomal protein L14
+A2	95	REC05937	b3311	rpsQ	E	E	X	30S ribosomal protein S17
+A2	96	REC05942	b3316	rpsS	E	E	X	30S ribosomal protein S19
+A2	97	REC05943	b3317	rplB	E	E	X	50S ribosomal protein L2
+A2	98	REC05944	b3318	rplW	E	E	X	50S ribosomal protein L23
+A2	99	REC05945	b3319	rplD	E	E	X	50S ribosomal protein L4
+A2	100	REC05946	b3320	rplC	E	E	X	50S ribosomal protein L3
+A2	101	REC05947	b3321	rpsJ	E	E	X	30S ribosomal protein S10
+A2	102	REC05954	b3340	fusA	E	E	X	Elongation factor G
+A2	103	REC05956	b3342	rpsL	E	E	X	30S ribosomal protein S12
+A2	104	REC05979	b3384	trpS	E	E	X	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+A2	105	REC06032	b3464	ftsY	E	E	X	Cell division protein ftsY
+A2	106	REC06079	b3559	glyS	E	E	X	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)
+A2	107	REC03553	b3633	kdtA	E	E	X	3-deoxy-D-manno-octulosonic-acid transferase (EC 2.-.-.-)
+A2	108	REC03554	b3634	coaD	E	E	X	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+A2	109	REC03560	b3640	dut	E	E	X	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+A2	110	REC03568	b3648	gmk	E	E	X	Guanylate kinase (EC 2.7.4.8)
+A2	111	REC06549	b3702	dnaA	E	E	X	Chromosomal replication initiator protein dnaA
+A2	112	REC06172	b3730	glmU	E	E	X	Bifunctional glmU protein
+A2	113	REC06219	b3865	engB	E	E	X	Probable GTP-binding protein engB
+A2	114	REC03865	b3967	murI	E	E	X	Glutamate racemase (EC 5.1.1.3)
+A2	115	REC03875	b3985	rplJ	E	E	X	50S ribosomal protein L10
+A2	116	REC03876	b3986	rplL	E	E	X	50S ribosomal protein L7/L12
+A2	117	REC03877	b3987	rpoB	E	E	X	DNA-directed RNA polymerase beta chain (EC 2.7.7.6)
+A2	118	REC06616	b3988	rpoC	E	E	X	DNA-directed RNA polymerase beta' chain (EC 2.7.7.6)
+A2	119	REC03938	b4052	dnaB	E	E	X	Replicative DNA helicase (EC 3.6.1.-)
+A2	120	REC04028	b4142	groS	E	E	X	10 kDa chaperonin
+A2	121	REC04029	b4143	groL	E	E	X	60 kDa chaperonin
+A2	122	REC04033	b4147	efp	E	E	X	Elongation factor P
+A2	123	REC04083	b4200	rpsF	E	E	X	30S ribosomal protein S6
+A2	124	REC06383	b4226	ppa	E	E	X	Inorganic pyrophosphatase (EC 3.6.1.1)
+A2	125	REC06399	b4258	valS	E	E	X	Valyl-tRNA synthetase (EC 6.1.1.9)
+A2	126	REC06463	b4361	dnaC	E	E	X	DNA replication protein dnaC
+A2	127	REC06464	b4362	dnaT	E	E	X	Primosomal protein I
+B1	1	REC04363	b0167	glnD	E	N	N	[Protein-PII] uridylyltransferase (EC 2.7.7.59)
+B1	2	REC00209	b0215	dnaQ	E	N	N	"DNA polymerase III, epsilon chain (EC 2.7.7.7)"
+B1	3	REC00261	b0270	yagG	E	N	N	Hypothetical symporter yagG
+B1	4	REC04411	b0285	yagS	E	N	N	"Putative xanthine dehydrogenase yagS, FAD binding subunit (EC 1.1.1.204)"
+B1	5	REC00304	b0320	yahF	E	N	N	Hypothetical protein yahF
+B1	6	REC04469	b0429	cyoD	E	N	N	Cytochrome O ubiquinol oxidase protein cyoD
+B1	7	REC00452	b0469	apt	E	N	N	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+B1	8	REC04537	b0592	fepB	E	N	N	Ferrienterobactin-binding periplasmic protein precursor
+B1	9	REC04574	b0652	gltL	E	N	N	Glutamate/aspartate transport ATP-binding protein gltL
+B1	10	REC00707	b0733	cydA	E	N	N	Cytochrome D ubiquinol oxidase subunit I (EC 1.10.3.-)
+B1	11	REC04641	b0810	glnP	E	N	N	Glutamine transport system permease protein glnP
+B1	12	REC00890	b0924	mukB	E	N	N	Cell division protein mukB
+B1	13	REC00937	b0972	hyaA	E	N	N	Hydrogenase-1 small chain precursor (EC 1.18.99.1)
+B1	14	REC00939	b0974	hyaC	E	N	N	Probable Ni/Fe-hydrogenase 1 B-type cytochrome subunit
+B1	15	REC00940	b0975	hyaD	E	N	N	Hydrogenase 1 maturation protease (EC 3.4.24.-)
+B1	16	REC04771	b1123	potD	E	N	N	Spermidine/putrescine-binding periplasmic protein precursor
+B1	17	REC04827	b1237	hns	E	N	N	DNA-binding protein H-NS
+B1	18	REC01206	b1246	oppD	E	N	N	Oligopeptide transport ATP-binding protein oppD
+B1	19	REC01241	b1281	pyrF	E	N	N	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+B1	20	REC01266	b1306	pspC	E	N	N	Phage shock protein C
+B1	21	REC01268	b1308	pspE	E	N	N	Phage shock protein E precursor
+B1	22	REC01381	b1421	trg	E	N	N	Methyl-accepting chemotaxis protein III
+B1	23	REC01387	b1427	rimL	E	N	N	Ribosomal-protein-serine acetyltransferase (EC 2.3.1.-)
+B1	24	REC01491	b1531	marA	E	N	N	Multiple antibiotic resistance protein marA
+B1	25	REC01494	b1534	ydeE	E	N	N	Hypothetical protein ydeE
+B1	26	REC04991	b1563	relE	E	N	N	Hypothetical relE protein
+B1	27	REC01568	b1609	rstB	E	N	N	Sensor protein rstB (EC 2.7.3.-)
+B1	28	REC01569	b1610	tus	E	N	N	DNA replication terminus site-binding protein
+B1	29	REC05013	b1618	uidR	E	N	N	Uid operon repressor
+B1	30	REC05049	b1702	ppsA	E	N	N	Phosphoenolpyruvate synthase (EC 2.7.9.2)
+B1	31	REC01661	b1704	aroH	E	N	N	"Phospho-2-dehydro-3-deoxyheptonate aldolase, Trp-sensitive (EC 4.1.2.15)"
+B1	32	REC05073	b1738	celA	E	N	N	"PTS system, cellobiose-specific IIB component (EC 2.7.1.69)"
+B1	33	REC05086	b1764	selD	E	N	N	"Selenide,water dikinase (EC 2.7.9.3)"
+B1	34	REC05141	b1863	ruvC	E	N	N	Crossover junction endodeoxyribonuclease ruvC (EC 3.1.22.4)
+B1	35	REC05155	b1884	cheR	E	N	N	Chemotaxis protein methyltransferase (EC 2.1.1.80)
+B1	36	REC05158	b1887	cheW	E	N	N	Chemotaxis protein cheW
+B1	37	REC05161	b1890	motA	E	N	N	Chemotaxis motA protein
+B1	38	REC05170	b1900	araG	E	N	N	L-arabinose transport ATP-binding protein araG
+B1	39	REC05171	b1901	araF	E	N	N	L-arabinose-binding periplasmic protein precursor
+B1	40	REC05237	b2042	galF	E	N	N	UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)
+B1	41	REC05271	b2091	gatD	E	N	N	Galactitol-1-phosphate 5-dehydrogenase (EC 1.1.1.251)
+B1	42	REC02062	b2114	metG	E	N	N	Methionyl-tRNA synthetase (EC 6.1.1.10)
+B1	43	REC05306	b2150	mglB	E	N	N	D-galactose-binding periplasmic protein precursor
+B1	44	REC05407	b2313	cvpA	E	N	N	Colicin V production protein
+B1	45	REC05468	b2423	cysW	E	N	N	Sulfate transport system permease protein cysW
+B1	46	REC02419	b2479	gcvR	E	N	N	Glycine cleavage system transcriptional repressor
+B1	47	REC05519	b2518	ndk	E	N	N	Nucleoside diphosphate kinase (EC 2.7.4.6)
+B1	48	REC05553	b2567	rnc	E	N	N	Ribonuclease III (EC 3.1.26.3)
+B1	49	REC05610	b2717	hycI	E	N	N	Hydrogenase 3 maturation protease (EC 3.4.-.-)
+B1	50	REC05613	b2720	hycF	E	N	N	Formate hydrogenlyase subunit 6
+B1	51	REC05734	b2926	pgk	E	N	N	Phosphoglycerate kinase (EC 2.7.2.3)
+B1	52	REC06542	b2935	tktA	E	N	N	Transketolase 1 (EC 2.2.1.1)
+B1	53	REC05776	b2993	hybD	E	N	N	Hydrogenase 2 maturation protease (EC 3.4.24.-)
+B1	54	REC03044	b3119	tdcR	E	N	N	Threonine dehydratase operon activator protein
+B1	55	REC05853	b3164	pnp	E	N	N	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+B1	56	REC03157	b3234	degQ	E	N	N	Protease degQ precursor (EC 3.4.21.-)
+B1	57	REC05981	b3386	rpe	E	N	N	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+B1	58	REC03419	b3500	gor	E	N	N	Glutathione reductase (EC 1.6.4.2)
+B1	59	REC06097	b3607	cysE	E	N	N	Serine acetyltransferase (EC 2.3.1.30)
+B1	60	REC06550	b3706	trmE	E	N	N	Probable tRNA modification GTPase trmE
+B1	61	REC06173	b3731	atpC	E	N	N	ATP synthase epsilon chain (EC 3.6.3.14)
+B1	62	REC06178	b3736	atpF	E	N	N	ATP synthase B chain (EC 3.6.3.14)
+B1	63	REC03688	b3778	rep	E	N	N	ATP-dependent DNA helicase rep (EC 3.6.1.-)
+B1	64	REC06581	b3816	corA	E	N	N	Magnesium and cobalt transport protein corA
+B1	65	REC03940	b4054	tyrB	E	N	N	Aromatic-amino-acid aminotransferase (EC 2.6.1.57)
+B1	66	REC06360	b4151	frdD	E	N	N	Fumarate reductase 13 kDa hydrophobic protein
+B1	67	REC04308	b0058	rluA	E	N	N	Ribosomal large subunit pseudouridine synthase A (EC 4.2.1.70)
+B1	68	REC00710	b0736	ybgC	E	N	N	Protein ybgC
+B1	69	REC04633	b0798	ybiA	E	N	N	Hypothetical protein ybiA
+B1	70	REC04799	b1175	minD	E	N	N	Septum site-determining protein minD
+B1	71	REC04835	b1253	yciA	E	N	N	Putative acyl-CoA thioester hydrolase yciA (EC 3.1.2.-)
+B1	72	REC04928	b1477	yddM	E	N	N	Hypothetical protein yddM
+B1	73	REC05054	b1710	btuE	E	N	N	Vitamin B12 transport periplasmic protein btuE
+B1	74	REC01710	b1753	ynjA	E	N	N	Hypothetical protein ynjA
+B1	75	REC05135	b1852	zwf	E	N	N	Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49)
+B1	76	REC05195	b1961	dcm	E	N	N	DNA-cytosine methyltransferase (EC 2.1.1.73)
+B1	77	REC05330	b2197	ccmE	E	N	N	Cytochrome c-type biogenesis protein ccmE
+B1	78	REC05405	b2311	ubiX	E	N	N	3-octaprenyl-4-hydroxybenzoate carboxy-lyase (EC 4.1.1.-)
+B1	79	REC05541	b2551	glyA	E	N	N	Serine hydroxymethyltransferase (EC 2.1.2.1)
+B1	80	REC05567	b2594	rluD	E	N	N	Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)
+B1	81	REC05683	b2827	thyA	E	N	N	Thymidylate synthase (EC 2.1.1.45)
+B1	82	REC05723	b2907	ubiH	E	N	N	2-octaprenyl-6-methoxyphenol hydroxylase (EC 1.14.13.-)
+B1	83	REC05750	b2957	ansB	E	N	N	L-asparaginase II precursor (EC 3.5.1.1)
+B1	84	REC05773	b2990	hybG	E	N	N	Hydrogenase-2 operon protein hybG
+B1	85	REC03125	b3202	rpoN	E	N	N	RNA polymerase sigma-54 factor
+B1	86	REC03127	b3204	ptsN	E	N	N	Nitrogen regulatory IIA protein (EC 2.7.1.69)
+B1	87	REC03160	b3237	argR	E	N	N	Arginine repressor
+B1	88	REC03760	b3860	dsbA	E	N	N	Thiol:disulfide interchange protein dsbA precursor
+B1	89	REC06240	b3902	rhaD	E	N	N	Rhamnulose-1-phosphate aldolase (EC 4.1.2.19)
+B1	90	REC03856	b3958	argC	E	N	N	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+B1	91	REC03916	b4030	yjbA	E	N	N	Hypothetical protein yjbA
+B2	1	REC04745	b1051	msyB	E	N	X	Acidic protein msyB
+B2	2	REC05143	b1865	nudB	E	N	X	dATP pyrophosphohydrolase (EC 3.6.1.-)
+B2	3	REC06532	b4373	rimI	E	N	X	Ribosomal-protein-alanine acetyltransferase (EC 2.3.1.128)
+B2	4	REC00009	b0009	mog	E	N	X	Molybdopterin biosynthesis mog protein
+B2	5	REC00014	b0014	dnaK	E	N	X	Chaperone protein dnaK
+B2	6	REC04295	b0023	rpsT	E	N	X	30S ribosomal protein S20
+B2	7	REC00025	b0025	ribF	E	N	X	Riboflavin biosynthesis protein ribF
+B2	8	REC00031	b0031	dapB	E	N	X	Dihydrodipicolinate reductase (EC 1.3.1.26)
+B2	9	REC00048	b0048	folA	E	N	X	Dihydrofolate reductase (EC 1.5.1.3)
+B2	10	REC00092	b0092	ddlB	E	N	X	D-alanine--D-alanine ligase B (EC 6.3.2.4)
+B2	11	REC00115	b0115	aceF	E	N	X	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)
+B2	12	REC00116	b0116	lpdA	E	N	X	Dihydrolipoamide dehydrogenase (EC 1.8.1.4)
+B2	13	REC00129	b0129	yadI	E	N	X	Putative PTS system IIA component yadI (EC 2.7.1.69)
+B2	14	REC04349	b0142	folK	E	N	X	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+B2	15	REC04355	b0154	hemL	E	N	X	"Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)"
+B2	16	REC04358	b0159	mtn	E	N	X	MTA/SAH nucleosidase
+B2	17	REC04362	b0166	dapD	E	N	X	"2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase (EC 2.3.1.117)"
+B2	18	REC00173	b0173	dxr	E	N	X	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+B2	19	REC00183	b0183	rnhB	E	N	X	Ribonuclease HII (EC 3.1.26.4)
+B2	20	REC04376	b0214	rnhA	E	N	X	Ribonuclease HI (EC 3.1.26.4)
+B2	21	REC04399	b0265		E	N	X	Insertion element IS1 1/2/3/5/6 protein insA
+B2	22	REC00262	b0271	yagH	E	N	X	Putative beta-xylosidase (EC 3.2.1.37)
+B2	23	REC04413	b0289	yagV	E	N	X	Hypothetical protein yagV precursor
+B2	24	REC00306	b0322	yahH	E	N	X	Hypothetical protein yahH
+B2	25	REC00324	b0340	cynS	E	N	X	Cyanate hydratase (EC 4.2.1.104)
+B2	26	REC04446	b0369	hemB	E	N	X	Delta-aminolevulinic acid dehydratase (EC 4.2.1.24)
+B2	27	REC04453	b0386	proC	E	N	X	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+B2	28	REC00392	b0408	secD	E	N	X	Protein-export membrane protein secD
+B2	29	REC00393	b0409	secF	E	N	X	Protein-export membrane protein secF
+B2	30	REC00398	b0414	ribD	E	N	X	Riboflavin biosynthesis protein ribD
+B2	31	REC00399	b0415	ribH	E	N	X	"6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.9)"
+B2	32	REC00402	b0418	pgpA	E	N	X	Phosphatidylglycerophosphatase A (EC 3.1.3.27)
+B2	33	REC04487	b0467	priC	E	N	X	"Primosomal replication protein N"""
+B2	34	REC00458	b0475	hemH	E	N	X	Ferrochelatase (EC 4.99.1.1)
+B2	35	REC00488	b0505	allA	E	N	X	Ureidoglycolate hydrolase (EC 3.5.3.19)
+B2	36	REC04508	b0525	ppiB	E	N	X	Peptidyl-prolyl cis-trans isomerase B (EC 5.2.1.8)
+B2	37	REC00532	b0550	rusA	E	N	X	Crossover junction endodeoxyribonuclease rusA (EC 3.1.22.-)
+B2	38	REC00545	b0564	appY	E	N	X	AppY protein
+B2	39	REC04568	b0641	rlpB	E	N	X	Rare lipoprotein B precursor
+B2	40	REC04575	b0653	gltK	E	N	X	Glutamate/aspartate transport system permease protein gltK
+B2	41	REC00661	b0687	seqA	E	N	X	SeqA protein
+B2	42	REC00676	b0702	ybfB	E	N	X	Hypothetical protein ybfB
+B2	43	REC00678	b0704	ybfC	E	N	X	Hypothetical protein ybfC precursor
+B2	44	REC00682	b0708	phrB	E	N	X	Deoxyribodipyrimidine photolyase (EC 4.1.99.3)
+B2	45	REC04605	b0717	ybgP	E	N	X	Hypothetical fimbrial chaperone ybgP precursor
+B2	46	REC00700	b0726	sucA	E	N	X	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+B2	47	REC00701	b0727	sucB	E	N	X	Dihydrolipoamide succinyltransferase component of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+B2	48	REC00708	b0734	cydB	E	N	X	Cytochrome D ubiquinol oxidase subunit II (EC 1.10.3.-)
+B2	49	REC04619	b0766	ybhA	E	N	X	Hypothetical protein ybhA
+B2	50	REC04625	b0788	ybhN	E	N	X	Hypothetical protein ybhN
+B2	51	REC00758	b0791	ybhQ	E	N	X	Hypothetical protein ybhQ
+B2	52	REC04653	b0835	yliG	E	N	X	Hypothetical protein yliG
+B2	53	REC04680	b0886	cydC	E	N	X	Transport ATP-binding protein cydC
+B2	54	REC04681	b0887	cydD	E	N	X	Transport ATP-binding protein cydD
+B2	55	REC00888	b0922	mukF	E	N	X	MukF protein
+B2	56	REC00889	b0923	mukE	E	N	X	MukE protein
+B2	57	REC00953	b0988	insB4	E	N	X	Insertion element IS1 4 protein insB
+B2	58	REC04721	b0995	torR	E	N	X	TorCAD operon transcriptional regulatory protein torR
+B2	59	REC00961	b0998	torD	E	N	X	Chaperone protein torD
+B2	60	REC04742	b1039	csgE	E	N	X	Curli production assembly/transport component csgE precursor
+B2	61	REC01053	b1091	fabH	E	N	X	3-oxoacyl-[acyl-carrier-protein] synthase III (EC 2.3.1.41)
+B2	62	REC04772	b1124	potC	E	N	X	Spermidine/putrescine transport system permease protein potC
+B2	63	REC01151	b1189	dadA	E	N	X	D-amino acid dehydrogenase small subunit (EC 1.4.99.1)
+B2	64	REC04814	b1203	ychF	E	N	X	Probable GTP-binding protein ychF
+B2	65	REC01174	b1212	hemK	E	N	X	Protein methyltranferase hemK (EC 2.1.1.-)
+B2	66	REC04825	b1232	purU	E	N	X	Formyltetrahydrofolate deformylase (EC 3.5.1.10)
+B2	67	REC01195	b1235	hnr	E	N	X	Hnr protein
+B2	68	REC01196	b1236	galU	E	N	X	UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)
+B2	69	REC01198	b1238	tdk	E	N	X	Thymidine kinase (EC 2.7.1.21)
+B2	70	REC01205	b1245	oppC	E	N	X	Oligopeptide transport system permease protein oppC
+B2	71	REC01212	b1252	tonB	E	N	X	TonB protein
+B2	72	REC04836	b1254	ispZ	E	N	X	Probable intracellular septation protein
+B2	73	REC01229	b1269	yciL	E	N	X	Hypothetical protein yciL
+B2	74	REC04847	b1270	btuR	E	N	X	COB(I)alamin adenosyltransferase (EC 2.5.1.17)
+B2	75	REC04848	b1271	yciK	E	N	X	Hypothetical oxidoreductase yciK (EC 1.-.-.-)
+B2	76	REC04850	b1277	ribA	E	N	X	GTP cyclohydrolase II (EC 3.5.4.25)
+B2	77	REC04869	b1326	ycjI	E	N	X	Hypothetical protein ycjI
+B2	78	REC01292	b1332	ynaJ	E	N	X	Hypothetical protein ynaJ
+B2	79	REC01300	b1340	ydaL	E	N	X	Hypothetical protein ydaL
+B2	80	REC04889	b1356	racR	E	N	X	Rac prophage repressor
+B2	81	REC01317	b1357	ydaS	E	N	X	Hypothetical protein ydaS precursor
+B2	82	REC01318	b1358	ydaT	E	N	X	Hypothetical protein ydaT
+B2	83	REC01319	b1359	ydaU	E	N	X	Hypothetical protein ydaU
+B2	84	REC04890	b1370	insH5	E	N	X	Transposase insH for insertion sequence element IS5Y
+B2	85	REC04896	b1379	hslJ	E	N	X	Heat shock protein hslJ
+B2	86	REC01350	b1390	paaC	E	N	X	Phenylacetic acid degradation protein paaC
+B2	87	REC04903	b1412	acpD	E	N	X	Acyl carrier protein phosphodiesterase (EC 3.1.4.14)
+B2	88	REC01394	b1434	ydcN	E	N	X	Hypothetical protein ydcN
+B2	89	REC04918	b1464	yddE	E	N	X	Hypothetical protein yddE
+B2	90	REC01530	b1570	dicA	E	N	X	Repressor protein of division inhibition gene dicB
+B2	91	REC01573	b1614	ydgA	E	N	X	Hypothetical protein ydgA
+B2	92	REC01593	b1634	ydgR	E	N	X	Hypothetical transporter ydgR
+B2	93	REC01610	b1651	gloA	E	N	X	Lactoylglutathione lyase (EC 4.4.1.5)
+B2	94	REC01611	b1652	rnt	E	N	X	Ribonuclease T (EC 3.1.13.-)
+B2	95	REC05029	b1662	ribE	E	N	X	Riboflavin synthase alpha chain (EC 2.5.1.9)
+B2	96	REC05071	b1736	celC	E	N	X	"PTS system, cellobiose-specific IIA component (EC 2.7.1.69)"
+B2	97	REC05087	b1765	ydjA	E	N	X	Protein ydjA
+B2	98	REC01736	b1779	gapA	E	N	X	Glyceraldehyde 3-phosphate dehydrogenase A (EC 1.2.1.12)
+B2	99	REC05147	b1874	cutC	E	N	X	Copper homeostasis protein cutC
+B2	100	REC01896	b1942	fliJ	E	N	X	Flagellar fliJ protein
+B2	101	REC01898	b1944	fliL	E	N	X	Flagellar fliL protein
+B2	102	REC01900	b1946	fliN	E	N	X	Flagellar motor switch protein fliN
+B2	103	REC05256	b2061	wzb	E	N	X	Low molecular weight protein-tyrosine-phosphatase wzb (EC 3.1.3.48)
+B2	104	REC05282	b2105	yohL	E	N	X	Hypothetical protein yohL
+B2	105	REC05285	b2110	yehC	E	N	X	Hypothetical fimbrial chaperone yehC precursor
+B2	106	REC05286	b2111	yehD	E	N	X	Hypothetical protein yehD precursor
+B2	107	REC05309	b2153	folE	E	N	X	GTP cyclohydrolase I (EC 3.5.4.16)
+B2	108	REC02181	b2232	ubiG	E	N	X	3-demethylubiquinone-9 3-methyltransferase (EC 2.1.1.64)
+B2	109	REC05368	b2260	menE	E	N	X	O-succinylbenzoic acid--CoA ligase (EC 6.2.1.26)
+B2	110	REC02245	b2296	ackA	E	N	X	Acetate kinase (EC 2.7.2.1)
+B2	111	REC02412	b2472	dapE	E	N	X	Succinyl-diaminopimelate desuccinylase (EC 3.5.1.18)
+B2	112	REC05503	b2478	dapA	E	N	X	Dihydrodipicolinate synthase (EC 4.2.1.52)
+B2	113	REC05526	b2526	hscA	E	N	X	Chaperone protein hscA
+B2	114	REC02473	b2533	suhB	E	N	X	Inositol-1-monophosphatase (EC 3.1.3.25)
+B2	115	REC02479	b2539	hcaF	E	N	X	3-phenylpropionate dioxygenase beta subunit (EC 1.14.1.-)
+B2	116	REC02480	b2540	hcaC	E	N	X	3-phenylpropionate dioxygenase ferredoxin subunit
+B2	117	REC05550	b2564	pdxJ	E	N	X	Pyridoxal phosphate biosynthetic protein pdxJ
+B2	118	REC02525	b2585	pssA	E	N	X	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)
+B2	119	REC05572	b2608	rimM	E	N	X	16S rRNA processing protein rimM
+B2	120	REC02742	b2811	ygdK	E	N	X	Hypothetical protein ygdK
+B2	121	REC02864	b2942	metK	E	N	X	S-adenosylmethionine synthetase (EC 2.5.1.6)
+B2	122	REC05803	b3033	yqiB	E	N	X	Hypothetical protein yqiB
+B2	123	REC02979	b3056	cca	E	N	X	tRNA nucleotidyltransferase (EC 2.7.7.25)
+B2	124	REC05832	b3112	tdcG	E	N	X	L-serine dehydratase tdcG (EC 4.2.1.13)
+B2	125	REC05857	b3168	infB	E	N	X	Translation initiation factor IF-2
+B2	126	REC03109	b3187	ispB	E	N	X	Octaprenyl-diphosphate synthase (EC 2.5.1.-)
+B2	127	REC05906	b3250	mreC	E	N	X	Rod shape-determining protein mreC
+B2	128	REC05907	b3251	mreB	E	N	X	Rod shape-determining protein mreB
+B2	129	REC03186	b3261	fis	E	N	X	DNA-binding protein fis
+B2	130	REC03206	b3288	fmt	E	N	X	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+B2	131	REC03209	b3291	mscL	E	N	X	Large-conductance mechanosensitive channel
+B2	132	REC05953	b3339	tufA	E	N	X	Elongation factor Tu
+B2	133	REC05962	b3349	slyD	E	N	X	FKBP-type peptidyl-prolyl cis-trans isomerase slyD (EC 5.2.1.8)
+B2	134	REC05985	b3390	aroK	E	N	X	Shikimate kinase I (EC 2.7.1.71)
+B2	135	REC06010	b3433	asd	E	N	X	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+B2	136	REC06029	b3461	rpoH	E	N	X	RNA polymerase sigma-32 factor
+B2	137	REC03425	b3506	slp	E	N	X	Outer membrane protein slp precursor
+B2	138	REC06099	b3609	secB	E	N	X	Protein-export protein secB
+B2	139	REC03541	b3621	rfaC	E	N	X	Lipopolysaccharide heptosyltransferase-1 (EC 2.-.-.-)
+B2	140	REC06161	b3719	yieL	E	N	X	Hypothetical protein yieL
+B2	141	REC06171	b3729	glmS	E	N	X	Glucosamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+B2	142	REC03703	b3793	wzyE	E	N	X	Putative ECA polymerase
+B2	143	REC03715	b3809	dapF	E	N	X	Diaminopimelate epimerase (EC 5.1.1.7)
+B2	144	REC03717	b3811	xerC	E	N	X	Integrase/recombinase xerC
+B2	145	REC03741	b3835	ubiB	E	N	X	Probable ubiquinone biosynthesis protein ubiB
+B2	146	REC03755	b3850	hemG	E	N	X	Protoporphyrinogen oxidase (EC 1.3.3.4)
+B2	147	REC06258	b3935	priA	E	N	X	Primosomal protein N'
+B2	148	REC03867	b3973	birA	E	N	X	BirA bifunctional protein
+B2	149	REC06271	b3974	coaA	E	N	X	Pantothenate kinase (EC 2.7.1.33)
+B2	150	REC03870	b3980	tufB	E	N	X	Elongation factor Tu
+B2	151	REC06617	b3997	hemE	E	N	X	Uroporphyrinogen decarboxylase (EC 4.1.1.37)
+B2	152	REC04054	b4171	miaA	E	N	X	tRNA delta(2)-isopentenylpyrophosphate transferase (EC 2.5.1.8)
+B2	153	REC04055	b4172	hfq	E	N	X	Hfq protein
+B2	154	REC04084	b4201	priB	E	N	X	Primosomal replication protein N
+B2	155	REC04107	b4224	chpS	E	N	X	PemI-like protein 2
+B2	156	REC06400	b4259	holC	E	N	X	"DNA polymerase III, chi subunit (EC 2.7.7.7)"
+B2	157	REC06471	b4386	lplA	E	N	X	Lipoate-protein ligase A (EC 6.-.-.-)
+C1	1	REC04336	b0122	yacC	E	X	N	Hypothetical protein yacC precursor
+C1	2	REC00504	b0521	arcC	E	X	N	Carbamate kinase (EC 2.7.2.2)
+C1	3	REC01282	b1322	ycjF	E	X	N	Hypothetical protein ycjF
+C1	4	REC05026	b1654	ydhD	E	X	N	Protein ydhD
+C1	5	REC05130	b1846	yebE	E	X	N	Hypothetical protein yebE
+C1	6	REC05132	b1848	yebG	E	X	N	Hypothetical protein yebG
+C1	7	REC05142	b1864	yebC	E	X	N	Protein yebC
+C1	8	REC01883	b1929	yedE	E	X	N	Hypothetical protein yedE
+C1	9	REC02869	b2947	gshB	E	X	N	Glutathione synthetase (EC 6.3.2.3)
+C1	10	REC04563	b0636	ybeA	E	X	N	Hypothetical protein ybeA
+C1	11	REC00813	b0846	ybjK	E	X	N	Hypothetical protein ybjK
+C1	12	REC00817	b0850	ybjC	E	X	N	Hypothetical protein ybjC
+C1	13	REC04667	b0865	ybjP	E	X	N	Putative lipoprotein ybjP precursor
+C1	14	REC00833	b0866	ybjQ	E	X	N	Hypothetical protein ybjQ
+C1	15	REC00834	b0867	ybjR	E	X	N	Probable N-acetylmuramoyl-L-alanine amidase ybjR (EC 3.5.1.28)
+C1	16	REC04668	b0868	ybjS	E	X	N	Hypothetical protein ybjS
+C1	17	REC04683	b0897	ycaC	E	X	N	Protein ycaC
+C1	18	REC04706	b0963	mgsA	E	X	N	Methylglyoxal synthase (EC 4.2.3.3)
+C1	19	REC04722	b0999	yccD	E	X	N	Hypothetical protein yccD
+C1	20	REC04730	b1010	ycdK	E	X	N	Hypothetical protein ycdK
+C1	21	REC04731	b1011	ycdL	E	X	N	Hypothetical isochorismatase family protein ycdL
+C1	22	REC01070	b1108	ycfP	E	X	N	Hypothetical protein ycfP
+C1	23	REC04775	b1128	ycfD	E	X	N	Hypothetical protein ycfD
+C1	24	REC01167	b1205	ychH	E	X	N	Hypothetical protein ychH
+C1	25	REC01175	b1213	ychQ	E	X	N	Hypothetical protein ychQ
+C1	26	REC01398	b1438	ydcQ	E	X	N	Hypothetical protein ydcQ
+C1	27	REC01401	b1441	ydcT	E	X	N	Hypothetical ABC transporter ATP-binding protein ydcT
+C1	28	REC01402	b1442	ydcU	E	X	N	Hypothetical ABC transporter permease protein ydcU
+C1	29	REC01403	b1443	ydcV	E	X	N	Hypothetical ABC transporter permease protein ydcV
+C1	30	REC01412	b1452	yncE	E	X	N	Hypothetical protein yncE precursor
+C1	31	REC01423	b1463	nhoA	E	X	N	N-hydroxyarylamine O-acetyltransferase (EC 2.3.1.118)
+C1	32	REC04966	b1523	yneG	E	X	N	Hypothetical protein yneG
+C1	33	REC04985	b1556	essQ	E	X	N	Lysis protein S homolog from lambdoid prophage Qin
+C1	34	REC01525	b1565	ydfV	E	X	N	Hypothetical protein ydfV
+C1	35	REC04998	b1582	ynfA	E	X	N	Hypothetical protein ynfA
+C1	36	REC01545	b1586	ynfD	E	X	N	Hypothetical protein ynfD precursor
+C1	37	REC01548	b1589	ynfG	E	X	N	Probable anaerobic dimethyl sulfoxide reductase chain ynfG
+C1	38	REC05025	b1648	ydhL	E	X	N	Hypothetical protein ydhL precursor
+C1	39	REC05033	b1671	ydhX	E	X	N	Putative ferredoxin-like protein ydhX
+C1	40	REC05044	b1684	sufA	E	X	N	SufA protein
+C1	41	REC05046	b1686	ydiI	E	X	N	Hypothetical protein ydiI
+C1	42	REC01652	b1695	ydiO	E	X	N	Hypothetical protein ydiO
+C1	43	REC01655	b1698	ydiR	E	X	N	Putative electron transfer flavoprotein subunit ydiR
+C1	44	REC01657	b1700	ydiT	E	X	N	Ferredoxin-like protein ydiT
+C1	45	REC05064	b1722	ydiY	E	X	N	Hypothetical protein ydiY precursor
+C1	46	REC01698	b1741	ydjQ	E	X	N	Hypothetical protein ydjQ
+C1	47	REC05075	b1742	ydjR	E	X	N	Hypothetical protein ydjR
+C1	48	REC05078	b1745	astB	E	X	N	Succinylarginine dihydrolase (EC 3.-.-.-)
+C1	49	REC05080	b1747	astA	E	X	N	Arginine N-succinyltransferase (EC 2.3.1.109)
+C1	50	REC01713	b1756	ynjD	E	X	N	Hypothetical ABC transporter ATP-binding protein ynjD
+C1	51	REC05264	b2073	yegL	E	X	N	Hypothetical protein yegL
+C1	52	REC05455	b2387	ypdH	E	X	N	Putative PTS system IIB component ypdH (EC 2.7.1.69)
+C1	53	REC05479	b2439	eutL	E	X	N	Ethanolamine utilization protein eutL
+C1	54	REC05653	b2780	pyrG	E	X	N	CTP synthase (EC 6.3.4.2)
+C1	55	REC05718	b2900	yqfB	E	X	N	Hypothetical protein yqfB
+C1	56	REC05725	b2909	ygfB	E	X	N	Hypothetical protein ygfB
+C1	57	REC05784	b3002	yqhA	E	X	N	Hypothetical protein yqhA
+C1	58	REC03057	b3133	agaV	E	X	N	"PTS system, N-acetylgalactosamine-specific IIB component 2 (EC 2.7.1.69)"
+C1	59	REC05958	b3344	yheM	E	X	N	Hypothetical protein yheM
+C1	60	REC06278	b3995	rsd	E	X	N	Regulator of sigma D
+C1	61	REC04041	b4155	poxA	E	X	N	Putative lysyl-tRNA synthetase (EC 6.1.1.6)
+C1	62	REC04146	b4262	yjgQ	E	X	N	Hypothetical protein yjgQ
+C1	63	REC06427	b4302	sgcA	E	X	N	"Putative phosphotransferase enzyme II, A component sgcA (EC 2.7.1.69)"
+C2	1	REC05214	b2009	gyrI	E	X	X	DNA gyrase inhibitory protein
+C2	2	REC05888	b3226	yhcK	E	X	X	Hypothetical transcriptional regulator yhcK
+C2	3	REC03603	b3684	yidP	E	X	X	Hypothetical transcriptional regulator yidP
+C2	4	REC06564	b0021	insB1	E	X	X	Insertion element IS1 1/5/6 protein insB
+C2	5	REC06565	b0022		E	X	X	Insertion element IS1 1/2/3/5/6 protein insA
+C2	6	REC04307	b0054	imp	E	X	X	Organic solvent tolerance protein precursor
+C2	7	REC00082	b0082	mraW	E	X	X	S-adenosyl-methyltransferase mraW (EC 2.1.1.-)
+C2	8	REC00097	b0097	secM	E	X	X	Secretion monitor precursor
+C2	9	REC04326	b0103	coaE	E	X	X	Dephospho-CoA kinase (EC 2.7.1.24)
+C2	10	REC04338	b0126	yadF	E	X	X	Protein yadF
+C2	11	REC00170	b0170	tsf	E	X	X	Elongation factor Ts
+C2	12	REC00177	b0177	yaeT	E	X	X	Unknown protein from 2D-page spots M62/M63/O3/O9/T35 precursor
+C2	13	REC00204	b0210	yafE	E	X	X	Hypothetical protein yafE
+C2	14	REC04386	b0245	ykfI	E	X	X	Hypothetical protein ykfI
+C2	15	REC06629	b0298	insE1	E	X	X	Transposase insE for insertion sequence IS3A/B/C/D/E/fA/fB
+C2	16	REC04440	b0357	yaiN	E	X	X	Hypothetical protein yaiN
+C2	17	REC04445	b0364	yaiS	E	X	X	Hypothetical protein yaiS
+C2	18	REC04451	b0379	yaiY	E	X	X	Hypothetical protein yaiY
+C2	19	REC00401	b0417	thiL	E	X	X	Thiamine-monophosphate kinase (EC 2.7.4.16)
+C2	20	REC00426	b0442	ybaV	E	X	X	Hypothetical protein ybaV precursor
+C2	21	REC00439	b0456	ybaA	E	X	X	Hypothetical protein ybaA
+C2	22	REC00451	b0468	ybaN	E	X	X	Hypothetical protein ybaN
+C2	23	REC04492	b0482	ybaP	E	X	X	Hypothetical protein ybaP
+C2	24	REC00466	b0483	ybaQ	E	X	X	Hypothetical protein ybaQ
+C2	25	REC00481	b0498	ybbC	E	X	X	Hypothetical protein ybbC precursor
+C2	26	REC00503	b0520	ylbF	E	X	X	Hypothetical protein ylbF
+C2	27	REC04507	b0524	lpxH	E	X	X	"UDP-2,3-diacylglucosamine hydrolase (EC 3.6.1.-)"
+C2	28	REC00282	b0540	insE3	E	X	X	Transposase insE for insertion sequence IS3A/B/C/D/E/fA/fB
+C2	29	REC00529	b0547	ybcN	E	X	X	Hypothetical protein ybcN in lambdoid DLP12 prophage region
+C2	30	REC00531	b0549	ybcO	E	X	X	Hypothetical protein ybcO in lambdoid DLP12 prophage region
+C2	31	REC04518	b0558	ybcV	E	X	X	Hypothetical protein ybcV
+C2	32	REC04554	b0624	crcB	E	X	X	Protein crcB
+C2	33	REC04581	b0659	ybeY	E	X	X	Hypothetical protein ybeY
+C2	34	REC00656	b0682	ybfN	E	X	X	Hypothetical lipoprotein ybfN precursor
+C2	35	REC00784	b0817	mntR	E	X	X	Transcriptional regulator mntR
+C2	36	REC00848	b0881	yljA	E	X	X	Protein yljA
+C2	37	REC00876	b0910	cmk	E	X	X	Cytidylate kinase (EC 2.7.4.14)
+C2	38	REC00881	b0915	lpxK	E	X	X	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+C2	39	REC00892	b0926	ycbK	E	X	X	Hypothetical protein ycbK
+C2	40	REC00931	b0965	yccU	E	X	X	Protein yccU
+C2	41	REC04718	b0987	ymcD	E	X	X	Hypothetical protein ymcD
+C2	42	REC06640	b1027	insE4	E	X	X	Transposase insE for insertion sequence IS3A/B/C/D/E/fA/fB
+C2	43	REC00995	b1033	ycdW	E	X	X	Putative 2-hydroxyacid dehydrogenase ycdW
+C2	44	REC00996	b1034	ycdX	E	X	X	Hypothetical protein ycdX precursor
+C2	45	REC00998	b1036	ycdZ	E	X	X	Hypothetical protein ycdZ
+C2	46	REC01031	b1069	mviN	E	X	X	Virulence factor mviN homolog
+C2	47	REC01047	b1085		E	X	X	FROM BASES 1137539 TO 1147976 (SECTION 99 OF 400) OF THE COMPLETE GENOME
+C2	48	REC01105	b1143	ymfI	E	X	X	Hypothetical protein ymfI
+C2	49	REC04788	b1144	ymfJ	E	X	X	Hypothetical protein ymfF
+C2	50	REC04789	b1145	ymfK	E	X	X	Putative lambdoid prophage e14 repressor protein C2
+C2	51	REC01108	b1146		E	X	X	FROM BASES 1195814 TO 1209543 (SECTION 104 OF 400) OF THE COMPLETE GENOME
+C2	52	REC04792	b1160	elbA	E	X	X	Enhancing lycopene biosynthesis protein 1
+C2	53	REC04793	b1161	ycgX	E	X	X	Hypothetical protein ycgX
+C2	54	REC01142	b1180	ycgM	E	X	X	Protein ycgM
+C2	55	REC04811	b1199	ycgS	E	X	X	Protein ycgS
+C2	56	REC04818	b1208	ispE	E	X	X	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+C2	57	REC01190	b1228		E	X	X	FROM BASES 1278800 TO 1289447 (SECTION 111 OF 400) OF THE COMPLETE GENOME
+C2	58	REC01239	b1279	yciS	E	X	X	Hypothetical protein yciS
+C2	59	REC01359	b1399	paaX	E	X	X	Phenylacetic acid degradation operon negative regulatory protein paaX
+C2	60	REC01360	b1400	paaY	E	X	X	Phenylacetic acid degradation protein paaY
+C2	61	REC04913	b1447	ydcZ	E	X	X	Hypothetical protein ydcZ
+C2	62	REC04914	b1448	yncA	E	X	X	Hypothetical acetyltransferase yncA (EC 2.3.1.-)
+C2	63	REC04925	b1471	yddK	E	X	X	Hypothetical protein yddK
+C2	64	REC04926	b1472		E	X	X	FROM BASES 1540626 TO 1550846 (SECTION 134 OF 400) OF THE COMPLETE GENOME
+C2	65	REC04935	b1485	yddQ	E	X	X	Hypothetical ABC transporter permease protein yddQ
+C2	66	REC04984	b1555	ydfR	E	X	X	Hypothetical protein ydfR
+C2	67	REC06568	b1578		E	X	X	Transposase insD for insertion element IS2A/D/F/H/I/K
+C2	68	REC05003	b1599	ydgE	E	X	X	Hypothetical protein ydgE
+C2	69	REC01624	b1667	ydhR	E	X	X	Protein ydhR precursor
+C2	70	REC01681	b1724	ydiZ	E	X	X	Hypothetical protein ydiZ
+C2	71	REC01748	b1791	yeaN	E	X	X	Hypothetical transport protein yeaN
+C2	72	REC01749	b1792	yeaO	E	X	X	Hypothetical protein yeaO
+C2	73	REC05111	b1807	yeaZ	E	X	X	Hypothetical protease yeaZ (EC 3.4.-.-)
+C2	74	REC01766	b1809	yoaB	E	X	X	Hypothetical protein yoaB
+C2	75	REC05126	b1839	yebY	E	X	X	Hypothetical protein yebY precursor
+C2	76	REC01828	b1871	yecP	E	X	X	Hypothetical protein yecP
+C2	77	REC01852	b1895	yecG	E	X	X	Hypothetical protein yecG
+C2	78	REC01928	b1976	yeeI	E	X	X	Hypothetical protein yeeI
+C2	79	REC01953	b2005	yeeV	E	X	X	Hypothetical protein yeeV
+C2	80	REC02028	b2080	yegP	E	X	X	Hypothetical protein yegP
+C2	81	REC06644	b2088	insE5	E	X	X	Transposase insE for insertion sequence IS3A/B/C/D/E/fA/fB
+C2	82	REC05313	b2161	yeiJ	E	X	X	Hypothetical transport protein yeiJ
+C2	83	REC02112	b2163	yeiL	E	X	X	Hypothetical protein yeiL
+C2	84	REC05315	b2164	yeiM	E	X	X	Hypothetical transport protein yeiM
+C2	85	REC02193	b2244	yfaD	E	X	X	Hypothetical protein yfaD
+C2	86	REC05361	b2246	yfaV	E	X	X	Hypothetical transport protein yfaV
+C2	87	REC05375	b2267	elaA	E	X	X	Protein elaA
+C2	88	REC02253	b2304	yfcH	E	X	X	Hypothetical protein yfcH
+C2	89	REC05448	b2375	yfdX	E	X	X	YfdX protein precursor
+C2	90	REC02384	b2444	yffM	E	X	X	Hypothetical protein yffM
+C2	91	REC02386	b2446	yffO	E	X	X	Hypothetical protein yffO
+C2	92	REC02390	b2450	yffS	E	X	X	Hypothetical protein yffS
+C2	93	REC05487	b2456	eutN	E	X	X	Ethanolamine utilization protein eutN
+C2	94	REC02411	b2471	yffB	E	X	X	Protein yffB
+C2	95	REC05512	b2511	engA	E	X	X	Probable GTP-binding protein engA
+C2	96	REC05525	b2525	fdx	E	X	X	"Ferredoxin, 2Fe-2S"
+C2	97	REC05527	b2527	hscB	E	X	X	Chaperone protein hscB
+C2	98	REC05529	b2529	nifU	E	X	X	NifU-like protein
+C2	99	REC05530	b2530	iscS	E	X	X	Cysteine desulfurase (EC 4.4.1.-)
+C2	100	REC05547	b2559	yfhC	E	X	X	Hypothetical protein yfhC
+C2	101	REC05562	b2579	yfiD	E	X	X	Protein yfiD
+C2	102	REC02522	b2582	trxC	E	X	X	Thioredoxin 2
+C2	103	REC02548	b2612		E	X	X	Hypothetical protein yfjD
+C2	104	REC02551	b2615	ppnK	E	X	X	Probable inorganic polyphosphate/ATP-NAD kinase (EC 2.7.1.23)
+C2	105	REC05576	b2618	yfjF	E	X	X	Protein yfjF
+C2	106	REC05577	b2619	yfjG	E	X	X	Hypothetical protein yfjG
+C2	107	REC02580	b2646	ypjF	E	X	X	Hypothetical protein ypjF
+C2	108	REC05589	b2650	ypjC	E	X	X	Hypothetical protein ypjC
+C2	109	REC05591	b2665	ygaU	E	X	X	Unknown protein from 2D-page
+C2	110	REC02601	b2668	ygaP	E	X	X	Hypothetical protein ygaP
+C2	111	REC02606	b2673	nrdH	E	X	X	Glutaredoxin-like protein nrdH
+C2	112	REC02607	b2674	nrdI	E	X	X	NrdI protein
+C2	113	REC05619	b2732	ygbA	E	X	X	Hypothetical protein ygbA
+C2	114	REC02666	b2737	ygbK	E	X	X	Hypothetical protein ygbK
+C2	115	REC05626	b2746	ispF	E	X	X	"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)"
+C2	116	REC05627	b2747	ispD	E	X	X	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+C2	117	REC05628	b2748	ygbQ	E	X	X	Hypothetical protein ygbQ
+C2	118	REC02779	b2854		E	X	X	ORF_O138
+C2	119	REC02804	b2880	ygfM	E	X	X	Hypothetical protein ygfM
+C2	120	REC05716	b2897	ygfY	E	X	X	Hypothetical protein ygfY
+C2	121	REC05731	b2923	yggA	E	X	X	Hypothetical protein yggA
+C2	122	REC02870	b2948	yqgE	E	X	X	Protein yqgE
+C2	123	REC02871	b2949	yqgF	E	X	X	Hypothetical protein yqgF
+C2	124	REC05752	b2959	yggL	E	X	X	Hypothetical protein yggL
+C2	125	REC05795	b3021	ygiT	E	X	X	Hypothetical protein ygiT
+C2	126	REC05799	b3027	ygiZ	E	X	X	Hypothetical protein ygiZ
+C2	127	REC03008	b3086	ygjQ	E	X	X	Hypothetical protein ygjQ
+C2	128	REC03020	b3095	yqjA	E	X	X	Hypothetical protein yqjA
+C2	129	REC03021	b3096	yqjB	E	X	X	Hypothetical protein yqjB
+C2	130	REC03025	b3100	yqjK	E	X	X	Hypothetical protein yqjK
+C2	131	REC03058	b3134	agaW	E	X	X	"PTS system, N-acetylgalactosamine-specific IIC component 2"
+C2	132	REC05846	b3152	yraR	E	X	X	Hypothetical protein yraR
+C2	133	REC05847	b3154	yhbP	E	X	X	Hypothetical protein yhbP
+C2	134	REC03079	b3155	yhbQ	E	X	X	Hypothetical protein yhbQ
+C2	135	REC05848	b3156	yhbS	E	X	X	Hypothetical acetyltransferase yhbS (EC 2.3.1.-)
+C2	136	REC05859	b3170	yhbC	E	X	X	Hypothetical protein yhbC
+C2	137	REC03124	b3201	yhbG	E	X	X	Probable ABC transporter ATP-binding protein yhbG
+C2	138	REC03142	b3219	yhcF	E	X	X	Hypothetical protein yhcF precursor
+C2	139	REC05895	b3239	yhcO	E	X	X	Hypothetical protein yhcO
+C2	140	REC05957	b3343	yheL	E	X	X	Hypothetical protein yheL
+C2	141	REC05959	b3345	yheN	E	X	X	Hypothetical protein yheN
+C2	142	REC03292	b3374	yhfQ	E	X	X	Hypothetical sugar kinase yhfQ
+C2	143	REC04294	b3444		E	X	X	Insertion element IS1 1/2/3/5/6 protein insA
+C2	144	REC03383	b3465	yhhF	E	X	X	Putative methylase yhhF (EC 2.1.1.-)
+C2	145	REC03384	b3466	yhhL	E	X	X	Hypothetical protein yhhL
+C2	146	REC06033	b3467	yhhM	E	X	X	Hypothetical protein yhhM
+C2	147	REC03514	b3594	yibA	E	X	X	Hypothetical protein yibA
+C2	148	REC03516	b3596	yibG	E	X	X	Hypothetical protein yibG precursor
+C2	149	REC06202	b3804	hemD	E	X	X	Uroporphyrinogen-III synthase (EC 4.2.1.75)
+C2	150	REC06578	b3805	hemC	E	X	X	Porphobilinogen deaminase (EC 4.3.1.8)
+C2	151	REC06589	b3833	ubiE	E	X	X	Ubiquinone/menaquinone biosynthesis methyltransferase ubiE (EC 2.1.1.-)
+C2	152	REC03826	b3928	yiiU	E	X	X	Hypothetical protein yiiU
+C2	153	REC06279	b4002	zraP	E	X	X	Zinc resistance-associated protein precursor
+C2	154	REC03933	b4047	yjbL	E	X	X	Hypothetical protein yjbL
+C2	155	REC03934	b4048	yjbM	E	X	X	Hypothetical protein yjbM
+C2	156	REC03936	b4050	yjbO	E	X	X	Hypothetical protein yjbO
+C2	157	REC04044	b4158	yjeO	E	X	X	Hypothetical protein yjeO
+C2	158	REC04051	b4168	yjeE	E	X	X	Hypothetical protein yjeE
+C2	159	REC06764	b4215	ytfI	E	X	X	Hypothetical protein ytfI
+C2	160	REC04098	b4215	ytfI	E	X	X	Hypothetical protein ytfI
+C2	161	REC04112	b4229	ytfS	E	X	X	Hypothetical ABC transporter ATP-binding protein ytfR
+C2	162	REC06391	b4243	yjgF	E	X	X	Protein yjgF
+C2	163	REC04134	b4251	yjgJ	E	X	X	Hypothetical protein yjgJ
+C2	164	REC04145	b4261	yjgP	E	X	X	Hypothetical protein yjgP
+C2	165	REC04169	b4286		E	X	X	Very hypothetical 15.1 kDa protein in intB-fecE intergenic region
+C2	166	REC04260	b4378	yjjV	E	X	X	Putative deoxyribonuclease yjjV (EC 3.1.21.-)
+C2	167	REC06772		yjbS	E	X	X	Hypothetical protein yjbS
+C2	168	REC06714		sgcB	E	X	X	"Putative phosphotransferase enzyme II, B component sgcB (EC 2.7.1.69)"
+D1	1	REC02410	b2470	acrD	N	E	N	Probable aminoglycoside efflux pump
+D1	2	REC05858	b3169	nusA	N*	E	N	N utilization substance protein A
+D1	3	REC05864	b3178	hflB	N	E	N	Cell division protein ftsH (EC 3.4.24.-)
+D1	4	REC03158	b3235	degS	N	E	N	Protease degS precursor (EC 3.4.21.-)
+D1	5	REC04086	b4203	rplI	N	E	N	50S ribosomal protein L9
+D1	6	REC04779	b1132	ycfC	N	E	N	Hypothetical protein ycfC
+D1	7	REC05413	b2319	usg	N*	E	N	USG-1 protein
+D1	8	REC03763	b3863	polA	N	E	N	DNA polymerase I (EC 2.7.7.7)
+D1	9	REC06270	b3965	trmA	N	E	N	tRNA (Uracil-5-)-methyltransferase (EC 2.1.1.35)
+D2	1	REC00086	b0086	murF	N	E	X	"UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate--D-alanyl-D-alanyl ligase (EC 6.3.2.15)"
+D2	2	REC00087	b0087	mraY	N	E	X	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+D2	3	REC00178	b0178	hlpA	N	E	X	Histone-like protein HLP-1 precursor
+D2	4	REC04566	b0639	nadD	N	E*	X	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+D2	5	REC04590	b0684	fldA	N	E	X	Flavodoxin 1
+D2	6	REC00856	b0890	ftsK	N*	E	X	Cell division protein ftsK
+D2	7	REC00857	b0891	lolA	N	E	X	Outer-membrane lipoproteins carrier protein precursor
+D2	8	REC00877	b0911	rpsA	N*	E	X	30S ribosomal protein S1
+D2	9	REC01177	b1215	kdsA	N*	E	X	2-dehydro-3-deoxyphosphooctonate aldolase (EC 4.1.2.16)
+D2	10	REC05410	b2316	accD	N*	E	X	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta (EC 6.4.1.2)
+D2	11	REC05862	b3176	mrsA	N	E	X	Protein mrsA
+D2	12	REC05865	b3179	rrmJ	N	E	X	Ribosomal RNA large subunit methyltransferase J (EC 2.1.1.-)
+D2	13	REC05871	b3189	murA	N	E	X	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+D2	14	REC05934	b3308	rplE	N	E	X	50S ribosomal protein L5
+D2	15	REC05939	b3313	rplP	N	E	X	50S ribosomal protein L16
+D2	16	REC05940	b3314	rpsC	N	E	X	30S ribosomal protein S3
+D2	17	REC05941	b3315	rplV	N	E	X	50S ribosomal protein L22
+D2	18	REC05955	b3341	rpsG	N	E	X	30S ribosomal protein S7
+D2	19	REC06030	b3462	ftsX	N	E	X	Cell division protein ftsX
+D2	20	REC06256	b3933	ftsN	N	E	X	Cell division protein ftsN
+D2	21	REC03866	b3972	murB	N	E	X	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.1.1.158)
+D2	22	REC03871	b3981	secE	N	E	X	Preprotein translocase secE subunit
+D2	23	REC03872	b3982	nusG	N	E	X	Transcription antitermination protein nusG
+E	1	REC05870	b3186	rplU	X	E	N	50S ribosomal protein L21
+E	2	REC06292	b4041	plsB	X	E	N	Glycerol-3-phosphate acyltransferase (EC 2.3.1.15)
+E	3	REC04579	b0657	lnt	X	E	X	Apolipoprotein N-acyltransferase (EC 2.3.1.-)
+E	4	REC01173	b1211	prfA	X	E	X	Peptide chain release factor 1
+E	5	REC05652	b2779	eno	X	E	X	Enolase (EC 4.2.1.11)
+E	6	REC05814	b3064	gcp	X	E	X	Probable O-sialoglycoprotein endopeptidase (EC 3.4.24.57)
+E	7	REC02988	b3065	rpsU	X	E	X	30S ribosomal protein S21
+E	8	REC05869	b3185	rpmA	X	E	X	50S ribosomal protein L27
+E	9	REC03179	b3255	accB	X	E	X	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+E	10	REC03180	b3256	accC	X	E	X	Biotin carboxylase (EC 6.3.4.14) (A subunit of acetyl-CoA carboxylase (EC 6.4.1.2))
+E	11	REC05920	b3294	rplQ	X	E	X	50S ribosomal protein L17
+E	12	REC05921	b3295	rpoA	X	E	X	DNA-directed RNA polymerase alpha chain (EC 2.7.7.6)
+E	13	REC05922	b3296	rpsD	X	E	X	30S ribosomal protein S4
+E	14	REC05923	b3297	rpsK	X	E	X	30S ribosomal protein S11
+E	15	REC06155	b3699	gyrB	X	E	X	DNA gyrase subunit B (EC 5.99.1.3)
+E	16	REC06157	b3701	dnaN	X	E	X	"DNA polymerase III, beta chain (EC 2.7.7.7)"
+E	17	REC06615	b3983	rplK	X	E	X	50S ribosomal protein L11
+E	18	REC03874	b3984	rplA	X	E	X	50S ribosomal protein L1
+E	19	REC03945	b4059	ssb	X	E	X	Single-strand binding protein
+E	20	REC06366	b4161	yjeQ	X	E	X	Hypothetical protein yjeQ
+F	1	REC00096	b0096	lpxC	?	E	X	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.-)
+F	2	REC00179	b0179	lpxD	?	E	X	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.-)
+F	3	REC04678	b0884	infA	?	E	X	Translation initiation factor IF-1
+F	4	REC01051	b1089	rpmF	?	E	X	50S ribosomal protein L32
+F	5	REC01056	b1094	acpP	?	E	X	Acyl carrier protein
+F	6	REC05057	b1713	pheT	?	E	X	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+F	7	REC05061	b1717	rpmI	?	E	X	50S ribosomal protein L35
+F	8	REC06534	b2891	prfB	?	E	X	Peptide chain release factor 2
+F	9	REC05925	b3299	rpmJ	?	E	X	50S ribosomal protein L36
+F	10	REC05928	b3302	rpmD	?	E	X	50S ribosomal protein L30
+F	11	REC05938	b3312	rpmC	?	E	X	50S ribosomal protein L29
+F	12	REC06117	b3636	rpmG	?	E	X	50S ribosomal protein L33
+F	13	REC06118	b3637	rpmB	?	E	X	50S ribosomal protein L28
+F	14	REC03570	b3650	spoT	?	E	X	"Guanosine-3',5'-bis(Diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2)"
+F	15	REC03621	b3703	rpmH	?	E	X	50S ribosomal protein L34
+F	16	REC03622	b3704	rnpA	?	E	X	Ribonuclease P protein component (EC 3.1.26.5)
+F	17	REC03623	b3705	yidC	?	E	X	60 kDa inner-membrane protein
+F	18	REC03692	b3782	rhoL	?	E	X	Very hypothetical rho operon leader peptide
+F	19	REC03693	b3783	rho	?	E	X	Transcription termination factor rho
+F	20	REC03834	b3936	rpmE	?	E	X	50S ribosomal protein L31
+F	21	REC04085	b4202	rpsR	?	E	X	30S ribosomal protein S18

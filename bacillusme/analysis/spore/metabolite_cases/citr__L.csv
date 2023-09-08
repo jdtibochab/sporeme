@@ -1,0 +1,6 @@
+,lb,ub,rxn_flux,met_flux,reaction
+OCBT_1_REV_BSU11250-MONOMER_s,0,999999.0,0.024799239197456538,-0.024799239197456538,citr__L_s + h_s + pi_s <=> -1.39331395579107e-5*sigma BSU11250-MONOMER_s + cbp_s + orn__L_s
+ARGSS_REV_BSU29450-MONOMER_mod_mg2_s,0,999999.0,0.024799239197456538,0.024799239197456538,amp_s + argsuc_s + h_s + ppi_s <=> -4.27350427350427e-6*sigma BSU29450-MONOMER_mod_mg2_s + asp__L_s + atp_s + citr__L_s
+CITRt2r_FWD_CPLX_dummy_s,0,999999.0,0.0,0.0,citr__L_c + h_c <=> -4.27350427350427e-6*sigma CPLX_dummy_s + citr__L_s + h_s
+ARGSS_FWD_BSU29450-MONOMER_mod_mg2_s,0,999999.0,0.0,-0.0,asp__L_s + atp_s + citr__L_s <=> -4.27350427350427e-6*sigma BSU29450-MONOMER_mod_mg2_s + amp_s + argsuc_s + h_s + ppi_s
+OCBT_1_FWD_BSU11250-MONOMER_s,0,999999.0,0.0,0.0,cbp_s + orn__L_s <=> -1.39331395579107e-5*sigma BSU11250-MONOMER_s + citr__L_s + h_s + pi_s

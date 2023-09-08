@@ -1,0 +1,130 @@
+,annotation,model_annotation
+BSU37330,arginyl-tRNA synthetase,S_Carbohydrates_and_related_molecules
+BSU40890,ribosomal protein S18,S_Carbohydrates_and_related_molecules
+BSU40910,ribosomal protein S6 (BS9),"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU00940,dual cysteinyl-tRNA synthetase; cysteine persulfide synthase,S_Amino_acids_and_related_molecules
+BSU25260,glycyl-tRNA synthetase (beta subunit),S_Amino_acids_and_related_molecules
+BSU25270,glycyl-tRNA synthetase (alpha subunit),"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU28230,prolyl isomerase (trigger factor),S_Amino_acids_and_related_molecules
+BSU25550,ribosomal protein S20 (BS20),"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU00990,ribosomal protein L33,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01010,RNA polymerase elongation pause factor/intrinsic transcription termination factor NusG,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01000,preprotein translocase subunit,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01020,ribosomal protein L11 (BL11),"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU00550,transcription-repair coupling factor,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01030,ribosomal protein L1 (BL1),"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01080,RNA polymerase (beta' subunit),"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01100,ribosomal protein S12 (BS12),"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01110,ribosomal protein S7 (BS7),"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01120,elongation factor G,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01130,elongation factor Tu,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01180,ribosomal protein L23,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01160,ribosomal protein L3 (BL3),"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01150,ribosomal protein S10 (BS13); transcription antitermination factor,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01170,ribosomal protein L4,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU15980,signal recognition particle-like (SRP) GTPase,S_Nucleotides_and_nucleic_acids
+BSU30320,leucyl-tRNA synthetase,S_Amino_acids_and_related_molecules
+BSU14530,ribonuclease J1,S_Coenzymes_and_prosthetic_groups
+BSU14540,RNA polymerase (epsilon subunit),S_Coenzymes_and_prosthetic_groups
+BSU06020,chaperonin small subunit,"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU06030,chaperonin large subunit,"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU01050,ribosomal protein L12 (BL9),"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU01040,ribosomal protein L10 (BL5),"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU29190,6-phosphofructokinase,"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU24310,methylenetetrahydrofolate dehydrogenase; methenyltetrahydrofolate cyclohydrolase,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU25200,RNA polymerase major sigma-43 factor (sigma-A),"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU28870,initiation factor IF-3,S_Amino_acids_and_related_molecules
+BSU28850,ribosomal protein L20,S_Amino_acids_and_related_molecules
+BSU28860,ribosomal protein L35,S_Membrane_bioenergetics
+BSU41060,ribosomal protein L34,S_Membrane_bioenergetics
+BSU15990,ribosomal protein S16 (BS17),S_Amino_acids_and_related_molecules
+BSU23840,ribonuclease Z,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU37070,ribosomal protein L31,S_Carbohydrates_and_related_molecules
+BSU11420,tryptophanyl-tRNA synthetase,S_Carbohydrates_and_related_molecules
+BSU28630,phenylalanyl-tRNA synthetase (beta subunit),S_Carbohydrates_and_related_molecules
+BSU16780,dual activity 5' exo-and endoribonuclease J2,S_Carbohydrates_and_related_molecules
+BSU16630,initiation factor IF-2,"S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids"
+BSU16650,pre-ribosomal (17S) RNA binding factor A,"S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids"
+BSU16600,intrinsic transcription termination factor NusA,S_Amino_acids_and_related_molecules
+BSU37160,RNA polymerase (delta subunit) and transcriptional repressor,S_Amino_acids_and_related_molecules
+BSU15820,ribosomal protein L28,"S_Cell_wall,S_Cell_wall,S_Cell_wall"
+BSU28640,phenylalanyl-tRNA synthetase (alpha subunit),"S_Cell_wall,S_Cell_wall,S_Cell_wall"
+BSU25290,maturation of 16S RNA and assembly of 30S ribosomal subunit GTPase,S_Carbohydrates_and_related_molecules
+BSU28090,valyl-tRNA synthetase,"S_Membrane_bioenergetics,S_Membrane_bioenergetics"
+BSU33630,preprotein translocase subunit,S_Amino_acids_and_related_molecules
+BSU29670,tyrosyl-tRNA synthetase,"S_Cell_wall,S_Cell_wall"
+BSU00820,lysyl-tRNA synthetase,S_Coenzymes_and_prosthetic_groups
+BSU35300,translocase binding subunit (ATPase),S_Coenzymes_and_prosthetic_groups
+BSU35290,peptide chain release factor 2,S_Coenzymes_and_prosthetic_groups
+BSU01280,ribosomal protein L5 (BL6),S_Coenzymes_and_prosthetic_groups
+BSU01220,ribosomal protein S3 (BS3),S_Coenzymes_and_prosthetic_groups
+BSU01210,ribosomal protein L22 (BL17),S_Coenzymes_and_prosthetic_groups
+BSU01230,ribosomal protein L16,S_Coenzymes_and_prosthetic_groups
+BSU01190,ribosomal protein L2 (BL2),S_Coenzymes_and_prosthetic_groups
+BSU01240,ribosomal protein L29,S_Coenzymes_and_prosthetic_groups
+BSU01200,ribosomal protein S19 (BS19),S_Coenzymes_and_prosthetic_groups
+BSU01260,ribosomal protein L14,S_Coenzymes_and_prosthetic_groups
+BSU01270,ribosomal protein L24 (BL23),S_Coenzymes_and_prosthetic_groups
+BSU01250,ribosomal protein S17 (BS16),S_Coenzymes_and_prosthetic_groups
+BSU01300,ribosomal protein S8 (BS8),"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01330,ribosomal protein S5,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01350,ribosomal protein L15,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01360,preprotein translocase subunit,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01340,ribosomal protein L30 (BL27),"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01290,ribosomal protein S14,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01380,methionine aminopeptidase,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01320,ribosomal protein L18,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01310,ribosomal protein L6 (BL8),"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01390,initiation factor IF-I,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU01430,RNA polymerase (alpha subunit),S_Coenzymes_and_prosthetic_groups
+BSU01410,ribosomal protein S13,S_Coenzymes_and_prosthetic_groups
+BSU01400,ribosomal protein L36 (ribosomal protein B),S_Coenzymes_and_prosthetic_groups
+BSU01420,ribosomal protein S11 (BS11),S_Coenzymes_and_prosthetic_groups
+BSU01440,ribosomal protein L17 (BL15),S_Carbohydrates_and_related_molecules
+BSU01490,ribosomal protein L13,S_Carbohydrates_and_related_molecules
+BSU01500,ribosomal protein S9,S_Carbohydrates_and_related_molecules
+BSU06670,glutamyl-tRNA(Gln) amidotransferase (subunit C),S_Membrane_bioenergetics
+BSU06680,glutamyl-tRNA(Gln) amidotransferase (subunit A),S_Membrane_bioenergetics
+BSU06690,glutamyl-tRNA(Gln) amidotransferase (subunit B),S_Membrane_bioenergetics
+BSU06730,23S rRNA m<sup>5</sup>U747/m<sup>5</sup>U1939 RNA methyltransferase,S_Membrane_bioenergetics
+BSU30690,carbonic anhydrase,"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU28370,ribonuclease PH,"S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids"
+BSU37010,peptide chain release factor 1,S_Cell_wall
+BSU37080,transcriptional terminator Rho,S_Cell_wall
+BSU41050,protein component of ribonuclease P (RNase P) (substrate specificity),S_Cell_wall
+BSU01070,RNA polymerase (beta subunit),S_Coenzymes_and_prosthetic_groups
+BSU27940,ribosomal protein L27 (BL24),S_Nucleotides_and_nucleic_acids
+BSU15140,putative 16S rRNA m4C1402 methyltransferase,S_Nucleotides_and_nucleic_acids
+BSU00130,seryl-tRNA synthetase,S_Amino_acids_and_related_molecules
+BSU28950,threonyl-tRNA synthetase,S_Carbohydrates_and_related_molecules
+BSU29660,ribosomal protein S4 (BS4),S_Amino_acids_and_related_molecules
+BSU36900,serine hydroxymethyltransferase,S_Amino_acids_and_related_molecules
+BSU33900,enolase,S_Carbohydrates_and_related_molecules
+BSU00380,methionyl-tRNA synthetase,S_Other_function
+BSU40500,ribosomal protein L9,S_Other_function
+BSU15430,isoleucyl-tRNA synthetase,S_Amino_acids_and_related_molecules
+BSU15690,omega subunit of RNA polymerase,S_Amino_acids_and_related_molecules
+BSU15720,peptide deformylase,S_Amino_acids_and_related_molecules
+BSU15080,ribosomal protein L32,S_Amino_acids_and_related_molecules
+BSU15730,methionyl-tRNA formyltransferase,S_Other_function
+BSU15750,23S rRNA m2A2503 methyltransferase and tRNA A37 C2 methyltransferase,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU16500,elongation factor Ts,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU16020,16S rRNA processing protein,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU16490,ribosomal protein S2,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU16040,ribosomal protein L19,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU16520,ribosome recycling factor,S_Amino_acids_and_related_molecules
+BSU16570,prolyl-tRNA synthetase,"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU16680,ribosomal protein S15 (BS18),"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU16690,polynucleotide phosphorylase (PNPase),"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU16960,endoribonuclease Y,S_Carbohydrates_and_related_molecules
+BSU22360,asparaginyl-tRNA synthetase,S_Carbohydrates_and_related_molecules
+BSU22730,nucleoside diphosphate kinase,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU22880,RNA degradation presenting factor (ribosomal protein S1 homolog),"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU24900,ribosomal protein L33,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU25410,ribosomal protein S21,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU27320,transcription elongation factor resolving backtracking / stalling,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU27410,alanyl-tRNA synthetase,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU27550,"aspartyl-tRNA synthetase, promiscuous (also recognizes tRNAasn)","S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU27560,histidyl-tRNA synthetase,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU27650,protein-export membrane protein,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU27960,ribosomal protein L21 (BL20),"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"

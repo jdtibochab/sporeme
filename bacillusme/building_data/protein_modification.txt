@@ -1,0 +1,141 @@
+Modified_enzyme	Core_enzyme	Modifications	Source
+BSU12290-MONOMER_mod_mg2_mod_fad_mod_cu	BSU12290-MONOMER	mg2() AND fad() AND cu()	M_protein_recon
+BSU18000-MONOMER_mod_4fe4s	BSU18000-MONOMER	4fe4s()	M_protein_recon
+BSU30970-MONOMER_mod_mg2	BSU30970-MONOMER	mg2()	M_protein_recon
+BSU00770-MONOMER_mod_mg2	BSU00770-MONOMER	mg2()	M_protein_recon
+BSU15200-MONOMER_mod_mg2_mod_k	BSU15200-MONOMER	mg2() AND k()	M_protein_recon
+BSU22870-MONOMER_mod_fmn	BSU22870-MONOMER	fmn()	M_protein_recon
+CPLX8J2-101_mod_mg2	CPLX8J2-101	mg2()	M_protein_recon
+BSU03640-MONOMER_mod_mn2	BSU03640-MONOMER	mn2()	M_protein_recon
+BSU30210-MONOMER_mod_mg2	BSU30210-MONOMER	mg2()	M_protein_recon
+BSU31990-MONOMER_mod_mg2	BSU31990-MONOMER	mg2()	M_protein_recon
+BSU22620-MONOMER_mod_pydx5p	BSU22620-MONOMER	pydx5p()	M_protein_recon
+BSU32330-MONOMER_mod_2:4fe4s	BSU32330-MONOMER	4fe4s(2)	M_protein_recon
+BSU21870-MONOMER_mod_4fe4s	BSU21870-MONOMER	4fe4s()	M_protein_recon
+BSU11010-MONOMER_mod_zn2_mod_cbl1	BSU11010-MONOMER	zn2() AND cbl1()	M_protein_recon
+BSU09310-MONOMER_mod_mg2	BSU09310-MONOMER	mg2()	M_protein_recon
+BSU06480-MONOMER_mod_mg2	BSU06480-MONOMER	mg2()	M_protein_recon
+BSU24270-MONOMER_mod_thmpp	BSU24270-MONOMER	thmpp()	M_protein_recon
+BSU14390-MONOMER_mod_mg2	BSU14390-MONOMER	mg2()	M_protein_recon
+BSU12080-MONOMER_mod_ca2	BSU12080-MONOMER	ca2()	M_protein_recon
+BSU36240-MONOMER_mod_mg2	BSU36240-MONOMER	mg2()	M_protein_recon
+BSU31200-MONOMER_mod_mg2	BSU31200-MONOMER	mg2()	M_protein_recon
+BSU11140-MONOMER_mod_mg2	BSU11140-MONOMER	mg2()	M_protein_recon
+BSU30560-MONOMER_mod_mg2	BSU30560-MONOMER	mg2()	M_protein_recon
+BSU17610-MONOMER_mod_mg2	BSU17610-MONOMER	mg2()	M_protein_recon
+BSU29450-MONOMER_mod_mg2	BSU29450-MONOMER	mg2()	M_protein_recon
+BSU34780-MONOMER_mod_mn2	BSU34780-MONOMER	mn2()	M_protein_recon
+BSU22740-MONOMER_mod_mg2	BSU22740-MONOMER	mg2()	M_protein_recon
+BSU34910-MONOMER_mod_mn2	BSU34910-MONOMER	mn2()	M_protein_recon
+BSU16920-MONOMER_mod_mg2	BSU16920-MONOMER	mg2()	M_protein_recon
+BSU11610-MONOMER_mod_mg2	BSU11610-MONOMER	mg2()	M_protein_recon
+BSU29220-MONOMER_mod_mn2	BSU29220-MONOMER	mn2()	M_protein_recon
+BSU29880-MONOMER_mod_mn2	BSU29880-MONOMER	mn2()	M_protein_recon
+BSU23570-MONOMER_mod_cobalt2	BSU23570-MONOMER	cobalt2()	M_protein_recon
+BSU38290-MONOMER_mod_mg2	BSU38290-MONOMER	mg2()	M_protein_recon
+BSU27600-MONOMER_mod_mn2	BSU27600-MONOMER	mn2()	M_protein_recon
+BSU39370-MONOMER_mod_zn2	BSU39370-MONOMER	zn2()	M_protein_recon
+BSU00510-MONOMER_mod_mn2_mod_pi	BSU00510-MONOMER	mn2() AND pi()	M_protein_recon
+BSU38370-MONOMER_mod_ni2	BSU38370-MONOMER	ni2()	M_protein_recon
+BSU12300-MONOMER_mod_zn2	BSU12300-MONOMER	zn2()	M_protein_recon
+BSU05900-MONOMER_mod_mg2	BSU05900-MONOMER	mg2()	M_protein_recon
+BSU27850-MONOMER_mod_4fe4s	BSU27850-MONOMER	4fe4s()	M_protein_recon
+BSU14520-MONOMER_mod_mn2	BSU14520-MONOMER	mn2()	M_protein_recon
+BSU37860-MONOMER_mod_mg2	BSU37860-MONOMER	mg2()	M_protein_recon
+BSU25300-MONOMER_mod_zn2	BSU25300-MONOMER	zn2()	M_protein_recon
+BSU11220-MONOMER_mod_pydx5p	BSU11220-MONOMER	pydx5p()	M_protein_recon
+BSU02510-MONOMER_mod_fe2	BSU02510-MONOMER	fe2()	M_protein_recon
+BSU02130-MONOMER_mod_ca2	BSU02130-MONOMER	ca2()	M_protein_recon
+BSU08690-MONOMER_mod_mg2	BSU08690-MONOMER	mg2()	M_protein_recon
+BSU19710-MONOMER_mod_zn2	BSU19710-MONOMER	zn2()	M_protein_recon
+BSU03460-MONOMER_mod_mg2	BSU03460-MONOMER	mg2()	M_protein_recon
+BSU01370-MONOMER_mod_mg2	BSU01370-MONOMER	mg2()	M_protein_recon
+BSU39150-MONOMER_mod_fad	BSU39150-MONOMER	fad()	M_protein_recon
+BSU00280-MONOMER_mod_mg2	BSU00280-MONOMER	mg2()	M_protein_recon
+BSU38200-MONOMER_mod_mg2	BSU38200-MONOMER	mg2()	M_protein_recon
+BSU30690-MONOMER_mod_zn2	BSU30690-MONOMER	zn2()	M_protein_recon
+BSU18830-MONOMER_mod_mg2	BSU18830-MONOMER	mg2()	M_protein_recon
+BSU37890-MONOMER_mod_pydx5p	BSU37890-MONOMER	pydx5p()	M_protein_recon
+BSU16550-MONOMER_mod_cobalt2	BSU16550-MONOMER	cobalt2()	M_protein_recon
+BSU00790-MONOMER_mod_mg2	BSU00790-MONOMER	mg2()	M_protein_recon
+BSU04640-MONOMER_mod_pydx5p	BSU04640-MONOMER	pydx5p()	M_protein_recon
+BSU08610-MONOMER_mod_fe2	BSU08610-MONOMER	fe2()	M_protein_recon
+BSU09620-MONOMER_mod_mg2	BSU09620-MONOMER	mg2()	M_protein_recon
+BSU02390-MONOMER_mod_6:pydx5p	BSU02390-MONOMER	pydx5p(6)	M_protein_recon
+BSU32500-MONOMER_mod_mg2	BSU32500-MONOMER	mg2()	M_protein_recon
+BSU15020-MONOMER_mod_mg2	BSU15020-MONOMER	mg2()	M_protein_recon
+BSU24280-MONOMER_mod_mn2	BSU24280-MONOMER	mn2()	M_protein_recon
+BSU27330-MONOMER_mod_mg2	BSU27330-MONOMER	mg2()	M_protein_recon
+BSU06930-MONOMER_mod_cobalt2	BSU06930-MONOMER	cobalt2()	M_protein_recon
+BSU27870-MONOMER_mod_fad	BSU27870-MONOMER	fad()	M_protein_recon
+BSU04000-MONOMER_mod_mg2_mod_k	BSU04000-MONOMER	mg2() AND k()	M_protein_recon
+BSU02030-MONOMER_mod_mg2	BSU02030-MONOMER	mg2()	M_protein_recon
+BSU28560-MONOMER_mod_mg2	BSU28560-MONOMER	mg2()	M_protein_recon
+BSU29410-MONOMER_mod_mn2	BSU29410-MONOMER	mn2()	M_protein_recon
+BSU37830-MONOMER_mod_nad	BSU37830-MONOMER	nad()	M_protein_recon
+BSU02490-MONOMER_mod_mg2	BSU02490-MONOMER	mg2()	M_protein_recon
+BSU06360-MONOMER_mod_mg2	BSU06360-MONOMER	mg2()	M_protein_recon
+BSU13040-MONOMER_mod_pheme_mod_fad	BSU13040-MONOMER	pheme() AND fad()	M_protein_recon
+BSU30940-MONOMER_mod_pydx5p	BSU30940-MONOMER	pydx5p()	M_protein_recon
+BSU25640-MONOMER_mod_mg2	BSU25640-MONOMER	mg2()	M_protein_recon
+BSU28150-MONOMER_mod_dpm	BSU28150-MONOMER	dpm()	M_protein_recon
+BSU27860-MONOMER_mod_mg2	BSU27860-MONOMER	mg2()	M_protein_recon
+BSU00730-MONOMER_mod_2:pydx5p	BSU00730-MONOMER	pydx5p(2)	M_protein_recon
+BSU09290-MONOMER_mod_mn2	BSU09290-MONOMER	mn2()	M_protein_recon
+BSU15680-MONOMER_mod_mg2	BSU15680-MONOMER	mg2()	M_protein_recon
+BSU17890-MONOMER_mod_mg2_mod_mn2_mod_thmpp	BSU17890-MONOMER	mg2() AND mn2() AND thmpp()	M_protein_recon
+BSU09780-MONOMER_mod_mg2	BSU09780-MONOMER	mg2()	M_protein_recon
+BSU24390-MONOMER_mod_mg2	BSU24390-MONOMER	mg2()	M_protein_recon
+BSU37060-MONOMER_mod_mg2	BSU37060-MONOMER	mg2()	M_protein_recon
+BSU16990-MONOMER_mod_zn2	BSU16990-MONOMER	zn2()	M_protein_recon
+BSU22730-MONOMER_mod_mn2	BSU22730-MONOMER	mn2()	M_protein_recon
+BSU22890-MONOMER_mod_mg2	BSU22890-MONOMER	mg2()	M_protein_recon
+BSU14260-MONOMER_mod_mg2	BSU14260-MONOMER	mg2()	M_protein_recon
+BSU14670-MONOMER_mod_mg2	BSU14670-MONOMER	mg2()	M_protein_recon
+BSU30540-MONOMER_mod_mg2	BSU30540-MONOMER	mg2()	M_protein_recon
+BSU21820-MONOMER_mod_mg2	BSU21820-MONOMER	mg2()	M_protein_recon
+BSU28780-MONOMER_mod_zn2	BSU28780-MONOMER	zn2()	M_protein_recon
+BSU19400-MONOMER_mod_cu2	BSU19400-MONOMER	cu2()	M_protein_recon
+BSU11210-MONOMER_mod_mg2	BSU11210-MONOMER	mg2()	M_protein_recon
+BSU34970-MONOMER_mod_mg2_mod_cl	BSU34970-MONOMER	mg2() AND cl()	M_protein_recon
+BSU38490-MONOMER_mod_mg2	BSU38490-MONOMER	mg2()	M_protein_recon
+BSU33480-MONOMER_mod_Oxidized	BSU33480-MONOMER	Oxidized()	M_protein_recon
+BSU23770-MONOMER_mod_pydx5p	BSU23770-MONOMER	pydx5p()	M_protein_recon
+BSU28500-MONOMER_mod_Oxidized	BSU28500-MONOMER	Oxidized()	M_protein_recon
+BSU30300-MONOMER_mod_mn2	BSU30300-MONOMER	mn2()	M_protein_recon
+CPLX8J2-87_mod_2fe2s_mod_sheme_mod_fad	CPLX8J2-87	2fe2s() AND sheme() AND fad()	M_protein_recon
+BSU27250-MONOMER_mod_pydx5p	BSU27250-MONOMER	pydx5p()	M_protein_recon
+BSU07330-MONOMER_mod_mn2	BSU07330-MONOMER	mn2()	M_protein_recon
+BSU29180-MONOMER_mod_mn2_mod_k	BSU29180-MONOMER	mn2() AND k()	M_protein_recon
+BSU02230-MONOMER_mod_mg2	BSU02230-MONOMER	mg2()	M_protein_recon
+BSU00500-MONOMER_mod_mg2	BSU00500-MONOMER	mg2()	M_protein_recon
+BSU16540-MONOMER_mod_mg2_mod_k	BSU16540-MONOMER	mg2() AND k()	M_protein_recon
+BSU37150-MONOMER_mod_mg2	BSU37150-MONOMER	mg2()	M_protein_recon
+BSU39740-MONOMER_mod_mg2	BSU39740-MONOMER	mg2()	M_protein_recon
+BSU06620-MONOMER_mod_mg2	BSU06620-MONOMER	mg2()	M_protein_recon
+BSU33910-MONOMER_mod_mn2	BSU33910-MONOMER	mn2()	M_protein_recon
+CPLX8J2-16_mod_fe2_mod_fad	CPLX8J2-16	fe2() AND fad()	M_protein_recon
+CPLX8J2-19_mod_pydx5p	CPLX8J2-19	pydx5p()	M_protein_recon
+BSU23500-MONOMER_mod_mn2	BSU23500-MONOMER	mn2()	M_protein_recon
+BSU03150-MONOMER_mod_mg2	BSU03150-MONOMER	mg2()	M_protein_recon
+BSU14630-MONOMER_mod_pydx5p	BSU14630-MONOMER	pydx5p()	M_protein_recon
+BSU00900-MONOMER_mod_mn2	BSU00900-MONOMER	mn2()	M_protein_recon
+BSU27610-MONOMER_mod_mg2	BSU27610-MONOMER	mg2()	M_protein_recon
+BSU10020-MONOMER_mod_pydx5p	BSU10020-MONOMER	pydx5p()	M_protein_recon
+BSU35660-MONOMER_mod_nad	BSU35660-MONOMER	nad()	M_protein_recon
+BSU35920-MONOMER_mod_mg2_mod_k	BSU35920-MONOMER	mg2() AND k()	M_protein_recon
+CPLX8J2-2_mod_4fe4s_mod_3fe4s_mod_bmocogdp	CPLX8J2-2	4fe4s() AND 3fe4s() AND bmocogdp()	M_protein_recon
+CPLX8J2-6_mod_zn2	CPLX8J2-6	zn2()	M_protein_recon
+BSU15230-MONOMER_mod_fad	BSU15230-MONOMER	fad()	M_protein_recon
+BSU22700-MONOMER_mod_nad_mod_cobalt2	BSU22700-MONOMER	nad() AND cobalt2()	M_protein_recon
+BSU37490-MONOMER_mod_2:mn2	BSU37490-MONOMER	mn2(2)	M_protein_recon
+BSU13120-MONOMER_mod_mg2	BSU13120-MONOMER	mg2()	M_protein_recon
+BSU25070-MONOMER_mod_mn2	BSU25070-MONOMER	mn2()	M_protein_recon
+BSU13180-MONOMER_mod_zn2	BSU13180-MONOMER	zn2()	M_protein_recon
+BSU25700-MONOMER_mod_ca2	BSU25700-MONOMER	ca2()	M_protein_recon
+BSU22780-MONOMER_mod_zn2	BSU22780-MONOMER	zn2()	M_protein_recon
+BSU06530-MONOMER_mod_mg2	BSU06530-MONOMER	mg2()	M_protein_recon
+BSU28290-MONOMER_mod_mg2	BSU28290-MONOMER	mg2()	M_protein_recon
+BSU32680-MONOMER_mod_1:2fe2s	BSU32680-MONOMER	2fe2s(1)	M_protein_recon
+BSU32680-MONOMER_mod_1:4fe4s	BSU32680-MONOMER	4fe4s(1)	M_protein_recon
+BSU15920-MONOMER_mod_pan4p	BSU15920-MONOMER	pan4p()	M_protein_recon

@@ -1,0 +1,6 @@
+,lb,ub,rxn_flux,met_flux,reaction
+PSER_Lt6_FWD_CPLX_dummy_s,0,999999.0,0.204297512599845,0.204297512599845,h_c + pser__L_c <=> -4.27350427350427e-6*sigma CPLX_dummy_s + h_s + pser__L_s
+PSERT_REV_BSU10020-MONOMER_mod_pydx5p_s,0,999999.0,0.1169230175902758,-0.1169230175902758,akg_s + pser__L_s <=> 3php_s + -7.40403384347267e-6*sigma BSU10020-MONOMER_mod_pydx5p_s + glu__L_s
+PSP_L_FWD_BSU04740-MONOMER_s,0,999999.0,0.0873744950095692,-0.0873744950095692,h2o_s + pser__L_s <=> -1.94943050983268e-5*sigma BSU04740-MONOMER_s + pi_s + ser__L_s
+PSERT_FWD_BSU10020-MONOMER_mod_pydx5p_s,0,999999.0,0.0,0.0,3php_s + glu__L_s <=> -7.40403384347267e-6*sigma BSU10020-MONOMER_mod_pydx5p_s + akg_s + pser__L_s
+PSER_Lt6_REV_CPLX_dummy_s,0,999999.0,0.0,-0.0,h_s + pser__L_s <=> -4.27350427350427e-6*sigma CPLX_dummy_s + h_c + pser__L_c

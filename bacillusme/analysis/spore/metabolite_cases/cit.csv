@@ -1,0 +1,17 @@
+,lb,ub,rxn_flux,met_flux,reaction
+FEDCabc_FWD_CPLX000-19_s,0,999999.0,0.0,0.0,atp_s + 2.0 cit_c + fe3_c + h2o_s <=> -4.27350427350427e-6*sigma CPLX000-19_s + adp_s + 2.0 cit_s + fe3_s + h_s + pi_s
+CITt2r_REV_BSU38770-MONOMER_s,0,999999.0,0.0,-0.0,cit_s + h_s <=> -4.27350427350427e-6*sigma BSU38770-MONOMER_s + cit_c + h_c
+CITt2r_FWD_BSU26860-MONOMER_s,0,999999.0,0.0,0.0,cit_c + h_c <=> -8.01577664576531e-5*sigma BSU26860-MONOMER_s + cit_s + h_s
+CITt14_FWD_BSU07610-MONOMER_s,0,999999.0,0.0,0.0,ca2_c + cit_c + h_c <=> -4.27350427350427e-6*sigma BSU07610-MONOMER_s + ca2_s + cit_s + h_s
+CITt12_FWD_BSU07610-MONOMER_s,0,999999.0,0.0,0.0,cit_c + h_c + ni2_c <=> -4.27350427350427e-6*sigma BSU07610-MONOMER_s + cit_s + h_s + ni2_s
+ACONT_FWD_BSU18000-MONOMER_mod_4fe4s_s,0,999999.0,0.0,-0.0,cit_s <=> -8.55828349364752e-7*sigma BSU18000-MONOMER_mod_4fe4s_s + icit_s
+CITt10_FWD_BSU07610-MONOMER_s,0,999999.0,0.0,0.0,cit_c + h_c + mg2_c <=> -4.27350427350427e-6*sigma BSU07610-MONOMER_s + cit_s + h_s + mg2_s
+CS_FWD_BSU09440-MONOMER_s,0,999999.0,0.0,0.0,accoa_s + h2o_s + oaa_s <=> -4.27350427350427e-6*sigma BSU09440-MONOMER_s + cit_s + coa_s + h_s
+CITt2r_REV_BSU26860-MONOMER_s,0,999999.0,0.0,-0.0,cit_s + h_s <=> -8.01577664576531e-5*sigma BSU26860-MONOMER_s + cit_c + h_c
+CITt2r_FWD_BSU38770-MONOMER_s,0,999999.0,0.0,0.0,cit_c + h_c <=> -4.27350427350427e-6*sigma BSU38770-MONOMER_s + cit_s + h_s
+CITt15_FWD_BSU07610-MONOMER_s,0,999999.0,0.0,0.0,cit_c + h_c + zn2_c <=> -4.27350427350427e-6*sigma BSU07610-MONOMER_s + cit_s + h_s + zn2_s
+ACONT_REV_BSU18000-MONOMER_mod_4fe4s_s,0,999999.0,0.0,0.0,icit_s <=> -8.55828349364752e-7*sigma BSU18000-MONOMER_mod_4fe4s_s + cit_s
+CITt13_FWD_BSU07610-MONOMER_s,0,999999.0,0.0,0.0,cit_c + cobalt2_c + h_c <=> -4.27350427350427e-6*sigma BSU07610-MONOMER_s + cit_s + cobalt2_s + h_s
+CITt11_FWD_BSU07610-MONOMER_s,0,999999.0,0.0,0.0,cit_c + h_c + mn2_c <=> -4.27350427350427e-6*sigma BSU07610-MONOMER_s + cit_s + h_s + mn2_s
+CITt14_FWD_BSU39060-MONOMER_s,0,999999.0,0.0,0.0,ca2_c + cit_c + h_c <=> -8.20477455480281e-5*sigma BSU39060-MONOMER_s + ca2_s + cit_s + h_s
+CS_FWD_BSU29140-MONOMER_s,0,999999.0,0.0,0.0,accoa_s + h2o_s + oaa_s <=> -1.64233937725983e-6*sigma BSU29140-MONOMER_s + cit_s + coa_s + h_s

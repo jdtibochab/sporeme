@@ -1,0 +1,8 @@
+,lb,ub,rxn_flux,met_flux,reaction
+ACONT_REV_BSU18000-MONOMER_mod_4fe4s_s,0,999999.0,0.0,-0.0,icit_s <=> -8.55828349364752e-7*sigma BSU18000-MONOMER_mod_4fe4s_s + cit_s
+ACONT_FWD_BSU18000-MONOMER_mod_4fe4s_s,0,999999.0,0.0,0.0,cit_s <=> -8.55828349364752e-7*sigma BSU18000-MONOMER_mod_4fe4s_s + icit_s
+ICITt10_FWD_BSU07610-MONOMER_s,0,999999.0,0.0,0.0,h_c + icit_c + mg2_c <=> -4.27350427350427e-6*sigma BSU07610-MONOMER_s + h_s + icit_s + mg2_s
+ICITt2_FWD_BSU07610-MONOMER_s,0,999999.0,0.0,0.0,h_c + icit_c <=> -8.13394776411272e-5*sigma BSU07610-MONOMER_s + h_s + icit_s
+ICITt2_REV_BSU07610-MONOMER_s,0,999999.0,0.0,-0.0,h_s + icit_s <=> -8.13394776411272e-5*sigma BSU07610-MONOMER_s + h_c + icit_c
+ICDHyr_FWD_BSU29130-MONOMER_s,0,999999.0,0.0,-0.0,icit_s + nadp_s <=> -2.55011189572355e-6*sigma BSU29130-MONOMER_s + akg_s + co2_s + nadph_s
+ICDHyr_REV_BSU29130-MONOMER_s,0,999999.0,0.0,0.0,akg_s + co2_s + nadph_s <=> -2.55011189572355e-6*sigma BSU29130-MONOMER_s + icit_s + nadp_s

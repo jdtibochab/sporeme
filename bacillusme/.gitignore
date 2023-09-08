@@ -1,0 +1,14 @@
+gurobi.log
+*.swp
+*~
+.ipynb_checkpoints/
+*.pyc
+*.egg-info
+.idea/
+fort.*
+build/
+dist/
+.tox/
+.pytest_cache/
+.coverage
+.cache/

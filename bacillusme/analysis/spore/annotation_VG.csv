@@ -1,0 +1,72 @@
+,annotation,model_annotation
+BSU38490,"1,4-dihydroxy-2-naphthoate octaprenyltransferase",S_Coenzymes_and_prosthetic_groups
+BSU27900,prephenate dehydratase,S_Amino_acids_and_related_molecules
+BSU00900,"2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase, nonmevalonate isoprenoid pathway",S_Lipids
+BSU00910,"2-C-methyl-D-erythritol-2,4-cyclodiphosphate synthase",S_Lipids
+BSU23070,3-phosphoglycerate dehydrogenase,S_Amino_acids_and_related_molecules
+BSU11010,"bifunctional homocysteine S-methyltransferase using (R,S)AdoMet and methylenetetrahydrofolate reductase [NAD(P)H]",S_Coenzymes_and_prosthetic_groups
+BSU03150,shikimate kinase,S_Amino_acids_and_related_molecules
+BSU00460,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase,S_Carbohydrates_and_related_molecules
+BSU15490,aspartate carbamoyltransferase,S_Nucleotides_and_nucleic_acids
+BSU15560,orotate phosphoribosyltransferase,S_Nucleotides_and_nucleic_acids
+BSU15540,dihydroorotate dehydrogenase (catalytic subunit),S_Nucleotides_and_nucleic_acids
+BSU15500,dihydroorotase,S_Nucleotides_and_nucleic_acids
+BSU15530,dihydroorotate dehydrogenase (electron transfer subunit),S_Nucleotides_and_nucleic_acids
+BSU15550,orotidine 5'-phosphate decarboxylase,S_Nucleotides_and_nucleic_acids
+BSU22780,GTP cyclohydrolase I,S_Coenzymes_and_prosthetic_groups
+BSU06440,adenylosuccinate lyase,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU06450,phosphoribosylaminoimidazole succinocarboxamide synthetase,S_Nucleotides_and_nucleic_acids
+BSU06530,phosphoribosylglycinamide synthetase,S_Nucleotides_and_nucleic_acids
+BSU06500,phosphoribosylaminoimidazole synthetase,S_Nucleotides_and_nucleic_acids
+BSU06490,glutamine phosphoribosylpyrophosphate amidotransferase,S_Nucleotides_and_nucleic_acids
+BSU29750,bifunctional chorismate mutase type II-isozyme 3 (regulatory domain); 3-deoxy-D-arabino-heptulosonate 7-phosphate synthase,"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU30790,O-succinylbenzoyl-CoA synthetase,S_Coenzymes_and_prosthetic_groups
+BSU30820,2-oxoglutarate decarboxylase and 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1- carboxylic-acid synthase,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU30780,<i>o</i>-succinylbenzoate synthase,S_Coenzymes_and_prosthetic_groups
+BSU30800,"1,4-dihydroxy-2-naphthoyl-CoA synthase",S_Coenzymes_and_prosthetic_groups
+BSU22610,prephenate dehydrogenase,S_Amino_acids_and_related_molecules
+BSU22600,3-phosphoshikimate 1-carboxyvinyltransferase (5-enolpyruvoylshikimate-3-phosphate synthase),S_Amino_acids_and_related_molecules
+BSU28280,2-isopropylmalate synthase,S_Amino_acids_and_related_molecules
+BSU28260,3-isopropylmalate dehydratase (large subunit),"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU28270,3-isopropylmalate dehydrogenase,S_Amino_acids_and_related_molecules
+BSU28250,3-isopropylmalate dehydratase (small subunit),"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU17890,transketolase,"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU25070,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase),S_Lipids
+BSU24080,branched-chain amino acid dehydrogenase,"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU06360,GMP synthetase,S_Nucleotides_and_nucleic_acids
+BSU40550,inorganic pyrophosphatase (Mn2+-dependent),S_Phosphate_and_sulfur
+BSU37150,CTP synthetase,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU17380,ribonucleoside-diphosphate reductase (major subunit),"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU17390,ribonucleoside-diphosphate reductase (minor subunit),"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU27860,nicotinate-nucleotide pyrophosphorylase (quinolinate phosphoribosyltransferase),S_Coenzymes_and_prosthetic_groups
+BSU27870,L-aspartate oxidase,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU27850,quinolinate synthetase,S_Coenzymes_and_prosthetic_groups
+BSU28080,folyl-polyglutamate synthase,S_Coenzymes_and_prosthetic_groups
+BSU00790,"7,8-dihydro-6-hydroxymethylpterin pyrophosphokinase",S_Coenzymes_and_prosthetic_groups
+BSU00740,4-amino-4-deoxychorismate synthase (para-aminobenzoate synthase),S_Coenzymes_and_prosthetic_groups
+BSU00770,dihydropteroate synthase,S_Coenzymes_and_prosthetic_groups
+BSU00750,4-amino-4-deoxychorismate synthase; anthranilate synthase (subunit II),"S_Coenzymes_and_prosthetic_groups,S_Amino_acids_and_related_molecules"
+BSU00760,4-amino-4-deoxychorismate pyruvate-lyase,S_Coenzymes_and_prosthetic_groups
+BSU00780,dihydroneopterin aldolase,S_Coenzymes_and_prosthetic_groups
+BSU01370,adenylate kinase,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU10020,phosphoserine aminotransferase,S_Amino_acids_and_related_molecules
+BSU40420,adenylosuccinate synthetase,S_Nucleotides_and_nucleic_acids
+BSU01780,L-glutamine-D-fructose-6-phosphate amidotransferase,S_Amino_acids_and_related_molecules
+BSU23080,3-dehydroquinate dehydratase,S_Amino_acids_and_related_molecules
+BSU23260,"fused 3,4-dihydroxy-2-butanone 4-phosphate synthase and GTP cyclohydrolase II","S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU23270,riboflavin synthase (alpha subunit),"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU23280,fused diaminohydroxyphosphoribosylaminopyrimidine deaminase; 5-amino-6-(5-phosphoribosylamino) uracil reductase,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU23250,"6,7-dimethyl-8-ribityllumazine synthase, beta subunit","S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU00510,phosphoribosylpyrophosphate synthetase,S_Nucleotides_and_nucleic_acids
+BSU13180,cobalamin-independent methionine synthase,S_Amino_acids_and_related_molecules
+BSU16550,1-deoxy-D-xylulose-5-phosphate reductoisomerase,S_Carbohydrates_and_related_molecules
+BSU22700,3-dehydroquinate synthase,S_Amino_acids_and_related_molecules
+BSU22710,chorismate synthase,S_Amino_acids_and_related_molecules
+BSU22740,heptaprenyl diphosphate synthase component II,S_Coenzymes_and_prosthetic_groups
+BSU22750,demethylmenaquinone methyltransferase,S_Coenzymes_and_prosthetic_groups
+BSU22760,heptaprenyl diphosphate synthase component I,S_Coenzymes_and_prosthetic_groups
+BSU22830,NADPH-dependent glycerol-3-phosphate dehydrogenase,S_Carbohydrates_and_related_molecules
+BSU24270,1-deoxyxylulose-5-phosphate synthase,S_Carbohydrates_and_related_molecules
+BSU24280,farnesyl diphosphate synthase,"S_Lipids,S_Lipids"
+BSU25160,1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase,"S_Lipids,S_Lipids"
+BSU25660,shikimate 5-dehydrogenase,S_Amino_acids_and_related_molecules

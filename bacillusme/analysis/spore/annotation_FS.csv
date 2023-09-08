@@ -1,0 +1,42 @@
+,annotation,model_annotation
+BSU09540,1-acylglycerol-phosphate (1-acyl-G3P) acyltransferase,S_Lipids
+BSU34200,RNA polymerase sigma-54 factor (sigma-L),S_Membrane_bioenergetics
+BSU00280,thymidylate kinase,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU03130,ammonium-dependent NAD+ synthetase,S_Coenzymes_and_prosthetic_groups
+BSU35660,UDP-<i>N</i>-acetylglucosamine 2-epimerase,"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU16920,CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase,S_Lipids
+BSU35670,UTP-glucose-1-phosphate uridylyltransferase,S_Cell_wall
+BSU24040,branched-chain alpha-keto acid dehydrogenase E1 subunit,"S_Lipids,S_Lipids,S_Lipids"
+BSU24030,branched-chain alpha-keto acid dehydrogenase E2 subunit (lipoamide acyltransferase),"S_Lipids,S_Lipids,S_Lipids"
+BSU24060,branched-chain alpha-keto acid dehydrogenase E3 subunit (dihydrolipoamide dehydrogenase),"S_Lipids,S_Lipids,S_Lipids"
+BSU24050,branched-chain alpha-keto acid dehydrogenase E1 subunit,"S_Lipids,S_Lipids,S_Lipids"
+BSU11340,beta-ketoacyl-acyl carrier protein synthase II (involved in pimelate synthesis),"S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids"
+BSU15900,malonyl CoA:acyl carrier protein transacylase,"S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids"
+BSU15910,beta-ketoacyl-acyl carrier protein reductase,"S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids"
+BSU35750,"N-acetylmannosamine (ManNAc) C4 hydroxyl of a membrane-anchored N-acetylglucosaminyl diphospholipid (GlcNAc-pp-undecaprenyl, lipid I) glycosyltransferase","S_Cell_wall,S_Cell_wall,S_Cell_wall"
+BSU35760,"teichoic acid primase, CDP-glycerol:N-acetyl-beta-d-mannosaminyl-1, 4-N-acetyl-d-glucosaminyldiphosphoundecaprenyl glycerophosphotransferase","S_Cell_wall,S_Cell_wall,S_Cell_wall"
+BSU22440,biotin acetyl-CoA-carboxylase ligase and biotin regulon repressor (BirA-biotinoyl-5'-AMP),S_Lipids
+BSU29200,acetyl-CoA carboxylase (carboxyltransferase alpha subunit),S_Lipids
+BSU29210,acetyl-CoA carboxylase (carboxyltransferase beta subunit),S_Lipids
+BSU04730,RNA polymerase sigma-37 factor (sigma(B)),S_Cell_wall
+BSU38530,D-alanine carrier protein:PG D-alanyltransferase,"S_Cell_wall,S_Cell_wall"
+BSU38500,D-alanine--[D-alanyl carrier protein] ligase,"S_Cell_wall,S_Cell_wall"
+BSU38520,D-alanyl carrier protein,"S_Cell_wall,S_Cell_wall"
+BSU38510,PG:teichoic acid D-alanyltransferase,"S_Cell_wall,S_Cell_wall"
+BSU35680,poly(glucosyl N-acetylgalactosamine 1-phosphate) glucosyltransferase,S_Cell_wall
+BSU35700,wall teichoic acid ABC transporter ATP-binding protein,"S_Cell_wall,S_Cell_wall,S_Cell_wall"
+BSU35530,UDP-N-acetylglucosamine:undecaprenyl-P N-acetylglucosaminyl-1-P transferase,"S_Cell_wall,S_Cell_wall,S_Cell_wall"
+BSU35710,wall teichoic acid ABC transporter membrane subunit,"S_Cell_wall,S_Cell_wall,S_Cell_wall"
+BSU35690,poly(glucosyl N-acetylgalactosamine 1-phosphate) glucosyltransferase (missing signal peptide),S_Cell_wall
+BSU35720,CDP-glycerol:polyglycerol phosphate glycero-phosphotransferase (poly(glycerol phosphate) polymerase),"S_Cell_wall,S_Cell_wall,S_Cell_wall"
+BSU35740,glycerol-3-phosphate cytidylyltransferase monomer,S_Cell_wall
+BSU35730,UDP-glucose:polyglycerol phosphate alpha-glucosyltransferase,S_Cell_wall
+BSU23450,RNA polymerase sporulation-specific sigma factor (sigma-F),S_Coenzymes_and_prosthetic_groups
+BSU24350,acetyl-CoA carboxylase subunit (biotin carboxyl carrier subunit),S_Lipids
+BSU24340,acetyl-CoA carboxylase subunit (biotin carboxylase subunit),S_Lipids
+BSU02270,phosphatidylserine synthase,S_Lipids
+BSU02290,phosphatidylserine decarboxylase; 32 kDa precursor processed into a 29 kDa protein,S_Lipids
+BSU16540,phosphatidate cytidylyltransferase (CDP-diglyceride synthase),S_Lipids
+BSU21920,UDP-glucose diacylglyceroltransferase,"S_Lipids,S_Lipids,S_Lipids"
+BSU21810,dihydrofolate reductase,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU25640,nicotinate-nucleotide adenylyltransferase,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"

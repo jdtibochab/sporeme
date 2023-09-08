@@ -1,0 +1,90 @@
+,locus_id,in_model,FS_essential,VG_essential,active,depends on
+acdA,BSU37170,True,False,False,True,"acdA, fadA, fadN"
+acoA,BSU08060,True,False,False,False,
+acoB,BSU08070,True,False,False,False,
+acoC,BSU08080,False,False,False,False,
+acsA,BSU29680,True,False,False,False,
+addA,BSU10630,False,False,False,False,
+argB,BSU11210,True,False,False,True,"aroX, qdoI, gltB, sigV, aroA, trpD, ilvC, guaB, pheA, adk, serC, sigW, pncB, ldeG, penP, odhB, odhA, ppaC, era, araB, yqxL, nadA, glpQA, cysP, dapG, trpP, argD, argF, argJ, argC, carA, carB, argB, sucC, sucD, serA, dusB, pdhA, pdhB, pdhC, pdhD, pftA, pyrP, tuaG, tuaC, nadE, mrpD, mrpB, dgk, ilvK, glnA, feuC, xpt, aroC, katE, argI, sxzZ, opuE, tktA, nupC, licC, ansA, maeS, xylB, malP, pgm, glmU, glmM, gapB, buk, citB, yxeR, tcyM, icd, argH, argG, sufU, lysP, mdxE, hisD, hisG, ywrK, rpe, sdaAB, uppS, yppS, yojA, aroB, aroF, mleN, aroE, nadD"
+argD,BSU11220,True,False,False,True,"aroX, qdoI, gltB, sigV, aroA, trpD, ilvC, guaB, pheA, adk, serC, sigW, pncB, ldeG, penP, odhB, odhA, ppaC, era, araB, yqxL, nadA, glpQA, cysP, dapG, trpP, argD, argF, argJ, argC, carA, carB, argB, sucC, sucD, serA, dusB, pdhA, pdhB, pdhC, pdhD, pftA, pyrP, tuaG, tuaC, nadE, mrpD, mrpB, dgk, ilvK, glnA, feuC, xpt, aroC, katE, argI, sxzZ, opuE, tktA, nupC, licC, ansA, maeS, xylB, malP, pgm, glmU, glmM, gapB, buk, citB, yxeR, tcyM, icd, argH, argG, sufU, lysP, mdxE, hisD, hisG, ywrK, rpe, sdaAB, uppS, yppS, yojA, aroB, aroF, mleN, aroE, nadD"
+argF,BSU11250,True,False,False,True,"aroX, qdoI, gltB, sigV, aroA, trpD, ilvC, guaB, adk, serC, sigW, pncB, ldeG, penP, odhB, odhA, ppaC, era, yqxL, nadA, glpQA, cysP, dapG, trpP, argD, argF, argJ, argC, carA, carB, argB, sucC, sucD, serA, dusB, pdhA, pdhB, pdhC, pdhD, pftA, pyrP, tuaG, tuaC, nadE, mrpD, mrpB, dgk, ilvK, glnA, feuC, xpt, aroC, katE, argI, opuE, tktA, nupC, licC, ansA, maeS, xylB, malP, pgm, glmU, glmM, gapB, buk, citB, yxeR, tcyM, icd, argH, argG, sufU, lysP, mdxE, hisD, hisG, ywrK, rpe, sdaAB, uppS, yppS, yojA, aroB, aroF, mleN, aroE, nadD"
+argG,BSU29450,True,False,False,True,"ppaC, nadE, argH, argG"
+argH,BSU29440,True,False,False,True,"ppaC, nadE, argH, argG"
+argJ,BSU11200,True,False,False,True,"aroX, qdoI, gltB, sigV, aroA, trpD, ilvC, guaB, pheA, adk, serC, sigW, pncB, ldeG, penP, odhB, odhA, ppaC, era, araB, yqxL, nadA, glpQA, cysP, dapG, trpP, argD, argF, argJ, argC, carA, carB, argB, sucC, sucD, serA, dusB, pdhA, pdhB, pdhC, pdhD, pftA, pyrP, tuaG, tuaC, nadE, mrpD, mrpB, dgk, ilvK, glnA, feuC, xpt, aroC, katE, argI, sxzZ, opuE, tktA, nupC, licC, ansA, maeS, xylB, malP, pgm, glmU, glmM, gapB, buk, citB, yxeR, tcyM, icd, argH, argG, sufU, lysP, mdxE, hisD, hisG, ywrK, rpe, sdaAB, uppS, yppS, yojA, aroB, aroF, mleN, aroE, nadD"
+asnB,BSU30540,True,False,False,False,
+bioB,BSU30200,True,False,False,False,
+carB,BSU11240,True,False,False,True,"ctaA, aroX, qdoI, msrB, pdxS, gltB, sigH, rbsD, menF, pdxK, aroA, trpF, trpD, trpC, mgtE, leuC, ilvC, mtnN, maeN, mccA, mccB, guaB, qoxB, pgl, ytrD, ytrE, pheA, qcrA, arsF, rhgP, serC, sigW, mntA, yodF, hemC, hemD, proB, atpI, atpF, atpC, natA, pncB, tcyP, sacP, ldeG, ldeE, ldeJ, ldeI, penP, odhB, odhA, apt, ppaC, dsdA, ssuD, era, yqxL, fumC, nadA, bioB, sigP, glpQA, cysP, dapG, kdgD, trpP, lctP, bglP, argD, argF, argJ, argC, proI, carA, carB, argB, copA, iolS, dppC, mntH, sucC, sucD, serA, cwlC, samT, lutP, pabC, dusB, pdhA, pdhB, pdhC, pdhD, pftA, pyrP, treP, tuaG, tuaH, tuaC, ctaE, ctaD, folEA, purC, nadE, purE, ndh, mrpD, mrpB, gmuC, opuAA, dgk, chaA, ycsA, ilvK, glnQ, glnM, glpF, glgP, glnA, mtlD, purA, feuC, glmS, aroC, sigF, katE, pbtP, pbtQ, iolD, argI, opuE, tktA, nupC, ureB, licC, licH, cwlD, pupG, deoB, thiE, hisK, ansA, maeS, ribBA, speE, xylB, tadA, thrD, malP, pgm, aldX, glmU, ptsI, lytD, pckA, glmM, hemH, nupG, gapB, buk, citB, yxeR, tcyM, tcyN, icd, argH, argG, ytcB, gbsA, ktrB, mrpA, sufU, yvrC, lysP, mdxM, mdxE, trxB, hisB, hisD, hisG, ywrK, chrA, tdk, clsB, queD, glsB, suhB, coaD, thiQ, rpe, sdaAB, sdaAA, pyrH, uppS, yppS, yodQ, mtbP, panB, aroB, aroF, gpsA, lysA, mleN, unpK, aroE, yraO, nadD"
+citB,BSU18000,True,False,False,True,"citB, icd, sufU"
+citZ,BSU29140,True,False,False,False,
+cysC,BSU15600,True,False,False,False,
+dat,BSU09670,False,False,False,False,
+dhaS,BSU19310,True,False,False,False,
+dhbB,BSU31970,True,False,False,False,
+dhbC,BSU31990,True,False,False,False,
+dhbE,BSU31980,True,False,False,False,
+divIVA,BSU15420,False,False,False,False,
+etfA,BSU28520,False,False,False,False,
+etfB,BSU28530,False,False,False,False,
+fadN,BSU32840,True,False,False,True,"fadA, fadN"
+ftsZ,BSU15290,False,False,False,False,
+gapB,BSU29020,True,False,False,False,
+glpX,BSU37090,False,False,False,False,
+hemZ,BSU09840,True,False,False,False,
+hpf,BSU35310,False,False,False,False,
+ilvB,BSU28310,True,False,False,True,"ilvB, ilvC, ilvH, ilvD, sufU"
+ilvC,BSU28290,True,False,False,True,"ilvC, ilvD, sufU"
+ilvE,BSU02390,True,False,False,False,
+leuA,BSU28280,True,False,False,False,
+leuB,BSU28270,True,False,False,False,
+leuD,BSU28250,True,False,False,False,
+licH,BSU38560,True,False,False,False,
+lutB,BSU34040,False,False,False,False,
+lutC,BSU34030,False,False,False,False,
+mdh,BSU29120,True,False,False,True,"pycA, era, fumC, nadE, mdh"
+metC,BSU11880,True,False,False,False,
+metE,BSU13180,True,False,False,True,"metAA, trxA, sat, cysH, metI, hom, samT, yvrB, metE"
+metI,BSU11870,True,False,False,True,"metAA, sat, cysH, metI, hom"
+nadC,BSU27860,True,False,False,True,"aroX, aroA, era, nadA, nadB, nadC, aroK, nadE, aroC, tktA, pupG, sufU, aroB, aroF, aroE, nadD"
+ndh,BSU12290,True,False,False,False,
+pabA,BSU00750,True,False,False,True,"trpF, trpD, trpC, trpB, trpA, ppaC, pabA, glnA"
+pckA,BSU30560,True,False,False,False,
+pdhD,BSU14610,True,False,False,True,"era, pdhD, nadE, nadD"
+pksJ,BSU17180,False,False,False,False,
+purC,BSU06450,True,False,False,True,"qdoI, adk, serC, ldeG, era, cysP, pftB, serA, purC, purM, purB, purF, purH, purD, glnA, purA, pyk, iolD, ansA, gbsA, hisG, unpK"
+purL,BSU06480,True,False,False,True,"qdoI, adk, serC, ldeG, era, cysP, pftB, serA, purC, purM, purB, purL, purF, purH, purD, glnA, purA, pyk, iolD, ansA, gbsA, hisG, unpK"
+pyrAA,BSU15510,True,False,False,True,"pstA, sigV, pbuG, trpE, leuA, ilvC, pheA, pycA, gutP, akrN, adk, alrA, serC, gltT, mntC, nirC, hemB, pksG, atpD, ldeG, ackA, blt, ppaC, gabP, pyrG, aldY, era, araB, alsT, pta, glpT, phoA, sdhB, sirC, gudD, spoVFB, rpiB, mmgD, mmgE, narK, ilvA, serA, znuB, pyrK, pyrC, pyrD, pyrAA, pyrF, pyrB, pyrAB, pyrE, dhbC, cysK, ilvD, nadE, purQ, mrpF, scoB, scoA, gmuE, acoA, glgA, glgB, fadA, fadN, glnA, nasC, nasE, pbuX, xpt, katA, iolF, iolJ, lcfB, manP, amhX, galK, ureC, ureA, licC, pbuO, sigD, sigM, pgoN, opuCB, gndA, efeU, prs, brnQ, hemE, tcyL, opuBA, udk, yugH, yumB, fhuG, hisA, fabZ, ohaC, gmk, yojA, dutB, kduD"
+pyrAB,BSU15520,True,False,False,True,"pstA, sigV, pbuG, trpE, leuA, ilvC, pheA, pycA, gutP, akrN, adk, alrA, serC, gltT, mntC, nirC, hemB, pksG, atpD, ldeG, ackA, blt, ppaC, gabP, pyrG, aldY, era, araB, alsT, pta, glpT, phoA, sdhB, sirC, gudD, spoVFB, rpiB, mmgD, mmgE, narK, ilvA, serA, znuB, pyrK, pyrC, pyrD, pyrAA, pyrF, pyrB, pyrAB, pyrE, dhbC, cysK, ilvD, nadE, purQ, mrpF, scoB, scoA, gmuE, acoA, glgA, glgB, fadA, fadN, glnA, nasC, nasE, pbuX, xpt, katA, iolF, iolJ, lcfB, manP, amhX, galK, ureC, ureA, licC, pbuO, sigD, sigM, pgoN, opuCB, gndA, efeU, prs, brnQ, hemE, tcyL, opuBA, udk, yugH, yumB, fhuG, hisA, fabZ, ohaC, gmk, yojA, dutB, kduD"
+rapA,BSU12430,False,False,False,False,
+rapC,BSU03770,False,False,False,False,
+rapK,BSU18910,False,False,False,False,
+rocD,BSU40340,True,False,False,False,
+rsbW,BSU04720,False,False,False,False,
+samT,BSU11010,True,False,False,True,"metAA, trxA, sat, cysH, metI, hom, samT, yvrB, metE"
+sat,BSU15590,True,False,False,True,"era, metAA, trxA, sat, cysH, metI, hom"
+sdaAA,BSU15860,True,False,False,False,
+sdaAB,BSU15850,True,False,False,False,
+sdhA,BSU28440,True,False,False,False,
+sdhB,BSU28430,True,False,False,False,
+sigB,BSU04730,True,False,False,True,
+sigE,BSU15320,True,False,False,True,
+sigF,BSU23450,True,False,False,False,
+skfB,BSU01920,False,False,False,False,
+srfAB,BSU03490,False,False,False,False,
+srfAC,BSU03510,False,False,False,False,
+srfAD,BSU03520,False,False,False,False,
+sucC,BSU16090,True,False,False,True,"sucC, sucD, gpsA"
+sucD,BSU16100,True,False,False,True,"sucC, sucD, gpsA"
+thrC,BSU32250,True,False,False,False,
+thrD,BSU03790,True,False,False,False,
+tuaD,BSU35580,True,False,False,False,
+yceD,BSU02900,False,False,False,False,
+ydjE,BSU06170,True,False,False,False,
+yfmG,BSU07480,False,False,False,False,
+yhaM,BSU09930,False,False,False,False,
+ylmA,BSU15340,False,False,False,False,
+ymaE,BSU17250,False,False,False,False,
+yrpB,BSU26800,False,False,False,False,
+yxbB,BSU39890,False,False,False,False,
+yxbC,BSU39880,False,False,False,False,
+yxjG,BSU38960,False,False,False,False,
+yxjH,BSU38950,False,False,False,False,

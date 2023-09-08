@@ -1,0 +1,272 @@
+Chip n°,Chip Id,Condition key *,Condition description,Cells collected,Experiment number,Conditionn°,References
+1,25350202,LBexp_1,"Cells were grown in Luria-Bertani medium (Sigma) [LB]  at 37°C with vigorous shaking in flasks. Overnight cultures were diluted 2000-fold in fresh pre-warmed medium and samples were collected during the exponential [exp], transition  [tran] and  stationary [stat] phases of the growth cycle .",O.D.600 approx. 0.5,exp. N°1,1,This work (Jouy)
+2,25368302,LBexp_2,,O.D.600 approx. 0.5,exp. N°2,1,This work (Jouy)
+3,25348702,LBexp_3,,O.D.600 approx. 0.5,exp. N°3,1,This work (Jouy)
+4,25350002,LBtran_1,,O.D.600 approx. 1.4,exp. N°1,2,This work (Jouy)
+5,25350302,LBtran_2,,O.D.600 approx. 1.4,exp. N°2,2,This work (Jouy)
+6,25350802,LBtran_3,,O.D.600 approx. 1.4,exp. N°3,2,This work (Jouy)
+7,25350502,LBstat_1,,O.D.600 approx. 2,exp. N°1,3,This work (Jouy)
+8,25350102,LBstat_2,,O.D.600 approx. 2,exp. N°2,3,This work (Jouy)
+9,25350702,LBstat_3,,O.D.600 approx. 2,exp. N°3,3,This work (Jouy)
+10,25351002,LBGexp_1,"Cells were grown in Luria-Bertani medium (Sigma) supplemented with glucose 0.3 % [LBG] at 37°C with  vigorous shaking in flasks. Overnight cultures were diluted 2000-fold in fresh pre-warmed medium and samples were collected during the exponential [exp], transition  [tran] and  stationary [stat] phases of the growth cycle .",O.D.600 approx. 0.5,exp. N°1,4,This work (Jouy)
+11,25350402,LBGexp_2,,O.D.600 approx. 0.5,exp. N°2,4,This work (Jouy)
+12,25350602,LBGexp_3,,O.D.600 approx. 0.5,exp. N°3,4,This work (Jouy)
+13,27737502,LBGtran_2,,O.D.600  approx. 1.4,exp. N°2,5,This work (Jouy)
+14,27061402,LBGtran_3,,O.D.600 approx. 1.4,exp. N°3,5,This work (Jouy)
+15,27738002,LBGstat_1,,O.D.600 approx. 2,exp. N°1,6,This work (Jouy)
+16,27737202,LBGstat_2,,O.D.600 approx. 2,exp. N°2,6,This work (Jouy)
+17,27737302,LBGstat_3,,O.D.600 approx. 2,exp. N°3,6,This work (Jouy)
+18,28386102,S0_1," Cells were grown in CH medium at 37°C and sporulation was induced by resuspension in warm sporulation medium as described by Sterlini and Mandelstam (J. M. Sterlini, J. Mandelstam, Biochem J 113, 29, Jun, 1969). The initiation of sporulation was designated T0, the time of resuspension.  Samples were harvested at hourly intervals for 6 hours [S0 to S6] for the first set of experiments and for 8 hours [S0 to S8] for a  second set of experiments.",time =0h after resuspension,exp. N°1,7,This work (Jouy)
+19,28384902_01,S0_2,,time =0h after resuspension,exp. N°2,7,This work (Jouy)
+20,29584102,S0_3,,time =0h after resuspension,exp. N°3,7,This work (Jouy)
+21,28384002,S1_1,,time =1h after resuspension,exp. N°1,8,This work (Jouy)
+22,28358602,S1_2,,time =1h after resuspension,exp. N°2,8,This work (Jouy)
+23,29569102,S1_3,,time =1h after resuspension,exp. N°3,8,This work (Jouy)
+24,28345202_01,S2_1,,time =2h after resuspension,exp. N°1,9,This work (Jouy)
+25,28438702_01,S2_2,,time =2h after resuspension,exp. N°2,9,This work (Jouy)
+26,29584002,S2_3,,time =2h after resuspension,exp. N°3,9,This work (Jouy)
+27,28353902,S3_1,,time =3h after resuspension,exp. N°1,10,This work (Jouy)
+28,28407302_01,S3_2,,time =3h after resuspension,exp. N°2,10,This work (Jouy)
+29,29593702,S3_3,,time =3h after resuspension,exp. N°3,10,This work (Jouy)
+30,28353602_01,S4_1,,time =4h after resuspension,exp. N°1,11,This work (Jouy)
+31,29633702,S4_2,,time =4h after resuspension,exp. N°2,11,This work (Jouy)
+32,29593902,S4_3,,time =4h after resuspension,exp. N°3,11,This work (Jouy)
+33,28387702,S5_1,,time =5h after resuspension,exp. N°1,12,This work (Jouy)
+34,29581902,S5_2,,time =5h after resuspension,exp. N°2,12,This work (Jouy)
+35,29636602,S5_3,,time =5h after resuspension,exp. N°3,12,This work (Jouy)
+36,28357602,S6_1,,time =6h after resuspension,exp. N°1,13,This work (Jouy)
+37,29634602,S6_2,,time =6h after resuspension,exp. N°2,13,This work (Jouy)
+38,29637702,S6_3,,time =6h after resuspension,exp. N°3,13,This work (Jouy)
+39,39203702,S6/t_1,,time =6h after resuspension,exp. N°1,13,This work (Jouy)
+40,42359702,S6/t_2,,time =6h after resuspension,exp. N°2,13,This work (Jouy)
+41,39204702,S6/t_2,,time =6h after resuspension,exp. N°3,13,This work (Jouy)
+42,43477102,S6_4,,time =6h after resuspension ,exp. N°4,13,This work (Jouy)
+43,43203402,S6_5,,time =6h after resuspension ,exp. N°5,13,This work (Jouy)
+44,43259002,S6_6,,time =6h after resuspension ,exp. N°6,13,This work (Jouy)
+45,43261002,S7_4,,time =7h after resuspension ,exp. N°4,14,This work (Jouy)
+46,43260902,S7_5,,time =7h after resuspension ,exp. N°5,14,This work (Jouy)
+47,43477202,S7_6,,time =7h after resuspension ,exp. N°6,14,This work (Jouy)
+48,43256702,S8_4,,time =8h after resuspension ,exp. N°4,15,This work (Jouy)
+49,43271102,S8_5,,time =8h after resuspension ,exp. N°5,15,This work (Jouy)
+50,33853802,G135_1,"Purified spores were obtained by growing cells in DSM medium (P. Schaeffer, J. Millet, J. P. Aubert, Proc Natl Acad Sci U S A 54, 704, Sep, 1965) at 37°C for 48 hours after which they were washed ten times in ice cold distilled water over a period of 5 days. Purified spores were heat activated at 70°C  in Tris 10 mM pH 8.4 and germination was initiated by the addition of L-alanine 10 mM (A. Moir, J Bacteriol 146, 1106, Jun, 1981). After incubation for one hour at 37°C, the culture was diluted with an equal volume of 2X LB medium and germinating cells were harvested at 135, 150 or 180 minutes after addition of L-alanine [G135, G150 and G180].",time =135min after L-alanine addition ,exp. N°1,16,This work (Jouy)
+51,33849902,G135_3,,time =135min after L-alanine addition ,exp. N°3,16,This work (Jouy)
+52,33856402,G150_1,,time =150min after L-alanine addition ,exp. N°1,17,This work (Jouy)
+53,33873202,G150_2,,time =150min after L-alanine addition ,exp. N°2,17,This work (Jouy)
+54,29750102,G150_3,,time =150min after L-alanine addition ,exp. N°3,17,This work (Jouy)
+55,29759602,G180_1,,time =180min after L-alanine addition ,exp. N°1,18,This work (Jouy)
+56,29634102,G180_2,,time =180min after L-alanine addition ,exp. N°2,18,This work (Jouy)
+57,33853902,G180_3,,time =180min after L-alanine addition ,exp. N°3,18,This work (Jouy)
+58,42359802,C30_1,"Cells grown overnight on LB agar plates at 30°C were harvested and used to inoculate pre-warmed minimal medium at OD600 of 0.5 (D. Dubnau, R. Davidoff-Abelson, J Mol Biol 56, 209, Mar 14, 1971). After growth at 37°C with vigorous shaking, cells were diluted ten times in fresh pre-warmed minimal medium and samples were harvested after  a period of 30 minutes [C30] , i.e. before maximal induction of competence, and after a period of 90 minutes [C90], i.e. when competence induction was maximal.",time =30min after competence induction ,exp. N°1,19,This work (Jouy)
+59,42068102,C30_2,,time =30min after competence induction ,exp. N°2,19,This work (Jouy)
+60,39425302,C90_1,,time =90min after competence induction ,exp. N°1,20,This work (Jouy)
+61,39202602,C90_2,,time =90min after competence induction ,exp. N°2,20,This work (Jouy)
+62,32835602,BI_1,"Cultures were inoculated from frozen glycerol stocks and grown overnight in LB at 37°C.  These cultures were then diluted, plated onto LB plates, and incubated for 16 h at 37°C. Cells were harvested  from plates containing individual colonies [BI] and from plates with confluen growth [BC].",individal colonies (100 per plates),exp. N°1,21,This work (Jouy)
+63,32823102,BI_2,,individal colonies (100 per plates),exp. N°2,21,This work (Jouy)
+64,32831902,BC_2,,confluent colonies (1000 per plates),exp. N°2,22,This work (Jouy)
+65,39182802,BC/t_1,,confluent colonies (1000 per plates),exp. N°1,22,This work (Jouy)
+66,39226502,BC/t_2,,confluent colonies (1000 per plates),exp. N°2,22,This work (Jouy)
+67,32815402,BC_1,,confluent colonies (1000 per plates),exp. N°1,22,This work (Jouy)
+68,32815602,Sw_1,Exponentially growing cells were spotted on 1 % agar LB plates and incubated at 37°C. Swarming cells were collected after 16 hours. ,,exp. N°1,23,This work (Jouy)
+69,32815502,Sw_2,,,exp. N°2,23,This work (Jouy)
+70,32815202,BT_1," A fresh colony grown on an LB plate was used to inoculate 10 ml of LB and grown for 10 hours at 30°C. This culture was used to inoculate 10 ml of MSgg medium (S.S. Branda et al., J Bacteriol 186, 3970, Jun, 2004) and incubated with vigorous shaking. The cultures in MSgg were diluted to the same extent in 96 wells microtiterplates (5 μl for 1.5 ml of medium) and incubated without shaking at 30°C. Cells from the control cultures were harvested after 24 hours of incubation [BT]. Biofilms were harvested from 96 well plates after incubation for 36 hours [B36] and 60 hours [B60].",24h of growth with shaking,exp. N°1,24,This work (Jouy)
+71,32815702,BT_2,,24h of growth with shaking,exp. N°2,24,This work (Jouy)
+72,32830302,B36_1,,36h of growth without shaking,exp. N°1,25,This work (Jouy)
+73,32815102,B36_2,,36h of growth without shaking,exp. N°2,25,This work (Jouy)
+74,32815302,B60_1,,60h of growth without shaking,exp. N°1,26,This work (Jouy)
+75,32835802,B60_2,,60h of growth without shaking,exp. N°2,26,This work (Jouy)
+76,27733402,M9exp_1,"Cells were grown in M9 supplemented with glucose (0.3 %) at 37°C with vigorous shaking. The composition of the M9 minimal medium is (per liter): 8.5 g Na2HPO4.2H20, 3 g KH2PO4, 1 g NH4Cl and 0.5 g NaCl.  The following solutions were individually sterilized and added (volumes per liter of medium): 1 ml 0.1 M CaCl2.2H2O, 1 ml 1 M MgSO4.7H2O, 1 ml 50 mM Fe-Citrate.  Also added was 10 ml of a trace salts solution containing (per liter): 170 mg ZnCl2, 100 mg MnCl2.4H2O, 60 mg CoCl2.6H2O, 60 mg Na2MoO4.2H2O and 43 mg CuCl2.2H2O.  Overnight cultures were diluted 2000-fold in pre-warmed M9 medium and samples were harvested during exponential growth [M9exp], at the transition phase [M9tran] and during stationary phase [M9stat].",O.D.600 approx. 0.5,exp. N°1,27,This work (Greifswald)
+77,27733502,M9exp_2,,O.D.600 approx. 0.5,exp. N°2,27,This work (Greifswald)
+78,27732902,M9exp_3,,O.D.600 approx. 0.5,exp. N°3,27,This work (Greifswald)
+79,27733002,M9tran_1,,O.D.600 approx. 1.5,exp. N°1,28,This work (Greifswald)
+80,27733202,M9tran_2,,O.D.600 approx 1.5,exp. N°2,28,This work (Greifswald)
+81,27728702,M9tran_3,,O.D.600 approx. 1.5,exp. N°3,28,This work (Greifswald)
+82,27732502,M9stat_1,,O.D.600 approx. 1,exp. N°1,29,This work (Greifswald)
+83,27732802,M9stat_2,,O.D.600 approx 1,exp. N°2,29,This work (Greifswald)
+84,27732702,M9stat_3,,O.D.600 approx. 1,exp. N°3,29,This work (Greifswald)
+85,15402302,M+G_1,"A  5 ml aliquot of LB medium was inoculated using frozen culture stocks. After a few hours growth at 37°C, precultures were prepared by inoculating 5 ml of M9 with this LB culture at several different dilutions usually ranging from  500- to 2000-fold. The dilution range was chosen so that one of these precultures had grown to and OD600 of 0.5 - 1.0 after overnight inculation.  The chosen M9 medium precultures  [at OD600 of 0.5 - 1.0] were used to inoculate 100 mL of M9 medium in 500 mL non-baffled shake flasks to an OD600 of 0.02. Filter-sterilized carbon sources were added separately to the medium M9 at following concentration: D-Glucose 3g/L[Glu], L-Malic acid 4.5g/L[Mal], L-Malic acid + D-Glucose  3 and 2g/L[M+G], D-Fructose 3g/L[Fru], D-Gluconate 4g/L[Glucon], Pyruvate 6g/L[Pyr], Glycerol 6g/L[Gly], Glutamic acid + Succinic acid 2 and 2g/L[G+S]. Where necessary, carbon source solutions were pH neutralized with 4 M NaOH prior to addition to the medium. Cells were harvested during the exponential growth phase. ",O.D.600  approx. 0.5,exp. N°1,30,This work (Grignon)
+86,15346902,M+G_2,,O.D.600  approx. 0.5,exp. N°2,30,This work (Grignon)
+87,15354202,M+G_3,,O.D.600  approx. 0.5,exp. N°3,30,This work (Grignon)
+88,15403702,Glu_1,,O.D.600  approx. 0.5,exp. N°1,31,This work (Grignon)
+89,15349202,Glu_2,,O.D.600  approx. 0.5,exp. N°2,31,This work (Grignon)
+90,15349002,Glu_3,,O.D.600  approx. 0.5,exp. N°3,31,This work (Grignon)
+91,15354002,Fru_1,,O.D.600  approx. 0.5,exp. N°1,32,This work (Grignon)
+92,15345702,Fru_2,,O.D.600  approx. 0.5,exp. N°2,32,This work (Grignon)
+93,15352002,Fru_3,,O.D.600  approx. 0.5,exp. N°3,32,This work (Grignon)
+94,15352102,Mal_1,,O.D.600  approx. 0.5,exp. N°1,33,This work (Grignon)
+95,15350202,Mal_2,,O.D.600  approx. 0.5,exp. N°2,33,This work (Grignon)
+96,15356102,Mal_3,,O.D.600  approx. 0.5,exp. N°3,33,This work (Grignon)
+97,15362102,G+S_1,,O.D.600  approx. 0.5,exp. N°1,34,This work (Grignon)
+98,15386002,G+S_2,,O.D.600  approx. 0.5,exp. N°2,34,This work (Grignon)
+99,15356002,G+S_3,,O.D.600  approx.0.5,exp. N°3,34,This work (Grignon)
+100,15521602,Pyr_1,,O.D.600  approx. 0.5,exp. N°1,35,This work (Grignon)
+101,15390702,Pyr_2,,O.D.600  approx. 0.5,exp. N°2,35,This work (Grignon)
+102,15522102,Pyr_3,,O.D.600  approx. 0.5,exp. N°3,35,This work (Grignon)
+103,15517802,Gly_1,,O.D.600  approx. 0.5,exp. N°1,36,This work (Grignon)
+104,15356202,Gly_2,,O.D.600  approx. 0.5,exp. N°2,36,This work (Grignon)
+105,15358002,Gly_3,,O.D.600  approx. 0.5,exp. N°3,36,This work (Grignon)
+106,15409902,Glucon_1,,O.D.600  approx. 0.5,exp. N°1,37,This work (Grignon)
+107,15416802,Glucon_2,,O.D.600  approx. 0.5,exp. N°2,37,This work (Grignon)
+108,15525402,Glucon_3,,O.D.600 approx. 0.5,exp. N°3,37,This work (Grignon)
+109,32848902,aero_1,"Cells were grown in a synthetic medium (E. Härtig, A. Hartmann, M. Schätzle, A. M. Albertini, D. Jahn, Appl Environ Microbiol 72, 5260, 2006) at 37 °C. For aerobic growth, an overnight culture was used to inoculate 100 ml of the synthetic medium to a starting OD578 of 0.05.  The culture was then incubated in a 500 ml baffled flask with shaking at 250 rpm [aero].  Anaerobic growth was carried out (i) in the presence of 10 mM potassium nitrate (nitrate respiration) [nit];  or (ii) in the absence of 10 mM postassium nitrate (fermentative growth) [ferm].  The procedure for anaerobic growth was: medium was inoculated to an OD578 nm of 0.1 in flasks completely filled with medium and sealed with rubber stoppers.  They were shaken at 100 rpm to minimize cell aggregation. These cultures were inoculated aerobically with an aerobically grown overnight culture. Anaerobic conditions were achieved in the stoppered flasks after a short time through the consumption of residual oxygen. Cells were harvested during the exponential growth phase. ",O.D.578 approx. 0.5,exp. N°1,38,This work (Braunschweig)
+110,32848402,aero_2,,O.D.578 approx. 0.5,exp. N°2,38,This work (Braunschweig)
+111,32839402,aero_3,,O.D.578 approx. 0.5,exp. N°3,38,This work (Braunschweig)
+112,32848302,nit_1,,O.D.578 approx. 0.5,exp. N°1,39,This work (Braunschweig)
+113,32848802,nit_2,,O.D.578 approx. 0.5,exp. N°2,39,This work (Braunschweig)
+114,32848702,nit_3,,O.D.578 approx. 0.5,exp. N°3,39,This work (Braunschweig)
+115,32835902,ferm_1,,O.D.578 approx. 0.5,exp. N°1,40,This work (Braunschweig)
+116,32848502,ferm_2,,O.D.578 approx. 0.5,exp. N°2,40,This work (Braunschweig)
+117,32875102,ferm_3,,O.D.578 approx. 0.5,exp. N°3,40,This work (Braunschweig)
+118,32860802,T-5.40H_1,"A non-sporulating B. subtilis strain was grown in a modified M9 medium in batch culture (T. Hardiman, K. Lemuth, M. A. Keller, M. Reuss, M. Siemann-Herzberg, J Biotechnol 132, 359, Dec 1, 2007). Glucose was exhausted when the culture reached an OD600 of approx. 10 and this was designated T0 [T0.0H]. 7 samples were harvested at various times before glucose exhaustion [T-5.40H to T-0.40H] and 10 samples at various times after glucose exhaustion [T0.30H to T5.0H]. ", 340 min before the glucose is exhausted ,exp. N°1,41,This work (Greifswald)
+119,32876002,T-4.40H_1,, 280 min before the glucose is exhausted ,exp. N°1,42,This work (Greifswald)
+120,32860502,T-3.40H_1,, 220 min before the glucose is exhausted ,exp. N°1,43,This work (Greifswald)
+121,32875702,T-2.40H_1,, 160 min before the glucose is exhausted ,exp. N°1,44,This work (Greifswald)
+122,32874902,T-1.40H_1,, 100 min before the glucose is exhausted ,exp. N°1,45,This work (Greifswald)
+123,32875902,T-1.10H_1,, 70 min before the glucose is exhausted ,exp. N°1,46,This work (Greifswald)
+124,32860902,T-0.40H_1,, 40 min before the glucose is exhausted ,exp. N°1,47,This work (Greifswald)
+125,32860102,T0.0H_1,, time where the glucose is exhausted,exp. N°1,48,This work (Greifswald)
+126,32876202,T0.30H_1,, 30 min after the glucose is exhausted ,exp. N°1,49,This work (Greifswald)
+127,34436402,T1.0H_1,, 60 min after the glucose is exhausted ,exp. N°1,50,This work (Greifswald)
+128,34528602,T1.30H_1,, 90 min after the glucose is exhausted ,exp. N°1,51,This work (Greifswald)
+129,34508402,T2.0H_1,, 120 min after the glucose is exhausted ,exp. N°1,52,This work (Greifswald)
+130,34549502,T2.30H_1,, 150 min after the glucose is exhausted ,exp. N°1,53,This work (Greifswald)
+131,34489302,T3.0H_1,, 180 min after the glucose is exhausted ,exp. N°1,54,This work (Greifswald)
+132,34489502,T3.30H_1,, 210 min after the glucose is exhausted ,exp. N°1,55,This work (Greifswald)
+133,34533902,T4.0H_1,, 240 min after the glucose is exhausted ,exp. N°1,56,This work (Greifswald)
+134,34489402,T5.0H_1,, 300 min after the glucose is exhausted ,exp. N°1,57,This work (Greifswald)
+135,11946602,HPh_1,"Cells were harvested (i) during exponential growth in high phosphate defined medium [HPh]; (ii) during exponential growth in  low phosphate defined medium [LPh] (J. P. Muller, Z. An, T. Merad, I. C. Hancock, C. R. Harwood, Microbiology 143, 947, Mar, 1997); and (iii) at three hours after the outset of the phosphate-limitation induced stationary phase [LPhT].",O.D.600 approx. 0.25,exp. N°1,58,This work (Dublin)
+136,11953802,HPh_2,,O.D.600 approx. 0.25,exp. N°2,58,This work (Dublin)
+137,11955202,HPh_3,,O.D.600 approx. 0.25,exp. N°3,58,This work (Dublin)
+138,11962902,LPh_1,,O.D.600  approx.0.25,exp. N°1,59,This work (Dublin)
+139,11953902,LPh_2,,O.D.600 approx. 0.25,exp. N°2,59,This work (Dublin)
+140,11971902,LPh_3,,O.D.600 approx. 0.25,exp. N°3,59,This work (Dublin)
+141,12085002,LPhT_1,,O.D.600 approx. 0.25,exp. N°1,60,This work (Dublin)
+142,11955302,LPhT_2,,O.D.600 approx. 0.25,exp. N°2,60,This work (Dublin)
+143,11955002,LPhT_3,,O.D.600 approx. 0.25,exp. N°3,60,This work (Dublin)
+144,25347902,SMMPr_1,"Cells were grown in Spizizen’s minimal medium (SMM) (C. Anagnostopoulos, J. Spizizen, J Bacteriol 81, 741, May, 1961) with vigorous agitation. The control culture was grown at 37 °C [SMMPr]. For growth at high or low temperatures, pre-cultures were grown at 37 °C, diluted to an OD578nm of 0.1 and subsequently transferred to 51 °C [HiTm] and 16 °C [LoTm], respectively. For the growth at high salinity, the salinity of the medium was adjusted by adding NaCl (5 M stock solution) to produce a final concentration of 1.2 M [HiOs]. ",O.D.578 approx. 1,exp. N°1,61,This work (Greifswald)
+145,25348202,SMMPr_2,,O.D.578 approx. 1,exp. N°2,61,This work (Greifswald)
+146,25348302,SMMPr_3,,O.D.578 approx. 1,exp. N°3,61,This work (Greifswald)
+147,25345002,HiTm_1,,O.D.578 approx. 1,exp. N°1,62,This work (Greifswald)
+148,25344702,HiTm_2,,O.D.578 approx. 1,exp. N°2,62,This work (Greifswald)
+149,25347002,HiTm_3,,O.D.578 approx. 1,exp. N°3,62,This work (Greifswald)
+150,25348402,LoTm_1,,O.D.578 approx. 1,exp. N°1,63,This work (Greifswald)
+151,25348102,LoTm_2,,O.D.578 approx. 1,exp. N°2,63,This work (Greifswald)
+152,25348002,LoTm_3,,O.D.578 approx. 1,exp. N°3,63,This work (Greifswald)
+153,25346802,HiOs_1,,O.D.578 approx. 1,exp. N°1,64,This work (Greifswald)
+154,25344902,HiOs_2,,O.D.578nm approx. 1,exp. N°2,64,This work (Greifswald)
+155,25347502,HiOs_3,,O.D.578 approx. 1,exp. N°3,64,This work (Greifswald)
+156,25347702,BMM_1,"Cells were grown in a synthetic medium (J. Stülke, R. Hanschke, M. Hecker, J Gen Microbiol 139, 2041, Sep, 1993) with 0.2 % glucose as carbon source (Belitsky Minimal Medium/BMM) at 37 °C with vigorous shaking. Stress was applied to exponentially growing cultures at OD500nm of 0.4. Samples were harvested before stress [BMM]; after a rapid temperature up-shift from 37 °C to 48 °C [Heat]; after a temperature down-shift from 37 °C to 18 °C [Cold]. Ethanol stress was imposed by adding ethanol to a final concentration of 4 % (v/v) and cells were harvested 10 minutes after ethanol addition [Etha].",O.D.500 approx. 0.4,exp. N°1,65,This work (Greifswald)
+157,25347602,BMM_2,,O.D.500 approx. 0.4,exp. N°2,65,This work (Greifswald)
+158,25344402,BMM_3,,O.D.500 approx. 0.4,exp. N°3,65,This work (Greifswald)
+159,25340602,Heat_1,,10 min after temperature shift up,exp. N°1,66,This work (Greifswald)
+160,25344602,Heat_2,,10 min after temperature shift up,exp. N°2,66,This work (Greifswald)
+161,25341002,Heat_3,,10 min after temperature shift up,exp. N°3,66,This work (Greifswald)
+162,25347802,Cold_1,,60 min after temperature shift down,exp. N°1,67,This work (Greifswald)
+163,25344502,Cold_2,,60 min after temperature shift down,exp. N°2,67,This work (Greifswald)
+164,25340802,Cold_3,,60 min after temperature shift down,exp. N°3,67,This work (Greifswald)
+165,25348602,Etha_1,,10 min after ethanol addition,exp. N°1,68,This work (Greifswald)
+166,25340502,Etha_2,,10 min after ethanol addition,exp. N°2,68,This work (Greifswald)
+167,25340702,Etha_3,,10 min after ethanol addition,exp. N°3,68,This work (Greifswald)
+168,25347102,SMM_1,"Cells were grown in Spizizen’s minimal medium (SMM) at 37 °C with vigorous shaking. Salt was added, to a final concentration of 0.4 M to an exponentially growing culture of cells at OD500 of 0.4.  Samples were harvested before [SMM] and 10 minutes after [Salt] NaCl addition.",O.D.500 approx. 0.4,exp. N°1,69,This work (Greifswald)
+169,25346902,SMM_2,,O.D.500 approx. 0.4,exp. N°2,69,This work (Greifswald)
+170,25346702,SMM_3,,O.D.500 approx. 0.4,exp. N°3,69,This work (Greifswald)
+171,25345102,Salt_1,,10 min after salt addition,exp. N°1,70,This work (Greifswald)
+172,25344802,Salt_2,,10 min after salt addition,exp. N°2,70,This work (Greifswald)
+173,25347202,Salt_3,,10 min after salt addition,exp. N°3,70,This work (Greifswald)
+174,27737602,Mt0_1,"Cells were grown in LB medium at 37°C with vigorous shaking.  An exponentially growing culture (O.D.600 approx. 0.25) was divided: one culture acted as the control [no mitomycin C , M0] while mitomycin was added to the second culture to a final concentration of 40 ng/ml [mitomycin, M40].  Samples were harvested at 0, 45 and 90 minutes after mitomycin addition [t0, t45 and t90].",O.D.600  approx. 0.25,exp. N°1,71,This work (Jouy)
+175,27737802,Mt0_2,,O.D.600 approx. 0.25,exp. N°2,71,This work (Jouy)
+176,28385002,Mt0_3,,O.D.600 approx. 0.25,exp. N°3,71,This work (Jouy)
+177,27737402,M0t45_1,,45 min without mitomycin C,exp. N°1,72,This work (Jouy)
+178,28386202,M0t45_2,,45 min without mitomycin C,exp. N°2,72,This work (Jouy)
+179,28358702,M0t45_3,,45 min without mitomycin C,exp. N°3,72,This work (Jouy)
+180,27737702,M0t90_1,,90 min without mitomycin C,exp. N°1,73,This work (Jouy)
+181,28444802,M0t90_2,,90 min without mitomycin C,exp. N°2,73,This work (Jouy)
+182,28387802_01,M0t90_3,,90 min without mitomycin C,exp. N°3,73,This work (Jouy)
+183,25414802,M40t45_1,,45 min with mitomycin C,exp. N°1,74,This work (Jouy)
+184,28390602,M40t45_2,,45 min with mitomycin C,exp. N°2,74,This work (Jouy)
+185,28463502,M40t45_3,,45 min with mitomycin C,exp. N°3,74,This work (Jouy)
+186,27061602,M40t90_1,,90 min with mitomycin C,exp. N°1,75,This work (Jouy)
+187,28384202_01,M40t90_2,,90 min with mitomycin C,exp. N°2,75,This work (Jouy)
+188,28384802_01,M40t90_3,,90 min with mitomycin C,exp. N°3,75,This work (Jouy)
+189,25321202,dia0_1,"Diamide was added to an exponentially growing culture (OD600 approx. 0.6) at a sub-lethal concentration (0.5 mM) and growth continued  at 37°C with vigorous shaking.  Samples were collected 0, 5 and 15 minutes after diamide addition [dia0, dia5 and dia15].",O.D.600 approx. 0.6,exp. N°1,76,This work (Jouy)
+190,25340102,dia0_2,,O.D.600 approx. 0.6,exp. N°2,76,This work (Jouy)
+191,29581702,dia0_3,,O.D.600 approx. 0.6,exp. N°3,76,This work (Jouy)
+192,25337802,dia5_1,,5 min after diamide addition,exp. N°1,77,This work (Jouy)
+193,25340002,dia5_2,,5 min after diamide addition,exp. N°2,77,This work (Jouy)
+194,25348502,dia5_3,,5 min after diamide addition,exp. N°3,77,This work (Jouy)
+195,25321902,dia15_1,,15 min after diamide addition,exp. N°1,78,This work (Jouy)
+196,25339602,dia15_2,,15 min after diamide addition,exp. N°2,78,This work (Jouy)
+197,25339402,dia15_3,,15 min after diamide addition,exp. N°3,78,This work (Jouy)
+198,27744802,Diami_1,"Cells were grown in LB medium at 37°C. At OD540 of 0.3, the culture were divided into four subcultures and diamide 0.6 mM [Diami], paraquat 0.4 mM [Paraq], H2O2 0.1mM [H2O2] or no oxidative drug [Oxctl] were added to the medium. Samples were taken 10 minutes after addition",10 min after diamide addition,exp. N°1,79,This work (Newcastle)
+199,32848002,Diami_2,,10 min after diamide addition,exp. N°2,79,This work (Newcastle)
+200,27744702,Diami_3,,10 min after diamide addition,exp. N°3,79,This work (Newcastle)
+201,29583002,Paraq_1,,10 min after paraquat addition,exp. N°1,80,This work (Newcastle)
+202,32848102,Paraq_2,,10 min after paraquat addition,exp. N°2,80,This work (Newcastle)
+203,29634702,Paraq_3,,10 min after paraquat addition,exp. N°3,80,This work (Newcastle)
+204,32848202,H2O2_1,,10 min after H202 addition,exp. N°1,81,This work (Newcastle)
+205,32844902,H2O2_2,,10 min after H202 addition,exp. N°2,81,This work (Newcastle)
+206,27746602,H2O2_3,,10 min after H202 addition,exp. N°3,81,This work (Newcastle)
+207,27746402,Oxctl_1,,Control: after 10 min - no drug addition,exp. N°1,82,This work (Newcastle)
+208,27744902,Oxctl_2,,Control: after 10 min - no drug addition,exp. N°2,82,This work (Newcastle)
+209,32839302,Oxctl_3,,Control: after 10 min - no drug addition,exp. N°3,82,This work (Newcastle)
+210,10236302,GM-0.1_1,"A culture of LB medium was inocualted from a frozen glycerol stock of B. subtilis. After few hours at 37oC when the culture was growing exponentially, this culture was used to inoculate M9 minimal medium at several different dilutions usually in the range of 500- to 2000-fold. The dilution range was chosen to ensure that at least one of these M9 precultures had reached an OD600  between 0.5 - 1.0 after overnight incubation. These precultures were then used to inoculate 2.5 L of M9 medium in a 3.1 L KLF bioreactor (Bioengineering AG, Wald, Switzerland) to a starting OD600  of 0.03 – 0.05. Condiions in the bioreactor were rigorously controlled as follows: temperature was controlled at 37 °C; the pH was maintained at exactly 7.2 by automatic titration with 2.0 M KOH and 2.0 M H2SO4, and the dissolved oxygen tension was maintained above 50%. In each nutritional shift experiment cells were grown on the single substrate until the OD600 reached 0.50, at which point the second substrate was added instantaneously (4 g/L L-malate or 3 g/L glucose). The nutrient shifts performed were from glucose to glucose+malate [GM] and from malate to malate+glucose [MG] (Buescher et al., accompanying paper). Cell growth during the course was monitored throughout the experiment by measuring OD600. ",before addition of malate,exp. N°1 ,83,"Buescher et al., accompanying paper"
+211,10240202,GM-0.2_1,,5 min before addition of malate,exp. N°1 ,84,"Buescher et al., accompanying paper"
+212,10240302,GM+5_1,,5 min after addition of malate,exp. N°1,85,"Buescher et al., accompanying paper"
+213,10242502,GM+15_1,,15 min after addition of malate,exp. N°1,87,"Buescher et al., accompanying paper"
+214,17179302,GM+25_1,,25 min after addition of malate,exp. N°1,88,"Buescher et al., accompanying paper"
+215,10244302,GM+45_1,,45 min after addition of malate,exp. N°1,89,"Buescher et al., accompanying paper"
+216,10244602,GM+60_1,,60 min after addition of malate,exp. N°1,90,"Buescher et al., accompanying paper"
+217,10319902,GM+90_1,,90 min after addition of malate,exp. N°1,91,"Buescher et al., accompanying paper"
+218,10322702,GM+120_1,,120 min after addition of malate,exp. N°1,92,"Buescher et al., accompanying paper"
+219,17158702,GM+150_1,,150 min after addition of malate,exp. N°1,93,"Buescher et al., accompanying paper"
+220,13973302,GM-0.1_2,, before addition of malate,exp. N°2,83,"Buescher et al., accompanying paper"
+221,17239902,GM-0.2_2,,5 min before addition of malate,exp. N°2 ,84,"Buescher et al., accompanying paper"
+222,10211402,GM+5_2,,5 min after addition of malate,exp. N°2,85,"Buescher et al., accompanying paper"
+223,10216402,GM+10_2,,10 min after addition of malate,exp. N°2,86,"Buescher et al., accompanying paper"
+224,10226802,GM+15_2,,15 min after addition of malate,exp. N°2,87,"Buescher et al., accompanying paper"
+225,16959802,GM+25_2,,25 min after addition of malate,exp. N°2,88,"Buescher et al., accompanying paper"
+226,10229502,GM+45_2,,45 min after addition of malate,exp. N°2,89,"Buescher et al., accompanying paper"
+227,10235002,GM+60_2,,60 min after addition of malate,exp. N°2,90,"Buescher et al., accompanying paper"
+228,20971602,GM+90_2,,90 min after addition of malate,exp. N°2,91,"Buescher et al., accompanying paper"
+229,10236602,GM+150_2,,150 min after addition of malate,exp. N°2,93,"Buescher et al., accompanying paper"
+230,16991902,GM-0.1_3,,before addition of malate,exp. N°3,83,"Buescher et al., accompanying paper"
+231,17183602,GM-0.2_3,,5 min before addition of malate,exp. N°3,84,"Buescher et al., accompanying paper"
+232,10404402,GM+5_3,,5 min after addition of malate,exp. N°3,85,"Buescher et al., accompanying paper"
+233,10410902,GM+10_3,,10 min after addition of malate,exp. N°3,86,"Buescher et al., accompanying paper"
+234,10216702,GM+15_3,,15 min after addition of malate,exp. N°3,87,"Buescher et al., accompanying paper"
+235,10217102,GM+25_3,,25 min after addition of malate,exp. N°3,88,"Buescher et al., accompanying paper"
+236,10218302,GM+45_3,,45 min after addition of malate,exp. N°3,89,"Buescher et al., accompanying paper"
+237,10219302,GM+60_3,,60 min after addition of malate,exp. N°3,90,"Buescher et al., accompanying paper"
+238,16981502,GM+90_3,,90 min after addition of malate,exp. N°3,91,"Buescher et al., accompanying paper"
+239,20975802,GM+120_3,,120 min after addition of malate,exp. N°3,92,"Buescher et al., accompanying paper"
+240,16960402,GM+150_3,,150 min after addition of malate,exp. N°3,93,"Buescher et al., accompanying paper"
+241,10410402,MG-0.1_1,,before addition of glucose,exp. N°1,94,"Buescher et al., accompanying paper"
+242,10226702,MG+5_1,,5 min after addition of glucose,exp. N°1 ,96,"Buescher et al., accompanying paper"
+243,16976802,MG+10_1,,10 min after addition of glucose,exp. N°1,97,"Buescher et al., accompanying paper"
+244,17176602,MG+15_1,,15 min after addition of glucose,exp. N°1,98,"Buescher et al., accompanying paper"
+245,17138402,MG+25_1,,25 min after addition of glucose,exp. N°1,99,"Buescher et al., accompanying paper"
+246,10229802,MG+45_1,,45 min after addition of glucose,exp. N°1,100,"Buescher et al., accompanying paper"
+247,10237002,MG+120_1,,120 min after addition of glucose,exp. N°1,103,"Buescher et al., accompanying paper"
+248,17170002,MG+150_1,,150 min after addition of glucose,exp. N°1,104,"Buescher et al., accompanying paper"
+249,10238002,MG-0.1_2,,before addition of glucose,exp. N°2,94,"Buescher et al., accompanying paper"
+250,10331702,MG-0.2_2,,5 min before addition of glucose,exp. N°2,95,"Buescher et al., accompanying paper"
+251,10374502,MG+t5_2,,5 min after addition of glucose,exp. N°2,96,"Buescher et al., accompanying paper"
+252,10217502,MG+10_2,,10 min after addition of glucose,exp. N°2,97,"Buescher et al., accompanying paper"
+253,17000602,MG+15_2,,15 min after addition of glucose,exp. N°2,98,"Buescher et al., accompanying paper"
+254,10218502,MG+25_2,,25 min after addition of glucose,exp. N°2,99,"Buescher et al., accompanying paper"
+255,10218602,MG+45_2,,45 min after addition of glucose,exp. N°2,100,"Buescher et al., accompanying paper"
+256,10218902,MG+60_2,,60 min after addition of glucose,exp. N°2,101,"Buescher et al., accompanying paper"
+257,10219102,MG+90_2,,90 min after addition of glucose,exp. N°2,102,"Buescher et al., accompanying paper"
+258,17176202,MG+120_2,,150 min after addition of glucose,exp. N°2,103,"Buescher et al., accompanying paper"
+259,10223302,MG-0.1_3,,before addition of glucose,exp. N°3,94,"Buescher et al., accompanying paper"
+260,10226602,MG-0.2_3,,5 min before addition of glucose,exp. N°3,95,"Buescher et al., accompanying paper"
+261,20974702,MG+5_3,,5 min after addition of glucose,exp. N°3,96,"Buescher et al., accompanying paper"
+262,10326302,MG+10_3,,10 min after addition of glucose,exp. N°3,97,"Buescher et al., accompanying paper"
+263,24698102,MG+15_3,,15 min after addition of glucose,exp. N°3,98,"Buescher et al., accompanying paper"
+264,14627102,MG+25_3,,25 min after addition of glucose,exp. N°3,99,"Buescher et al., accompanying paper"
+265,14632602,MG+45_3,,45 min after addition of glucose,exp. N°3,100,"Buescher et al., accompanying paper"
+266,17245002,MG+60_3,,60 min after addition of glucose,exp. N°3,101,"Buescher et al., accompanying paper"
+267,14625202,MG+90_3,,90 min after addition of glucose,exp. N°3,102,"Buescher et al., accompanying paper"
+268,14633902_01,MG+120_3,,120 min after addition of glucose,exp. N°3,103,"Buescher et al., accompanying paper"
+269,14630502,MG+150_3,,150 min after addition of glucose,exp. N°3,104,"Buescher et al., accompanying paper"
+,,,,,,,
+"*Each condition has an identifier key (in brackets) , suffixes were appended for the phase of growth, the biological replicate number [_1, _2 or _3] and technical replicates [/t].",,,,,,,

@@ -1,0 +1,782 @@
+10fthf	10-Formyltetrahydrofolate	C20H21N7O7	Cytosol
+12d3k5m	1 2 dihydroxy 3 keto 5 methylthiopentene C6H8O3S	C6H8O3S	Cytosol
+12dag3p_BS	1 2 diacyl sn glycerol 3 phosphate C3436H6572O800P100	C3436H6572O800P100	Cytosol
+12dgr_BS	1 2 diacylglycerol C3436H6672O500	C3436H6672O500	Cytosol
+13dpg	3-Phospho-D-glyceroyl phosphate	C3H4O10P2	Cytosol
+14bxyl	1 4 beta D Xylan C5H8O4	C5H8O4	Cytosol
+14glun	 1 4 alpha D Glucosyl n C6H12O6	C6H10O5	Cytosol
+15dap	1,5-Diaminopentane	C5H16N2	Cytosol
+1ag3p_BS	1 Acyl sn glycerol 3 phsophate C1868H3636O700P100	C1868H3636O700P100	Cytosol
+1p3h5c	L 1 Pyrroline 3 hydroxy 5 carboxylate C5H6NO3	C5H6NO3	Cytosol
+1pyr5c	1-Pyrroline-5-carboxylate	C5H6NO2	Cytosol
+23camp	2',3'-Cyclic AMP	C10H11N5O6P	Cytosol
+23ccmp	2',3'-Cyclic CMP	C9H11N3O7P	Cytosol
+23cgmp	2',3'-Cyclic GMP	C10H11N5O7P	Cytosol
+23cump	2',3'-Cyclic UMP	C9H10N2O8P	Cytosol
+23ddhb	2,3-Dihydro-2,3-dihydroxybenzoate	C7H7O4	Cytosol
+23dhb	2,3-Dihydroxybenzoate	C7H5O4	Cytosol
+23dhba	(2,3-Dihydroxybenzoyl)adenylate	C17H17N5O10P	Cytosol
+23dhdp	2,3-Dihydrodipicolinate	C7H5NO4	Cytosol
+23dhmb	(R)-2,3-Dihydroxy-3-methylbutanoate	C5H9O4	Cytosol
+23dhmp	(R)-2,3-Dihydroxy-3-methylpentanoate	C6H11O4	Cytosol
+25aics	(S)-2-[5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate	C13H15N4O12P	Cytosol
+25dhpp	2 5 Diamino 6 hydroxy 4  5  phosphoribosylamino  pyrimidine C9H14N5O8P	C9H14N5O8P	Cytosol
+25dop	2 5 Dioxopentanoate C5H5O4	C5H5O4	Cytosol
+26dap_LL	LL-2,6-Diaminoheptanedioate	C7H14N2O4	Cytosol
+26dap__M	Meso-2,6-Diaminoheptanedioate	C7H14N2O4	Cytosol
+26dapime	N6 Acetyl LL 2 6 diaminopimelate C9H15N2O5	C9H15N2O5	Cytosol
+2ahbut	(S)-2-Aceto-2-hydroxybutanoate	C6H9O4	Cytosol
+2ahhmd	2 Amino 4 hydroxy 6 hydroxymethyl 7 8 dihydropteridine diphosphate C7H8N5O8P2	C7H8N5O8P2	Cytosol
+2ahhmp	2 Amino 4 hydroxy 6 hydroxymethyl 7 8 dihydropteridine C7H9N5O2	C7H9N5O2	Cytosol
+2aobut	L-2-Amino-3-oxobutanoate	C4H7NO3	Cytosol
+2cpr5p	1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	C12H13NO9P	Cytosol
+2dda7p	2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate	C7H10O10P	Cytosol
+2ddg6p	2-Dehydro-3-deoxy-D-gluconate 6-phosphate	C6H8O9P	Cytosol
+2ddglcn	2-Dehydro-3-deoxy-D-gluconate	C6H9O6	Cytosol AND Extra-organism
+2dhp	2-Dehydropantoate	C6H9O4	Cytosol
+2dmmq7	2 Demethylmenaquinone 7 C45H62O2	C45H62O2	Cytosol
+2dr1p	2-Deoxy-D-ribose 1-phosphate	C5H9O7P	Cytosol
+2dr5p	2-Deoxy-D-ribose 5-phosphate	C5H9O7P	Cytosol
+2h3k5m	2 hydroxy 3 keto 5 methylthiopentenyl 1 phosphate C6H8O6PS	C6H8O6PS	Cytosol
+2h3opp	2 Hydroxy 3 oxopropanoate C3H3O4	C3H3O4	Cytosol
+2hbut	2 Hydroxybutyrate C4H7O3	C4H7O3	Cytosol
+2hxmp	2  Hydroxymethyl phenol C7H8O2	C7H8O2	Cytosol AND Extra-organism
+2ins	2-Inosose	C6H10O6	Cytosol
+2ippm	2-Isopropylmaleate	C7H8O4	Cytosol
+2kmb	2-keto-4-methylthiobutyrate	C5H7O3S	Cytosol
+2maacoa	2-Methyl-3-acetoacetyl-CoA	C26H38N7O18P3S	Cytosol
+2mahmp	2-Methyl-4-amino-5-hydroxymethylpyrimidine diphosphate	C6H8N3O7P2	Cytosol
+2mb2coa	Trans-2-Methylbut-2-enoyl-CoA	C26H38N7O17P3S	Cytosol
+2mbcoa	2-Methylbutanoyl-CoA	C26H40N7O17P3S	Cytosol
+2mcit	2-Methylcitrate	C7H7O7	Cytosol
+2me4p	2-C-methyl-D-erythritol 4-phosphate	C5H11O7P	Cytosol
+2mecdp	2-C-methyl-D-erythritol 2,4-cyclodiphosphate	C5H10O9P2	Cytosol
+2mp2coa	2-Methylprop-2-enoyl-CoA	C25H36N7O17P3S	Cytosol
+2o3mpt	 R  2 Oxo 3 methylpentanoate C6H9O3	C6H9O3	Cytosol
+2obut	2-Oxobutanoate	C4H5O3	Cytosol
+2p4c2me	2-phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol	C14H22N3O17P3	Cytosol
+2pcpgc	2 Protocatechoylphloroglucinolcarboxylate C14H7O8	C14H7O8	Cytosol
+2pg	D-Glycerate 2-phosphate	C3H4O7P	Cytosol AND Extra-organism
+2pglyc	2-Phosphoglycolate	C2H2O6P	Cytosol AND Extra-organism
+2shchc	2-Succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate	C11H10O6	Cytosol
+34hpp	3-(4-Hydroxyphenyl)pyruvate	C9H7O4	Cytosol
+36dahx	(3S)-3,6-Diaminohexanoate	C6H15N2O2	Cytosol
+3amba	3 aminobutanoic acid C4H9NO2	C4H9NO2	Cytosol AND Extra-organism
+3amp	3  AMP C10H12N5O7P	C10H12N5O7P	Cytosol AND Extra-organism
+3c2hmp	3-Carboxy-2-hydroxy-4-methylpentanoate	C7H10O5	Cytosol
+3c3hmp	3-Carboxy-3-hydroxy-4-methylpentanoate	C7H10O5	Cytosol
+3c4mop	3-Carboxy-4-methyl-2-oxopentanoate	C7H8O5	Cytosol
+3cmp	3  CMP C9H12N3O8P	C9H12N3O8P	Cytosol AND Extra-organism
+3dhq	3-Dehydroquinate	C7H9O6	Cytosol
+3dhsk	3-Dehydroshikimate	C7H7O5	Cytosol
+3gmp	Guanosine 3  phosphate C10H12N5O8P	C10H12N5O8P	Cytosol AND Extra-organism
+3hbycoa	 S  3 Hydroxybutyryl CoA C25H38N7O18P3S	C25H38N7O18P3S	Cytosol
+3hdcoa	(S)-3-Hydroxydecanoyl-CoA	C31H50N7O18P3S	Cytosol
+3hddcoa	(S)-3-Hydroxydodecanoyl-CoA	C33H54N7O18P3S	Cytosol
+3hhcoa	(S)-3-Hydroxyhexanoyl-CoA	C27H42N7O18P3S	Cytosol
+3hhdcoa	(S)-3-Hydroxyhexadecanoyl-CoA	C37H62N7O18P3S	Cytosol
+3hmbcoa	(S)-3-Hydroxy-2-methylbutyryl-CoA	C26H40N7O18P3S	Cytosol
+3hmp	3-Hydroxy-2-methylpropanoate	C4H7O3	Cytosol
+3hocoa	(S)-3-Hydroxyoctanoyl-CoA	C29H46N7O18P3S	Cytosol
+3htdcoa	(S)-3-Hydroxytetradecanoyl-CoA	C35H58N7O18P3S	Cytosol
+3ig3p	C'-(3-Indolyl)-glycerol 3-phosphate	C11H12NO6P	Cytosol
+3mob	3-Methyl-2-oxobutanoate	C5H7O3	Cytosol
+3mop	(S)-3-Methyl-2-oxopentanoate	C6H9O3	Cytosol
+3mtp	3 Methylthiopropionate C4H7O2S	C4H7O2S	Cytosol
+3odcoa	3-Oxodecanoyl-CoA	C31H48N7O18P3S	Cytosol
+3oddcoa	3-Oxododecanoyl-CoA	C33H52N7O18P3S	Cytosol
+3ohcoa	3-Oxohexanoyl-CoA	C27H40N7O18P3S	Cytosol
+3ohdcoa	3-Oxohexadecanoyl-CoA	C37H60N7O18P3S	Cytosol
+3oocoa	3-Oxooctanoyl-CoA	C29H44N7O18P3S	Cytosol
+3otdcoa	3-Oxotetradecanoyl-CoA	C35H56N7O18P3S	Cytosol
+3pg	3-Phospho-D-glycerate	C3H4O7P	Cytosol AND Extra-organism
+3php	3-Phosphohydroxypyruvate	C3H2O7P	Cytosol
+3psme	5-O-(1-Carboxyvinyl)-3-phosphoshikimate	C10H9O10P	Cytosol
+3ump	3  UMP C9H11N2O9P	C9H11N2O9P	Cytosol AND Extra-organism
+46dh25dohxn	 4S  4 6 Dihydroxy 2 5 dioxohexanoate C6H7O6	C6H7O6	Cytosol
+4abut	4-Aminobutanoate	C4H9NO2	Cytosol AND Extra-organism
+4abutn	4-Aminobutanal	C4H10NO	Cytosol
+4abz	4-Aminobenzoate	C7H6NO2	Cytosol
+4adcho	4-amino-4-deoxychorismate	C10H10NO5	Cytosol
+4ahmmp	4-Amino-5-hydroxymethyl-2-methylpyrimidine	C6H9N3O	Cytosol
+4ampm	4-Amino-2-methyl-5-phosphomethylpyrimidine	C6H8N3O4P	Cytosol
+4c2me	4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol	C14H23N3O14P2	Cytosol
+4hglu	4-Hydroxy-L-glutamate	C5H8NO5	Cytosol
+4izp	4-Imidazolone-5-propanoate	C6H7N2O3	Cytosol
+4mhetz	4-Methyl-5-(2-hydroxyethyl)-thiazole	C6H9NOS	Cytosol
+4mop	4-Methyl-2-oxopentanoate	C6H9O3	Cytosol
+4mpetz	4-Methyl-5-(2-phosphoethyl)-thiazole	C6H8NO4PS	Cytosol
+4pasp	4-Phospho-L-aspartate	C4H6NO7P	Cytosol
+4ppan	D-4'-Phosphopantothenate	C9H15NO8P	Cytosol
+4ppcys	N-((R)-4-Phosphopantothenoyl)-L-cysteine	C12H20N2O9PS	Cytosol
+4r5au	4-(1-D-Ribitylamino)-5-aminouracil	C9H16N4O6	Cytosol
+5aizc	5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate	C9H11N3O9P	Cytosol
+5aop	5-Amino-4-oxopentanoate	C5H9NO3	Cytosol
+5aprbu	5-Amino-6-(5'-phosphoribitylamino)uracil	C9H15N4O9P	Cytosol
+5apru	5-Amino-6-(5'-phosphoribosylamino)uracil	C9H13N4O9P	Cytosol
+5d4dglcr	5 Dehydro 4 deoxy D glucarate C6H6O7	C6H6O7	Cytosol
+5dh4dglcn	5 Dehydro 4 deoxy D glucuronate C6H7O6	C6H7O6	Cytosol
+5mcsn	5-Methylcytosine	C5H7N3O	Cytosol
+5mdr1p	5-Methylthio-5-deoxy-D-ribose 1-phosphate	C6H11O7PS	Cytosol
+5mdru1p	5-Methylthio-5-deoxy-D-ribulose 1-phosphate	C6H11O7PS	Cytosol
+5mta	5-Methylthioadenosine	C11H15N5O3S	Cytosol
+5mthf	5-Methyltetrahydrofolate	C20H24N7O6	Cytosol
+5mtr	5-Methylthio-D-ribose	C6H12O4S	Cytosol AND Extra-organism
+6ampenc	6 Aminopenicillanate C8H13N2O3S	C8H13N2O3S	Cytosol
+6pgc	6-Phospho-D-gluconate	C6H10O10P	Cytosol AND Extra-organism
+6pgg	6-Phospho-beta-D-glucosyl-(1,4)-D-glucose	C12H21O14P	Cytosol
+6pgl	6-phospho-D-glucono-1,5-lactone	C6H9O9P	Cytosol
+6pthp	6-Pyruvoyl-5,6,7,8-tetrahydropterin	C9H11N5O3	Cytosol
+8aonn	8-Amino-7-oxononanoate	C9H17NO3	Cytosol
+ACP	Acyl carrier protein	HX	Cytosol
+DPA	Dipicolinate C7H3NO4	C7H3NO4	Cytosol
+L_alagly	L alanylglycine C5H10N2O3	C5H10N2O3	Cytosol AND Extra-organism
+L_sergly	L Serylglycine C5H10N2O4	C5H10N2O4	Cytosol
+L_thrgly	Thr Gly C6H12N2O4	C6H12N2O4	Cytosol
+Larab	Alpha L Arabinan C15H24O12	C15H24O12	Extra-organism
+Lcyst	L-Cysteate	C3H6NO5S	Cytosol AND Extra-organism
+Lglyald	L Glyceraldehyde C3H6O3	C3H6O3	Cytosol
+N1aspmd	N1-Acetylspermidine	C9H23N3O	Cytosol
+aacoa	Acetoacetyl-CoA	C25H36N7O18P3S	Cytosol
+abt__L	L Arabinitol C5H12O5	C5H12O5	Cytosol AND Extra-organism
+ac	Acetate	C2H3O2	Cytosol AND Extra-organism
+acac	Acetoacetate	C4H5O3	Cytosol AND Extra-organism
+acald	Acetaldehyde	C2H4O	Cytosol
+acamoxm	N Acetyl L 2 amino 6 oxopimelate C9H11NO6	C9H11NO6	Cytosol
+accoa	Acetyl-CoA	C23H34N7O17P3S	Cytosol
+acg5p	N-Acetyl-L-glutamyl 5-phosphate	C7H9NO8P	Cytosol
+acg5sa	N-Acetyl-L-glutamate 5-semialdehyde	C7H10NO4	Cytosol
+acgam1p	N-Acetyl-D-glucosamine 1-phosphate	C8H14NO9P	Cytosol
+acgam6p	N-Acetyl-D-glucosamine 6-phosphate	C8H14NO9P	Cytosol
+acgam	N-Acetyl-D-glucosamine	C8H15NO6	Cytosol AND Extra-organism
+acglu	N-Acetyl-L-glutamate	C7H9NO5	Cytosol
+acmalt	Acetyl-maltose	C14H24O12	Cytosol
+acmam	N-Acetyl-D-muramoate	C11H18NO8	Cytosol
+acmama	N-Acetyl-D-muramoyl-L-alanine	C14H23N2O9	Cytosol
+acmana	N-Acetyl-D-mannosamine	C8H15NO6	Cytosol AND Extra-organism
+acnam	N-Acetylneuraminate	C11H18NO9	Cytosol AND Extra-organism
+acorn	N2-Acetyl-L-ornithine	C7H14N2O3	Cytosol
+acser	O-Acetyl-L-serine	C5H9NO4	Cytosol
+actn__R	 R  Acetoin C4H8O2	C4H8O2	Cytosol AND Extra-organism
+actp	Acetyl phosphate	C2H3O5P	Cytosol
+ade	Adenine	C5H5N5	Cytosol AND Extra-organism
+adn	Adenosine	C10H13N5O4	Cytosol AND Extra-organism
+adp	ADP C10H12N5O10P2	C10H12N5O10P2	Cytosol
+adpglc	ADPglucose C16H23N5O15P2	C16H23N5O15P2	Cytosol
+adprib	ADPribose C15H21N5O14P2	C15H21N5O14P2	Cytosol
+agm	Agmatine	C5H16N4	Cytosol
+ahcys	S-Adenosyl-L-homocysteine	C14H20N6O5S	Cytosol
+ahdt	2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl)dihydropteridine triphosphate	C9H12N5O13P3	Cytosol
+aicar	5-Amino-1-(5-Phospho-D-ribosyl)imidazole-4-carboxamide	C9H13N4O8P	Cytosol
+air	5-amino-1-(5-phospho-D-ribosyl)imidazole	C8H12N3O7P	Cytosol
+akg	2-Oxoglutarate	C5H4O5	Cytosol AND Extra-organism
+ala_B	Beta-Alanine	C3H7NO2	Cytosol AND Extra-organism
+ala__D	D-Alanine	C3H7NO2	Cytosol AND Extra-organism
+ala_L_Thr__L	Ala L Thr L C7H14N2O4	C7H14N2O4	Cytosol AND Extra-organism
+ala_L_asn__L	Ala Asn C7H13N3O4	C7H13N3O4	Cytosol
+ala_L_asp__L	Ala L asp L C7H11N2O5	C7H11N2O5	Cytosol AND Extra-organism
+ala__L	L-Alanine	C3H7NO2	Cytosol AND Extra-organism
+ala_L_gln__L	Ala Gln C8H15N3O4	C8H15N3O4	Cytosol AND Extra-organism
+ala_L_glu__L	Ala L glu L C8H13N2O5	C8H13N2O5	Cytosol AND Extra-organism
+ala_L_his__L	Ala His C9H14N4O3	C9H14N4O3	Cytosol AND Extra-organism
+ala_L_ile__L	Ala Ile C9H18N2O3	C9H18N2O3	Cytosol
+ala_L_leu__L	Ala Leu C9H18N2O3	C9H18N2O3	Cytosol AND Extra-organism
+ala_L_met__L	Ala Met C8H16N2O3S	C8H16N2O3S	Cytosol
+ala_L_phe__L	Ala Phe C12H16N2O3	C12H16N2O3	Cytosol
+ala_L_ser__L	Ala Ser C6H12N2O4	C6H12N2O4	Cytosol
+ala_L_trp__L	Ala Trp C14H17N3O3	C14H17N3O3	Cytosol
+ala_L_tyr__L	Ala Tyr C12H16N2O4	C12H16N2O4	Cytosol
+ala_L_val__L	Ala Val C8H16N2O3	C8H16N2O3	Cytosol
+alaala	D-Alanyl-D-alanine	C6H12N2O3	Cytosol AND Extra-organism
+alac__S	(S)-2-Acetolactate	C5H7O4	Cytosol
+alltn	Allantoin	C4H6N4O3	Cytosol AND Extra-organism
+alltt	Allantoate	C4H7N4O4	Cytosol
+altrn	D-Altronate	C6H11O7	Cytosol
+amacald	Aminoacetaldehyde C2H5NO	C2H5NO	Cytosol
+amet	S-Adenosyl-L-methionine	C15H23N6O5S	Cytosol
+ametam	S-Adenosylmethioninamine	C14H24N6O3S	Cytosol
+amob	S-Adenosyl-4-methylthio-2-oxobutanoate	C15H19N5O6S	Cytosol
+amp	AMP C10H12N5O7P	C10H12N5O7P	Cytosol AND Extra-organism
+amylase	Mature Bacillus subtilis amylase C3040H4569N861O981S11	C3040H4569N861O981S11	Extra-organism
+anth	Anthranilate	C7H6NO2	Cytosol
+antim	Antimonite Sb	no-formula	Cytosol AND Extra-organism
+apoACP	Apoprotein [acyl carrier protein]	RHO	Cytosol
+aps	Adenosine 5'-phosphosulfate	C10H12N5O10PS	Cytosol
+arab__D	D Arabinose C5H10O5	C5H10O5	Cytosol AND Extra-organism
+arab__L	L-Arabinose	C5H10O5	Cytosol AND Extra-organism
+arbt6p	Arbutin 6-phosphate	C12H15O10P	Cytosol
+arbt	Arbutin C12H16O7	C12H16O7	Extra-organism
+arg__L	L-Arginine	C6H15N4O2	Cytosol AND Extra-organism
+argp	L Arginine phosphate C6H14N4O5P	C6H14N4O5P	Cytosol AND Extra-organism
+argsuc	N(omega)-(L-Arginino)succinate	C10H17N4O6	Cytosol
+arsenb	ARSENOBETAINE C5H11AsO2	no-formula	Cytosol AND Extra-organism
+arsna	Arsenate AsHO4	no-formula	Cytosol AND Extra-organism
+arsni2	Arsenite AsH3O3	no-formula	Cytosol AND Extra-organism
+asn__L	L-Asparagine	C4H8N2O3	Cytosol AND Extra-organism
+asp__L	L-Aspartate	C4H6NO4	Cytosol AND Extra-organism
+aspsa	L-Aspartate 4-semialdehyde	C4H7NO3	Cytosol
+atp	ATP C10H12N5O13P3	C10H12N5O13P3	Cytosol
+b2coa	Crotonoyl-CoA	C25H36N7O17P3S	Cytosol
+betald	Betaine aldehyde	C5H12NO	Cytosol
+bilea	Bile acid C24H39O5	C24H39O5	Cytosol AND Extra-organism
+btal	Butanal C4H8O	C4H8O	Cytosol
+btcoa	Butanoyl-CoA	C25H38N7O17P3S	Cytosol
+btd_RR	 R R  2 3 Butanediol C4H10O2	C4H10O2	Cytosol AND Extra-organism
+btn	Biotin	C10H15N2O3S	Cytosol
+but	Butyrate (n-C4:0)	C4H7O2	Cytosol
+butpi	Butanoyl phosphate	C4H7O5P	Cytosol
+buts	Butanesulfonate C4H9O3S	C4H9O3S	Cytosol AND Extra-organism
+ca2	Calcium	no-formula	Cytosol AND Extra-organism
+cbasp	N-Carbamoyl-L-aspartate	C5H6N2O5	Cytosol
+cbl2	Cob II alamin C62H88CoN13O14P	no-formula	Cytosol AND Extra-organism
+cbp	Carbamoyl phosphate	CH2NO5P	Cytosol
+cd2	Cadmium	no-formula	Cytosol AND Extra-organism
+cdlp_BS	Cardiolipin  B subtilis  C7172H13744O1700P200	C7172H13744O1700P200	Cytosol
+cdp	CDP C9H12N3O11P2	C9H12N3O11P2	Cytosol
+cdpdag_BS	CDPdiacylglycerol  B subtilis  C4336H7772N300O1500P200	C4336H7772N300O1500P200	Cytosol
+cdpglyc	CDPglycerol C12H19N3O13P2	C12H19N3O13P2	Cytosol
+cellb	Cellobiose	C12H22O11	Extra-organism
+cgly	Cys Gly C5H10N2O3S	C5H10N2O3S	Cytosol AND Extra-organism
+ch4s	Methanethiol CH4S	CH4S	Cytosol
+chitob	Chitobiose C16H28N2O11	C16H28N2O11	Cytosol AND Extra-organism
+chol	Choline C5H14NO	C5H14NO	Cytosol AND Extra-organism
+chols	Choline sulfate	C5H13NO4S	Cytosol AND Extra-organism
+chor	Chorismate	C10H8O6	Cytosol AND Extra-organism
+cit	Citrate	C6H5O7	Cytosol AND Extra-organism
+citr__L	L-Citrulline	C6H13N3O3	Cytosol AND Extra-organism
+cmp	CMP C9H12N3O8P	C9H12N3O8P	Cytosol AND Extra-organism
+co2	CO2 CO2	CO2	Cytosol AND Extra-organism
+co	Carbon monoxide	CO	Cytosol
+coa	Coenzyme A	C21H32N7O16P3S	Cytosol
+cobalt2	Co2+	no-formula	Cytosol AND Extra-organism
+cpppg3	Coproporphyrinogen III	C36H40N4O8	Cytosol
+crn	L-Carnitine	C7H15NO3	Cytosol AND Extra-organism
+cro4	Chromate	no-formula	Cytosol AND Extra-organism
+csn	Cytosine	C4H5N3O	Cytosol AND Extra-organism
+ctbt	Crotonobetaine	C7H13NO2	Cytosol AND Extra-organism
+ctp	CTP C9H12N3O14P3	C9H12N3O14P3	Cytosol
+cu2	Copper	no-formula	Cytosol AND Extra-organism
+cys__D	D-Cysteine	C3H7NO2S	Extra-organism
+cys__L	L-Cysteine	C3H7NO2S	Cytosol AND Extra-organism
+cysam	Cysteamine C2H8NS	C2H8NS	Cytosol
+cyst__L	L-Cystathionine	C6H12N2O4S2	Cytosol AND Extra-organism
+cytd	Cytidine	C9H13N3O5	Cytosol AND Extra-organism
+d12dg_BS	Diglucosyl 1 2 diacylglycerol C4636H8672O1500	C4636H8672O1500	Cytosol
+dad_2	Deoxyadenosine	C10H13N5O3	Cytosol AND Extra-organism
+dadp	DADP C10H12N5O9P2	C10H12N5O9P2	Cytosol
+damp	DAMP C10H12N5O6P	C10H12N5O6P	Cytosol
+dann	7,8-Diaminononanoate	C9H21N2O2	Cytosol
+datp	DATP C10H12N5O12P3	C10H12N5O12P3	Cytosol
+db4p	3,4-dihydroxy-2-butanone 4-phosphate	C4H7O6P	Cytosol
+dc2coa	Trans-Dec-2-enoyl-CoA	C31H48N7O17P3S	Cytosol
+dca	Decanoate (n-C10:0)	C10H19O2	Cytosol
+dcal	Decanal C10H20O	C10H20O	Cytosol
+dcamp	N6-(1,2-Dicarboxyethyl)-AMP	C14H14N5O11P	Cytosol
+dccoa	Decanoyl CoA C31H50N7O17P3S	C31H50N7O17P3S	Cytosol
+dcdp	DCDP C9H12N3O10P2	C9H12N3O10P2	Cytosol
+dcmp	DCMP C9H12N3O7P	C9H12N3O7P	Cytosol
+dctp	DCTP C9H12N3O13P3	C9H12N3O13P3	Cytosol
+dcyt	Deoxycytidine	C9H13N3O4	Cytosol AND Extra-organism
+ddca	Dodecanoate (n-C12:0)	C12H23O2	Cytosol
+ddcal	Dodecanal C12H24O	C12H24O	Cytosol
+ddcoa	Dodecanoyl CoA  n C120CoA  C33H54N7O17P3S	C33H54N7O17P3S	Cytosol
+dextrin	Dextrin C12H20O10	C12H20O10	Cytosol AND Extra-organism
+dgdp	DGDP C10H12N5O10P2	C10H12N5O10P2	Cytosol
+dgmp	DGMP C10H12N5O7P	C10H12N5O7P	Cytosol
+dgsn	Deoxyguanosine	C10H13N5O4	Cytosol
+dgtp	DGTP C10H12N5O13P3	C10H12N5O13P3	Cytosol
+dha	Dihydroxyacetone	C3H6O3	Cytosol AND Extra-organism
+dhap	Dihydroxyacetone phosphate	C3H5O6P	Cytosol
+dhf	7,8-Dihydrofolate	C19H19N7O6	Cytosol
+dhna	1,4-Dihydroxy-2-naphthoate	C11H7O4	Cytosol
+dhnpt	Dihydroneopterin	C9H13N5O4	Cytosol
+dhor__S	(S)-Dihydroorotate	C5H5N2O4	Cytosol
+dhpt	Dihydropteroate	C14H13N6O3	Cytosol
+diact	Diacetyl C4H6O2	C4H6O2	Extra-organism
+diala__L	Ala Ala C6H12N2O3	C6H12N2O3	Cytosol
+diasprm	N1 N12 Diacetylspermine C14H32N4O2	C14H32N4O2	Cytosol
+dimp	DIMP C10H12N4O7P	C10H12N4O7P	Cytosol
+din	Deoxyinosine	C10H12N4O4	Cytosol
+djenk	Djenkolate C7H14N2O4S2	C7H14N2O4S2	Cytosol AND Extra-organism
+dkmpp	2,3-diketo-5-methylthio-1-phosphopentane	C6H9O6PS	Cytosol
+dmlz	6,7-Dimethyl-8-(1-D-ribityl)lumazine	C13H18N4O6	Cytosol
+dmpp	Dimethylallyl diphosphate	C5H9O7P2	Cytosol
+dnad	Deamino-NAD+	C21H24N6O15P2	Cytosol
+dpcoa	Dephospho-CoA	C21H33N7O13P2S	Cytosol
+drib	Deoxyribose C5H10O4	C5H10O4	Cytosol AND Extra-organism
+dtbt	Dethiobiotin	C10H17N2O3	Cytosol
+dtdp	DTDP C10H13N2O11P2	C10H13N2O11P2	Cytosol
+dtmp	DTMP C10H13N2O8P	C10H13N2O8P	Cytosol AND Extra-organism
+dtpcudcpp	Di trans poly cis Undecaprenyl diphosphate C55H89O7P2	C55H89O7P2	Cytosol
+dttp	DTTP C10H13N2O14P3	C10H13N2O14P3	Cytosol
+dudp	DUDP C9H11N2O11P2	C9H11N2O11P2	Cytosol
+dump	DUMP C9H11N2O8P	C9H11N2O8P	Cytosol
+duri	Deoxyuridine	C9H12N2O5	Cytosol
+dutp	DUTP C9H11N2O14P3	C9H11N2O14P3	Cytosol
+dxyl5p	1-deoxy-D-xylulose 5-phosphate	C5H9O7P	Cytosol
+e4p	D-Erythrose 4-phosphate	C4H7O7P	Cytosol
+ectoine	Ectoine C6H12N2O2	C6H12N2O2	Cytosol AND Extra-organism
+eig3p	D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate	C6H9N2O6P	Cytosol
+etha	Ethanolamine	C2H8NO	Cytosol AND Extra-organism
+eths	Ethanesulfonate C2H5O3S	C2H5O3S	Cytosol AND Extra-organism
+etoh	Ethanol	C2H6O	Cytosol AND Extra-organism
+f1p	D-Fructose 1-phosphate	C6H11O9P	Cytosol
+f6p	D-Fructose 6-phosphate	C6H11O9P	Cytosol AND Extra-organism
+fa10	Fatty acid (Anteiso-C17:1)	C17H31O2	Cytosol
+fa10coa	Anteiso C171 CoA C38H62N7O17P3S1	C38H62N7O17P3S1	Cytosol
+fa11	Fatty acid (Iso-C17:0)	C17H33O2	Cytosol
+fa11coa	Iso C170 CoA C38H64N7O17P3S1	C38H64N7O17P3S1	Cytosol
+fa12	Fatty acid (Anteiso-C17:0)	C17H33O2	Cytosol
+fa12coa	Anteiso C170 CoA C38H64N7O17P3S1	C38H64N7O17P3S1	Cytosol
+fa1	Fatty acid (Iso-C14:0)	C14H27O2	Cytosol
+fa1coa	Iso C140 CoA C35H58N7O17P3S1	C35H58N7O17P3S1	Cytosol
+fa3	Fatty acid (Iso-C15:0)	C15H29O2	Cytosol
+fa3coa	Iso C150 CoA C36H60N7O17P3S1	C36H60N7O17P3S1	Cytosol
+fa4	Fatty acid (Anteiso-C15:0)	C15H29O2	Cytosol
+fa4coa	Anteiso C150 CoA C36H60N7O17P3S1	C36H60N7O17P3S1	Cytosol
+fa5	Fatty acid (Iso-C16:1)	C16H29O2	Cytosol
+fa5coa	Iso C161 CoA C37H60N7O17P3S1	C37H60N7O17P3S1	Cytosol
+fa6	Fatty acid (iso-C16:0)	C16H31O2	Cytosol
+fa6coa	Iso C160 CoA C37H62N7O17P3S1	C37H62N7O17P3S1	Cytosol
+fa9	Fatty acid (Iso-C17:1)	C17H31O2	Cytosol
+fa9coa	Iso C171 CoA C38H62N7O17P3S1	C38H62N7O17P3S1	Cytosol
+fad	Flavin adenine dinucleotide oxidized	C27H31N9O15P2	Cytosol
+fadh2	Flavin adenine dinucleotide reduced	C27H33N9O15P2	Cytosol
+fald	Formaldehyde	CH2O	Cytosol
+fdp	D-Fructose 1,6-bisphosphate	C6H10O12P2	Cytosol
+fe2	Fe2+ mitochondria	no-formula	Cytosol AND Extra-organism
+fe3	Iron (Fe3+)	no-formula	Cytosol AND Extra-organism
+ferrich	Ferrichrome C24H38FeN9O11	no-formula	Cytosol AND Extra-organism
+ferxa	Ferroxamine C25H46FeN6O8	no-formula	Cytosol AND Extra-organism
+fgam	N2-Formyl-N1-(5-phospho-D-ribosyl)glycinamide	C8H13N2O9P	Cytosol
+ficytcc	Ferricytochrome c C42H50FeN8O6S2	no-formula	Cytosol
+fmet	N Formyl L methionine C6H10NO3S	C6H10NO3S	Cytosol
+fmettrna	N-Formylmethionyl-tRNA	C6H11NO3SX	Cytosol
+fmnRD	Flavin mononucleotide reduced C17H21N4O9P	C17H21N4O9P	Cytosol
+fmn	FMN C17H19N4O9P	C17H19N4O9P	Cytosol
+focytcc	Ferrocytochrome c C42H50FeN8O6S2	no-formula	Cytosol
+fol	Folate	C19H18N7O6	Cytosol AND Extra-organism
+for	Formate	CH1O2	Cytosol AND Extra-organism
+forglu	N-Formimidoyl-L-glutamate	C6H9N2O4	Cytosol
+fpram	2-(Formamido)-N1-(5-phospho-D-ribosyl)acetamidine	C8H14N3O8P	Cytosol
+fprica	5-Formamido-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide	C10H13N4O9P	Cytosol
+frdp	Farnesyl diphosphate	C15H25O7P2	Cytosol
+frmd	Formamide	CH3NO	Cytosol
+fru	D-Fructose	C6H12O6	Cytosol AND Extra-organism
+fruur	D-Fructuronate	C6H9O7	Cytosol
+fum	Fumarate	C4H2O4	Cytosol AND Extra-organism
+g15lac	D Glucono 1 5 lactone C6H10O6	C6H10O6	Cytosol
+g16bp	D Glucose 1 6 bisphosphate C6H10O12P2	C6H10O12P2	Cytosol
+g1p_B	Beta D Glucose 1 phosphate C6H11O9P	C6H11O9P	Cytosol
+g1p	D-Glucose 1-phosphate	C6H11O9P	Cytosol AND Extra-organism
+g3p	Glyceraldehyde 3-phosphate	C3H5O6P	Cytosol
+g3pc	Sn-Glycero-3-phosphocholine	C8H20NO6P	Cytosol
+g3pe	Sn-Glycero-3-phosphoethanolamine	C5H14NO6P	Cytosol
+g3pg	Glycerophosphoglycerol	C6H14O8P	Cytosol
+g6p_B	Beta D glucose 6 phosphate C6H11O9P	C6H11O9P	Cytosol
+g6p	D-Glucose 6-phosphate	C6H11O9P	Cytosol AND Extra-organism
+gal1p	Alpha-D-Galactose 1-phosphate	C6H11O9P	Cytosol
+gal	D-Galactose	C6H12O6	Cytosol AND Extra-organism
+galctr__D	D Galactarate C6H8O8	C6H8O8	Cytosol AND Extra-organism
+galman	Galactomannan C6H10O5	C6H10O5	Cytosol
+galogs	Galactose oligosaccharide C6H10O5	C6H10O5	Cytosol
+galt1p	Galactitol 1-phosphate	C6H13O9P	Cytosol
+galt	Galactitol	C6H14O6	Extra-organism
+galur	D-Galacturonate	C6H9O7	Cytosol AND Extra-organism
+gam1p	D-Glucosamine 1-phosphate	C6H13NO8P	Cytosol
+gam6p	D-Glucosamine 6-phosphate	C6H13NO8P	Cytosol AND Extra-organism
+gam	D-Glucosamine	C6H14NO5	Extra-organism
+gar	N1-(5-Phospho-D-ribosyl)glycinamide	C7H14N2O8P	Cytosol
+gbbtn	Gamma-butyrobetaine	C7H15NO2	Cytosol AND Extra-organism
+gcald	Glycolaldehyde	C2H4O2	Cytosol
+gdp	GDP C10H12N5O11P2	C10H12N5O11P2	Cytosol
+gdptp	Guanosine 3'-diphosphate 5'-triphosphate	C10H11N5O20P5	Cytosol
+ggdp	Geranylgeranyl diphosphate C20H33O7P2	C20H33O7P2	Cytosol
+glc__D	D-Glucose	C6H12O6	Cytosol AND Extra-organism
+glcn__D	D Gluconate C6H11O7	C6H11O7	Cytosol AND Extra-organism
+glcr	D-Glucarate	C6H8O8	Cytosol AND Extra-organism
+glcur	D-Glucuronate	C6H9O7	Cytosol AND Extra-organism
+glcurn	D Glucurone C6H8O6	C6H8O6	Cytosol
+gln__L	L-Glutamine	C5H10N2O3	Cytosol AND Extra-organism
+glu1sa	L-Glutamate 1-semialdehyde	C5H9NO3	Cytosol
+glu5p	L-Glutamate 5-phosphate	C5H8NO7P	Cytosol
+glu5sa	L-Glutamate 5-semialdehyde	C5H9NO3	Cytosol
+glu__D	D-Glutamate	C5H8NO4	Cytosol AND Extra-organism
+glu__L	L-Glutamate	C5H8NO4	Cytosol AND Extra-organism
+glutrna	L-Glutamyl-tRNA(Glu)	C5H8NO4X	Cytosol
+glx	Glyoxylate	C2H1O3	Cytosol AND Extra-organism
+gly_asn__L	Gly asn L C6H11N3O4	C6H11N3O4	Cytosol AND Extra-organism
+gly_asp__L	Gly asp L C6H9N2O5	C6H9N2O5	Cytosol AND Extra-organism
+gly	Glycine	C2H5NO2	Cytosol AND Extra-organism
+gly_cys__L	Gly Cys C5H10N2O3S	C5H10N2O3S	Cytosol
+gly	Glycine	C2H5NO2	Extra-organism AND Cytosol
+gly_gln__L	Gly Gln C7H13N3O4	C7H13N3O4	Cytosol AND Extra-organism
+gly_glu__L	Gly glu L C7H11N2O5	C7H11N2O5	Cytosol AND Extra-organism
+gly_leu__L	Gly Leu C8H16N2O3	C8H16N2O3	Cytosol
+gly_met__L	Gly Met C7H14N2O3S	C7H14N2O3S	Cytosol AND Extra-organism
+gly_phe__L	Gly Phe C11H14N2O3	C11H14N2O3	Cytosol
+gly_pro__L	Gly pro L C7H12N2O3	C7H12N2O3	Cytosol AND Extra-organism
+gly_tyr__L	Gly Try C11H14N2O4	C11H14N2O4	Cytosol
+glyald	D-Glyceraldehyde	C3H6O3	Cytosol
+glyb	Glycine betaine	C5H11NO2	Cytosol AND Extra-organism
+glyc3p	Glycerol 3-phosphate	C3H7O6P	Cytosol AND Extra-organism
+glyc__R	(R)-Glycerate	C3H5O4	Cytosol
+glyc	Glycerol	C3H8O3	Cytosol AND Extra-organism
+glyclt	Glycolate C2H3O3	C2H3O3	Cytosol AND Extra-organism
+glycogen	Glycogen C6H10O5	C6H10O5	Cytosol AND Extra-organism
+glygly	Glycylglycine C4H8N2O3	C4H8N2O3	Cytosol
+gmp	GMP C10H12N5O8P	C10H12N5O8P	Cytosol AND Extra-organism
+grdp	Geranyl diphosphate	C10H17O7P2	Cytosol
+gsn	Guanosine	C10H13N5O5	Cytosol AND Extra-organism
+gtca1_45_BS	Glycerol teichoic acid  n45   unlinked  unsubstituted C151H297N2O238P46	C151H297N2O238P46	Cytosol
+gtca2_45_BS	Glycerol teichoic acid  n45   unlinked  D ala substituted C286H612N47O328P46	C286H612N47O328P46	Cytosol
+gtca3_45_BS	Glycerol teichoic acid  n45   unlinked  glucose substituted C421H749N2O464P46	C421H749N2O464P46	Cytosol
+gthox	Oxidized glutathione	C20H30N6O12S2	Extra-organism
+gthrd	Reduced glutathione	C10H16N3O6S	Extra-organism
+gtp	GTP C10H12N5O14P3	C10H12N5O14P3	Cytosol
+gua	Guanine	C5H5N5O	Cytosol AND Extra-organism
+h2mb4p	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate	C5H9O8P2	Cytosol
+h2o2	Hydrogen peroxide	H2O2	Cytosol AND Extra-organism
+h2o	H2O H2O	H2O	Cytosol AND Extra-organism
+h2s	Hydrogen sulfide	HS	Cytosol
+h	H+	H	Cytosol AND Extra-organism
+hco3	Bicarbonate	CHO3	Cytosol
+hcys__L	L-Homocysteine	C4H9NO2S	Cytosol
+hdca	Hexadecanoate (n-C16:0)	C16H31O2	Cytosol
+hdcea	Hexadecenoate (n-C16:1)	C16H29O2	Cytosol
+hdcoa	Hexadecenoyl-CoA (n-C16:1CoA)	C37H60N7O17P3S	Cytosol
+hdd2coa	Trans-Hexadec-2-enoyl-CoA	C37H60N7O17P3S	Cytosol
+hemeA	Heme A C49H55FeN4O6	no-formula	Cytosol
+hemeC	Heme C C40H42FeN6O8S2	no-formula	Cytosol
+hemeD	Heme D C34H30FeN4O6	no-formula	Cytosol
+hemeO	Heme O C49H56FeN4O5	no-formula	Cytosol
+hepdp	All-trans-Heptaprenyl diphosphate	C35H57O7P2	Cytosol
+hexdp	All trans Hexaprenyl diphosphate C30H49O7P2	C30H49O7P2	Cytosol
+hexs	Hexanesulfonate C6H13O3S	C6H13O3S	Cytosol AND Extra-organism
+hg2	Mercury  charged 2  Hg	no-formula	Cytosol AND Extra-organism
+hibcoa	 S  3 Hydroxyisobutyryl CoA C25H38N7O18P3S	C25H38N7O18P3S	Cytosol
+his__L	L-Histidine	C6H9N3O2	Cytosol AND Extra-organism
+hisp	L-Histidinol phosphate	C6H11N3O4P	Cytosol
+histd	L-Histidinol	C6H12N3O	Cytosol
+hmbil	Hydroxymethylbilane	C40H38N4O17	Cytosol
+hmgcoa	Hydroxymethylglutaryl CoA C27H39N7O20P3S	C27H39N7O20P3S	Cytosol
+hom__L	L-Homoserine	C4H9NO3	Cytosol
+hpa	Heptanoate C7H13O2	C7H13O2	Cytosol
+hpal	Heptanal C7H14O	C7H14O	Cytosol
+hpdca	Heptadecanoate  C170  C17H33O2	C17H33O2	Cytosol
+hpdcal	Heptadecanal C17H34O	C17H34O	Cytosol
+hqn	Hydroquinone	C6H6O2	Cytosol AND Extra-organism
+hx2coa	Trans-Hex-2-enoyl-CoA	C27H40N7O17P3S	Cytosol
+hxa	Hexanoate (n-C6:0)	C6H11O2	Cytosol
+hxal	Hexanal C6H12O	C6H12O	Cytosol
+hxan	Hypoxanthine	C5H4N4O	Cytosol AND Extra-organism
+hxcoa	Hexanoyl-CoA (n-C6:0CoA)	C27H42N7O17P3S	Cytosol
+hxdcal	Hexadecanal C16H32O	C16H32O	Cytosol
+iasp	Iminoaspartate	C4H3NO4	Cytosol
+ibcoa	Isobutyryl-CoA	C25H38N7O17P3S	Cytosol
+ichor	Isochorismate	C10H8O6	Cytosol
+icit	Isocitrate	C6H5O7	Cytosol AND Extra-organism
+idp	IDP C10H11N4O11P2	C10H11N4O11P2	Cytosol
+ile__L	L-Isoleucine	C6H13NO2	Cytosol AND Extra-organism
+imacp	3-(Imidazol-4-yl)-2-oxopropyl phosphate	C6H8N2O5P	Cytosol
+imp	IMP C10H11N4O8P	C10H11N4O8P	Cytosol
+imzac	Imidazole 4 acetate C5H6N2O2	C5H6N2O2	Cytosol
+imzacd	Imidazole 4 acetaldehyde C5H7N2O	C5H7N2O	Cytosol
+inoshp	Myo Inositol hexakisphosphate C6H6O24P6	C6H6O24P6	Cytosol
+inospp1	1D myo inositol 1 3 4 5 6 pentakisphosphate C6H7O21P5	C6H7O21P5	Cytosol
+inost	Myo-Inositol	C6H12O6	Cytosol AND Extra-organism
+ins	Inosine	C10H12N4O5	Cytosol AND Extra-organism
+ipdp	Isopentenyl diphosphate	C5H9O7P2	Cytosol
+isomal	Isomaltose C12H22O11	C12H22O11	Cytosol
+istnt	Isethionate C2H5O4S	C2H5O4S	Cytosol AND Extra-organism
+itp	ITP C10H11N4O14P3	C10H11N4O14P3	Cytosol
+ivcoa	Isovaleryl-CoA	C26H40N7O17P3S	Cytosol
+k	Potassium	K	Cytosol AND Extra-organism
+lac__L	L-Lactate	C3H5O3	Cytosol AND Extra-organism
+lald__L	L-Lactaldehyde	C3H6O2	Cytosol
+lanth	Lanthionine C6H12N2O4S	C6H12N2O4S	Cytosol AND Extra-organism
+lcts	Lactose C12H22O11	C12H22O11	Cytosol AND Extra-organism
+leu__L	L-Leucine	C6H13NO2	Cytosol AND Extra-organism
+lipo1_24_BS	Lipoteichoic acid  n24   linked  glucose substituted C26236H47072O25500P2400	C26236H47072O25500P2400	Cytosol
+lipo2_24_BS	Lipoteichoic acid  n24   linked  N acetyl D glucosamine C31036H54272N2400O25500P2400	C31036H54272N2400O25500P2400	Cytosol
+lipo3_24_BS	Lipoteichoic acid  n24   linked  D alanine substituted C19036H39872N2400O18300P2400	C19036H39872N2400O18300P2400	Cytosol
+lipo4_24_BS	Lipoteichoic acid  n24   linked  unsubstituted C11836H23072O13500P2400	C11836H23072O13500P2400	Cytosol
+lipt	Lipoate C8H13O2S2	C8H13O2S2	Cytosol AND Extra-organism
+lys__L	L-Lysine	C6H15N2O2	Cytosol AND Extra-organism
+lysylpgly_BS	Lysylphophatidylglycerol C4336H8572N200O1100P100	C4336H8572N200O1100P100	Cytosol
+m12dg_BS	Monoglucosyl 1 2 diacylglycerol C4036H7672O1000	C4036H7672O1000	Cytosol
+madg	Alpha Methyl D glucoside C7H14O6	C7H14O6	Extra-organism
+mal__D	D-Malate	C4H4O5	Cytosol AND Extra-organism
+mal__L	L-Malate	C4H4O5	Cytosol AND Extra-organism
+malcoa	Malonyl CoA C24H33N7O19P3S	C24H33N7O19P3S	Cytosol
+malt6p	Maltose 6'-phosphate	C12H21O14P	Cytosol
+malt	Maltose C12H22O11	C12H22O11	Cytosol AND Extra-organism
+malthp	Maltoheptaose	C42H72O36	Cytosol
+malthx	Maltohexaose	C36H62O31	Cytosol
+maltpt	Maltopentaose	C30H52O26	Cytosol
+malttr	Maltotriose C18H32O16	C18H32O16	Cytosol AND Extra-organism
+maltttr	Maltotetraose	C24H42O21	Cytosol
+man1p	D-Mannose 1-phosphate	C6H11O9P	Cytosol AND Extra-organism
+man6p	D-Mannose 6-phosphate	C6H11O9P	Cytosol AND Extra-organism
+man	D-Mannose	C6H12O6	Cytosol AND Extra-organism
+mana	D-Mannonate	C6H11O7	Cytosol
+mbdg	Beta Methylglucoside C7H14O6	C7H14O6	Extra-organism
+melib	Melibiose C12H22O11	C12H22O11	Cytosol AND Extra-organism
+meoh	Methanol	CH4O	Extra-organism
+met__D	D-Methionine	C5H11NO2S	Cytosol AND Extra-organism
+met_L_ala__L	Met L ala L C8H16N2O3S	C8H16N2O3S	Cytosol AND Extra-organism
+met__L	L-Methionine	C5H11NO2S	Cytosol AND Extra-organism
+met_L_his__L	Met His C11H18N4O3S	C11H18N4O3S	Cytosol
+met_L_met__L	Met Met C10H20N2O3S2	C10H20N2O3S2	Cytosol
+met_L_phe__L	Met Phe C14H20N2O3S	C14H20N2O3S	Cytosol
+met_L_tyr__L	Met Tyr C14H20N2O4S	C14H20N2O4S	Cytosol
+methf	5,10-Methenyltetrahydrofolate	C20H20N7O6	Cytosol
+metox__R	L methionine R oxide C5H11NO3S	C5H11NO3S	Cytosol AND Extra-organism
+metox	L Methionine S oxide C5H11NO3S	C5H11NO3S	Cytosol AND Extra-organism
+mettrna	L-Methionyl-tRNA (Met)	C5H11NO2SX	Cytosol
+mg2	Magnesium	no-formula	Cytosol AND Extra-organism
+mi1p__D	1D-myo-Inositol 1-phosphate	C6H11O9P	Cytosol
+micit	Methylisocitrate	C7H7O7	Cytosol
+mlthf	5,10-Methylenetetrahydrofolate	C20H21N7O6	Cytosol
+mmal	Methylmalonate C4H4O4	C4H4O4	Cytosol
+2mop	2-Methyl-3-oxopropanoate	C4H5O3	Cytosol
+mmalsa__S	 S  Methylmalonate semialdehyde C4H5O3	C4H5O3	Cytosol
+mmcoa__S	(S)-Methylmalonyl-CoA	C25H35N7O19P3S	Cytosol
+mn2	Manganese	no-formula	Cytosol AND Extra-organism
+mnl1p	D-Mannitol 1-phosphate	C6H13O9P	Cytosol
+mnl	D-Mannitol	C6H14O6	Extra-organism
+mobd	Molybdate	no-formula	Cytosol AND Extra-organism
+mops	MOPS C7H14NO4S	C7H14NO4S	Cytosol AND Extra-organism
+mql7	Menaquinol 7 C46H66O2	C46H66O2	Cytosol
+mqn7	Menaquinone 7 C46H64O2	C46H64O2	Cytosol
+msa	Malonate semialdehyde	C3H3O3	Cytosol
+mso3	Methanesulfonate	CH3O3S	Cytosol AND Extra-organism
+mthgxl	Methylglyoxal	C3H4O2	Cytosol
+na1	Sodium	no-formula	Cytosol AND Extra-organism
+nac	Nicotinate	C6H4NO2	Cytosol AND Extra-organism
+nad	Nicotinamide adenine dinucleotide	C21H26N7O14P2	Cytosol
+nadh	Nicotinamide adenine dinucleotide - reduced	C21H27N7O14P2	Cytosol
+nadp	Nicotinamide adenine dinucleotide phosphate	C21H25N7O17P3	Cytosol
+nadph	Nicotinamide adenine dinucleotide phosphate - reduced	C21H26N7O17P3	Cytosol
+ncam	Nicotinamide	C6H6N2O	Cytosol
+nebari	Nebularine C10H12N4O4	C10H12N4O4	Cytosol
+nh4	Ammonium	H4N	Cytosol AND Extra-organism
+ni2	Nickel	no-formula	Cytosol AND Extra-organism
+nicrnt	Nicotinate D-ribonucleotide	C11H12NO9P	Cytosol
+nmn	NMN C11H14N2O8P	C11H14N2O8P	Cytosol
+no2	Nitrite	NO2	Cytosol AND Extra-organism
+no3	Nitrate	NO3	Cytosol AND Extra-organism
+nona	Nonanoate C9H17O2	C9H17O2	Cytosol
+nonal	Nonanal C9H18O	C9H18O	Cytosol
+o2s	Superoxide anion	O2	Cytosol
+o2	O2 O2	O2	Cytosol AND Extra-organism
+oaa	Oxaloacetate	C4H2O5	Cytosol
+oc2coa	Trans-Oct-2-enoyl-CoA	C29H44N7O17P3S	Cytosol
+occoa	Octanoyl-CoA (n-C8:0CoA)	C29H46N7O17P3S	Cytosol
+ocdca	Octadecanoate (n-C18:0)	C18H35O2	Cytosol
+ocdcal	Octadecanal C18H36O	C18H36O	Cytosol
+ocdcea	Octadecenoate (n-C18:1)	C18H33O2	Cytosol
+octa	Octanoate (n-C8:0)	C8H15O2	Cytosol
+octal	Octanal C8H16O	C8H16O	Cytosol
+odecoa	Octadecenoyl-CoA (n-C18:1CoA)	C39H64N7O17P3S	Cytosol
+orn__L	L Ornithine C5H13N2O2	C5H13N2O2	Cytosol AND Extra-organism
+orot5p	Orotidine 5'-phosphate	C10H10N2O11P	Cytosol
+orot	Orotate C5H3N2O4	C5H3N2O4	Cytosol
+oxa	Oxalate	C2O4	Cytosol
+oxglyc	Oxaloglycolate C4H2O6	C4H2O6	Cytosol
+pala	Palatinose C12H22O11	C12H22O11	Cytosol AND Extra-organism
+pan4p	Pantetheine 4'-phosphate	C11H21N2O7PS	Cytosol
+pant__R	(R)-Pantoate	C6H11O4	Cytosol
+pap	Adenosine 3',5'-bisphosphate	C10H11N5O10P2	Cytosol
+paps	3'-Phosphoadenylyl sulfate	C10H11N5O13P2S	Cytosol
+pencil	Penicillin C9H11N2O4S	C9H11N2O4S	Cytosol
+pencilca	Penicilloic acid C9H12N2O5S	C9H12N2O5S	Cytosol
+pendp	All trans Pentaprenyl diphosphate C25H41O7P2	C25H41O7P2	Cytosol
+pep	Phosphoenolpyruvate	C3H2O6P	Cytosol AND Extra-organism
+peptido_BS	Peptidoglycan subunit of Bacillus subtilis C40H62N8O21	C40H62N8O21	Cytosol
+pgly_BS	Phosphatidylglycerol  B subtils  C3736H7272O1000P100	C3736H7272O1000P100	Cytosol
+pglyp_BS	Phosphatidylglycerophosphate  B subtilis  C3736H7172O1300P200	C3736H7172O1300P200	Cytosol
+phe__L	L-Phenylalanine	C9H11NO2	Cytosol AND Extra-organism
+pheme	Protoheme C34H30FeN4O4	no-formula	Cytosol
+phom	O-Phospho-L-homoserine	C4H8NO6P	Cytosol
+phpyr	Phenylpyruvate	C9H7O3	Cytosol
+pi	Phosphate	HO4P	Cytosol AND Extra-organism
+pime	Pimelate	C7H10O4	Cytosol
+pmcoa	Pimeloyl-CoA	C28H41N7O19P3S	Cytosol
+pmtcoa	Palmitoyl-CoA (n-C16:0CoA)	C37H62N7O17P3S	Cytosol
+pnto__R	(R)-Pantothenate	C9H16NO5	Cytosol AND Extra-organism
+ppa	Propionate (n-C3:0)	C3H5O2	Cytosol AND Extra-organism
+ppal	Propanal	C3H6O	Cytosol
+ppap	Propanoyl phosphate	C3H5O5P	Cytosol
+ppbng	Porphobilinogen	C10H13N2O4	Cytosol
+ppcoa	Propanoyl-CoA	C24H36N7O17P3S	Cytosol
+pphn	Prephenate	C10H8O6	Cytosol
+ppi	Diphosphate	HO7P2	Cytosol AND Extra-organism
+ppp9	Protoporphyrin	C34H32N4O4	Cytosol
+pppg9	Protoporphyrinogen IX	C34H38N4O4	Cytosol
+pppi	Inorganic triphosphate	HO10P3	Cytosol
+pram	5-Phospho-beta-D-ribosylamine	C5H11NO7P	Cytosol
+pran	N-(5-Phospho-D-ribosyl)anthranilate	C12H13NO9P	Cytosol
+prbamp	1-(5-Phosphoribosyl)-AMP	C15H19N5O14P2	Cytosol
+prbatp	1-(5-Phosphoribosyl)-ATP	C15H19N5O20P4	Cytosol
+prfp	1-(5-Phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide	C15H22N5O15P2	Cytosol
+prlp	5-[(5-phospho-1-deoxyribulos-1-ylamino)methylideneamino]-1-(5-phosphoribosyl)imidazole-4-carboxamide	C15H22N5O15P2	Cytosol
+pro__L	L-Proline	C5H9NO2	Cytosol AND Extra-organism
+prolb	Proline betaine C7H13NO2	C7H13NO2	Cytosol AND Extra-organism
+prpp	5-Phospho-alpha-D-ribose 1-diphosphate	C5H8O14P3	Cytosol
+ps_BS	Phosphatidylserine  B subtilis  C3736H7172N100O1000P100	C3736H7172N100O1000P100	Cytosol
+pser__D	D-O-Phosphoserine	C3H6NO6P	Cytosol AND Extra-organism
+pser__L	O-Phospho-L-serine	C3H6NO6P	Cytosol AND Extra-organism
+psetha_BS	Phosphatidylethanolamine  B subtilis  C3636H7172N100O800P100	C3636H7172N100O800P100	Cytosol
+pta	Pentanoate	C5H9O2	Cytosol
+ptal	Pentanal	C5H10O	Cytosol
+ptdca	Pentadecanoate  C150  C15H29O2	C15H29O2	Cytosol
+ptdcal	Pentadecanal C15H30O	C15H30O	Cytosol
+ptrc	Putrescine	C4H14N2	Cytosol
+ptth	Pantetheine	C11H22N2O4S	Cytosol
+pur	Puromycin C22H30N7O5	C22H30N7O5	Cytosol AND Extra-organism
+purine	Purine C5H5N4	C5H5N4	Cytosol
+pydx5p	Pyridoxal 5'-phosphate	C8H7NO6P	Cytosol
+pyr	Pyruvate	C3H3O3	Cytosol AND Extra-organism
+quc	Quercetin C15H7O7	C15H7O7	Cytosol
+quln	Quinolinate	C7H3NO4	Cytosol
+r1p	Alpha-D-Ribose 1-phosphate	C5H9O8P	Cytosol
+r5p	Alpha-D-Ribose 5-phosphate	C5H9O8P	Cytosol
+raffin	Raffinose C18H32O16	C18H32O16	Cytosol AND Extra-organism
+rbl__D	D-Ribulose	C5H10O5	Cytosol
+rbl__L	L-Ribulose	C5H10O5	Cytosol
+rhcys	S-Ribosyl-L-homocysteine	C9H17NO6S	Cytosol
+rib__D	D-Ribose	C5H10O5	Cytosol AND Extra-organism
+ribflvRD	Reduced riboflavin C17H22N4O6	C17H22N4O6	Cytosol
+ribflv	Riboflavin C17H20N4O6	C17H20N4O6	Cytosol AND Extra-organism
+rml1p	L-Rhamnulose 1-phosphate	C6H11O8P	Cytosol
+rml	L-Rhamnulose	C6H12O5	Cytosol
+rmn	L-Rhamnose	C6H12O5	Cytosol AND Extra-organism
+rnam	N Ribosylnicotinamide C11H15N2O5	C11H15N2O5	Cytosol
+ru5p__D	D-Ribulose 5-phosphate	C5H9O8P	Cytosol
+ru5p__L	L-Ribulose 5-phosphate	C5H9O8P	Cytosol
+s7p	Sedoheptulose 7-phosphate	C7H13O10P	Cytosol
+s	Sulfur	S	Cytosol
+salcn6p	Salicin 6-phosphate	C13H17O10P	Cytosol
+salcn	Salicin C13H18O7	C13H18O7	Extra-organism
+sarcs	Sarcosine C3H7NO2	C3H7NO2	Cytosol
+sbt__D	D-Sorbitol	C6H14O6	Cytosol AND Extra-organism
+sbzcoa	O-Succinylbenzoyl-CoA	C32H39N7O20P3S	Cytosol
+scys__L	S-Sulfo-L-cysteine	C3H6NO5S2	Cytosol
+seln	Selenide	no-formula	Cytosol
+ser__D	D-Serine	C3H7NO3	Cytosol AND Extra-organism
+ser_L_ala__L	Ser Ala C6H12N2O4	C6H12N2O4	Cytosol
+ser__L	L-Serine	C3H7NO3	Cytosol AND Extra-organism
+ser_L_gln__L	Ser Gln C8H15N3O5	C8H15N3O5	Cytosol
+ser_L_his__L	Ser His C9H14N4O4	C9H14N4O4	Cytosol
+ser_L_ile__L	Ser Ile C9H18N2O4	C9H18N2O4	Cytosol
+ser_L_leu__L	Ser Leu C9H18N2O4	C9H18N2O4	Cytosol
+ser_L_met__L	Ser Met C8H16N2O4S	C8H16N2O4S	Cytosol
+ser_L_phe__L	Ser Phe C12H16N2O4	C12H16N2O4	Cytosol
+ser_L_ser__L	Ser Ser C6H12N2O5	C6H12N2O5	Cytosol
+ser_L_trp__L	Ser Trp C14H17N3O4	C14H17N3O4	Cytosol
+ser_L_tyr__L	Ser Tyr C12H16N2O5	C12H16N2O5	Cytosol
+ser_L_val__L	Ser Val C8H16N2O4	C8H16N2O4	Cytosol
+shcl	Dihydrosirohydrochlorin C42H40N4O16	C42H40N4O16	Cytosol
+sheme	Siroheme C42H36FeN4O16	no-formula	Cytosol
+skm5p	Shikimate 5-phosphate	C7H8O8P	Cytosol
+skm	Shikimate	C7H9O5	Cytosol
+sl26da	N-Succinyl-LL-2,6-diaminoheptanedioate	C11H16N2O7	Cytosol
+so3	Sulfite	O3S	Cytosol
+so4	Sulfate	O4S	Cytosol AND Extra-organism
+spmd	Spermidine	C7H22N3	Cytosol AND Extra-organism
+sprm	Spermine C10H30N4	C10H30N4	Cytosol
+srb__L	L Sorbose C6H12O6	C6H12O6	Cytosol AND Extra-organism
+srch	Sirohydrochlorin C42H38N4O16	C42H38N4O16	Cytosol
+starch	Starch C12H20O10	C12H20O10	Extra-organism
+stchs	Stachyose C24H42O21	C24H42O21	Cytosol
+strcoa	Stearyl CoA  n C180CoA  C39H66N7O17P3S	C39H66N7O17P3S	Cytosol
+subtilisin	Mature Bacillus subtilis subtilisin C1588H2486N436O518S6	C1588H2486N436O518S6	Extra-organism
+suc6p	Sucrose 6-phosphate	C12H21O14P	Cytosol
+sucbz	O-Succinylbenzoate	C11H8O5	Cytosol
+succ	Succinate	C4H4O4	Cytosol AND Extra-organism
+succoa	Succinyl-CoA	C25H35N7O19P3S	Cytosol
+suchms	O-Succinyl-L-homoserine	C8H12NO6	Cytosol
+sucr	Sucrose C12H22O11	C12H22O11	Cytosol AND Extra-organism
+sucsal	Succinic semialdehyde	C4H5O3	Cytosol
+sula	Sulfoacetate C2H2O5S	C2H2O5S	Cytosol AND Extra-organism
+t12dg_BS	Triglucosyl 1 2 diacylglycerol C5236H9672O2000	C5236H9672O2000	Cytosol
+tag6p__D	D-Tagatose 6-phosphate	C6H11O9P	Cytosol
+tagdp__D	D-Tagatose 1,6-biphosphate	C6H10O12P2	Cytosol
+tagur	D-Tagaturonate	C6H9O7	Cytosol
+tartr__L	L-tartrate	C4H4O6	Cytosol
+tartr__M	Meso Tartaric acid C4H4O6	C4H4O6	Cytosol
+taur	Taurine C2H7NO3S	C2H6NO3S	Cytosol AND Extra-organism
+tcam_BS	Minor teichoic acid  acetylgalactosamine glucose phosphate  n30  C420H750N30O420P30	C420H750N30O420P30	Cytosol
+tcggrpp	Trans trans cis Geranylgeranyl pyrophosphate C20H33O7P2	C20H33O7P2	Cytosol
+td2coa	Trans-Tetradec-2-enoyl-CoA	C35H56N7O17P3S	Cytosol
+tdcoa	Tetradecanoyl-CoA (n-C14:0CoA)	C35H58N7O17P3S	Cytosol
+teich_45_BS	Teichuronic acid  GlcA  GalNac  45 repeating unit  C630H945N45O630P45	C630H945N45O630P45	Cytosol
+thdp	2,3,4,5-Tetrahydrodipicolinate	C7H7NO4	Cytosol
+thf	5,6,7,8-Tetrahydrofolate	C19H21N7O6	Cytosol
+thiog	Thioglycolate C2H3O2S	C2H3O2S	Cytosol AND Extra-organism
+thm	Thiamin	C12H17N4OS	Cytosol
+thmmp	Thiamin monophosphate	C12H16N4O4PS	Cytosol
+thmpp	Thiamine diphosphate	C12H16N4O7P2S	Cytosol
+thr__L	L-Threonine	C4H9NO3	Cytosol AND Extra-organism
+thr_L_gln__L	Thr Gln C9H17N3O5	C9H17N3O5	Cytosol
+thr_L_leu__L	Thr Leu C10H20N2O4	C10H20N2O4	Cytosol
+thr_L_met__L	Thr Met C9H18N2O4S	C9H18N2O4S	Cytosol
+thr_L_phe__L	Thr Phe C13H18N2O4	C13H18N2O4	Cytosol
+thr_L_thr__L	Thr Thr C8H16N2O5	C8H16N2O5	Cytosol
+thym	Thymine C5H6N2O2	C5H6N2O2	Cytosol AND Extra-organism
+thymd	Thymidine C10H14N2O5	C10H14N2O5	Cytosol AND Extra-organism
+tmp	Trimetaphosphate P3O9	P3O9	Cytosol AND Extra-organism
+trans_dd2coa	Trans Dodec 2 enoyl CoA C33H52N7O17P3S	C33H52N7O17P3S	Cytosol
+trdca	Tridecanoate C13H25O2	C13H25O2	Cytosol
+trdcal	Tridecanal C13H26O	C13H26O	Cytosol
+trdox	Oxidized thioredoxin	X	Cytosol
+trdrd	Reduced thioredoxin	XH2	Cytosol
+tre6p	Alpha,alpha'-Trehalose 6-phosphate	C12H21O14P	Cytosol
+tre	Trehalose	C12H22O11	Extra-organism
+trnaglu	TRNA (Glu)	HOX	Cytosol
+trnamet	TRNA(Met)	HOX	Cytosol
+trp__L	L-Tryptophan	C11H12N2O2	Cytosol AND Extra-organism
+tsul	Thiosulfate	O3S2	Cytosol
+ttdca	Tetradecanoate (n-C14:0)	C14H27O2	Cytosol
+ttdcal	Tetradecanal C14H28O	C14H28O	Cytosol
+tyr__L	L-Tyrosine	C9H11NO3	Cytosol AND Extra-organism
+uaagmda	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-ala-D-glu-meso-2,6-diaminopimeloyl-D-ala-D-ala	C95H152N8O28P2	Cytosol
+uaccg	UDP-N-acetyl-3-O-(1-carboxyvinyl)-D-glucosamine	C20H26N3O19P2	Cytosol
+uacgala	UDP N acetyl D galactosamine C17H25N3O17P2	C17H25N3O17P2	Cytosol
+uacgam	UDP-N-acetyl-D-glucosamine	C17H25N3O17P2	Cytosol
+uacmam	UDP-N-acetyl-D-mannosamine	C17H25N3O17P2	Cytosol
+uagmda	Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine	C87H139N7O23P2	Cytosol
+uama	UDP-N-acetylmuramoyl-L-alanine	C23H33N4O20P2	Cytosol
+uamag	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate	C28H39N5O23P2	Cytosol
+uamr	UDP-N-acetylmuramate	C20H28N3O19P2	Cytosol
+udca	Undecanoate C11H21O2	C11H21O2	Cytosol
+udcal	Undecanal C11H22O	C11H22O	Cytosol
+udcpdp	Undecaprenyl diphosphate	C55H89O7P2	Cytosol
+udcpp	Undecaprenyl phosphate	C55H89O4P	Cytosol
+udp	UDP C9H11N2O12P2	C9H11N2O12P2	Cytosol
+udpg	UDPglucose	C15H22N2O17P2	Cytosol
+udpgal	UDPgalactose	C15H22N2O17P2	Cytosol
+udpglcur	UDP-D-glucuronate	C15H19N2O18P2	Cytosol
+ugmd	UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate	C35H51N7O26P2	Cytosol
+ugmda	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine	C41H61N9O28P2	Cytosol
+ump	UMP C9H11N2O9P	C9H11N2O9P	Cytosol AND Extra-organism
+unk2_BS	Unknown 2 C5H17O11NP	C5H17O11NP	Cytosol
+uppg3	Uroporphyrinogen III	C40H36N4O16	Cytosol
+ura	Uracil	C4H4N2O2	Cytosol AND Extra-organism
+urate	Urate C5H4N4O3	C5H4N4O3	Cytosol AND Extra-organism
+urcan	Urocanate C6H5N2O2	C6H5N2O2	Cytosol
+urdglyc	(-)-Ureidoglycolate	C3H5N2O4	Cytosol
+urea	Urea CH4N2O	CH4N2O	Cytosol AND Extra-organism
+uri	Uridine	C9H12N2O6	Cytosol AND Extra-organism
+utp	UTP C9H11N2O15P3	C9H11N2O15P3	Cytosol
+val__L	L-Valine	C5H11NO2	Cytosol AND Extra-organism
+xan	Xanthine	C5H4N4O2	Cytosol AND Extra-organism
+xmp	Xanthosine 5'-phosphate	C10H11N4O9P	Cytosol
+xtsn	Xanthosine	C10H12N4O6	Cytosol AND Extra-organism
+xu5p__D	D-Xylulose 5-phosphate	C5H9O8P	Cytosol
+xyl__D	D-Xylose	C5H10O5	Cytosol AND Extra-organism
+xylu__D	D-Xylulose	C5H10O5	Cytosol
+zn2	Zinc	no-formula	Cytosol AND Extra-organism
+cu		no-formula	Cytosol AND Extra-organism
+cbl1		no-formula	Extra-organism AND Cytosol
