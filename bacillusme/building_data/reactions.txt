@@ -1252,3 +1252,5 @@ COBALTt5	Cobalt(II)_transport_via_diffusion	0	iYO844	1
 ETOHtex	Ethanol_transport_via_diffusion	0	iYO844	1
 EX_cbl1_e		1	iYO844	0
 CBLtex		1	iYO844	0
+ATPt		1	iYO844	0
+

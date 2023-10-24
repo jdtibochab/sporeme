@@ -297,7 +297,8 @@ def solve_me_model(me, max_mu=1., precision=1e-6, min_mu=0, using_soplex=True,
             # Use bisection for now (until the NLP formulation is worked out)
             muopt, hs, xopt, cache = me_nlp.bisectmu(precision=precision, mumax=max_mu, verbosity=verbosity)
             try:
-                me.solution.f = me.solution.x_dict['biomass_dilution']
+                # me.solution.f = me.solution.x_dict['biomass_dilution']
+                assert me.solution.status == "optimal"
             except:
                 pass
 
