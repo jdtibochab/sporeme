@@ -1,0 +1,28 @@
+,reaction,met_flux,percentage
+met__L_s,atp_s + h2o_s + met__L_c --> -4.27350427350427e-6*sigma PORE-CPLX_s + adp_s + h_s + met__L_s + pi_s,0.00048509737247183564,100.0 %
+trp__L_s,h_c + trp__L_c --> -4.27350427350427e-6*sigma PORE-CPLX_s + h_s + trp__L_s,0.00015947163451364514,100.0 %
+glu__L_s,akg_s + h_s + nadh_s + nh4_s --> -4.27350427350427e-6*sigma BSU22960-MONOMER_s + glu__L_s + h2o_s + nad_s,0.00810987214544222,83.93457550816719 %
+ser__L_s,h_c + ser__L_c --> -4.27350427350427e-6*sigma PORE-CPLX_s + h_s + ser__L_s,0.0032057865794111124,100.0 %
+lys__L_s,h_s + lys__L_c --> -4.27350427350427e-6*sigma PORE-CPLX_s + h_c + lys__L_s,0.0018966915533663322,100.0 %
+phe__L_s,glu__L_s + phpyr_s --> -4.27350427350427e-6*sigma BSU09570-MONOMER_s + akg_s + phe__L_s,0.0007093732888843219,100.0 %
+gly_s,gly_c + h_c --> -4.27350427350427e-6*sigma PORE-CPLX_s + gly_s + h_s,0.0014233087303357351,94.76281121891273 %
+leu__L_s,h_c + leu__L_c --> -4.27350427350427e-6*sigma PORE-CPLX_s + h_s + leu__L_s,0.0030955262449944084,100.0 %
+thr__L_s,h_c + thr__L_c --> -4.27350427350427e-6*sigma PORE-CPLX_s + h_s + thr__L_s,0.005227392392202625,100.0 %
+asp__L_s,glu__L_s + oaa_s --> -7.0388844961562e-6*sigma BSU22370-MONOMER_s + akg_s + asp__L_s,0.001355719481413559,100.0 %
+val__L_s,3mob_s + h_s + nadh_s + nh4_s --> -1.25190676006434e-5*sigma BSU24080-MONOMER_s + h2o_s + nad_s + val__L_s,0.0012398214763830245,66.36660223940957 %
+pro__L_s,h_c + pro__L_c --> -4.27350427350427e-6*sigma PORE-CPLX_s + h_s + pro__L_s,0.0006075621544797069,100.0 %
+ala__L_s,glu__L_s + pyr_s --> -1.20003594272506e-5*sigma BSU31400-MONOMER_s + akg_s + ala__L_s,0.004312821102830299,100.0 %
+arg__L_s,arg__L_c + h_c --> -4.27350427350427e-6*sigma PORE-CPLX_s + arg__L_s + h_s,0.0005696249328785458,100.0 %
+asn__L_s,asn__L_c + h_c --> -4.27350427350427e-6*sigma PORE-CPLX_s + asn__L_s + h_s,0.000989625084949251,100.0 %
+ile__L_s,2o3mpt_s + h_s + nadh_s + nh4_s --> -4.27350427350427e-6*sigma BSU24080-MONOMER_s + h2o_s + ile__L_s + nad_s,0.0011972530864879614,100.0 %
+gln__L_s,atp_s + glu__L_s + nh4_s --> -4.27350427350427e-6*sigma CPLX8J2-146_s + adp_s + gln__L_s + h_s + pi_s,0.0008179976416157062,100.0 %
+his__L_s,h_c + his__L_c --> -4.27350427350427e-6*sigma PORE-CPLX_s + h_s + his__L_s,0.00041054725111445777,100.0 %
+tyr__L_s,h_c + tyr__L_c --> -4.27350427350427e-6*sigma PORE-CPLX_s + h_s + tyr__L_s,0.0007040009879583256,100.0 %
+cys__L_s,atp_s + cys__L_c + h2o_s --> -4.27350427350427e-6*sigma PORE-CPLX_s + adp_s + cys__L_s + h_s + pi_s,9.39523818601926e-05,99.47677507569998 %
+abt__L_s,,,
+orn__L_s,,,
+rbl__L_s,,,
+mal__L_s,2.0 h_c + lac__L_s + mal__L_c + na1_s --> -4.27350427350427e-6*sigma PORE-CPLX_s + 2.0 h_s + lac__L_c + mal__L_s + na1_c,0.030126147955126577,100.0 %
+hom__L_s,,,
+lac__L_s,h_s + nadh_s + pyr_s --> -9.97575592480009e-5*sigma BSU03050-MONOMER_s + lac__L_s + nad_s,6.251641153330356,100.0 %
+srb__L_s,,,

@@ -1,0 +1,20 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20231017)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.7942786 Released 2023-01-05
+Analyzed List:	FS_False_MC_True_VG_False.txt (Bacillus subtilis)
+Reference List:	reference.txt (Bacillus subtilis)
+Test Type:	FISHER
+Correction:	FDR
+GO biological process complete	reference.txt - REFLIST (883)	FS_False_MC_True_VG_False.txt (9)	FS_False_MC_True_VG_False.txt (expected)	FS_False_MC_True_VG_False.txt (over/under)	FS_False_MC_True_VG_False.txt (fold Enrichment)	FS_False_MC_True_VG_False.txt (raw P-value)	FS_False_MC_True_VG_False.txt (FDR)
+sporulation resulting in formation of a cellular spore (GO:0030435)	38	9	.39	+	23.24	1.44E-12	2.06E-09
+anatomical structure formation involved in morphogenesis (GO:0048646)	38	9	.39	+	23.24	1.44E-12	1.03E-09
+anatomical structure morphogenesis (GO:0009653)	39	9	.40	+	22.64	1.77E-12	8.46E-10
+anatomical structure development (GO:0048856)	39	9	.40	+	22.64	1.77E-12	6.35E-10
+sporulation (GO:0043934)	40	9	.41	+	22.08	2.17E-12	6.22E-10
+developmental process (GO:0032502)	41	9	.42	+	21.54	2.65E-12	6.32E-10
+metabolic process (GO:0008152)	663	1	6.76	-	.15	1.16E-04	2.08E-02
+cellular process (GO:0009987)	777	1	7.92	-	.13	4.59E-07	9.40E-05

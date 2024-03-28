@@ -1,0 +1,68 @@
+,FS,MC,VG,name,annotation,model
+BSU17380,False,False,True,nrdE,ribonucleoside-diphosphate reductaseribonucleoside-diphosphate reductase (major subunit),S_Nucleotides_and_nucleic_acids
+BSU17390,False,False,True,nrdF,ribonucleoside-diphosphate reductase (minor subunit)ribonucleoside-diphosphate reductase,S_Nucleotides_and_nucleic_acids
+BSU28080,False,False,True,folC,folyl-polyglutamate synthase,S_Coenzymes_and_prosthetic_groups
+BSU27870,False,False,True,nadB,L-aspartate oxidase,S_Coenzymes_and_prosthetic_groups
+BSU27850,False,False,True,nadA,quinolinate synthetase,S_Coenzymes_and_prosthetic_groups
+BSU27860,False,False,True,nadC,nicotinate-nucleotide pyrophosphorylase (quinolinate phosphoribosyltransferase),S_Coenzymes_and_prosthetic_groups
+BSU36920,False,False,True,rpiB,D-ribose 5-phosphate epimerase (promiscuous),S_Carbohydrates_and_related_molecules
+BSU00770,False,False,True,folP,dihydropteroate synthase,S_Coenzymes_and_prosthetic_groups
+BSU00790,False,False,True,folK,"7,8-dihydro-6-hydroxymethylpterin pyrophosphokinase",S_Coenzymes_and_prosthetic_groups
+BSU00760,False,False,True,pabC,4-amino-4-deoxychorismate pyruvate-lyase,S_Coenzymes_and_prosthetic_groups
+BSU00740,False,False,True,pabB,4-amino-4-deoxychorismate synthase4-amino-4-deoxychorismate synthase (para-aminobenzoate synthase),S_Coenzymes_and_prosthetic_groups
+BSU00780,False,False,True,folB,dihydroneopterin aldolase,S_Coenzymes_and_prosthetic_groups
+BSU38490,False,False,True,menA,"1,4-dihydroxy-2-naphthoate octaprenyltransferase",S_Coenzymes_and_prosthetic_groups
+BSU27900,False,False,True,pheA,prephenate dehydratase,S_Amino_acids_and_related_molecules
+BSU00910,False,False,True,ispF,"2-C-methyl-D-erythritol-2,4-cyclodiphosphate synthase",S_Lipids
+BSU00900,False,False,True,ispD,"2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase, nonmevalonate isoprenoid pathway",S_Lipids
+BSU23070,False,False,True,serA,3-phosphoglycerate dehydrogenase,S_Amino_acids_and_related_molecules
+BSU11010,False,False,True,samT,"bifunctional homocysteine S-methyltransferase using (R,S)AdoMet and methylenetetrahydrofolate reductase [NAD(P)H]",S_Coenzymes_and_prosthetic_groups
+BSU03150,False,False,True,aroK,shikimate kinase,S_Amino_acids_and_related_molecules
+BSU00460,False,False,True,ispE,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase,S_Carbohydrates_and_related_molecules
+BSU40420,False,False,True,purA,adenylosuccinate synthetase,S_Nucleotides_and_nucleic_acids
+BSU01780,False,False,True,glmS,L-glutamine-D-fructose-6-phosphate amidotransferase,S_Amino_acids_and_related_molecules
+BSU23080,False,False,True,aroC,3-dehydroquinate dehydratase,S_Amino_acids_and_related_molecules
+BSU23270,False,False,True,ribE,"riboflavin synthase, light enzymelumazine synthase/riboflavin synthase complexriboflavin synthase (alpha subunit)",S_Coenzymes_and_prosthetic_groups
+BSU23280,False,False,True,ribD,fused diaminohydroxyphosphoribosylaminopyrimidine deaminase; 5-amino-6-(5-phosphoribosylamino) uracil reductase,S_Coenzymes_and_prosthetic_groups
+BSU23260,False,False,True,ribBA,"fused 3,4-dihydroxy-2-butanone 4-phosphate synthase and GTP cyclohydrolase II",S_Coenzymes_and_prosthetic_groups
+BSU23250,False,False,True,ribH,"6,7-dimethyl-8-ribityllumazine synthaselumazine synthase/riboflavin synthase complex6,7-dimethyl-8-ribityllumazine synthase, beta subunit",S_Coenzymes_and_prosthetic_groups
+BSU00510,False,False,True,prs,phosphoribosylpyrophosphate synthetase,S_Nucleotides_and_nucleic_acids
+BSU06360,False,False,True,guaA,GMP synthetase,S_Nucleotides_and_nucleic_acids
+BSU37150,False,False,True,pyrG,CTP synthetase,S_Nucleotides_and_nucleic_acids
+BSU13180,False,False,True,metE,cobalamin-independent methionine synthase,S_Amino_acids_and_related_molecules
+BSU15680,False,False,True,gmk,guanylate kinase,S_Nucleotides_and_nucleic_acids
+BSU16550,False,False,True,dxr,1-deoxy-D-xylulose-5-phosphate reductoisomerase,S_Carbohydrates_and_related_molecules
+BSU22700,False,False,True,aroB,3-dehydroquinate synthase,S_Amino_acids_and_related_molecules
+BSU22710,False,False,True,aroF,chorismate synthase,S_Amino_acids_and_related_molecules
+BSU22740,False,False,True,hepT,heptaprenyl diphosphate synthaseheptaprenyl diphosphate synthase component II,S_Coenzymes_and_prosthetic_groups
+BSU22750,False,False,True,menG,demethylmenaquinone methyltransferase,S_Coenzymes_and_prosthetic_groups
+BSU22760,False,False,True,hepS,heptaprenyl diphosphate synthase component Iheptaprenyl diphosphate synthase,S_Coenzymes_and_prosthetic_groups
+BSU22830,False,False,True,gpsA,NADPH-dependent glycerol-3-phosphate dehydrogenase,S_Carbohydrates_and_related_molecules
+BSU22890,False,False,True,cmk,cytidylate kinase,S_Nucleotides_and_nucleic_acids
+BSU24280,False,False,True,ispA,farnesyl diphosphate synthase,S_Lipids
+BSU24270,False,False,True,dxs,1-deoxyxylulose-5-phosphate synthase,S_Carbohydrates_and_related_molecules
+BSU25160,False,False,True,ispH,1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase,S_Lipids
+BSU25660,False,False,True,aroE,shikimate 5-dehydrogenase,S_Amino_acids_and_related_molecules
+BSU15560,False,False,True,pyrE,orotate phosphoribosyltransferase,S_Nucleotides_and_nucleic_acids
+BSU15500,False,False,True,pyrC,dihydroorotase,S_Nucleotides_and_nucleic_acids
+BSU15490,False,False,True,pyrB,aspartate carbamoyltransferase,S_Nucleotides_and_nucleic_acids
+BSU15550,False,False,True,pyrF,orotidine 5'-phosphate decarboxylase,S_Nucleotides_and_nucleic_acids
+BSU15540,False,False,True,pyrD,dihydroorotate dehydrogenase (catalytic subunit)dihydroorotate dehydrogenase,S_Nucleotides_and_nucleic_acids
+BSU15530,False,False,True,pyrK,dihydroorotate dehydrogenase (electron transfer subunit)dihydroorotate dehydrogenase,S_Nucleotides_and_nucleic_acids
+BSU22780,False,False,True,folEA,GTP cyclohydrolase I,S_Coenzymes_and_prosthetic_groups
+BSU29750,False,False,True,aroX,bifunctional chorismate mutase type II-isozyme 3 (regulatory domain); 3-deoxy-D-arabino-heptulosonate 7-phosphate synthase,S_Amino_acids_and_related_molecules
+BSU30790,False,False,True,menE,O-succinylbenzoyl-CoA synthetase,S_Coenzymes_and_prosthetic_groups
+BSU30820,False,False,True,menD,2-oxoglutarate decarboxylase and 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1- carboxylic-acid synthase,S_Coenzymes_and_prosthetic_groups
+BSU30800,False,False,True,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",S_Coenzymes_and_prosthetic_groups
+BSU30780,False,False,True,menC,<i>o</i>-succinylbenzoate synthase,S_Coenzymes_and_prosthetic_groups
+BSU22610,False,False,True,tyrA,prephenate dehydrogenase,S_Amino_acids_and_related_molecules
+BSU22600,False,False,True,aroA,3-phosphoshikimate 1-carboxyvinyltransferase (5-enolpyruvoylshikimate-3-phosphate synthase),S_Amino_acids_and_related_molecules
+BSU28270,False,False,True,leuB,3-isopropylmalate dehydrogenase,S_Amino_acids_and_related_molecules
+BSU28250,False,False,True,leuD,3-isopropylmalate dehydratase (small subunit)isopropylmalate dehydratase,S_Amino_acids_and_related_molecules
+BSU28280,False,False,True,leuA,2-isopropylmalate synthase,S_Amino_acids_and_related_molecules
+BSU28260,False,False,True,leuC,3-isopropylmalate dehydratase (large subunit)isopropylmalate dehydratase,S_Amino_acids_and_related_molecules
+BSU17890,False,False,True,tktA,transketolase,S_Carbohydrates_and_related_molecules
+BSU25070,False,False,True,ispG,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase),S_Lipids
+BSU01370,False,False,True,adk,adenylate kinase,S_Nucleotides_and_nucleic_acids
+BSU10020,False,False,True,serC,phosphoserine aminotransferase,S_Amino_acids_and_related_molecules
+BSU36510,,False,True,amtB,ammonium transporter,S_Transport

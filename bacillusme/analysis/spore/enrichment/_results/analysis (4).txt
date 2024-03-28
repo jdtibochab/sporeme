@@ -1,0 +1,1444 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20231017)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.7942786 Released 2023-01-05
+Analyzed List:	FS_True_MC_False_VG_False.txt (Bacillus subtilis)
+Reference List:	reference.txt (Bacillus subtilis)
+Test Type:	FISHER
+Correction:	FDR
+GO biological process complete	reference.txt - REFLIST (883)	FS_True_MC_False_VG_False.txt (2)	FS_True_MC_False_VG_False.txt (expected)	FS_True_MC_False_VG_False.txt (over/under)	FS_True_MC_False_VG_False.txt (fold Enrichment)	FS_True_MC_False_VG_False.txt (raw P-value)	FS_True_MC_False_VG_False.txt (FDR)
+DNA-templated transcription initiation (GO:0006352)	14	1	.03	+	31.54	3.36E-02	1.00E00
+regulation of DNA-templated transcription initiation (GO:2000142)	14	1	.03	+	31.54	3.36E-02	1.00E00
+sporulation resulting in formation of a cellular spore (GO:0030435)	38	2	.09	+	23.24	1.99E-03	1.00E00
+anatomical structure formation involved in morphogenesis (GO:0048646)	38	2	.09	+	23.24	1.99E-03	1.00E00
+anatomical structure morphogenesis (GO:0009653)	39	2	.09	+	22.64	2.10E-03	1.00E00
+anatomical structure development (GO:0048856)	39	2	.09	+	22.64	2.10E-03	7.50E-01
+sporulation (GO:0043934)	40	2	.09	+	22.07	2.20E-03	6.30E-01
+developmental process (GO:0032502)	41	2	.09	+	21.54	2.31E-03	5.51E-01
+regulation of DNA-templated transcription (GO:0006355)	23	1	.05	+	19.20	5.35E-02	1.00E00
+DNA-templated transcription (GO:0006351)	23	1	.05	+	19.20	5.35E-02	1.00E00
+RNA biosynthetic process (GO:0032774)	23	1	.05	+	19.20	5.35E-02	1.00E00
+regulation of RNA biosynthetic process (GO:2001141)	23	1	.05	+	19.20	5.35E-02	1.00E00
+regulation of RNA metabolic process (GO:0051252)	24	1	.05	+	18.40	5.57E-02	1.00E00
+regulation of nucleobase-containing compound metabolic process (GO:0019219)	25	1	.06	+	17.66	5.79E-02	1.00E00
+regulation of macromolecule biosynthetic process (GO:0010556)	25	1	.06	+	17.66	5.79E-02	1.00E00
+regulation of biosynthetic process (GO:0009889)	25	1	.06	+	17.66	5.79E-02	1.00E00
+regulation of cellular biosynthetic process (GO:0031326)	25	1	.06	+	17.66	5.79E-02	1.00E00
+regulation of nitrogen compound metabolic process (GO:0051171)	27	1	.06	+	16.35	6.23E-02	1.00E00
+regulation of primary metabolic process (GO:0080090)	27	1	.06	+	16.35	6.23E-02	1.00E00
+regulation of cellular metabolic process (GO:0031323)	27	1	.06	+	16.35	6.23E-02	1.00E00
+regulation of gene expression (GO:0010468)	30	1	.07	+	14.72	6.89E-02	1.00E00
+regulation of metabolic process (GO:0019222)	31	1	.07	+	14.24	7.10E-02	1.00E00
+regulation of macromolecule metabolic process (GO:0060255)	31	1	.07	+	14.24	7.10E-02	1.00E00
+regulation of cellular process (GO:0050794)	31	1	.07	+	14.24	7.10E-02	1.00E00
+regulation of biological process (GO:0050789)	51	1	.12	+	8.66	1.14E-01	1.00E00
+biological regulation (GO:0065007)	58	1	.13	+	7.61	1.29E-01	1.00E00
+RNA metabolic process (GO:0016070)	63	1	.14	+	7.01	1.39E-01	1.00E00
+nucleic acid metabolic process (GO:0090304)	69	1	.16	+	6.40	1.52E-01	1.00E00
+nucleobase-containing compound biosynthetic process (GO:0034654)	105	1	.24	+	4.20	2.25E-01	1.00E00
+macromolecule biosynthetic process (GO:0009059)	148	1	.34	+	2.98	3.09E-01	1.00E00
+aromatic compound biosynthetic process (GO:0019438)	156	1	.35	+	2.83	3.23E-01	1.00E00
+heterocycle biosynthetic process (GO:0018130)	161	1	.36	+	2.74	3.33E-01	1.00E00
+organic cyclic compound biosynthetic process (GO:1901362)	173	1	.39	+	2.55	3.55E-01	1.00E00
+nucleobase-containing compound metabolic process (GO:0006139)	178	1	.40	+	2.48	3.64E-01	1.00E00
+macromolecule metabolic process (GO:0043170)	188	1	.43	+	2.35	3.82E-01	1.00E00
+cellular aromatic compound metabolic process (GO:0006725)	231	1	.52	+	1.91	4.56E-01	1.00E00
+heterocycle metabolic process (GO:0046483)	236	1	.53	+	1.87	4.64E-01	1.00E00
+organic cyclic compound metabolic process (GO:1901360)	249	1	.56	+	1.77	4.85E-01	1.00E00
+cellular nitrogen compound biosynthetic process (GO:0044271)	260	1	.59	+	1.70	5.03E-01	1.00E00
+cellular nitrogen compound metabolic process (GO:0034641)	309	1	.70	+	1.43	1.00E00	1.00E00
+cellular biosynthetic process (GO:0044249)	406	1	.92	+	1.09	1.00E00	1.00E00
+biological_process (GO:0008150)	841	2	1.90	+	1.05	1.00E00	1.00E00
+organic substance biosynthetic process (GO:1901576)	435	1	.99	+	1.01	1.00E00	1.00E00
+biosynthetic process (GO:0009058)	441	1	1.00	+	1.00	1.00E00	1.00E00
+nitrogen compound metabolic process (GO:0006807)	453	1	1.03	-	.97	1.00E00	1.00E00
+primary metabolic process (GO:0044238)	497	1	1.13	-	.89	1.00E00	1.00E00
+cellular metabolic process (GO:0044237)	609	1	1.38	-	.72	5.25E-01	1.00E00
+organic substance metabolic process (GO:0071704)	614	1	1.39	-	.72	5.17E-01	1.00E00
+metabolic process (GO:0008152)	663	1	1.50	-	.67	4.37E-01	1.00E00
+cellular process (GO:0009987)	777	1	1.76	-	.57	2.27E-01	1.00E00
+tRNA wobble adenosine to inosine editing (GO:0002100)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+prosthetic group metabolic process (GO:0051189)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+ribonucleoside triphosphate metabolic process (GO:0009199)	13	0	.03	-	 < 0.01	1.00E00	1.00E00
+pyrimidine deoxyribonucleoside diphosphate biosynthetic process (GO:0009197)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+pyrimidine deoxyribonucleoside diphosphate metabolic process (GO:0009196)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+cellular response to organic substance (GO:0071310)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+pyrimidine ribonucleoside diphosphate biosynthetic process (GO:0009194)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+pyrimidine ribonucleoside diphosphate metabolic process (GO:0009193)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+vitamin transport (GO:0051180)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+regulation of nitrogen utilization (GO:0006808)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+calcium ion transmembrane transport (GO:0070588)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+xenobiotic metabolic process (GO:0006805)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+superoxide metabolic process (GO:0006801)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+localization (GO:0051179)	202	0	.46	-	 < 0.01	1.00E00	1.00E00
+deoxyribonucleoside diphosphate biosynthetic process (GO:0009189)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+ribonucleoside diphosphate biosynthetic process (GO:0009188)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+peptidyl-pyrromethane cofactor linkage (GO:0018160)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+deoxyribonucleoside diphosphate metabolic process (GO:0009186)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+ribonucleoside diphosphate metabolic process (GO:0009185)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+positive regulation of nitrogen compound metabolic process (GO:0051173)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+negative regulation of nitrogen compound metabolic process (GO:0051172)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+cell redox homeostasis (GO:0045454)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+cadmium ion transmembrane transport (GO:0070574)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+polysaccharide catabolic process (GO:0000272)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+polysaccharide biosynthetic process (GO:0000271)	9	0	.02	-	 < 0.01	1.00E00	1.00E00
+methylglyoxal biosynthetic process (GO:0019242)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+peptidoglycan metabolic process (GO:0000270)	19	0	.04	-	 < 0.01	1.00E00	1.00E00
+aminoacyl-tRNA metabolism involved in translational fidelity (GO:0106074)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+citrulline biosynthetic process (GO:0019240)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+thioester biosynthetic process (GO:0035384)	9	0	.02	-	 < 0.01	1.00E00	1.00E00
+thioester metabolic process (GO:0035383)	12	0	.03	-	 < 0.01	1.00E00	1.00E00
+purine ribonucleoside diphosphate metabolic process (GO:0009179)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+xylulose 5-phosphate metabolic process (GO:0051167)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+pyrimidine deoxyribonucleoside monophosphate biosynthetic process (GO:0009177)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+pyrimidine deoxyribonucleoside monophosphate metabolic process (GO:0009176)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+pyrimidine ribonucleoside monophosphate biosynthetic process (GO:0009174)	12	0	.03	-	 < 0.01	1.00E00	1.00E00
+pyrimidine ribonucleoside monophosphate metabolic process (GO:0009173)	12	0	.03	-	 < 0.01	1.00E00	1.00E00
+purine deoxyribonucleoside monophosphate biosynthetic process (GO:0009171)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+purine deoxyribonucleoside monophosphate metabolic process (GO:0009170)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+ketone catabolic process (GO:0042182)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+ketone biosynthetic process (GO:0042181)	12	0	.03	-	 < 0.01	1.00E00	1.00E00
+cellular ketone metabolic process (GO:0042180)	16	0	.04	-	 < 0.01	1.00E00	1.00E00
+clearance of foreign intracellular DNA (GO:0044355)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+mannitol metabolic process (GO:0019594)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+mannitol catabolic process (GO:0019592)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+purine ribonucleoside monophosphate biosynthetic process (GO:0009168)	20	0	.05	-	 < 0.01	1.00E00	1.00E00
+purine ribonucleoside monophosphate metabolic process (GO:0009167)	21	0	.05	-	 < 0.01	1.00E00	1.00E00
+glucose 6-phosphate metabolic process (GO:0051156)	8	0	.02	-	 < 0.01	1.00E00	1.00E00
+nucleotide catabolic process (GO:0009166)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+cellular oxidant detoxification (GO:0098869)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+nucleotide biosynthetic process (GO:0009165)	73	0	.17	-	 < 0.01	1.00E00	1.00E00
+nucleoside catabolic process (GO:0009164)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+nucleoside biosynthetic process (GO:0009163)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+deoxyribonucleoside monophosphate metabolic process (GO:0009162)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+xenobiotic catabolic process (GO:0042178)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+ribonucleoside monophosphate metabolic process (GO:0009161)	35	0	.08	-	 < 0.01	1.00E00	1.00E00
+positive regulation of transcription regulatory region DNA binding (GO:2000679)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+negative regulation of transcription regulatory region DNA binding (GO:2000678)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+allantoin metabolic process (GO:0000255)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+regulation of transcription regulatory region DNA binding (GO:2000677)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+galacturonate metabolic process (GO:0019586)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+glucuronate metabolic process (GO:0019585)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+sodium-dependent phosphate transport (GO:0044341)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+galactarate metabolic process (GO:0019580)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+quinolinate metabolic process (GO:0046874)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+deoxyribonucleoside monophosphate biosynthetic process (GO:0009157)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+ribonucleoside monophosphate biosynthetic process (GO:0009156)	34	0	.08	-	 < 0.01	1.00E00	1.00E00
+purine deoxyribonucleotide biosynthetic process (GO:0009153)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+purine ribonucleotide biosynthetic process (GO:0009152)	43	0	.10	-	 < 0.01	1.00E00	1.00E00
+heme metabolic process (GO:0042168)	13	0	.03	-	 < 0.01	1.00E00	1.00E00
+purine deoxyribonucleotide metabolic process (GO:0009151)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+purine ribonucleotide metabolic process (GO:0009150)	47	0	.11	-	 < 0.01	1.00E00	1.00E00
+aldaric acid catabolic process (GO:0019579)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+aldaric acid metabolic process (GO:0019577)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+L-arabinose catabolic process (GO:0019572)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+respiratory electron transport chain (GO:0022904)	13	0	.03	-	 < 0.01	1.00E00	1.00E00
+electron transport chain (GO:0022900)	18	0	.04	-	 < 0.01	1.00E00	1.00E00
+regulation of protein-containing complex disassembly (GO:0043244)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+uroporphyrinogen III metabolic process (GO:0046502)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+pyrimidine nucleoside triphosphate biosynthetic process (GO:0009148)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+protoporphyrinogen IX metabolic process (GO:0046501)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+pyrimidine nucleoside triphosphate metabolic process (GO:0009147)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+negative regulation of protein-containing complex disassembly (GO:0043242)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+S-adenosylmethionine metabolic process (GO:0046500)	8	0	.02	-	 < 0.01	1.00E00	1.00E00
+purine nucleoside triphosphate biosynthetic process (GO:0009145)	10	0	.02	-	 < 0.01	1.00E00	1.00E00
+purine nucleoside triphosphate metabolic process (GO:0009144)	10	0	.02	-	 < 0.01	1.00E00	1.00E00
+protein import (GO:0017038)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+nucleoside triphosphate biosynthetic process (GO:0009142)	15	0	.03	-	 < 0.01	1.00E00	1.00E00
+nucleoside triphosphate metabolic process (GO:0009141)	15	0	.03	-	 < 0.01	1.00E00	1.00E00
+tRNA 5'-leader removal (GO:0001682)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+L-arabinose catabolic process to xylulose 5-phosphate (GO:0019569)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+arabinose catabolic process (GO:0019568)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+arabinose metabolic process (GO:0019566)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+glycerol catabolic process (GO:0019563)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+negative regulation of cellular component organization (GO:0051129)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+pyrimidine nucleoside diphosphate biosynthetic process (GO:0009139)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+acyl-CoA biosynthetic process (GO:0071616)	9	0	.02	-	 < 0.01	1.00E00	1.00E00
+bacterial-type flagellum-dependent swarming motility (GO:0071978)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+phosphatidylinositol phosphate biosynthetic process (GO:0046854)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+regulation of cellular component organization (GO:0051128)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+pyrimidine nucleoside diphosphate metabolic process (GO:0009138)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+purine nucleoside diphosphate metabolic process (GO:0009135)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+bacterial-type flagellum-dependent cell motility (GO:0071973)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+long-chain fatty acid metabolic process (GO:0001676)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+nucleoside diphosphate biosynthetic process (GO:0009133)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway involved in terpenoid biosynthetic process (GO:0051484)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+nucleoside diphosphate metabolic process (GO:0009132)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+terpenoid biosynthetic process, mevalonate-independent (GO:0051483)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+pyrimidine nucleoside monophosphate biosynthetic process (GO:0009130)	13	0	.03	-	 < 0.01	1.00E00	1.00E00
+cellular response to chemical stimulus (GO:0070887)	13	0	.03	-	 < 0.01	1.00E00	1.00E00
+histidine catabolic process to glutamate and formate (GO:0019557)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+histidine catabolic process to glutamate and formamide (GO:0019556)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+purine ribonucleotide salvage (GO:0106380)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+pyrimidine nucleoside monophosphate metabolic process (GO:0009129)	13	0	.03	-	 < 0.01	1.00E00	1.00E00
+purine nucleoside monophosphate biosynthetic process (GO:0009127)	21	0	.05	-	 < 0.01	1.00E00	1.00E00
+purine nucleoside monophosphate metabolic process (GO:0009126)	22	0	.05	-	 < 0.01	1.00E00	1.00E00
+negative regulation of amide metabolic process (GO:0034249)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+regulation of amide metabolic process (GO:0034248)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+nucleoside monophosphate biosynthetic process (GO:0009124)	38	0	.09	-	 < 0.01	1.00E00	1.00E00
+nucleoside monophosphate metabolic process (GO:0009123)	42	0	.10	-	 < 0.01	1.00E00	1.00E00
+deoxyribonucleoside metabolic process (GO:0009120)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+export across plasma membrane (GO:0140115)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+tRNA processing (GO:0008033)	8	0	.02	-	 < 0.01	1.00E00	1.00E00
+arginine catabolic process to ornithine (GO:0019547)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+propionate catabolic process (GO:0019543)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+propionate metabolic process (GO:0019541)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+carbohydrate phosphorylation (GO:0046835)	9	0	.02	-	 < 0.01	1.00E00	1.00E00
+ribonucleoside metabolic process (GO:0009119)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+nucleotide metabolic process (GO:0009117)	87	0	.20	-	 < 0.01	1.00E00	1.00E00
+nucleoside metabolic process (GO:0009116)	11	0	.02	-	 < 0.01	1.00E00	1.00E00
+hypoxanthine catabolic process (GO:0009114)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+cellular response to oxidative stress (GO:0034599)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+purine nucleobase biosynthetic process (GO:0009113)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+nucleobase metabolic process (GO:0009112)	25	0	.06	-	 < 0.01	1.00E00	1.00E00
+conversion of methionyl-tRNA to N-formyl-methionyl-tRNA (GO:0071951)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+nitrate assimilation (GO:0042128)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+regulation of DNA binding (GO:0051101)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+vitamin catabolic process (GO:0009111)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+regulation of cell population proliferation (GO:0042127)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+negative regulation of binding (GO:0051100)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+vitamin biosynthetic process (GO:0009110)	37	0	.08	-	 < 0.01	1.00E00	1.00E00
+nitrate metabolic process (GO:0042126)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+antibiotic catabolic process (GO:0017001)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+antibiotic biosynthetic process (GO:0017000)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+protein metabolic process (GO:0019538)	93	0	.21	-	 < 0.01	1.00E00	1.00E00
+negative regulation of gene expression (GO:0010629)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+positive regulation of gene expression (GO:0010628)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+response to external biotic stimulus (GO:0043207)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+ethanolamine transport (GO:0034229)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+cellular response to nitrogen levels (GO:0043562)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+lipopolysaccharide biosynthetic process (GO:0009103)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+biotin biosynthetic process (GO:0009102)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+nitrogen cycle metabolic process (GO:0071941)	11	0	.02	-	 < 0.01	1.00E00	1.00E00
+regulation of intracellular pH (GO:0051453)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+glycoprotein biosynthetic process (GO:0009101)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+glycoprotein metabolic process (GO:0009100)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+monoatomic ion transmembrane transport (GO:0034220)	58	0	.13	-	 < 0.01	1.00E00	1.00E00
+galactose catabolic process via UDP-galactose (GO:0033499)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+D-gluconate metabolic process (GO:0019521)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+aldonic acid metabolic process (GO:0019520)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+cardiolipin biosynthetic process (GO:0032049)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+selenocysteine biosynthetic process (GO:0016260)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+cardiolipin metabolic process (GO:0032048)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+carbohydrate transmembrane transport (GO:0034219)	29	0	.07	-	 < 0.01	1.00E00	1.00E00
+quinolinate catabolic process (GO:0034213)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+RNA modification (GO:0009451)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+gamma-aminobutyric acid catabolic process (GO:0009450)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+L-threonine catabolic process to glycine (GO:0019518)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+selenocysteine metabolic process (GO:0016259)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+lysine biosynthetic process via aminoadipic acid (GO:0019878)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+diaminopimelate biosynthetic process (GO:0019877)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+regulation of cell shape (GO:0008360)	13	0	.03	-	 < 0.01	1.00E00	1.00E00
+post-transcriptional regulation of gene expression (GO:0010608)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+negative regulation of macromolecule metabolic process (GO:0010605)	9	0	.02	-	 < 0.01	1.00E00	1.00E00
+positive regulation of macromolecule metabolic process (GO:0010604)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+molybdopterin cofactor metabolic process (GO:0043545)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+gamma-aminobutyric acid metabolic process (GO:0009448)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+'de novo' IMP biosynthetic process (GO:0006189)	13	0	.03	-	 < 0.01	1.00E00	1.00E00
+IMP biosynthetic process (GO:0006188)	14	0	.03	-	 < 0.01	1.00E00	1.00E00
+putrescine biosynthetic process (GO:0009446)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+putrescine metabolic process (GO:0009445)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+signaling (GO:0023052)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+GTP biosynthetic process (GO:0006183)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+ribonucleoside biosynthetic process (GO:0042455)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+ribonucleoside catabolic process (GO:0042454)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+organelle disassembly (GO:1903008)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+L-methionine salvage from methylthioadenosine (GO:0019509)	8	0	.02	-	 < 0.01	1.00E00	1.00E00
+purine nucleoside biosynthetic process (GO:0042451)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+arginine biosynthetic process via ornithine (GO:0042450)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+uracil metabolic process (GO:0019860)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+methylglyoxal metabolic process (GO:0009438)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+guanine salvage (GO:0006178)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+GMP biosynthetic process (GO:0006177)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+NAD biosynthetic process (GO:0009435)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+positive regulation of cell division (GO:0051781)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+dAMP biosynthetic process (GO:0006170)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+thymine metabolic process (GO:0019859)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+pigment metabolic process (GO:0042440)	13	0	.03	-	 < 0.01	1.00E00	1.00E00
+pyrimidine nucleobase biosynthetic process (GO:0019856)	8	0	.02	-	 < 0.01	1.00E00	1.00E00
+tetrahydrofolate interconversion (GO:0035999)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+1-deoxy-D-xylulose 5-phosphate biosynthetic process (GO:0052865)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+1-deoxy-D-xylulose 5-phosphate metabolic process (GO:0052863)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+adenine salvage (GO:0006168)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+AMP biosynthetic process (GO:0006167)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+purine ribonucleoside salvage (GO:0006166)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+positive regulation of core promoter binding (GO:1904798)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+chorismate biosynthetic process (GO:0009423)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+negative regulation of core promoter binding (GO:1904797)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+purine nucleotide biosynthetic process (GO:0006164)	53	0	.12	-	 < 0.01	1.00E00	1.00E00
+regulation of core promoter binding (GO:1904796)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+purine nucleotide metabolic process (GO:0006163)	64	0	.14	-	 < 0.01	1.00E00	1.00E00
+indole-containing compound biosynthetic process (GO:0042435)	9	0	.02	-	 < 0.01	1.00E00	1.00E00
+hydrogen sulfide biosynthetic process (GO:0070814)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+hydrogen sulfide metabolic process (GO:0070813)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+indole-containing compound metabolic process (GO:0042430)	9	0	.02	-	 < 0.01	1.00E00	1.00E00
+iron-sulfur cluster assembly (GO:0016226)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+purine nucleoside catabolic process (GO:0006152)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+response to xenobiotic stimulus (GO:0009410)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+tRNA 3'-end processing (GO:0042780)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+response to cold (GO:0009409)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+response to heat (GO:0009408)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+xylulose 5-phosphate biosynthetic process (GO:1901159)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+adenine catabolic process (GO:0006146)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+purine nucleobase catabolic process (GO:0006145)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+purine nucleobase metabolic process (GO:0006144)	15	0	.03	-	 < 0.01	1.00E00	1.00E00
+phosphoenolpyruvate-dependent sugar phosphotransferase system (GO:0009401)	23	0	.05	-	 < 0.01	1.00E00	1.00E00
+proton motive force-driven plasma membrane ATP synthesis (GO:0042777)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+homocysteine metabolic process (GO:0050667)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+ATP synthesis coupled electron transport (GO:0042773)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+regulation of DNA-templated DNA replication initiation (GO:0030174)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+response to nutrient (GO:0007584)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+cellular biogenic amine catabolic process (GO:0042402)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+biogenic amine biosynthetic process (GO:0042401)	14	0	.03	-	 < 0.01	1.00E00	1.00E00
+base conversion or substitution editing (GO:0016553)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+erythrose 4-phosphate/phosphoenolpyruvate family amino acid biosynthetic process (GO:1902223)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+erythrose 4-phosphate/phosphoenolpyruvate family amino acid metabolic process (GO:1902221)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+protein N-linked glycosylation (GO:0006487)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+carbohydrate derivative biosynthetic process (GO:1901137)	106	0	.24	-	 < 0.01	1.00E00	1.00E00
+protein glycosylation (GO:0006486)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+carbohydrate derivative catabolic process (GO:1901136)	15	0	.03	-	 < 0.01	1.00E00	1.00E00
+carbohydrate derivative metabolic process (GO:1901135)	144	0	.33	-	 < 0.01	1.00E00	1.00E00
+pyrimidine-containing compound salvage (GO:0008655)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+phospholipid biosynthetic process (GO:0008654)	21	0	.05	-	 < 0.01	1.00E00	1.00E00
+lipopolysaccharide metabolic process (GO:0008653)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+quinolinate biosynthetic process (GO:0019805)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+amino acid biosynthetic process (GO:0008652)	107	0	.24	-	 < 0.01	1.00E00	1.00E00
+molybdopterin cofactor biosynthetic process (GO:0032324)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+oxidative phosphorylation (GO:0006119)	11	0	.02	-	 < 0.01	1.00E00	1.00E00
+heme O biosynthetic process (GO:0048034)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+heme O metabolic process (GO:0048033)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+fermentation (GO:0006113)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+energy reserve metabolic process (GO:0006112)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+hydrogen peroxide catabolic process (GO:0042744)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+hydrogen peroxide metabolic process (GO:0042743)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+hexose transmembrane transport (GO:0008645)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+carbohydrate transport (GO:0008643)	37	0	.08	-	 < 0.01	1.00E00	1.00E00
+dimethylallyl diphosphate metabolic process (GO:0050993)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+dimethylallyl diphosphate biosynthetic process (GO:0050992)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+malate metabolic process (GO:0006108)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+cellular response to stimulus (GO:0051716)	22	0	.05	-	 < 0.01	1.00E00	1.00E00
+fumarate metabolic process (GO:0006106)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+succinyl-CoA metabolic process (GO:0006104)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+citrate metabolic process (GO:0006101)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+arabinan catabolic process (GO:0031222)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+arabinan metabolic process (GO:0031221)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+D-xylose metabolic process (GO:0042732)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+fatty acid elongation (GO:0030497)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+maturation of SSU-rRNA (GO:0030490)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+mannitol transmembrane transport (GO:0015797)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+response to endogenous stimulus (GO:0009719)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+response to other organism (GO:0051707)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+glycerol-3-phosphate transmembrane transport (GO:0015794)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+'de novo' protein folding (GO:0006458)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+glycerol transmembrane transport (GO:0015793)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+protein folding (GO:0006457)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+polyol transmembrane transport (GO:0015791)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+catechol-containing compound biosynthetic process (GO:0009713)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+catechol-containing compound metabolic process (GO:0009712)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+flavin-containing compound biosynthetic process (GO:0042727)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+flavin-containing compound metabolic process (GO:0042726)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+regulation of translational fidelity (GO:0006450)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+thiamine-containing compound biosynthetic process (GO:0042724)	10	0	.02	-	 < 0.01	1.00E00	1.00E00
+thiamine-containing compound metabolic process (GO:0042723)	10	0	.02	-	 < 0.01	1.00E00	1.00E00
+tRNA methylation (GO:0030488)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+transcription antitermination (GO:0031564)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+queuosine biosynthetic process (GO:0008616)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+pyridoxine biosynthetic process (GO:0008615)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+pyridoxine metabolic process (GO:0008614)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+tRNA wobble base modification (GO:0002097)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+phenol-containing compound biosynthetic process (GO:0046189)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+lipid biosynthetic process (GO:0008610)	42	0	.10	-	 < 0.01	1.00E00	1.00E00
+aldehyde biosynthetic process (GO:0046184)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+teichoic acid transport (GO:0015777)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+polysaccharide transport (GO:0015774)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+valyl-tRNA aminoacylation (GO:0006438)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+oligosaccharide transport (GO:0015772)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+tryptophanyl-tRNA aminoacylation (GO:0006436)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+trehalose transport (GO:0015771)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+threonyl-tRNA aminoacylation (GO:0006435)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+seryl-tRNA aminoacylation (GO:0006434)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+phosphate-containing compound metabolic process (GO:0006796)	177	0	.40	-	 < 0.01	1.00E00	1.00E00
+prolyl-tRNA aminoacylation (GO:0006433)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+phenylalanyl-tRNA aminoacylation (GO:0006432)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+methionyl-tRNA aminoacylation (GO:0006431)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+phosphorus metabolic process (GO:0006793)	182	0	.41	-	 < 0.01	1.00E00	1.00E00
+regulation of termination of DNA-templated transcription (GO:0031554)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+lysyl-tRNA aminoacylation (GO:0006430)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+flavin adenine dinucleotide biosynthetic process (GO:0072388)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+sulfur compound metabolic process (GO:0006790)	58	0	.13	-	 < 0.01	1.00E00	1.00E00
+flavin adenine dinucleotide metabolic process (GO:0072387)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+D-gluconate catabolic process (GO:0046177)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+aldonic acid catabolic process (GO:0046176)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+polyol catabolic process (GO:0046174)	11	0	.02	-	 < 0.01	1.00E00	1.00E00
+maltose transport (GO:0015768)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+reactive nitrogen species metabolic process (GO:2001057)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+disaccharide transport (GO:0015766)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+leucyl-tRNA aminoacylation (GO:0006429)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+N-acetylglucosamine transport (GO:0015764)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+isoleucyl-tRNA aminoacylation (GO:0006428)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+histidyl-tRNA aminoacylation (GO:0006427)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+glycyl-tRNA aminoacylation (GO:0006426)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+glucose-6-phosphate transport (GO:0015760)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+cysteinyl-tRNA aminoacylation (GO:0006423)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+aspartyl-tRNA aminoacylation (GO:0006422)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+heme A biosynthetic process (GO:0006784)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+asparaginyl-tRNA aminoacylation (GO:0006421)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+heme biosynthetic process (GO:0006783)	13	0	.03	-	 < 0.01	1.00E00	1.00E00
+arginyl-tRNA aminoacylation (GO:0006420)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+protoporphyrinogen IX biosynthetic process (GO:0006782)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+uroporphyrinogen III biosynthetic process (GO:0006780)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+glycerol-3-phosphate catabolic process (GO:0046168)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+glycerol-3-phosphate biosynthetic process (GO:0046167)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+glyceraldehyde-3-phosphate biosynthetic process (GO:0046166)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+alcohol biosynthetic process (GO:0046165)	13	0	.03	-	 < 0.01	1.00E00	1.00E00
+alcohol catabolic process (GO:0046164)	15	0	.03	-	 < 0.01	1.00E00	1.00E00
+regulation of DNA-templated DNA replication (GO:0090329)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+heme a metabolic process (GO:0046160)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+cellular response to iron ion (GO:0071281)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+fructose transmembrane transport (GO:0015755)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+protein-containing complex disassembly (GO:0032984)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+alanyl-tRNA aminoacylation (GO:0006419)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+tRNA aminoacylation for protein translation (GO:0006418)	19	0	.04	-	 < 0.01	1.00E00	1.00E00
+regulation of translation (GO:0006417)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+porphyrin-containing compound biosynthetic process (GO:0006779)	13	0	.03	-	 < 0.01	1.00E00	1.00E00
+D-ribose transmembrane transport (GO:0015752)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+porphyrin-containing compound metabolic process (GO:0006778)	13	0	.03	-	 < 0.01	1.00E00	1.00E00
+translational termination (GO:0006415)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+Mo-molybdopterin cofactor biosynthetic process (GO:0006777)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+pentose transmembrane transport (GO:0015750)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+translational elongation (GO:0006414)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+translational initiation (GO:0006413)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+fat-soluble vitamin metabolic process (GO:0006775)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+translation (GO:0006412)	84	0	.19	-	 < 0.01	1.00E00	1.00E00
+thiamine metabolic process (GO:0006772)	10	0	.02	-	 < 0.01	1.00E00	1.00E00
+riboflavin metabolic process (GO:0006771)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+L-glutamate biosynthetic process (GO:0097054)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+inorganic ion import across plasma membrane (GO:0099587)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+siroheme metabolic process (GO:0046156)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+monosaccharide transmembrane transport (GO:0015749)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+organophosphate ester transport (GO:0015748)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+citrate transport (GO:0015746)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+succinate transport (GO:0015744)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+malate transport (GO:0015743)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+fumarate transport (GO:0015741)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+biotin metabolic process (GO:0006768)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+C4-dicarboxylate transport (GO:0015740)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+water-soluble vitamin metabolic process (GO:0006767)	39	0	.09	-	 < 0.01	1.00E00	1.00E00
+D-serine catabolic process (GO:0036088)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+vitamin metabolic process (GO:0006766)	40	0	.09	-	 < 0.01	1.00E00	1.00E00
+mRNA catabolic process (GO:0006402)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+RNA catabolic process (GO:0006401)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+tRNA modification (GO:0006400)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+L-proline biosynthetic process (GO:0055129)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+dihydrofolate biosynthetic process (GO:0006761)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+folic acid-containing compound metabolic process (GO:0006760)	9	0	.02	-	 < 0.01	1.00E00	1.00E00
+tricarboxylic acid metabolic process (GO:0072350)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+pigment biosynthetic process (GO:0046148)	13	0	.03	-	 < 0.01	1.00E00	1.00E00
+L-methionine salvage (GO:0071267)	8	0	.02	-	 < 0.01	1.00E00	1.00E00
+'de novo' L-methionine biosynthetic process (GO:0071266)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+L-methionine biosynthetic process (GO:0071265)	11	0	.02	-	 < 0.01	1.00E00	1.00E00
+nucleic acid phosphodiester bond hydrolysis (GO:0090305)	9	0	.02	-	 < 0.01	1.00E00	1.00E00
+D-serine metabolic process (GO:0070178)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+ATP biosynthetic process (GO:0006754)	8	0	.02	-	 < 0.01	1.00E00	1.00E00
+nucleoside phosphate metabolic process (GO:0006753)	90	0	.20	-	 < 0.01	1.00E00	1.00E00
+sulfur compound transport (GO:0072348)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+glutathione catabolic process (GO:0006751)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+glutathione biosynthetic process (GO:0006750)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+lactam catabolic process (GO:0072340)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+pyrimidine nucleoside catabolic process (GO:0046135)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+nicotinamide nucleotide metabolic process (GO:0046496)	13	0	.03	-	 < 0.01	1.00E00	1.00E00
+establishment of competence for transformation (GO:0030420)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+pyrimidine ribonucleoside catabolic process (GO:0046133)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+pyrimidine ribonucleoside metabolic process (GO:0046131)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+lipid A metabolic process (GO:0046493)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+lactate transport (GO:0015727)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+isopentenyl diphosphate metabolic process (GO:0046490)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+protein targeting to ER (GO:0045047)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+formate transport (GO:0015724)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+glutathione metabolic process (GO:0006749)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+FAD biosynthetic process (GO:0006747)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+ubiquinone biosynthetic process (GO:0006744)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+ubiquinone metabolic process (GO:0006743)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+lactam metabolic process (GO:0072338)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+NADP biosynthetic process (GO:0006741)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+modified amino acid transport (GO:0072337)	8	0	.02	-	 < 0.01	1.00E00	1.00E00
+NADPH regeneration (GO:0006740)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+purine ribonucleoside biosynthetic process (GO:0046129)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+monocarboxylic acid biosynthetic process (GO:0072330)	29	0	.07	-	 < 0.01	1.00E00	1.00E00
+purine ribonucleoside metabolic process (GO:0046128)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+phosphatidylinositol metabolic process (GO:0046488)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+cellular response to metal ion (GO:0071248)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+pyrimidine deoxyribonucleoside metabolic process (GO:0046125)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+glyoxylate metabolic process (GO:0046487)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+glycerolipid metabolic process (GO:0046486)	8	0	.02	-	 < 0.01	1.00E00	1.00E00
+monocarboxylic acid transport (GO:0015718)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+cellular response to inorganic substance (GO:0071241)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+hexose phosphate transport (GO:0015712)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+NADP metabolic process (GO:0006739)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+organic anion transport (GO:0015711)	54	0	.12	-	 < 0.01	1.00E00	1.00E00
+secretion by cell (GO:0032940)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+NADH regeneration (GO:0006735)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+monocarboxylic acid catabolic process (GO:0072329)	18	0	.04	-	 < 0.01	1.00E00	1.00E00
+one-carbon metabolic process (GO:0006730)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+nonribosomal peptide biosynthetic process (GO:0019184)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+queuosine metabolic process (GO:0046116)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+nucleobase catabolic process (GO:0046113)	8	0	.02	-	 < 0.01	1.00E00	1.00E00
+nucleobase biosynthetic process (GO:0046112)	13	0	.03	-	 < 0.01	1.00E00	1.00E00
+glycerophospholipid biosynthetic process (GO:0046474)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+phosphatidic acid metabolic process (GO:0046473)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+xanthine metabolic process (GO:0046110)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+phosphatidylglycerol metabolic process (GO:0046471)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+nitrite transport (GO:0015707)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+nitrate transmembrane transport (GO:0015706)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+arsenite transport (GO:0015700)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+terpenoid metabolic process (GO:0006721)	8	0	.02	-	 < 0.01	1.00E00	1.00E00
+isoprenoid metabolic process (GO:0006720)	13	0	.03	-	 < 0.01	1.00E00	1.00E00
+xylulose catabolic process (GO:0005998)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+xylulose metabolic process (GO:0005997)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+monosaccharide metabolic process (GO:0005996)	36	0	.08	-	 < 0.01	1.00E00	1.00E00
+uracil biosynthetic process (GO:0046107)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+membrane lipid biosynthetic process (GO:0046467)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+trehalose catabolic process (GO:0005993)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+thymidine metabolic process (GO:0046104)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+trehalose metabolic process (GO:0005991)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+positive regulation of binding (GO:0051099)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+hypoxanthine metabolic process (GO:0046100)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+regulation of binding (GO:0051098)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+glycerolipid biosynthetic process (GO:0045017)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+small molecule biosynthetic process (GO:0044283)	204	0	.46	-	 < 0.01	1.00E00	1.00E00
+small molecule catabolic process (GO:0044282)	84	0	.19	-	 < 0.01	1.00E00	1.00E00
+small molecule metabolic process (GO:0044281)	433	0	.98	-	 < 0.01	5.00E-01	1.00E00
+short-chain fatty acid metabolic process (GO:0046459)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+sucrose metabolic process (GO:0005985)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+disaccharide metabolic process (GO:0005984)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+zinc ion transmembrane transport (GO:0071577)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+glycogen catabolic process (GO:0005980)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+valine biosynthetic process (GO:0009099)	8	0	.02	-	 < 0.01	1.00E00	1.00E00
+dihydrofolate metabolic process (GO:0046452)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+leucine biosynthetic process (GO:0009098)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+diaminopimelate metabolic process (GO:0046451)	9	0	.02	-	 < 0.01	1.00E00	1.00E00
+isoleucine biosynthetic process (GO:0009097)	13	0	.03	-	 < 0.01	1.00E00	1.00E00
+chaperone cofactor-dependent protein refolding (GO:0051085)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+aromatic amino acid family biosynthetic process, prephenate pathway (GO:0009095)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+'de novo' post-translational protein folding (GO:0051084)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+L-phenylalanine biosynthetic process (GO:0009094)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+'de novo' cotranslational protein folding (GO:0051083)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+homoserine metabolic process (GO:0009092)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+homoserine biosynthetic process (GO:0009090)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+protein localization to membrane (GO:0072657)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+sulfur compound catabolic process (GO:0044273)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+glycogen biosynthetic process (GO:0005978)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+sulfur compound biosynthetic process (GO:0044272)	52	0	.12	-	 < 0.01	1.00E00	1.00E00
+glycogen metabolic process (GO:0005977)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+polysaccharide metabolic process (GO:0005976)	15	0	.03	-	 < 0.01	1.00E00	1.00E00
+cellular nitrogen compound catabolic process (GO:0044270)	21	0	.05	-	 < 0.01	1.00E00	1.00E00
+carbohydrate metabolic process (GO:0005975)	91	0	.21	-	 < 0.01	1.00E00	1.00E00
+FMN metabolic process (GO:0046444)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+response to organonitrogen compound (GO:0010243)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+FAD metabolic process (GO:0046443)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+lysine biosynthetic process via diaminopimelate (GO:0009089)	9	0	.02	-	 < 0.01	1.00E00	1.00E00
+threonine biosynthetic process (GO:0009088)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+methionine catabolic process (GO:0009087)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+L-lysine metabolic process (GO:0046440)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+methionine biosynthetic process (GO:0009086)	17	0	.04	-	 < 0.01	1.00E00	1.00E00
+lysine biosynthetic process (GO:0009085)	10	0	.02	-	 < 0.01	1.00E00	1.00E00
+glutamine family amino acid biosynthetic process (GO:0009084)	22	0	.05	-	 < 0.01	1.00E00	1.00E00
+branched-chain amino acid catabolic process (GO:0009083)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+branched-chain amino acid biosynthetic process (GO:0009082)	17	0	.04	-	 < 0.01	1.00E00	1.00E00
+branched-chain amino acid metabolic process (GO:0009081)	18	0	.04	-	 < 0.01	1.00E00	1.00E00
+pyruvate family amino acid catabolic process (GO:0009080)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+rRNA base methylation (GO:0070475)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+sodium ion export across plasma membrane (GO:0036376)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+cellular response to oxygen-containing compound (GO:1901701)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+positive regulation of rRNA processing (GO:2000234)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+response to oxygen-containing compound (GO:1901700)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+regulation of rRNA processing (GO:2000232)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+organophosphate catabolic process (GO:0046434)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+pyruvate family amino acid biosynthetic process (GO:0009079)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+cell wall organization (GO:0071555)	36	0	.08	-	 < 0.01	1.00E00	1.00E00
+nucleoside salvage (GO:0043174)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+pyruvate family amino acid metabolic process (GO:0009078)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+cell wall organization or biogenesis (GO:0071554)	41	0	.09	-	 < 0.01	1.00E00	1.00E00
+nucleotide salvage (GO:0043173)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+aromatic amino acid family biosynthetic process (GO:0009073)	19	0	.04	-	 < 0.01	1.00E00	1.00E00
+aromatic amino acid metabolic process (GO:0009072)	19	0	.04	-	 < 0.01	1.00E00	1.00E00
+serine family amino acid catabolic process (GO:0009071)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+serine family amino acid biosynthetic process (GO:0009070)	14	0	.03	-	 < 0.01	1.00E00	1.00E00
+inorganic ion homeostasis (GO:0098771)	9	0	.02	-	 < 0.01	1.00E00	1.00E00
+tryptophan biosynthetic process (GO:0000162)	9	0	.02	-	 < 0.01	1.00E00	1.00E00
+cellular lipid metabolic process (GO:0044255)	57	0	.13	-	 < 0.01	1.00E00	1.00E00
+serine family amino acid metabolic process (GO:0009069)	21	0	.05	-	 < 0.01	1.00E00	1.00E00
+aspartate family amino acid catabolic process (GO:0009068)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+aspartate family amino acid biosynthetic process (GO:0009067)	30	0	.07	-	 < 0.01	1.00E00	1.00E00
+aspartate family amino acid metabolic process (GO:0009066)	39	0	.09	-	 < 0.01	1.00E00	1.00E00
+glutamine family amino acid catabolic process (GO:0009065)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+glutamine family amino acid metabolic process (GO:0009064)	45	0	.10	-	 < 0.01	1.00E00	1.00E00
+farnesyl diphosphate metabolic process (GO:0045338)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+negative regulation of DNA metabolic process (GO:0051053)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+amino acid catabolic process (GO:0009063)	25	0	.06	-	 < 0.01	1.00E00	1.00E00
+farnesyl diphosphate biosynthetic process (GO:0045337)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+regulation of DNA metabolic process (GO:0051052)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+fatty acid catabolic process (GO:0009062)	8	0	.02	-	 < 0.01	1.00E00	1.00E00
+anaerobic respiration (GO:0009061)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+aerobic respiration (GO:0009060)	28	0	.06	-	 < 0.01	1.00E00	1.00E00
+cellular respiration (GO:0045333)	31	0	.07	-	 < 0.01	1.00E00	1.00E00
+cellular catabolic process (GO:0044248)	77	0	.17	-	 < 0.01	1.00E00	1.00E00
+rRNA modification (GO:0000154)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+cellular lipid catabolic process (GO:0044242)	8	0	.02	-	 < 0.01	1.00E00	1.00E00
+chorismate metabolic process (GO:0046417)	8	0	.02	-	 < 0.01	1.00E00	1.00E00
+D-amino acid metabolic process (GO:0046416)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+urate metabolic process (GO:0046415)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+DNA biosynthetic process (GO:0071897)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+2-keto-3-deoxygluconate transmembrane transport (GO:0046411)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+macromolecule catabolic process (GO:0009057)	15	0	.03	-	 < 0.01	1.00E00	1.00E00
+catabolic process (GO:0009056)	132	0	.30	-	 < 0.01	1.00E00	1.00E00
+pentose-phosphate shunt, non-oxidative branch (GO:0009052)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+pentose-phosphate shunt, oxidative branch (GO:0009051)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+detoxification (GO:0098754)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+D-amino acid catabolic process (GO:0019478)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+L-lysine catabolic process (GO:0019477)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+L-lysine catabolic process to acetate (GO:0019475)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+L-lysine catabolic process to acetyl-CoA (GO:0019474)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+negative regulation of macromolecule biosynthetic process (GO:0010558)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+positive regulation of macromolecule biosynthetic process (GO:0010557)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+FMN biosynthetic process (GO:0009398)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+import across plasma membrane (GO:0098739)	24	0	.05	-	 < 0.01	1.00E00	1.00E00
+folic acid-containing compound biosynthetic process (GO:0009396)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+2'-deoxyribonucleotide metabolic process (GO:0009394)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+CTP salvage (GO:0044211)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+'de novo' CTP biosynthetic process (GO:0044210)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+establishment of protein localization to extracellular region (GO:0035592)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+cellular response to cold (GO:0070417)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+cellular modified amino acid biosynthetic process (GO:0042398)	13	0	.03	-	 < 0.01	1.00E00	1.00E00
+L-aspartate transmembrane transport (GO:0070778)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+isoprenoid biosynthetic process (GO:0008299)	13	0	.03	-	 < 0.01	1.00E00	1.00E00
+AMP salvage (GO:0044209)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+'de novo' AMP biosynthetic process (GO:0044208)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+spermidine biosynthetic process (GO:0008295)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+UMP salvage (GO:0044206)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+'de novo' UMP biosynthetic process (GO:0044205)	10	0	.02	-	 < 0.01	1.00E00	1.00E00
+sodium ion import across plasma membrane (GO:0098719)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+protein refolding (GO:0042026)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+aromatic compound catabolic process (GO:0019439)	20	0	.05	-	 < 0.01	1.00E00	1.00E00
+histidine biosynthetic process (GO:0000105)	10	0	.02	-	 < 0.01	1.00E00	1.00E00
+teichoic acid D-alanylation (GO:0070400)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+sulfate assimilation (GO:0000103)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+positive regulation of cell population proliferation (GO:0008284)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+sulfur amino acid transport (GO:0000101)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+removal of superoxide radicals (GO:0019430)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+secondary metabolite biosynthetic process (GO:0044550)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+amino acid salvage (GO:0043102)	8	0	.02	-	 < 0.01	1.00E00	1.00E00
+purine-containing compound salvage (GO:0043101)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+pyrimidine nucleobase salvage (GO:0043100)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+cellular component organization or biogenesis (GO:0071840)	68	0	.15	-	 < 0.01	1.00E00	1.00E00
+carbohydrate import across plasma membrane (GO:0098704)	23	0	.05	-	 < 0.01	1.00E00	1.00E00
+vitamin K metabolic process (GO:0042373)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+polysaccharide localization (GO:0033037)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+macromolecule localization (GO:0033036)	23	0	.05	-	 < 0.01	1.00E00	1.00E00
+vitamin K biosynthetic process (GO:0042371)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+sulfate transport (GO:0008272)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+export from cell (GO:0140352)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+lipid localization (GO:0010876)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+cilium or flagellum-dependent cell motility (GO:0001539)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+tricarboxylic acid cycle (GO:0006099)	17	0	.04	-	 < 0.01	1.00E00	1.00E00
+GDP metabolic process (GO:0046710)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+pentose-phosphate shunt (GO:0006098)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+glyoxylate cycle (GO:0006097)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+glycolytic process (GO:0006096)	17	0	.04	-	 < 0.01	1.00E00	1.00E00
+gluconeogenesis (GO:0006094)	9	0	.02	-	 < 0.01	1.00E00	1.00E00
+generation of precursor metabolites and energy (GO:0006091)	47	0	.11	-	 < 0.01	1.00E00	1.00E00
+water-soluble vitamin catabolic process (GO:0042365)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+pyruvate metabolic process (GO:0006090)	26	0	.06	-	 < 0.01	1.00E00	1.00E00
+ncRNA processing (GO:0034470)	17	0	.04	-	 < 0.01	1.00E00	1.00E00
+water-soluble vitamin biosynthetic process (GO:0042364)	36	0	.08	-	 < 0.01	1.00E00	1.00E00
+sulfate reduction (GO:0019419)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+putrescine biosynthetic process from arginine, using agmatinase (GO:0033389)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+fat-soluble vitamin biosynthetic process (GO:0042362)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+putrescine biosynthetic process from arginine (GO:0033388)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+negative regulation of DNA-templated DNA replication initiation (GO:0032297)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+protein-RNA complex organization (GO:0071826)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+protein-DNA complex organization (GO:0071824)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+heterocycle catabolic process (GO:0046700)	22	0	.05	-	 < 0.01	1.00E00	1.00E00
+acetyl-CoA biosynthetic process from pyruvate (GO:0006086)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+acetyl-CoA biosynthetic process (GO:0006085)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+acetyl-CoA metabolic process (GO:0006084)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+acetate metabolic process (GO:0006083)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+thiamine diphosphate metabolic process (GO:0042357)	8	0	.02	-	 < 0.01	1.00E00	1.00E00
+organic acid metabolic process (GO:0006082)	288	0	.65	-	 < 0.01	1.00E00	1.00E00
+cellular aldehyde metabolic process (GO:0006081)	16	0	.04	-	 < 0.01	1.00E00	1.00E00
+hexitol catabolic process (GO:0019407)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+tetrapyrrole biosynthetic process (GO:0033014)	14	0	.03	-	 < 0.01	1.00E00	1.00E00
+alditol catabolic process (GO:0019405)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+tetrapyrrole metabolic process (GO:0033013)	14	0	.03	-	 < 0.01	1.00E00	1.00E00
+non-membrane-bounded organelle assembly (GO:0140694)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+alditol metabolic process (GO:0019400)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+signal transduction (GO:0007165)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+oxoacid metabolic process (GO:0043436)	266	0	.60	-	 < 0.01	1.00E00	1.00E00
+salicylic acid biosynthetic process (GO:0009697)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+salicylic acid metabolic process (GO:0009696)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+glycerol-3-phosphate metabolic process (GO:0006072)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+RNA methylation (GO:0001510)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+glycerol metabolic process (GO:0006071)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+cellular macromolecule localization (GO:0070727)	16	0	.04	-	 < 0.01	1.00E00	1.00E00
+protein localization to organelle (GO:0033365)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+one-carbon compound transport (GO:0019755)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+carboxylic acid metabolic process (GO:0019752)	260	0	.59	-	 < 0.01	1.00E00	1.00E00
+polyol metabolic process (GO:0019751)	15	0	.03	-	 < 0.01	1.00E00	1.00E00
+cell adhesion (GO:0007155)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+cell communication (GO:0007154)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+protein transmembrane transport (GO:0071806)	10	0	.02	-	 < 0.01	1.00E00	1.00E00
+potassium ion transmembrane transport (GO:0071805)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+alcohol metabolic process (GO:0006066)	31	0	.07	-	 < 0.01	1.00E00	1.00E00
+UDP-glucuronate biosynthetic process (GO:0006065)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+glucuronate catabolic process (GO:0006064)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+uronic acid metabolic process (GO:0006063)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+glucosamine-containing compound catabolic process (GO:1901072)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+lipid oxidation (GO:0034440)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+glucosamine-containing compound metabolic process (GO:1901071)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+secondary metabolic process (GO:0019748)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+S-adenosylmethionine cycle (GO:0033353)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+transcription elongation-coupled chromatin remodeling (GO:0140673)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+protein repair (GO:0030091)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+nitrogen utilization (GO:0019740)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+urea catabolic process (GO:0043419)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+proline transmembrane transport (GO:0035524)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+homocysteine catabolic process (GO:0043418)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+XMP salvage (GO:0032265)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+IMP salvage (GO:0032264)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+GMP salvage (GO:0032263)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+pyrimidine nucleotide salvage (GO:0032262)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+macromolecule methylation (GO:0043414)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+purine nucleotide salvage (GO:0032261)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+macromolecule glycosylation (GO:0043413)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+hexitol metabolic process (GO:0006059)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+macromolecule modification (GO:0043412)	12	0	.03	-	 < 0.01	1.00E00	1.00E00
+localization within membrane (GO:0051668)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+protein transport (GO:0015031)	16	0	.04	-	 < 0.01	1.00E00	1.00E00
+oligosaccharide catabolic process (GO:0009313)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+regulation of cell division (GO:0051302)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+N-acetylneuraminate metabolic process (GO:0006054)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+cell division (GO:0051301)	11	0	.02	-	 < 0.01	1.00E00	1.00E00
+oligosaccharide metabolic process (GO:0009311)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+amine catabolic process (GO:0009310)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+terpenoid biosynthetic process (GO:0016114)	8	0	.02	-	 < 0.01	1.00E00	1.00E00
+methylation (GO:0032259)	12	0	.03	-	 < 0.01	1.00E00	1.00E00
+lactate transmembrane transport (GO:0035873)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+amine biosynthetic process (GO:0009309)	14	0	.03	-	 < 0.01	1.00E00	1.00E00
+amine metabolic process (GO:0009308)	16	0	.04	-	 < 0.01	1.00E00	1.00E00
+DNA restriction-modification system (GO:0009307)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+UDP-N-acetylglucosamine biosynthetic process (GO:0006048)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+protein secretion (GO:0009306)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+UDP-N-acetylglucosamine metabolic process (GO:0006047)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+N-acetylglucosamine catabolic process (GO:0006046)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+rRNA methylation (GO:0031167)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+N-acetylglucosamine metabolic process (GO:0006044)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+glucosamine catabolic process (GO:0006043)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+glucosamine metabolic process (GO:0006041)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+metallo-sulfur cluster assembly (GO:0031163)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+positive regulation of nucleobase-containing compound metabolic process (GO:0045935)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+amino sugar metabolic process (GO:0006040)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+negative regulation of nucleobase-containing compound metabolic process (GO:0045934)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+spermidine metabolic process (GO:0008216)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+spermine metabolic process (GO:0008215)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+glucose catabolic process to pyruvate (GO:0061718)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+cellular homeostasis (GO:0019725)	12	0	.03	-	 < 0.01	1.00E00	1.00E00
+Mo-molybdopterin cofactor metabolic process (GO:0019720)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+establishment of localization in cell (GO:0051649)	14	0	.03	-	 < 0.01	1.00E00	1.00E00
+tRNA metabolic process (GO:0006399)	28	0	.06	-	 < 0.01	1.00E00	1.00E00
+mRNA processing (GO:0006397)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+RNA processing (GO:0006396)	20	0	.05	-	 < 0.01	1.00E00	1.00E00
+cellular detoxification (GO:1990748)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+cellular localization (GO:0051641)	22	0	.05	-	 < 0.01	1.00E00	1.00E00
+nitrogen catabolite repression of transcription (GO:0090295)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+glycosaminoglycan catabolic process (GO:0006027)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+glucose transmembrane transport (GO:1904659)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+nitrogen catabolite regulation of transcription (GO:0090293)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+aminoglycan catabolic process (GO:0006026)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+glycosaminoglycan biosynthetic process (GO:0006024)	14	0	.03	-	 < 0.01	1.00E00	1.00E00
+nucleobase-containing small molecule biosynthetic process (GO:0034404)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+aminoglycan biosynthetic process (GO:0006023)	14	0	.03	-	 < 0.01	1.00E00	1.00E00
+aminoglycan metabolic process (GO:0006022)	19	0	.04	-	 < 0.01	1.00E00	1.00E00
+inositol metabolic process (GO:0006020)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+adenosine to inosine editing (GO:0006382)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+L-alpha-amino acid transmembrane transport (GO:1902475)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+Unclassified (UNCLASSIFIED)	42	0	.10	-	 < 0.01	1.00E00	1.00E00
+response to toxic substance (GO:0009636)	8	0	.02	-	 < 0.01	1.00E00	1.00E00
+5-phosphoribose 1-diphosphate biosynthetic process (GO:0006015)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+response to herbicide (GO:0009635)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+D-ribose metabolic process (GO:0006014)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+iron ion transmembrane transport (GO:0034755)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+galactose metabolic process (GO:0006012)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+UDP-glucose metabolic process (GO:0006011)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+response to extracellular stimulus (GO:0009991)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+response to stimulus (GO:0050896)	46	0	.10	-	 < 0.01	1.00E00	1.00E00
+riboflavin transport (GO:0032218)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+response to abiotic stimulus (GO:0009628)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+glucose catabolic process (GO:0006007)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+glucose metabolic process (GO:0006006)	15	0	.03	-	 < 0.01	1.00E00	1.00E00
+transcription elongation by RNA polymerase II (GO:0006368)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+transcription by RNA polymerase II (GO:0006366)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+rRNA 3'-end processing (GO:0031125)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+fructose 6-phosphate metabolic process (GO:0006002)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+rRNA processing (GO:0006364)	12	0	.03	-	 < 0.01	1.00E00	1.00E00
+RNA 3'-end processing (GO:0031123)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+transcription-coupled nucleotide-excision repair, DNA damage recognition (GO:0000716)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+nucleobase-containing small molecule metabolic process (GO:0055086)	113	0	.26	-	 < 0.01	1.00E00	1.00E00
+nucleotide-excision repair, DNA damage recognition (GO:0000715)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+transmembrane transport (GO:0055085)	186	0	.42	-	 < 0.01	1.00E00	1.00E00
+intracellular chemical homeostasis (GO:0055082)	9	0	.02	-	 < 0.01	1.00E00	1.00E00
+monoatomic cation homeostasis (GO:0055080)	10	0	.02	-	 < 0.01	1.00E00	1.00E00
+phenol-containing compound metabolic process (GO:0018958)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+antimonite transport (GO:0015699)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+inorganic anion transport (GO:0015698)	11	0	.02	-	 < 0.01	1.00E00	1.00E00
+quaternary ammonium group transport (GO:0015697)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+organic cation transport (GO:0015695)	8	0	.02	-	 < 0.01	1.00E00	1.00E00
+magnesium ion transport (GO:0015693)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+protein maturation (GO:0051604)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+cadmium ion transport (GO:0015691)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+DNA-templated transcription elongation (GO:0006354)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+DNA-templated transcription termination (GO:0006353)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+cytidine deamination (GO:0009972)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+organic cyclic compound catabolic process (GO:1901361)	23	0	.05	-	 < 0.01	1.00E00	1.00E00
+maltose transmembrane transport (GO:1904981)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+fructose 1,6-bisphosphate metabolic process (GO:0030388)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+calcium ion homeostasis (GO:0055074)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+guanine biosynthetic process (GO:0046099)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+guanine metabolic process (GO:0046098)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+copper ion homeostasis (GO:0055070)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+response to biotic stimulus (GO:0009607)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+response to external stimulus (GO:0009605)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+glycine betaine transport (GO:0031460)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+cytidine metabolic process (GO:0046087)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+adenine biosynthetic process (GO:0046084)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+adenine metabolic process (GO:0046083)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+chromatin remodeling (GO:0006338)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+glycine betaine biosynthetic process (GO:0031456)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+glycine betaine metabolic process (GO:0031455)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+intracellular monoatomic cation homeostasis (GO:0030003)	9	0	.02	-	 < 0.01	1.00E00	1.00E00
+dUDP metabolic process (GO:0046077)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+metal ion transport (GO:0030001)	44	0	.10	-	 < 0.01	1.00E00	1.00E00
+dTTP metabolic process (GO:0046075)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+dTMP metabolic process (GO:0046073)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+dTDP metabolic process (GO:0046072)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+chromatin organization (GO:0006325)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+cellular response to nitrogen compound (GO:1901699)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+response to nitrogen compound (GO:1901698)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+maltodextrin transmembrane transport (GO:0042956)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+liposaccharide metabolic process (GO:1903509)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+teichuronic acid metabolic process (GO:0050846)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+teichuronic acid biosynthetic process (GO:0050845)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+DNA recombination (GO:0006310)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+oxalate metabolic process (GO:0033609)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+dAMP metabolic process (GO:0046053)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+UTP metabolic process (GO:0046051)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+isoprenoid biosynthetic process via mevalonate (GO:1902767)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+cellular response to chemical stress (GO:0062197)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+malonyl-CoA biosynthetic process (GO:2001295)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+malonyl-CoA metabolic process (GO:2001293)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+regulation of response to stimulus (GO:0048583)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+DNA methylation (GO:0006306)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+DNA alkylation (GO:0006305)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+glycosylation (GO:0070085)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+DNA modification (GO:0006304)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+iron coordination entity transport (GO:1901678)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+glycolipid metabolic process (GO:0006664)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+phosphatidylinositol biosynthetic process (GO:0006661)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+tRNA 5'-end processing (GO:0099116)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+UMP metabolic process (GO:0046049)	12	0	.03	-	 < 0.01	1.00E00	1.00E00
+UDP metabolic process (GO:0046048)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+IMP metabolic process (GO:0046040)	15	0	.03	-	 < 0.01	1.00E00	1.00E00
+phosphatidylglycerol biosynthetic process (GO:0006655)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+electron transport coupled proton transport (GO:0015990)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+phosphatidic acid biosynthetic process (GO:0006654)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+quinone biosynthetic process (GO:1901663)	9	0	.02	-	 < 0.01	1.00E00	1.00E00
+glycerophospholipid metabolic process (GO:0006650)	8	0	.02	-	 < 0.01	1.00E00	1.00E00
+quinone metabolic process (GO:1901661)	9	0	.02	-	 < 0.01	1.00E00	1.00E00
+XMP biosynthetic process (GO:0097293)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+XMP metabolic process (GO:0097292)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+GTP metabolic process (GO:0046039)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+GMP metabolic process (GO:0046037)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+CTP metabolic process (GO:0046036)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+UDP-glucuronate metabolic process (GO:0046398)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+galacturonate catabolic process (GO:0046397)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+ATP metabolic process (GO:0046034)	8	0	.02	-	 < 0.01	1.00E00	1.00E00
+D-galacturonate metabolic process (GO:0046396)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+magnesium ion transmembrane transport (GO:1903830)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+AMP metabolic process (GO:0046033)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+carboxylic acid catabolic process (GO:0046395)	48	0	.11	-	 < 0.01	1.00E00	1.00E00
+carboxylic acid biosynthetic process (GO:0046394)	139	0	.31	-	 < 0.01	1.00E00	1.00E00
+galactarate catabolic process (GO:0046392)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+5-phosphoribose 1-diphosphate metabolic process (GO:0046391)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+ribose phosphate biosynthetic process (GO:0046390)	60	0	.14	-	 < 0.01	1.00E00	1.00E00
+energy coupled proton transmembrane transport, against electrochemical gradient (GO:0015988)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+proton motive force-driven ATP synthesis (GO:0015986)	8	0	.02	-	 < 0.01	1.00E00	1.00E00
+glycosyl compound biosynthetic process (GO:1901659)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+phosphatidylethanolamine biosynthetic process (GO:0006646)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+glycosyl compound catabolic process (GO:1901658)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+energy derivation by oxidation of organic compounds (GO:0015980)	37	0	.08	-	 < 0.01	1.00E00	1.00E00
+glycosyl compound metabolic process (GO:1901657)	11	0	.02	-	 < 0.01	1.00E00	1.00E00
+phospholipid metabolic process (GO:0006644)	21	0	.05	-	 < 0.01	1.00E00	1.00E00
+membrane lipid metabolic process (GO:0006643)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+establishment of protein localization to endoplasmic reticulum (GO:0072599)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+establishment of protein localization to organelle (GO:0072594)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+reactive oxygen species metabolic process (GO:0072593)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+organic acid transmembrane transport (GO:1903825)	21	0	.05	-	 < 0.01	1.00E00	1.00E00
+monoatomic ion homeostasis (GO:0050801)	10	0	.02	-	 < 0.01	1.00E00	1.00E00
+deoxyribose phosphate catabolic process (GO:0046386)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+deoxyribose phosphate biosynthetic process (GO:0046385)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+carbon fixation (GO:0015977)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+acyl-CoA metabolic process (GO:0006637)	12	0	.03	-	 < 0.01	1.00E00	1.00E00
+fatty acid beta-oxidation (GO:0006635)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+organelle organization (GO:0006996)	8	0	.02	-	 < 0.01	1.00E00	1.00E00
+xenobiotic transport (GO:0042908)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+fatty acid biosynthetic process (GO:0006633)	16	0	.04	-	 < 0.01	1.00E00	1.00E00
+chaperone-mediated protein folding (GO:0061077)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+xanthine transport (GO:0042906)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+fatty acid metabolic process (GO:0006631)	31	0	.07	-	 < 0.01	1.00E00	1.00E00
+nucleoside transmembrane transport (GO:1901642)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+cellular component disassembly (GO:0022411)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+enterobacterial common antigen metabolic process (GO:0046378)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+teichoic acid metabolic process (GO:0046374)	14	0	.03	-	 < 0.01	1.00E00	1.00E00
+L-arabinose metabolic process (GO:0046373)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+cellular response to external stimulus (GO:0071496)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+cellular response to endogenous stimulus (GO:0071495)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+lipid metabolic process (GO:0006629)	58	0	.13	-	 < 0.01	1.00E00	1.00E00
+cell cycle process (GO:0022402)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+beta-lactam antibiotic catabolic process (GO:0030655)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+beta-lactam antibiotic metabolic process (GO:0030653)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+monosaccharide catabolic process (GO:0046365)	17	0	.04	-	 < 0.01	1.00E00	1.00E00
+monosaccharide biosynthetic process (GO:0046364)	9	0	.02	-	 < 0.01	1.00E00	1.00E00
+response to oxidative stress (GO:0006979)	9	0	.02	-	 < 0.01	1.00E00	1.00E00
+SRP-dependent cotranslational protein targeting to membrane, translocation (GO:0006616)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+lipoteichoic acid biosynthetic process (GO:0070395)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+sulfur amino acid catabolic process (GO:0000098)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+SRP-dependent cotranslational protein targeting to membrane (GO:0006614)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+lipoteichoic acid metabolic process (GO:0070394)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+sulfur amino acid biosynthetic process (GO:0000097)	25	0	.06	-	 < 0.01	1.00E00	1.00E00
+cotranslational protein targeting to membrane (GO:0006613)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+sulfur amino acid metabolic process (GO:0000096)	25	0	.06	-	 < 0.01	1.00E00	1.00E00
+protein targeting to membrane (GO:0006612)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+DNA damage response (GO:0006974)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+purine nucleobase salvage (GO:0043096)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+regulation of cellular pH (GO:0030641)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+cellular metabolic compound salvage (GO:0043094)	17	0	.04	-	 < 0.01	1.00E00	1.00E00
+disaccharide catabolic process (GO:0046352)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+nucleobase-containing small molecule interconversion (GO:0015949)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+negative regulation of cellular process (GO:0048523)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+positive regulation of cellular process (GO:0048522)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+formate metabolic process (GO:0015942)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+pantothenate catabolic process (GO:0015941)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+protein targeting (GO:0006605)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+pantothenate biosynthetic process (GO:0015940)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+organic hydroxy compound biosynthetic process (GO:1901617)	19	0	.04	-	 < 0.01	1.00E00	1.00E00
+organic hydroxy compound catabolic process (GO:1901616)	15	0	.03	-	 < 0.01	1.00E00	1.00E00
+organic hydroxy compound metabolic process (GO:1901615)	38	0	.09	-	 < 0.01	1.00E00	1.00E00
+amino sugar biosynthetic process (GO:0046349)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+amino sugar catabolic process (GO:0046348)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+cellular response to xenobiotic stimulus (GO:0071466)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+farnesyl diphosphate biosynthetic process, mevalonate pathway (GO:0010142)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+CDP-diacylglycerol metabolic process (GO:0046341)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+negative regulation of biological process (GO:0048519)	9	0	.02	-	 < 0.01	1.00E00	1.00E00
+pantothenate metabolic process (GO:0015939)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+positive regulation of biological process (GO:0048518)	8	0	.02	-	 < 0.01	1.00E00	1.00E00
+coenzyme A biosynthetic process (GO:0015937)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+chemical homeostasis (GO:0048878)	10	0	.02	-	 < 0.01	1.00E00	1.00E00
+coenzyme A metabolic process (GO:0015936)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+RNA phosphodiester bond hydrolysis, exonucleolytic (GO:0090503)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+RNA phosphodiester bond hydrolysis, endonucleolytic (GO:0090502)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+nucleobase-containing compound transport (GO:0015931)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+RNA phosphodiester bond hydrolysis (GO:0090501)	9	0	.02	-	 < 0.01	1.00E00	1.00E00
+alpha-amino acid biosynthetic process (GO:1901607)	90	0	.20	-	 < 0.01	1.00E00	1.00E00
+alpha-amino acid catabolic process (GO:1901606)	18	0	.04	-	 < 0.01	1.00E00	1.00E00
+cell motility (GO:0048870)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+alpha-amino acid metabolic process (GO:1901605)	117	0	.27	-	 < 0.01	1.00E00	1.00E00
+cellular response to toxic substance (GO:0097237)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+amino acid transmembrane transport (GO:0003333)	16	0	.04	-	 < 0.01	1.00E00	1.00E00
+defense response (GO:0006952)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+response to stress (GO:0006950)	17	0	.04	-	 < 0.01	1.00E00	1.00E00
+pyrimidine ribonucleotide salvage (GO:0010138)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+phosphatidylethanolamine metabolic process (GO:0046337)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+proline catabolic process to glutamate (GO:0010133)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+cellular response to superoxide (GO:0071451)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+cellular response to oxygen radical (GO:0071450)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+lipopolysaccharide transport (GO:0015920)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+archaeal or bacterial-type flagellum-dependent cell motility (GO:0097588)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+fatty acid oxidation (GO:0019395)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+glucarate catabolic process (GO:0019394)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+glucarate metabolic process (GO:0019392)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+purine-containing compound transmembrane transport (GO:0072530)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+phenylacetate catabolic process (GO:0010124)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+response to cadmium ion (GO:0046686)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+response to arsenic-containing substance (GO:0046685)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+inorganic cation transmembrane transport (GO:0098662)	54	0	.12	-	 < 0.01	1.00E00	1.00E00
+inorganic anion transmembrane transport (GO:0098661)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+inorganic ion transmembrane transport (GO:0098660)	61	0	.14	-	 < 0.01	1.00E00	1.00E00
+galactose catabolic process (GO:0019388)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+pyrimidine-containing compound catabolic process (GO:0072529)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+argininosuccinate metabolic process (GO:0000053)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+pyrimidine-containing compound biosynthetic process (GO:0072528)	27	0	.06	-	 < 0.01	1.00E00	1.00E00
+citrulline metabolic process (GO:0000052)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+pyrimidine-containing compound metabolic process (GO:0072527)	32	0	.07	-	 < 0.01	1.00E00	1.00E00
+pyridine-containing compound catabolic process (GO:0072526)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+urea cycle (GO:0000050)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+pyridine-containing compound biosynthetic process (GO:0072525)	9	0	.02	-	 < 0.01	1.00E00	1.00E00
+pyridine-containing compound metabolic process (GO:0072524)	15	0	.03	-	 < 0.01	1.00E00	1.00E00
+purine-containing compound catabolic process (GO:0072523)	10	0	.02	-	 < 0.01	1.00E00	1.00E00
+purine-containing compound biosynthetic process (GO:0072522)	54	0	.12	-	 < 0.01	1.00E00	1.00E00
+purine-containing compound metabolic process (GO:0072521)	76	0	.17	-	 < 0.01	1.00E00	1.00E00
+response to antibiotic (GO:0046677)	12	0	.03	-	 < 0.01	1.00E00	1.00E00
+inorganic cation import across plasma membrane (GO:0098659)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+butanediol metabolic process (GO:0034077)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+external encapsulating structure organization (GO:0045229)	36	0	.08	-	 < 0.01	1.00E00	1.00E00
+import into cell (GO:0098657)	30	0	.07	-	 < 0.01	1.00E00	1.00E00
+monoatomic anion transmembrane transport (GO:0098656)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+monoatomic cation transmembrane transport (GO:0098655)	54	0	.12	-	 < 0.01	1.00E00	1.00E00
+sulfate assimilation, phosphoadenylyl sulfate reduction by phosphoadenylyl-sulfate reductase (thioredoxin) (GO:0019379)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+negative regulation of DNA-templated DNA replication (GO:2000104)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+transition metal ion transport (GO:0000041)	19	0	.04	-	 < 0.01	1.00E00	1.00E00
+alkanesulfonate catabolic process (GO:0046306)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+gene expression (GO:0010467)	101	0	.23	-	 < 0.01	1.00E00	1.00E00
+peptide biosynthetic process (GO:0043043)	87	0	.20	-	 < 0.01	1.00E00	1.00E00
+malate transmembrane transport (GO:0071423)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+succinate transmembrane transport (GO:0071422)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+manganese ion transmembrane transport (GO:0071421)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+pyridine nucleotide salvage (GO:0019365)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+pyridine nucleotide biosynthetic process (GO:0019363)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+pyridine nucleotide metabolic process (GO:0019362)	13	0	.03	-	 < 0.01	1.00E00	1.00E00
+carboxylic acid transmembrane transport (GO:1905039)	21	0	.05	-	 < 0.01	1.00E00	1.00E00
+tRNA aminoacylation (GO:0043039)	21	0	.05	-	 < 0.01	1.00E00	1.00E00
+amino acid activation (GO:0043038)	21	0	.05	-	 < 0.01	1.00E00	1.00E00
+cellular response to organonitrogen compound (GO:0071417)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+folic acid biosynthetic process (GO:0046656)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+folic acid metabolic process (GO:0046655)	8	0	.02	-	 < 0.01	1.00E00	1.00E00
+tetrahydrofolate biosynthetic process (GO:0046654)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+tetrahydrofolate metabolic process (GO:0046653)	9	0	.02	-	 < 0.01	1.00E00	1.00E00
+negative regulation of DNA binding (GO:0043392)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+DNA-mediated transformation (GO:0009294)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+horizontal gene transfer (GO:0009292)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+ribosomal small subunit assembly (GO:0000028)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+ribosomal large subunit assembly (GO:0000027)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+nicotinamide nucleotide biosynthetic process (GO:0019359)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+maltose catabolic process (GO:0000025)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+maltose metabolic process (GO:0000023)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+glutaminyl-tRNAGln biosynthesis via transamidation (GO:0070681)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+siroheme biosynthetic process (GO:0019354)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+polyprenol biosynthetic process (GO:0016094)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+polyprenol metabolic process (GO:0016093)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+teichoic acid biosynthetic process (GO:0019350)	14	0	.03	-	 < 0.01	1.00E00	1.00E00
+positive regulation of DNA binding (GO:0043388)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+chromosome organization (GO:0051276)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+transsulfuration (GO:0019346)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+cysteine biosynthetic process (GO:0019344)	8	0	.02	-	 < 0.01	1.00E00	1.00E00
+protein modification process (GO:0036211)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+cysteine biosynthetic process via cystathionine (GO:0019343)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+peptidoglycan-based cell wall biogenesis (GO:0009273)	33	0	.07	-	 < 0.01	1.00E00	1.00E00
+purine nucleoside bisphosphate biosynthetic process (GO:0034033)	14	0	.03	-	 < 0.01	1.00E00	1.00E00
+purine nucleoside bisphosphate metabolic process (GO:0034032)	17	0	.04	-	 < 0.01	1.00E00	1.00E00
+ribonucleoside bisphosphate biosynthetic process (GO:0034030)	14	0	.03	-	 < 0.01	1.00E00	1.00E00
+D-galacturonate catabolic process (GO:0019698)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+rRNA catabolic process (GO:0016075)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+denitrification pathway (GO:0019333)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+choline metabolic process (GO:0019695)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+alkanesulfonate metabolic process (GO:0019694)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+ribose phosphate metabolic process (GO:0019693)	65	0	.15	-	 < 0.01	1.00E00	1.00E00
+rRNA metabolic process (GO:0016072)	12	0	.03	-	 < 0.01	1.00E00	1.00E00
+deoxyribose phosphate metabolic process (GO:0019692)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+mRNA metabolic process (GO:0016071)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+response to temperature stimulus (GO:0009266)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+2'-deoxyribonucleotide biosynthetic process (GO:0009265)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+positive regulation of RNA metabolic process (GO:0051254)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+deoxyribonucleotide catabolic process (GO:0009264)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+negative regulation of RNA metabolic process (GO:0051253)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+deoxyribonucleotide biosynthetic process (GO:0009263)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+deoxyribonucleotide metabolic process (GO:0009262)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+purine nucleoside metabolic process (GO:0042278)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+ribonucleotide biosynthetic process (GO:0009260)	58	0	.13	-	 < 0.01	1.00E00	1.00E00
+ribosomal small subunit biogenesis (GO:0042274)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+ribosomal large subunit biogenesis (GO:0042273)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+positive regulation of DNA-templated transcription (GO:0045893)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+negative regulation of DNA-templated transcription (GO:0045892)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+L-lyxose metabolic process (GO:0019324)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+pentose catabolic process (GO:0019323)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+pentose metabolic process (GO:0019321)	11	0	.02	-	 < 0.01	1.00E00	1.00E00
+hexose catabolic process (GO:0019320)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+glyceraldehyde-3-phosphate metabolic process (GO:0019682)	8	0	.02	-	 < 0.01	1.00E00	1.00E00
+ribonucleotide metabolic process (GO:0009259)	62	0	.14	-	 < 0.01	1.00E00	1.00E00
+negative regulation of protein metabolic process (GO:0051248)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+regulation of protein metabolic process (GO:0051246)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+peptidoglycan turnover (GO:0009254)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+negative regulation of translation (GO:0017148)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+peptidoglycan catabolic process (GO:0009253)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+peptidoglycan biosynthetic process (GO:0009252)	14	0	.03	-	 < 0.01	1.00E00	1.00E00
+glucan catabolic process (GO:0009251)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+glucan biosynthetic process (GO:0009250)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+hexose biosynthetic process (GO:0019319)	9	0	.02	-	 < 0.01	1.00E00	1.00E00
+hexose metabolic process (GO:0019318)	21	0	.05	-	 < 0.01	1.00E00	1.00E00
+propionate metabolic process, methylcitrate cycle (GO:0019679)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+ammonia assimilation cycle (GO:0019676)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+organic acid catabolic process (GO:0016054)	50	0	.11	-	 < 0.01	1.00E00	1.00E00
+NAD metabolic process (GO:0019674)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+organic acid biosynthetic process (GO:0016053)	158	0	.36	-	 < 0.01	1.00E00	1.00E00
+carbohydrate catabolic process (GO:0016052)	50	0	.11	-	 < 0.01	1.00E00	1.00E00
+inositol catabolic process (GO:0019310)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+carbohydrate biosynthetic process (GO:0016051)	18	0	.04	-	 < 0.01	1.00E00	1.00E00
+ubiquinone biosynthetic process via 3,4-dihydroxy-5-polyprenylbenzoate (GO:0032194)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+protein lipoylation (GO:0009249)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+glycolipid biosynthetic process (GO:0009247)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+enterobacterial common antigen biosynthetic process (GO:0009246)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+lipid A biosynthetic process (GO:0009245)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+establishment of localization (GO:0051234)	202	0	.46	-	 < 0.01	1.00E00	1.00E00
+isopentenyl diphosphate biosynthetic process (GO:0009240)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+ribosome assembly (GO:0042255)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+ribosome biogenesis (GO:0042254)	18	0	.04	-	 < 0.01	1.00E00	1.00E00
+negative regulation of DNA replication (GO:0008156)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+nitrogenous compound fermentation (GO:0019666)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+D-ribose catabolic process (GO:0019303)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+anaerobic amino acid catabolic process (GO:0019665)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+cellular component organization (GO:0016043)	50	0	.11	-	 < 0.01	1.00E00	1.00E00
+rhamnose catabolic process (GO:0019301)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+lipid catabolic process (GO:0016042)	8	0	.02	-	 < 0.01	1.00E00	1.00E00
+negative regulation of termination of DNA-templated transcription (GO:0060567)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+protein unfolding (GO:0043335)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+siderophore metabolic process (GO:0009237)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+cobalamin biosynthetic process (GO:0009236)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+cobalamin metabolic process (GO:0009235)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+menaquinone biosynthetic process (GO:0009234)	9	0	.02	-	 < 0.01	1.00E00	1.00E00
+menaquinone metabolic process (GO:0009233)	9	0	.02	-	 < 0.01	1.00E00	1.00E00
+NAD salvage (GO:0034355)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+riboflavin biosynthetic process (GO:0009231)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+biological process involved in interspecies interaction between organisms (GO:0044419)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+L-asparagine metabolic process (GO:0070982)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+L-asparagine biosynthetic process (GO:0070981)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+chromosome segregation (GO:0007059)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+peptidyl-methionine modification (GO:0018206)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+phosphate ion transmembrane transport (GO:0035435)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+peptidyl-lysine modification (GO:0018205)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+copper ion transmembrane transport (GO:0035434)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+thiamine diphosphate biosynthetic process (GO:0009229)	8	0	.02	-	 < 0.01	1.00E00	1.00E00
+thiamine biosynthetic process (GO:0009228)	10	0	.02	-	 < 0.01	1.00E00	1.00E00
+nitrogen compound transport (GO:0071705)	80	0	.18	-	 < 0.01	1.00E00	1.00E00
+co-translational protein modification (GO:0043686)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+nucleotide-sugar biosynthetic process (GO:0009226)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+carboxylic acid transport (GO:0046942)	51	0	.12	-	 < 0.01	1.00E00	1.00E00
+nucleotide-sugar metabolic process (GO:0009225)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+organic substance transport (GO:0071702)	120	0	.27	-	 < 0.01	1.00E00	1.00E00
+nucleoside monophosphate phosphorylation (GO:0046940)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+pyrimidine deoxyribonucleotide biosynthetic process (GO:0009221)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+pyrimidine ribonucleotide biosynthetic process (GO:0009220)	15	0	.03	-	 < 0.01	1.00E00	1.00E00
+homeostatic process (GO:0042592)	13	0	.03	-	 < 0.01	1.00E00	1.00E00
+protein localization to endoplasmic reticulum (GO:0070972)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+aerobic electron transport chain (GO:0019646)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+CDP-diacylglycerol biosynthetic process (GO:0016024)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+cell cycle (GO:0007049)	12	0	.03	-	 < 0.01	1.00E00	1.00E00
+gluconate transmembrane transport (GO:0035429)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+pyrimidine deoxyribonucleotide metabolic process (GO:0009219)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+pyrimidine ribonucleotide metabolic process (GO:0009218)	15	0	.03	-	 < 0.01	1.00E00	1.00E00
+pyrimidine deoxyribonucleoside triphosphate biosynthetic process (GO:0009212)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+pyrimidine deoxyribonucleoside triphosphate metabolic process (GO:0009211)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+response to chemical (GO:0042221)	32	0	.07	-	 < 0.01	1.00E00	1.00E00
+response to oxygen radical (GO:0000305)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+organophosphate metabolic process (GO:0019637)	133	0	.30	-	 < 0.01	1.00E00	1.00E00
+response to superoxide (GO:0000303)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+response to reactive oxygen species (GO:0000302)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+catabolite repression (GO:0061984)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+shikimate metabolic process (GO:0019632)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+canonical glycolysis (GO:0061621)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+ribitol phosphate metabolic process (GO:0052648)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+glycolytic process through glucose-6-phosphate (GO:0061620)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+pentitol phosphate metabolic process (GO:0052647)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+alditol phosphate metabolic process (GO:0052646)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+pyrimidine ribonucleoside triphosphate biosynthetic process (GO:0009209)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+pyrimidine ribonucleoside triphosphate metabolic process (GO:0009208)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+purine ribonucleoside triphosphate biosynthetic process (GO:0009206)	10	0	.02	-	 < 0.01	1.00E00	1.00E00
+purine ribonucleoside triphosphate metabolic process (GO:0009205)	10	0	.02	-	 < 0.01	1.00E00	1.00E00
+cellular modified amino acid catabolic process (GO:0042219)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+ribonucleoside triphosphate biosynthetic process (GO:0009201)	13	0	.03	-	 < 0.01	1.00E00	1.00E00
+propionate catabolic process, 2-methylcitrate cycle (GO:0019629)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+urate catabolic process (GO:0019628)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+urea metabolic process (GO:0019627)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+short-chain fatty acid catabolic process (GO:0019626)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+charged-tRNA amino acid modification (GO:0019988)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+glycolytic process through fructose-6-phosphate (GO:0061615)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+dicarboxylic acid biosynthetic process (GO:0043650)	25	0	.06	-	 < 0.01	1.00E00	1.00E00
+diol metabolic process (GO:0034311)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+protein localization (GO:0008104)	16	0	.04	-	 < 0.01	1.00E00	1.00E00
+nitrate import (GO:1902025)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+dicarboxylic acid catabolic process (GO:0043649)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+intracellular transport (GO:0046907)	8	0	.02	-	 < 0.01	1.00E00	1.00E00
+dicarboxylic acid metabolic process (GO:0043648)	46	0	.10	-	 < 0.01	1.00E00	1.00E00
+secretion (GO:0046903)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+primary alcohol biosynthetic process (GO:0034309)	10	0	.02	-	 < 0.01	1.00E00	1.00E00
+primary alcohol metabolic process (GO:0034308)	10	0	.02	-	 < 0.01	1.00E00	1.00E00
+tetrahydrofolylpolyglutamate biosynthetic process (GO:0046901)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+nucleotide-excision repair (GO:0006289)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+tetrahydrofolylpolyglutamate metabolic process (GO:0046900)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+pteridine-containing compound biosynthetic process (GO:0042559)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+transcription-coupled nucleotide-excision repair (GO:0006283)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+pteridine-containing compound metabolic process (GO:0042558)	9	0	.02	-	 < 0.01	1.00E00	1.00E00
+DNA repair (GO:0006281)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+nucleoside phosphate biosynthetic process (GO:1901293)	75	0	.17	-	 < 0.01	1.00E00	1.00E00
+ncRNA catabolic process (GO:0034661)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+nucleoside phosphate catabolic process (GO:1901292)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+ncRNA metabolic process (GO:0034660)	37	0	.08	-	 < 0.01	1.00E00	1.00E00
+siderophore-dependent iron import into cell (GO:0033214)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+butyrate metabolic process (GO:0019605)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+iron import into cell (GO:0033212)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+regulation of DNA replication (GO:0006275)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+nucleobase-containing small molecule catabolic process (GO:0034656)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+nucleobase-containing compound catabolic process (GO:0034655)	10	0	.02	-	 < 0.01	1.00E00	1.00E00
+positive regulation of metabolic process (GO:0009893)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+negative regulation of metabolic process (GO:0009892)	9	0	.02	-	 < 0.01	1.00E00	1.00E00
+cell wall biogenesis (GO:0042546)	33	0	.07	-	 < 0.01	1.00E00	1.00E00
+positive regulation of biosynthetic process (GO:0009891)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+negative regulation of biosynthetic process (GO:0009890)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+organelle assembly (GO:0070925)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+response to hydrogen peroxide (GO:0042542)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+regulation of developmental process (GO:0050793)	15	0	.03	-	 < 0.01	1.00E00	1.00E00
+regulatory ncRNA 3'-end processing (GO:0043628)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+regulation of DNA-templated transcription in response to stress (GO:0043620)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+organic acid phosphorylation (GO:0031388)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+benzene-containing compound metabolic process (GO:0042537)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+DNA replication (GO:0006260)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+lipooligosaccharide biosynthetic process (GO:1901271)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+cellular response to stress (GO:0033554)	8	0	.02	-	 < 0.01	1.00E00	1.00E00
+regulation of response to nutrient levels (GO:0032107)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+sulfate transmembrane transport (GO:1902358)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+sodium ion transmembrane transport (GO:0035725)	9	0	.02	-	 < 0.01	1.00E00	1.00E00
+regulation of response to extracellular stimulus (GO:0032104)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+regulation of response to external stimulus (GO:0032101)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+DNA metabolic process (GO:0006259)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+lipooligosaccharide metabolic process (GO:1901269)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+regulation of carbohydrate utilization (GO:0043610)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+carbohydrate derivative transport (GO:1901264)	10	0	.02	-	 < 0.01	1.00E00	1.00E00
+amide transport (GO:0042886)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+RNA 5'-end processing (GO:0000966)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+dephosphorylation (GO:0016311)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+phosphorylation (GO:0016310)	67	0	.15	-	 < 0.01	1.00E00	1.00E00
+formamide metabolic process (GO:0043606)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+amide catabolic process (GO:0043605)	10	0	.02	-	 < 0.01	1.00E00	1.00E00
+amide biosynthetic process (GO:0043604)	120	0	.27	-	 < 0.01	1.00E00	1.00E00
+amide metabolic process (GO:0043603)	140	0	.32	-	 < 0.01	1.00E00	1.00E00
+'de novo' NAD biosynthetic process from aspartate (GO:0034628)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+'de novo' NAD biosynthetic process (GO:0034627)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+establishment of protein localization to membrane (GO:0090150)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+N-terminal protein amino acid modification (GO:0031365)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+CTP biosynthetic process (GO:0006241)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+fatty acid beta-oxidation using acyl-CoA dehydrogenase (GO:0033539)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+aldonate transmembrane transport (GO:0042873)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+L-valine transmembrane transport (GO:1903785)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+protein transport by the Tat complex (GO:0043953)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+polyamine catabolic process (GO:0006598)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+protein transport by the Sec complex (GO:0043952)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+dTTP biosynthetic process (GO:0006235)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+polyamine biosynthetic process (GO:0006596)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+polyamine metabolic process (GO:0006595)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+dTDP biosynthetic process (GO:0006233)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+cellular response to reactive oxygen species (GO:0034614)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+dTMP biosynthetic process (GO:0006231)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+ornithine biosynthetic process (GO:0006592)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+ornithine metabolic process (GO:0006591)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+clearance of foreign intracellular nucleic acids (GO:0099046)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+UTP biosynthetic process (GO:0006228)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+dUDP biosynthetic process (GO:0006227)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+positive regulation of RNA biosynthetic process (GO:1902680)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+ribosome disassembly (GO:0032790)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+UDP biosynthetic process (GO:0006225)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+indolalkylamine metabolic process (GO:0006586)	9	0	.02	-	 < 0.01	1.00E00	1.00E00
+uracil salvage (GO:0006223)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+UMP biosynthetic process (GO:0006222)	12	0	.03	-	 < 0.01	1.00E00	1.00E00
+pyrimidine nucleotide biosynthetic process (GO:0006221)	17	0	.04	-	 < 0.01	1.00E00	1.00E00
+pyrimidine nucleotide metabolic process (GO:0006220)	18	0	.04	-	 < 0.01	1.00E00	1.00E00
+L-alanine catabolic process (GO:0042853)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+lipid glycosylation (GO:0030259)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+lipid modification (GO:0030258)	8	0	.02	-	 < 0.01	1.00E00	1.00E00
+L-alanine metabolic process (GO:0042851)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+ribonucleoside bisphosphate metabolic process (GO:0033875)	17	0	.04	-	 < 0.01	1.00E00	1.00E00
+L-lysine catabolic process to acetyl-CoA via saccharopine (GO:0033512)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+regulation of molecular function (GO:0065009)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+regulation of biological quality (GO:0065008)	20	0	.05	-	 < 0.01	1.00E00	1.00E00
+negative regulation of RNA biosynthetic process (GO:1902679)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+monocarboxylic acid metabolic process (GO:0032787)	95	0	.22	-	 < 0.01	1.00E00	1.00E00
+protein-containing complex assembly (GO:0065003)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+regulation of sporulation (GO:0043937)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+intracellular protein transmembrane transport (GO:0065002)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+regulation of DNA-templated transcription elongation (GO:0032784)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+protein-containing complex organization (GO:0043933)	9	0	.02	-	 < 0.01	1.00E00	1.00E00
+cytidine catabolic process (GO:0006216)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+amino-acid betaine biosynthetic process (GO:0006578)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+amino-acid betaine metabolic process (GO:0006577)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+biogenic amine metabolic process (GO:0006576)	15	0	.03	-	 < 0.01	1.00E00	1.00E00
+cellular modified amino acid metabolic process (GO:0006575)	17	0	.04	-	 < 0.01	1.00E00	1.00E00
+pyrimidine nucleoside metabolic process (GO:0006213)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+valine catabolic process (GO:0006574)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+valine metabolic process (GO:0006573)	9	0	.02	-	 < 0.01	1.00E00	1.00E00
+thymine catabolic process (GO:0006210)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+tyrosine biosynthetic process (GO:0006571)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+tyrosine metabolic process (GO:0006570)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+glycol metabolic process (GO:0042844)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+D-glucuronate catabolic process (GO:0042840)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+antibiotic metabolic process (GO:0016999)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+nucleoside bisphosphate biosynthetic process (GO:0033866)	14	0	.03	-	 < 0.01	1.00E00	1.00E00
+nucleoside bisphosphate metabolic process (GO:0033865)	17	0	.04	-	 < 0.01	1.00E00	1.00E00
+DNA methylation on cytosine (GO:0032776)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+C-5 methylation of cytosine (GO:0090116)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+pyrimidine nucleobase catabolic process (GO:0006208)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+'de novo' pyrimidine nucleobase biosynthetic process (GO:0006207)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+tryptophan metabolic process (GO:0006568)	9	0	.02	-	 < 0.01	1.00E00	1.00E00
+pyrimidine nucleobase metabolic process (GO:0006206)	10	0	.02	-	 < 0.01	1.00E00	1.00E00
+threonine catabolic process (GO:0006567)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+positive regulation of cellular biosynthetic process (GO:0031328)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+threonine metabolic process (GO:0006566)	8	0	.02	-	 < 0.01	1.00E00	1.00E00
+negative regulation of cellular biosynthetic process (GO:0031327)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+L-serine catabolic process (GO:0006565)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+D-glucuronate metabolic process (GO:0042839)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+positive regulation of cellular metabolic process (GO:0031325)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+L-serine biosynthetic process (GO:0006564)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+L-serine metabolic process (GO:0006563)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+D-glucarate catabolic process (GO:0042838)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+negative regulation of cellular metabolic process (GO:0031324)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+organic substance catabolic process (GO:1901575)	131	0	.30	-	 < 0.01	1.00E00	1.00E00
+proline catabolic process (GO:0006562)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+proline biosynthetic process (GO:0006561)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+D-glucarate metabolic process (GO:0042836)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+proline metabolic process (GO:0006560)	8	0	.02	-	 < 0.01	1.00E00	1.00E00
+cytokinesis (GO:0000910)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+secondary alcohol biosynthetic process (GO:1902653)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+secondary alcohol metabolic process (GO:1902652)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+L-phenylalanine metabolic process (GO:0006558)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+S-adenosylmethionine biosynthetic process (GO:0006556)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+methionine metabolic process (GO:0006555)	19	0	.04	-	 < 0.01	1.00E00	1.00E00
+organonitrogen compound biosynthetic process (GO:1901566)	326	0	.74	-	 < 0.01	5.34E-01	1.00E00
+lysine catabolic process (GO:0006554)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+lysine metabolic process (GO:0006553)	12	0	.03	-	 < 0.01	1.00E00	1.00E00
+purine nucleobase transmembrane transport (GO:1904823)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+organonitrogen compound catabolic process (GO:1901565)	52	0	.12	-	 < 0.01	1.00E00	1.00E00
+organonitrogen compound metabolic process (GO:1901564)	385	0	.87	-	 < 0.01	5.08E-01	1.00E00
+leucine metabolic process (GO:0006551)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+pyridoxal phosphate biosynthetic process (GO:0042823)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+pyridoxal phosphate metabolic process (GO:0042822)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+cellular response to nutrient (GO:0031670)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+cell morphogenesis (GO:0000902)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+isoleucine metabolic process (GO:0006549)	13	0	.03	-	 < 0.01	1.00E00	1.00E00
+histidine catabolic process (GO:0006548)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+histidine metabolic process (GO:0006547)	14	0	.03	-	 < 0.01	1.00E00	1.00E00
+cellular response to nutrient levels (GO:0031669)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+glycine biosynthetic process (GO:0006545)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+cellular response to extracellular stimulus (GO:0031668)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+glycine metabolic process (GO:0006544)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+vitamin B6 biosynthetic process (GO:0042819)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+response to nutrient levels (GO:0031667)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+glutamine catabolic process (GO:0006543)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+glutamine biosynthetic process (GO:0006542)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+glutamine metabolic process (GO:0006541)	20	0	.05	-	 < 0.01	1.00E00	1.00E00
+vitamin B6 metabolic process (GO:0042816)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+carnitine transport (GO:0015879)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+glutamate catabolic process (GO:0006538)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+glutamate biosynthetic process (GO:0006537)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+glutamate metabolic process (GO:0006536)	11	0	.02	-	 < 0.01	1.00E00	1.00E00
+choline transport (GO:0015871)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+cysteine biosynthetic process from serine (GO:0006535)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+cysteine metabolic process (GO:0006534)	11	0	.02	-	 < 0.01	1.00E00	1.00E00
+aspartate metabolic process (GO:0006531)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+ammonium transmembrane transport (GO:0072488)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+3,4-dihydroxybenzoate biosynthetic process (GO:0046279)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+3,4-dihydroxybenzoate metabolic process (GO:0046278)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+glycosaminoglycan metabolic process (GO:0030203)	19	0	.04	-	 < 0.01	1.00E00	1.00E00
+cytoplasmic translation (GO:0002181)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+asparagine biosynthetic process (GO:0006529)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+asparagine metabolic process (GO:0006528)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+establishment of protein localization (GO:0045184)	16	0	.04	-	 < 0.01	1.00E00	1.00E00
+arginine catabolic process (GO:0006527)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+arginine biosynthetic process (GO:0006526)	11	0	.02	-	 < 0.01	1.00E00	1.00E00
+arginine metabolic process (GO:0006525)	17	0	.04	-	 < 0.01	1.00E00	1.00E00
+intracellular protein transport (GO:0006886)	8	0	.02	-	 < 0.01	1.00E00	1.00E00
+alanine catabolic process (GO:0006524)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+regulation of pH (GO:0006885)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+alanine biosynthetic process (GO:0006523)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+alanine metabolic process (GO:0006522)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+amino acid metabolic process (GO:0006520)	159	0	.36	-	 < 0.01	1.00E00	1.00E00
+ammonium ion metabolic process (GO:0097164)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+positive regulation of molecular function (GO:0044093)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+negative regulation of molecular function (GO:0044092)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+nucleoside transport (GO:0015858)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+peptide metabolic process (GO:0006518)	87	0	.20	-	 < 0.01	1.00E00	1.00E00
+intracellular iron ion homeostasis (GO:0006879)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+nucleobase transport (GO:0015851)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+organic hydroxy compound transport (GO:0015850)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+intracellular calcium ion homeostasis (GO:0006874)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+intracellular monoatomic ion homeostasis (GO:0006873)	9	0	.02	-	 < 0.01	1.00E00	1.00E00
+cellular component biogenesis (GO:0044085)	53	0	.12	-	 < 0.01	1.00E00	1.00E00
+organic acid transport (GO:0015849)	51	0	.12	-	 < 0.01	1.00E00	1.00E00
+carnitine transmembrane transport (GO:1902603)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+proton transmembrane transport (GO:1902600)	32	0	.07	-	 < 0.01	1.00E00	1.00E00
+proteolysis (GO:0006508)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+lipid transport (GO:0006869)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+amino acid transport (GO:0006865)	41	0	.09	-	 < 0.01	1.00E00	1.00E00
+purine nucleobase transport (GO:0006863)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+response to zinc ion (GO:0010043)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+amino-acid betaine transport (GO:0015838)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+organophosphate biosynthetic process (GO:0090407)	112	0	.25	-	 < 0.01	1.00E00	1.00E00
+amine transport (GO:0015837)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+peptide transport (GO:0015833)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+acetoin biosynthetic process (GO:0045151)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+acetoin catabolic process (GO:0045150)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+response to iron ion (GO:0010039)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+response to metal ion (GO:0010038)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+response to inorganic substance (GO:0010035)	11	0	.02	-	 < 0.01	1.00E00	1.00E00
+response to organic substance (GO:0010033)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+galacturonan metabolic process (GO:0010393)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+valine transport (GO:0015829)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+acetoin metabolic process (GO:0045149)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+proline transport (GO:0015824)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+leucine transport (GO:0015820)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+rhamnose metabolic process (GO:0019299)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+tricarboxylic acid transport (GO:0006842)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+siderophore biosynthetic process (GO:0019290)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+isoleucine transport (GO:0015818)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+gamma-aminobutyric acid transport (GO:0015812)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+L-cystine transport (GO:0015811)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+aspartate transmembrane transport (GO:0015810)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+dicarboxylic acid transport (GO:0006835)	4	0	.01	-	 < 0.01	1.00E00	1.00E00
+isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway (GO:0019288)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+pectin catabolic process (GO:0045490)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+protein-RNA complex assembly (GO:0022618)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+glycine betaine biosynthetic process from choline (GO:0019285)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+L-methionine salvage from S-adenosylmethionine (GO:0019284)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+glucan metabolic process (GO:0044042)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+L-methionine biosynthetic process from homoserine via O-succinyl-L-homoserine and cystathionine (GO:0019281)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+ribonucleoprotein complex biogenesis (GO:0022613)	18	0	.04	-	 < 0.01	1.00E00	1.00E00
+indolalkylamine biosynthetic process (GO:0046219)	9	0	.02	-	 < 0.01	1.00E00	1.00E00
+peptidyl-cysteine modification (GO:0018198)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+peptidyl-amino acid modification (GO:0018193)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+L-amino acid transport (GO:0015807)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+protein localization to extracellular region (GO:0071692)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+neutral amino acid transport (GO:0015804)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+pectin metabolic process (GO:0045488)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+branched-chain amino acid transport (GO:0015803)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+zinc ion transport (GO:0006829)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+manganese ion transport (GO:0006828)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+iron ion transport (GO:0006826)	8	0	.02	-	 < 0.01	1.00E00	1.00E00
+copper ion transport (GO:0006825)	3	0	.01	-	 < 0.01	1.00E00	1.00E00
+cobalt ion transport (GO:0006824)	5	0	.01	-	 < 0.01	1.00E00	1.00E00
+L-methionine biosynthetic process from L-homoserine via cystathionine (GO:0019279)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+UDP-N-acetylgalactosamine biosynthetic process (GO:0019277)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+cell wall macromolecule biosynthetic process (GO:0044038)	33	0	.07	-	 < 0.01	1.00E00	1.00E00
+UDP-N-acetylgalactosamine metabolic process (GO:0019276)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+monoatomic anion transport (GO:0006820)	2	0	.00	-	 < 0.01	1.00E00	1.00E00
+cellular component assembly (GO:0022607)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+regulation of cell morphogenesis (GO:0022604)	13	0	.03	-	 < 0.01	1.00E00	1.00E00
+regulation of anatomical structure morphogenesis (GO:0022603)	13	0	.03	-	 < 0.01	1.00E00	1.00E00
+spermine catabolic process (GO:0046208)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+spermidine catabolic process (GO:0046203)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+defense response to other organism (GO:0098542)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+phosphate ion transport (GO:0006817)	6	0	.01	-	 < 0.01	1.00E00	1.00E00
+calcium ion transport (GO:0006816)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+sodium ion transport (GO:0006814)	19	0	.04	-	 < 0.01	1.00E00	1.00E00
+potassium ion transport (GO:0006813)	7	0	.02	-	 < 0.01	1.00E00	1.00E00
+monoatomic cation transport (GO:0006812)	67	0	.15	-	 < 0.01	1.00E00	1.00E00
+monoatomic ion transport (GO:0006811)	74	0	.17	-	 < 0.01	1.00E00	1.00E00
+transport (GO:0006810)	202	0	.46	-	 < 0.01	1.00E00	1.00E00
+glycine biosynthetic process from serine (GO:0019264)	1	0	.00	-	 < 0.01	1.00E00	1.00E00
+N-acetylneuraminate catabolic process (GO:0019262)	2	0	.00	-	 < 0.01	1.00E00	1.00E00

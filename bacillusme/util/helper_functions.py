@@ -623,3 +623,61 @@ def get_biomass_fractions(model,bof):
         else:
             fractions['other'] -= coeff*m.formula_weight        
     return pd.DataFrame.from_dict({'fraction':fractions})
+
+
+## Oct 2023
+def read_curation(filename):
+    df = pd.read_csv(filename,index_col=1)
+    return df[(~df["decision"].isna()) & (df["decision"]!="keep")]
+
+def perform_instruction(reaction, instruction):
+    if instruction == "keep":
+        return
+    elif instruction == "remove":
+        reaction.remove_from_model()
+        return
+    elif instruction == "make_forward":
+        reaction.bounds = (0,1000)
+        return
+    elif instruction == "make_reverse":
+        reaction.bounds = (-1000,0)
+        return
+    elif instruction == "make_reversible":
+        reaction.bounds = (-1000,1000)
+        return
+    elif ":" not in instruction:
+        print("Instruction could not be read: {}".format(instruction))
+        return
+    instruction,effect = instruction.split(":")
+    if instruction == "replace":
+        old_met,new_met = effect.split("_")
+        
+        for met,coeff in reaction.metabolites.items():
+            baseid = re.split("_[e,c,s]{1}$",met.id)[0]
+            compartment = met.compartment
+            if baseid != old_met:
+                continue
+            reaction.add_metabolites(
+                {
+                    met.id : -coeff,
+                    new_met + "_{}".format(compartment) : coeff
+                }
+            )
+    elif instruction == "change_name":
+        reaction.name = effect
+    elif instruction == "change_reaction":
+        reaction.build_reaction_from_string(effect)
+    elif instruction == "change_gpr":
+        reaction.gene_reaction_rule = effect if effect != "no_gene" else ""
+    else:
+        print("Instruction could not be read: {}".format(instruction))
+        return
+def curate_model(model,curation):
+    for r, row in curation.iterrows():
+        if r not in model.reactions:
+            print("{} not in model".format(r))
+            continue
+        reaction = model.reactions.get_by_id(r)
+        instructions = row["decision"].split(",")
+        for i in instructions:
+            perform_instruction(reaction, i)

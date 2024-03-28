@@ -1,0 +1,53 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20231017)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.7942786 Released 2023-01-05
+Analyzed List:	FS_False_MC_False_VG_False.txt (Bacillus subtilis)
+Reference List:	reference.txt (Bacillus subtilis)
+Test Type:	FISHER
+Correction:	FDR
+GO biological process complete	reference.txt - REFLIST (883)	FS_False_MC_False_VG_False.txt (562)	FS_False_MC_False_VG_False.txt (expected)	FS_False_MC_False_VG_False.txt (over/under)	FS_False_MC_False_VG_False.txt (fold Enrichment)	FS_False_MC_False_VG_False.txt (raw P-value)	FS_False_MC_False_VG_False.txt (FDR)
+transmembrane transport (GO:0055085)	186	168	118.38	+	1.42	1.65E-04	7.62E-03
+localization (GO:0051179)	202	182	128.57	+	1.42	8.97E-05	4.94E-03
+establishment of localization (GO:0051234)	202	182	128.57	+	1.42	8.97E-05	4.76E-03
+transport (GO:0006810)	202	182	128.57	+	1.42	8.97E-05	4.59E-03
+metabolic process (GO:0008152)	663	372	421.98	-	.88	3.23E-04	1.40E-02
+cellular metabolic process (GO:0044237)	609	330	387.61	-	.85	7.50E-05	4.30E-03
+organic substance metabolic process (GO:0071704)	614	327	390.79	-	.84	1.27E-05	9.08E-04
+primary metabolic process (GO:0044238)	497	245	316.32	-	.77	2.63E-06	2.21E-04
+organic cyclic compound metabolic process (GO:1901360)	249	116	158.48	-	.73	1.24E-03	4.55E-02
+nitrogen compound metabolic process (GO:0006807)	453	209	288.32	-	.72	1.47E-07	1.50E-05
+organonitrogen compound metabolic process (GO:1901564)	385	172	245.04	-	.70	7.72E-07	6.91E-05
+cellular aromatic compound metabolic process (GO:0006725)	231	102	147.02	-	.69	4.19E-04	1.76E-02
+nucleobase-containing compound metabolic process (GO:0006139)	178	73	113.29	-	.64	4.68E-04	1.91E-02
+cellular nitrogen compound metabolic process (GO:0034641)	309	126	196.67	-	.64	2.98E-07	2.85E-05
+biosynthetic process (GO:0009058)	441	172	280.68	-	.61	3.20E-13	6.55E-11
+organic substance biosynthetic process (GO:1901576)	435	169	276.86	-	.61	4.29E-13	7.68E-11
+cellular biosynthetic process (GO:0044249)	406	152	258.41	-	.59	4.65E-13	7.40E-11
+cellular nitrogen compound biosynthetic process (GO:0044271)	260	96	165.48	-	.58	9.04E-08	9.96E-06
+organonitrogen compound biosynthetic process (GO:1901566)	326	118	207.49	-	.57	1.05E-10	1.36E-08
+amide metabolic process (GO:0043603)	140	44	89.11	-	.49	5.24E-06	4.17E-04
+cellular component organization or biogenesis (GO:0071840)	68	19	43.28	-	.44	6.17E-04	2.45E-02
+macromolecule metabolic process (GO:0043170)	188	44	119.66	-	.37	2.50E-12	3.57E-10
+amide biosynthetic process (GO:0043604)	120	25	76.38	-	.33	5.09E-09	6.07E-07
+cellular component biogenesis (GO:0044085)	53	11	33.73	-	.33	1.93E-04	8.65E-03
+nucleic acid metabolic process (GO:0090304)	69	14	43.92	-	.32	1.28E-05	8.73E-04
+RNA metabolic process (GO:0016070)	63	12	40.10	-	.30	1.49E-05	9.70E-04
+macromolecule biosynthetic process (GO:0009059)	148	23	94.20	-	.24	1.38E-14	3.28E-12
+ncRNA metabolic process (GO:0034660)	37	3	23.55	-	.13	9.19E-06	6.93E-04
+tRNA metabolic process (GO:0006399)	28	2	17.82	-	.11	8.99E-05	4.44E-03
+protein metabolic process (GO:0019538)	93	6	59.19	-	.10	1.30E-14	3.71E-12
+aromatic amino acid family biosynthetic process (GO:0009073)	19	1	12.09	-	.08	8.75E-04	3.39E-02
+aromatic amino acid metabolic process (GO:0009072)	19	1	12.09	-	.08	8.75E-04	3.30E-02
+gene expression (GO:0010467)	101	4	64.28	-	.06	6.78E-18	4.85E-15
+peptide biosynthetic process (GO:0043043)	87	3	55.37	-	.05	6.01E-16	2.87E-13
+peptide metabolic process (GO:0006518)	87	3	55.37	-	.05	6.01E-16	2.15E-13
+tRNA aminoacylation for protein translation (GO:0006418)	19	0	12.09	-	 < 0.01	1.41E-04	6.74E-03
+translation (GO:0006412)	84	0	53.46	-	 < 0.01	3.07E-19	4.39E-16
+teichoic acid metabolic process (GO:0046374)	14	0	8.91	-	 < 0.01	1.40E-03	5.00E-02
+tRNA aminoacylation (GO:0043039)	21	0	13.37	-	 < 0.01	4.15E-05	2.58E-03
+amino acid activation (GO:0043038)	21	0	13.37	-	 < 0.01	4.15E-05	2.48E-03
+teichoic acid biosynthetic process (GO:0019350)	14	0	8.91	-	 < 0.01	1.40E-03	4.87E-02

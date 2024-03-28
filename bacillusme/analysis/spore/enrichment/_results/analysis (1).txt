@@ -1,0 +1,120 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20231017)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.7942786 Released 2023-01-05
+Analyzed List:	FS_False_MC_False_VG_True.txt (Bacillus subtilis)
+Reference List:	reference.txt (Bacillus subtilis)
+Test Type:	FISHER
+Correction:	FDR
+GO biological process complete	reference.txt - REFLIST (883)	FS_False_MC_False_VG_True.txt (65)	FS_False_MC_False_VG_True.txt (expected)	FS_False_MC_False_VG_True.txt (over/under)	FS_False_MC_False_VG_True.txt (fold Enrichment)	FS_False_MC_False_VG_True.txt (raw P-value)	FS_False_MC_False_VG_True.txt (FDR)
+chorismate biosynthetic process (GO:0009423)	7	7	.52	+	13.58	1.21E-05	5.79E-04
+isopentenyl diphosphate metabolic process (GO:0046490)	7	7	.52	+	13.58	1.21E-05	5.61E-04
+isopentenyl diphosphate biosynthetic process (GO:0009240)	7	7	.52	+	13.58	1.21E-05	5.43E-04
+isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway (GO:0019288)	7	7	.52	+	13.58	1.21E-05	5.27E-04
+quinone biosynthetic process (GO:1901663)	9	8	.66	+	12.08	4.74E-06	3.23E-04
+quinone metabolic process (GO:1901661)	9	8	.66	+	12.08	4.74E-06	3.09E-04
+menaquinone biosynthetic process (GO:0009234)	9	8	.66	+	12.08	4.74E-06	2.95E-04
+menaquinone metabolic process (GO:0009233)	9	8	.66	+	12.08	4.74E-06	2.83E-04
+terpenoid metabolic process (GO:0006721)	8	7	.59	+	11.89	2.15E-05	8.33E-04
+chorismate metabolic process (GO:0046417)	8	7	.59	+	11.89	2.15E-05	8.11E-04
+terpenoid biosynthetic process (GO:0016114)	8	7	.59	+	11.89	2.15E-05	7.91E-04
+glyceraldehyde-3-phosphate metabolic process (GO:0019682)	8	7	.59	+	11.89	2.15E-05	7.71E-04
+folic acid biosynthetic process (GO:0046656)	6	5	.44	+	11.32	4.36E-04	9.46E-03
+isoprenoid metabolic process (GO:0006720)	13	10	.96	+	10.45	6.51E-07	6.21E-05
+isoprenoid biosynthetic process (GO:0008299)	13	10	.96	+	10.45	6.51E-07	5.83E-05
+folic acid-containing compound biosynthetic process (GO:0009396)	7	5	.52	+	9.70	7.08E-04	1.37E-02
+tetrahydrofolate biosynthetic process (GO:0046654)	7	5	.52	+	9.70	7.08E-04	1.35E-02
+pteridine-containing compound biosynthetic process (GO:0042559)	7	5	.52	+	9.70	7.08E-04	1.33E-02
+ketone biosynthetic process (GO:0042181)	12	8	.88	+	9.06	2.08E-05	8.28E-04
+flavin-containing compound biosynthetic process (GO:0042727)	6	4	.44	+	9.06	3.10E-03	4.30E-02
+flavin-containing compound metabolic process (GO:0042726)	6	4	.44	+	9.06	3.10E-03	4.26E-02
+riboflavin metabolic process (GO:0006771)	6	4	.44	+	9.06	3.10E-03	4.22E-02
+leucine biosynthetic process (GO:0009098)	6	4	.44	+	9.06	3.10E-03	4.18E-02
+riboflavin biosynthetic process (GO:0009231)	6	4	.44	+	9.06	3.10E-03	4.14E-02
+leucine metabolic process (GO:0006551)	6	4	.44	+	9.06	3.10E-03	4.10E-02
+pyrimidine nucleobase biosynthetic process (GO:0019856)	8	5	.59	+	8.49	1.09E-03	1.86E-02
+folic acid metabolic process (GO:0046655)	8	5	.59	+	8.49	1.09E-03	1.84E-02
+'de novo' UMP biosynthetic process (GO:0044205)	10	6	.74	+	8.15	3.84E-04	9.02E-03
+folic acid-containing compound metabolic process (GO:0006760)	9	5	.66	+	7.55	1.61E-03	2.47E-02
+tetrahydrofolate metabolic process (GO:0046653)	9	5	.66	+	7.55	1.61E-03	2.45E-02
+pteridine-containing compound metabolic process (GO:0042558)	9	5	.66	+	7.55	1.61E-03	2.42E-02
+aromatic amino acid family biosynthetic process (GO:0009073)	19	10	1.40	+	7.15	8.18E-06	4.34E-04
+aromatic amino acid metabolic process (GO:0009072)	19	10	1.40	+	7.15	8.18E-06	4.19E-04
+dicarboxylic acid biosynthetic process (GO:0043650)	25	13	1.84	+	7.06	3.16E-07	4.12E-05
+pyrimidine nucleobase metabolic process (GO:0006206)	10	5	.74	+	6.79	2.28E-03	3.34E-02
+pyrimidine ribonucleoside monophosphate biosynthetic process (GO:0009174)	12	6	.88	+	6.79	7.98E-04	1.48E-02
+pyrimidine ribonucleoside monophosphate metabolic process (GO:0009173)	12	6	.88	+	6.79	7.98E-04	1.46E-02
+UMP metabolic process (GO:0046049)	12	6	.88	+	6.79	7.98E-04	1.45E-02
+UMP biosynthetic process (GO:0006222)	12	6	.88	+	6.79	7.98E-04	1.43E-02
+cellular ketone metabolic process (GO:0042180)	16	8	1.18	+	6.79	9.73E-05	2.84E-03
+pyrimidine ribonucleotide biosynthetic process (GO:0009220)	15	7	1.10	+	6.34	3.87E-04	8.94E-03
+pyrimidine ribonucleotide metabolic process (GO:0009218)	15	7	1.10	+	6.34	3.87E-04	8.80E-03
+pyrimidine nucleoside monophosphate biosynthetic process (GO:0009130)	13	6	.96	+	6.27	1.10E-03	1.84E-02
+pyrimidine nucleoside monophosphate metabolic process (GO:0009129)	13	6	.96	+	6.27	1.10E-03	1.82E-02
+pyrimidine nucleotide metabolic process (GO:0006220)	18	8	1.33	+	6.04	1.85E-04	4.90E-03
+cellular aldehyde metabolic process (GO:0006081)	16	7	1.18	+	5.94	5.27E-04	1.06E-02
+pyrimidine nucleotide biosynthetic process (GO:0006221)	17	7	1.25	+	5.59	7.03E-04	1.38E-02
+phospholipid biosynthetic process (GO:0008654)	21	8	1.55	+	5.18	4.30E-04	9.62E-03
+phospholipid metabolic process (GO:0006644)	21	8	1.55	+	5.18	4.30E-04	9.47E-03
+dicarboxylic acid metabolic process (GO:0043648)	46	15	3.39	+	4.43	4.26E-06	3.05E-04
+ribonucleoside monophosphate metabolic process (GO:0009161)	35	11	2.58	+	4.27	1.34E-04	3.82E-03
+vitamin biosynthetic process (GO:0009110)	37	11	2.72	+	4.04	2.03E-04	5.27E-03
+pyrimidine-containing compound biosynthetic process (GO:0072528)	27	8	1.99	+	4.03	1.69E-03	2.52E-02
+ribonucleoside monophosphate biosynthetic process (GO:0009156)	34	10	2.50	+	4.00	4.41E-04	9.44E-03
+nucleoside monophosphate metabolic process (GO:0009123)	42	12	3.09	+	3.88	1.37E-04	3.78E-03
+pyrimidine-containing compound metabolic process (GO:0072527)	32	9	2.36	+	3.82	1.16E-03	1.86E-02
+water-soluble vitamin biosynthetic process (GO:0042364)	36	10	2.65	+	3.77	6.49E-04	1.29E-02
+vitamin metabolic process (GO:0006766)	40	11	2.94	+	3.74	3.62E-04	8.63E-03
+nucleoside monophosphate biosynthetic process (GO:0009124)	38	10	2.80	+	3.57	9.32E-04	1.65E-02
+lipid biosynthetic process (GO:0008610)	42	11	3.09	+	3.56	5.18E-04	1.06E-02
+water-soluble vitamin metabolic process (GO:0006767)	39	10	2.87	+	3.48	1.11E-03	1.80E-02
+nucleotide biosynthetic process (GO:0009165)	73	17	5.37	+	3.16	4.14E-05	1.32E-03
+nucleoside phosphate biosynthetic process (GO:1901293)	75	17	5.52	+	3.08	5.62E-05	1.68E-03
+organophosphate biosynthetic process (GO:0090407)	112	25	8.24	+	3.03	5.56E-07	5.68E-05
+nucleotide metabolic process (GO:0009117)	87	19	6.40	+	2.97	2.83E-05	9.64E-04
+nucleoside phosphate metabolic process (GO:0006753)	90	19	6.63	+	2.87	4.32E-05	1.35E-03
+organophosphate metabolic process (GO:0019637)	133	28	9.79	+	2.86	2.35E-07	3.36E-05
+organic cyclic compound biosynthetic process (GO:1901362)	173	36	12.73	+	2.83	1.14E-09	3.26E-07
+aromatic compound biosynthetic process (GO:0019438)	156	32	11.48	+	2.79	2.89E-08	5.91E-06
+nucleobase-containing small molecule metabolic process (GO:0055086)	113	20	8.32	+	2.40	2.78E-04	6.86E-03
+small molecule biosynthetic process (GO:0044283)	204	36	15.02	+	2.40	7.87E-08	1.25E-05
+phosphate-containing compound metabolic process (GO:0006796)	177	30	13.03	+	2.30	6.35E-06	3.50E-04
+amino acid biosynthetic process (GO:0008652)	107	18	7.88	+	2.29	1.03E-03	1.80E-02
+heterocycle biosynthetic process (GO:0018130)	161	27	11.85	+	2.28	3.16E-05	1.05E-03
+carbohydrate derivative metabolic process (GO:1901135)	144	24	10.60	+	2.26	1.34E-04	3.75E-03
+carboxylic acid biosynthetic process (GO:0046394)	139	23	10.23	+	2.25	2.21E-04	5.66E-03
+phosphorus metabolic process (GO:0006793)	182	30	13.40	+	2.24	9.61E-06	4.75E-04
+nucleobase-containing compound biosynthetic process (GO:0034654)	105	17	7.73	+	2.20	3.08E-03	4.33E-02
+organic cyclic compound metabolic process (GO:1901360)	249	39	18.33	+	2.13	3.96E-07	4.72E-05
+cellular aromatic compound metabolic process (GO:0006725)	231	35	17.00	+	2.06	5.74E-06	3.29E-04
+amino acid metabolic process (GO:0006520)	159	24	11.70	+	2.05	5.14E-04	1.07E-02
+organic acid biosynthetic process (GO:0016053)	158	23	11.63	+	1.98	1.52E-03	2.37E-02
+cellular biosynthetic process (GO:0044249)	406	59	29.89	+	1.97	3.10E-13	1.11E-10
+small molecule metabolic process (GO:0044281)	433	61	31.87	+	1.91	4.34E-14	6.22E-11
+organic substance biosynthetic process (GO:1901576)	435	61	32.02	+	1.90	8.48E-14	6.07E-11
+carboxylic acid metabolic process (GO:0019752)	260	36	19.14	+	1.88	3.91E-05	1.27E-03
+biosynthetic process (GO:0009058)	441	61	32.46	+	1.88	1.22E-13	5.80E-11
+oxoacid metabolic process (GO:0043436)	266	36	19.58	+	1.84	5.00E-05	1.52E-03
+organonitrogen compound biosynthetic process (GO:1901566)	326	42	24.00	+	1.75	1.69E-05	6.91E-04
+heterocycle metabolic process (GO:0046483)	236	30	17.37	+	1.73	1.44E-03	2.27E-02
+organic acid metabolic process (GO:0006082)	288	36	21.20	+	1.70	3.52E-04	8.53E-03
+organonitrogen compound metabolic process (GO:1901564)	385	46	28.34	+	1.62	2.64E-05	9.24E-04
+nitrogen compound metabolic process (GO:0006807)	453	48	33.35	+	1.44	4.44E-04	9.35E-03
+organic substance metabolic process (GO:0071704)	614	64	45.20	+	1.42	5.80E-09	1.38E-06
+cellular metabolic process (GO:0044237)	609	63	44.83	+	1.41	5.13E-08	9.19E-06
+primary metabolic process (GO:0044238)	497	50	36.59	+	1.37	1.05E-03	1.81E-02
+metabolic process (GO:0008152)	663	64	48.81	+	1.31	4.87E-07	5.36E-05
+macromolecule metabolic process (GO:0043170)	188	4	13.84	-	.29	2.06E-03	3.04E-02
+macromolecule biosynthetic process (GO:0009059)	148	1	10.89	-	.09	2.74E-04	6.89E-03
+transmembrane transport (GO:0055085)	186	1	13.69	-	.07	1.33E-05	5.59E-04
+localization (GO:0051179)	202	1	14.87	-	.07	2.59E-06	2.18E-04
+establishment of localization (GO:0051234)	202	1	14.87	-	.07	2.59E-06	2.06E-04
+transport (GO:0006810)	202	1	14.87	-	.07	2.59E-06	1.95E-04
+translation (GO:0006412)	84	0	6.18	-	 < 0.01	2.84E-03	4.11E-02
+gene expression (GO:0010467)	101	0	7.43	-	 < 0.01	1.17E-03	1.86E-02
+peptide biosynthetic process (GO:0043043)	87	0	6.40	-	 < 0.01	2.84E-03	4.07E-02
+organic substance transport (GO:0071702)	120	0	8.83	-	 < 0.01	1.59E-04	4.30E-03
+peptide metabolic process (GO:0006518)	87	0	6.40	-	 < 0.01	2.84E-03	4.03E-02

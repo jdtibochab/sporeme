@@ -1,8 +1,8 @@
 ,locus_id,in_model,FS_essential,VG_essential,active,depends on
-acdA,BSU37170,True,False,False,True,"acdA, fadA, fadN"
+acdA,BSU37170,True,False,False,False,"sufU, fadA, fadN, sigE, pdhC, pdhB, pdhD, pdhA, pckA, citB, icd, acdA, odhA, odhB"
 acoA,BSU08060,True,False,False,False,
 acoB,BSU08070,True,False,False,False,
-acoC,BSU08080,False,False,False,False,
+acoC,BSU08080,True,False,False,False,
 acsA,BSU29680,True,False,False,False,
 addA,BSU10630,False,False,False,False,
 argB,BSU11210,True,False,True,False,
@@ -14,8 +14,8 @@ argJ,BSU11200,True,False,True,False,
 asnB,BSU30540,True,False,False,False,
 bioB,BSU30200,True,False,False,False,
 carB,BSU11240,True,False,False,False,
-citB,BSU18000,True,False,False,True,"citB, sufU"
-citZ,BSU29140,True,False,False,False,
+citB,BSU18000,True,False,False,False,"sufU, citB"
+citZ,BSU29140,True,False,False,False,"sufU, pdhC, pdhB, pdhD, pdhA, pckA, citB, citZ, icd"
 cysC,BSU15600,True,False,False,False,
 dat,BSU09670,False,False,False,False,
 dhaS,BSU19310,True,False,False,False,
@@ -25,14 +25,14 @@ dhbE,BSU31980,True,False,False,False,
 divIVA,BSU15420,False,False,False,False,
 etfA,BSU28520,False,False,False,False,
 etfB,BSU28530,False,False,False,False,
-fadN,BSU32840,True,False,False,True,"fadA, fadN"
+fadN,BSU32840,True,False,False,False,"fadA, fadN, sigE"
 ftsZ,BSU15290,False,False,False,False,
 gapB,BSU29020,True,False,False,False,
 glpX,BSU37090,False,False,False,False,
 hemZ,BSU09840,True,False,False,False,
 hpf,BSU35310,False,False,False,False,
 ilvB,BSU28310,True,False,False,False,
-ilvC,BSU28290,True,False,True,True,"ilvD, ilvC, bcd, rpiB, sufU, gndA"
+ilvC,BSU28290,True,False,True,False,"sufU, mccB, mccA, maeB, trxA, pdhD, ilvD, ilvC"
 ilvE,BSU02390,True,False,False,False,
 leuA,BSU28280,True,False,True,False,
 leuB,BSU28270,True,False,True,False,
@@ -40,40 +40,40 @@ leuD,BSU28250,True,False,True,False,
 licH,BSU38560,True,False,False,False,
 lutB,BSU34040,False,False,False,False,
 lutC,BSU34030,False,False,False,False,
-mdh,BSU29120,True,False,False,True,"mdh, fumC, pgk, gapA"
+mdh,BSU29120,True,False,False,False,mdh
 metC,BSU11880,True,False,False,False,
-metE,BSU13180,True,False,True,False,
-metI,BSU11870,True,False,True,False,
-nadC,BSU27860,True,False,True,True,"ribC, nadA, nadB, nadC, sufU"
+metE,BSU13180,True,False,True,False,"yvrB, glnA, glmS, metE, aspB, cmk, metI, hom, sucD, sucC, samT, adk, fumC, metAA, cysH, sat, asd, pdhC, pdhB, pdhA, sigKc, sigKn, cysJ, cysI, pckA, citB, mdh, icd, odhA, odhB"
+metI,BSU11870,True,False,True,False,"aspB, maeB, metI, hom, sucD, sucC, adk, metAA, trxA, cysH, sat, asd, pdhC, pdhB, pdhD, pdhA, sigKc, sigKn, cysJ, cysI, pckA, citB, icd, odhA, odhB"
+nadC,BSU27860,True,False,True,False,
 ndh,BSU12290,True,False,False,False,
 pabA,BSU00750,True,False,True,False,
-pckA,BSU30560,True,False,False,False,
-pdhD,BSU14610,True,False,False,False,
+pckA,BSU30560,True,False,False,False,pckA
+pdhD,BSU14610,True,False,False,False,pdhD
 pksJ,BSU17180,False,False,False,False,
 purC,BSU06450,True,False,True,False,
-purL,BSU06480,True,False,False,False,
+purL,BSU06480,True,False,True,False,
 pyrAA,BSU15510,True,False,False,False,
 pyrAB,BSU15520,True,False,False,False,
 rapA,BSU12430,False,False,False,False,
 rapC,BSU03770,False,False,False,False,
 rapK,BSU18910,False,False,False,False,
-rocD,BSU40340,True,False,False,False,
+rocD,BSU40340,True,False,False,False,"sucD, sucC, pdhC, pdhB, pdhA, rocD, pckA"
 rsbW,BSU04720,False,False,False,False,
-samT,BSU11010,True,False,True,False,
-sat,BSU15590,True,False,True,False,
+samT,BSU11010,True,False,True,False,"yvrB, glnA, glmS, metE, aspB, cmk, metI, hom, sucD, sucC, samT, adk, fumC, metAA, cysH, sat, asd, pdhC, pdhB, pdhA, sigKc, sigKn, cysJ, cysI, pckA, citB, mdh, icd, odhA, odhB"
+sat,BSU15590,True,False,True,False,"aspB, maeB, metI, hom, sucD, sucC, adk, metAA, trxA, cysH, sat, asd, pdhC, pdhB, pdhD, pdhA, sigKc, sigKn, cysJ, cysI, pckA, citB, icd, odhA, odhB"
 sdaAA,BSU15860,True,False,False,False,
 sdaAB,BSU15850,True,False,False,False,
 sdhA,BSU28440,True,False,False,False,
 sdhB,BSU28430,True,False,False,False,
-sigB,BSU04730,True,True,True,True,
-sigE,BSU15320,True,False,True,True,sigE
-sigF,BSU23450,True,True,False,True,
+sigB,BSU04730,True,True,True,False,
+sigE,BSU15320,True,False,False,False,sigE
+sigF,BSU23450,True,True,False,False,
 skfB,BSU01920,False,False,False,False,
 srfAB,BSU03490,False,False,False,False,
 srfAC,BSU03510,False,False,False,False,
 srfAD,BSU03520,False,False,False,False,
-sucC,BSU16090,True,False,False,True,"sucC, sucD, hprT, deoB, scoB, scoA, gmk, yfkN, sigE, tpiA, pgk, gapA, prs, adk"
-sucD,BSU16100,True,False,False,True,"sucC, sucD, hprT, deoB, scoB, scoA, gmk, yfkN, sigE, tpiA, pgk, gapA, prs, adk"
+sucC,BSU16090,True,False,False,False,"sucD, sucC"
+sucD,BSU16100,True,False,False,False,"sucD, sucC"
 thrC,BSU32250,True,False,True,False,
 thrD,BSU03790,True,False,False,False,
 tuaD,BSU35580,True,False,False,False,

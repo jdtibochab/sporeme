@@ -1,4 +1,0 @@
-,lb,ub,rxn_flux,met_flux,reaction
-ACNPLYS_REV_CPLX_dummy_s,0,999999.0,0.04365678655211394,-0.04365678655211394,acnam_s + pi_s <=> -4.27350427350427e-6*sigma CPLX_dummy_s + acmana_s + h2o_s + pep_s
-ACNAMt2_FWD_CPLX_dummy_s,0,999999.0,0.04365678655211394,0.04365678655211394,acnam_c + h_c <=> -4.27350427350427e-6*sigma CPLX_dummy_s + acnam_s + h_s
-ACNPLYS_FWD_CPLX_dummy_s,0,999999.0,0.0,0.0,acmana_s + h2o_s + pep_s <=> -4.27350427350427e-6*sigma CPLX_dummy_s + acnam_s + pi_s

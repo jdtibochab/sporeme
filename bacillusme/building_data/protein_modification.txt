@@ -139,3 +139,5 @@ BSU28290-MONOMER_mod_mg2	BSU28290-MONOMER	mg2()	M_protein_recon
 BSU32680-MONOMER_mod_1:2fe2s	BSU32680-MONOMER	2fe2s(1)	M_protein_recon
 BSU32680-MONOMER_mod_1:4fe4s	BSU32680-MONOMER	4fe4s(1)	M_protein_recon
 BSU15920-MONOMER_mod_pan4p	BSU15920-MONOMER	pan4p()	M_protein_recon
+CPLX8J2-219_mod_mg2	CPLX8J2-219	mg2()	M_protein_recon
+

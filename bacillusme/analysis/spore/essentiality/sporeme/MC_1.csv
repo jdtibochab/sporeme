@@ -1,0 +1,223 @@
+,FS,MC,VG,name,annotation,model
+BSU21910,False,True,True,metAA,homoserine O-acetyltransferase,S_Amino_acids_and_related_molecules
+BSU28500,False,True,True,trxA,thioredoxin,Expression
+BSU15570,False,True,True,cysH,(phospho)adenosine phosphosulfate reductase,S_Amino_acids_and_related_molecules
+BSU15590,False,True,True,sat,sulfate adenylyltransferase,S_Phosphate_and_sulfur
+BSU16770,False,True,True,dapA,4-hydroxy-tetrahydrodipicolinate synthase,S_Amino_acids_and_related_molecules
+BSU16750,False,True,True,asd,aspartate-semialdehyde dehydrogenase,S_Amino_acids_and_related_molecules
+BSU28090,True,True,True,valS,valyl-tRNA synthetase,Expression
+BSU33630,True,True,True,secG,preprotein translocase subunit,Expression
+BSU04740,False,True,True,rsbX,serine phosphatase,S_Amino_acids_and_related_molecules
+BSU29790,False,True,True,murC,UDP-N-acetyl muramate-alanine ligase,S_Cell_wall
+BSU00750,False,True,True,pabA,4-amino-4-deoxychorismate synthase4-amino-4-deoxychorismate synthase; anthranilate synthase (subunit II)anthranilate synthase,S_Amino_acids_and_related_molecules
+BSU29670,True,True,True,tyrS,tyrosyl-tRNA synthetase,Expression
+BSU00820,True,True,True,lysS,lysyl-tRNA synthetase,Expression
+BSU27270,True,True,True,mtnN,methylthioadenosine / S-adenosylhomocysteine nucleosidase,S_Nucleotides_and_nucleic_acids
+BSU40910,True,True,True,rpsF,ribosomal protein S6 (BS9),Expression
+BSU37330,True,True,True,argS,arginyl-tRNA synthetase,Expression
+BSU40890,True,True,True,rpsR,ribosomal protein S18,Expression
+BSU11220,False,True,True,argD,N-acetylornithine aminotransferase,S_Amino_acids_and_related_molecules
+BSU11250,False,True,True,argF,ornithine carbamoyltransferase,S_Amino_acids_and_related_molecules
+BSU11190,False,True,True,argC,N-acetylglutamate gamma-semialdehyde dehydrogenase,S_Amino_acids_and_related_molecules
+BSU25270,True,True,True,glyQ,glycyl-tRNA synthetaseglycyl-tRNA synthetase (alpha subunit),Expression
+BSU25260,True,True,True,glyS,glycyl-tRNA synthetaseglycyl-tRNA synthetase (beta subunit),Expression
+BSU11200,False,True,True,argJ,ornithine acetyltransferase; amino-acid acetyltransferase,S_Amino_acids_and_related_molecules
+BSU00940,True,True,True,cysS,dual cysteinyl-tRNA synthetase; cysteine persulfide synthase,Expression
+BSU11210,False,True,True,argB,N-acetylglutamate 5-phosphotransferase (acetylglutamate kinase),S_Amino_acids_and_related_molecules
+BSU11870,False,True,True,metI,cystathionine gamma-synthase and O-acetylhomoserine thiolyase,S_Amino_acids_and_related_molecules
+BSU28230,True,True,True,tig,prolyl isomerase (trigger factor),Expression
+BSU32250,False,True,True,thrC,threonine synthase,S_Amino_acids_and_related_molecules
+BSU32260,False,True,True,hom,homoserine dehydrogenase,S_Amino_acids_and_related_molecules
+BSU32240,False,True,True,thrB,homoserine kinase,S_Amino_acids_and_related_molecules
+BSU25550,True,True,True,rpsT,ribosomal protein S20 (BS20),Expression
+BSU00990,True,True,True,rpmGB,ribosomal protein L33,Expression
+BSU00550,True,True,True,mfd,transcription-repair coupling factor,Expression
+BSU01000,True,True,True,secE,preprotein translocase subunit,Expression
+BSU01010,True,True,True,nusG,RNA polymerase elongation pause factor/intrinsic transcription termination factor NusG,Expression
+BSU01020,True,True,True,rplK,ribosomal protein L11 (BL11),Expression
+BSU01030,True,True,True,rplA,ribosomal protein L1 (BL1),Expression
+BSU01080,True,True,True,rpoC,"RNA polymerase, &sigma;HRNA polymerase, &sigma;BRNA polymerase, &sigma;ARNA polymerase, &sigma;YRNA polymerase, &sigma;FRNA polymerase, &sigma;MRNA polymerase, &sigma;XRNA polymerase, &sigma;ZRNA polymerase, &sigma;WRNA polymerase, &sigma;KRNA polymerase, two-subunit &sigma;-factorRNA polymerase, &sigma;ERNA polymerase, ECF-type &sigma;RNA polymerase, core enzymeRNA polymerase, &sigma;VRNA polymerase, &sigma;DRNA polymerase (beta' subunit)RNA polymerase, &sigma;GRNA polymerase, &sigma;IRNA polymerase, &sigma;L",Expression
+BSU01100,True,True,True,rpsL,ribosomal protein S12 (BS12),Expression
+BSU01110,True,True,True,rpsG,ribosomal protein S7 (BS7),Expression
+BSU01120,True,True,True,fusA,elongation factor G,Expression
+BSU01130,True,True,True,tufA,elongation factor Tu,Expression
+BSU01150,True,True,True,rpsJ,ribosomal protein S10 (BS13); transcription antitermination factor,Expression
+BSU01170,True,True,True,rplD,ribosomal protein L4,Expression
+BSU01160,True,True,True,rplC,ribosomal protein L3 (BL3),Expression
+BSU17460,False,True,True,glnA,glutamine synthetase,S_Amino_acids_and_related_molecules
+BSU27940,True,True,True,rpmA,ribosomal protein L27 (BL24),Expression
+BSU01070,True,True,True,rpoB,"RNA polymerase, &sigma;HRNA polymerase, &sigma;BRNA polymerase, &sigma;ARNA polymerase, &sigma;YRNA polymerase, &sigma;FRNA polymerase, &sigma;MRNA polymerase, &sigma;XRNA polymerase, &sigma;ZRNA polymerase, &sigma;WRNA polymerase, &sigma;KRNA polymerase, two-subunit &sigma;-factorRNA polymerase, &sigma;ERNA polymerase, ECF-type &sigma;RNA polymerase, core enzymeRNA polymerase (beta subunit)RNA polymerase, &sigma;VRNA polymerase, &sigma;DRNA polymerase, &sigma;GRNA polymerase, &sigma;IRNA polymerase, &sigma;L",Expression
+BSU00130,True,True,True,serS,seryl-tRNA synthetase,Expression
+BSU15140,True,True,True,rsmH,putative 16S rRNA m4C1402 methyltransferase,Expression
+BSU28950,True,True,True,thrS,threonyl-tRNA synthetase,Expression
+BSU24410,False,True,,spoIIIAC,stage III sporulation protein (feeding tube apparatus),S_Transport
+BSU24370,False,True,,spoIIIAG,stage III sporulation engulfment assembly protein,S_Transport
+BSU24390,False,True,,spoIIIAE,stage III sporulation protein (feeding tube apparatus),S_Transport
+BSU24360,False,True,,spoIIIAH,SpoIIIAH-SpoIIQ complexstage III sporulation ratchet engulfment protein,S_Transport
+BSU24430,False,True,,spoIIIAA,ATP-binding stage III sporulation protein,S_Transport
+BSU24380,False,True,,spoIIIAF,stage III sporulation protein (feeding tube apparatus),S_Transport
+BSU24400,False,True,,spoIIIAD,stage III sporulation protein (feeding tube apparatus),S_Transport
+BSU24420,False,True,,spoIIIAB,stage III sporulation protein (feeding tube apparatus),S_Transport
+BSU15320,False,True,False,sigE,"RNA polymerase, &sigma;ERNA polymerase sporulation-specific sigma-29 factor (sigma-E)",Expression
+BSU29620,False,True,True,hisK,histidinol phosphate phosphatase,S_Amino_acids_and_related_molecules
+BSU29660,True,True,True,rpsD,ribosomal protein S4 (BS4),Expression
+BSU36900,True,True,True,glyA,serine hydroxymethyltransferase,S_Amino_acids_and_related_molecules
+BSU33900,True,True,True,eno,enolase,S_Carbohydrates_and_related_molecules
+BSU00380,True,True,True,metS,methionyl-tRNA synthetase,S_Other_function
+BSU00500,True,True,True,glmU,bifunctional glucosamine-1-phosphate N-acetyltransferase/UDP-N-acetylglucosamine pyrophosphorylase,S_Cell_wall
+BSU40500,True,True,True,rplI,ribosomal protein L9,Expression
+BSU01770,True,True,True,glmM,phosphoglucosamine mutase,S_Carbohydrates_and_related_molecules
+BSU16780,True,True,True,rnjB,dual activity 5' exo-and endoribonuclease J2RNase J complex,Expression
+BSU15200,False,True,True,murD,UDP-N-acetylmuramoylalanyl-D-glutamate ligase,S_Cell_wall
+BSU15220,False,True,True,murG,UDP-N-acetylglucosamine-N-acetylmuramyl- (pentapeptide)pyrophosphoryl-undecaprenol N-acetylglucosamine transferase,S_Cell_wall
+BSU15230,False,True,True,murB,UDP-N-acetylenolpyruvoylglucosamine reductase,S_Cell_wall
+BSU15180,False,True,True,murE,"UDP-N-acetylmuramoylalanyl-D-glutamate-2, 6-diaminopimelate ligase",S_Cell_wall
+BSU15190,False,True,True,mraY,phospho-N-acetylmuramoyl-pentapeptide undecaprenyl phosphate (C55P) transferase,S_Cell_wall
+BSU16650,True,True,True,rbfA,pre-ribosomal (17S) RNA binding factor A,Expression
+BSU16630,True,True,True,infB,initiation factor IF-2,Expression
+BSU16600,True,True,True,nusA,intrinsic transcription termination factor NusA,Expression
+BSU37160,True,True,True,rpoE,"RNA polymerase, &sigma;HRNA polymerase, &sigma;BRNA polymerase, &sigma;ARNA polymerase, &sigma;YRNA polymerase, &sigma;FRNA polymerase, &sigma;MRNA polymerase, &sigma;XRNA polymerase, &sigma;ZRNA polymerase, &sigma;WRNA polymerase, &sigma;KRNA polymerase, two-subunit &sigma;-factorRNA polymerase, &sigma;ERNA polymerase, ECF-type &sigma;RNA polymerase, core enzymeRNA polymerase, &sigma;VRNA polymerase, &sigma;DRNA polymerase (delta subunit) and transcriptional repressorRNA polymerase, &sigma;GRNA polymerase, &sigma;IRNA polymerase, &sigma;L",Expression
+BSU22490,False,True,True,dapB,"(4S)-4-hydroxy-2,3,4, 5-tetrahydro-(2S)-dipicolinic acid (HTPA) dehydratase reductase",S_Amino_acids_and_related_molecules
+BSU25290,True,True,True,era,maturation of 16S RNA and assembly of 30S ribosomal subunit GTPase,Expression
+BSU28640,True,True,True,pheS,phenylalanyl-tRNA synthetase (alpha subunit)phenylalanyl-tRNA synthetase,Expression
+BSU15820,True,True,True,rpmB,ribosomal protein L28,Expression
+BSU14180,False,True,True,dapH,tetrahydrodipicolinate N-acetyltransferase,S_Amino_acids_and_related_molecules
+BSU14000,False,True,True,dapX,"N-acetyl-L,L-diaminopimelate aminotransferase",S_Amino_acids_and_related_molecules
+BSU14190,False,True,True,dapI,<i>N</i>-acetyl-diaminopimelate deacetylase,S_Amino_acids_and_related_molecules
+BSU15080,True,True,True,rpmF,ribosomal protein L32,Expression
+BSU15690,True,True,True,rpoZ,"RNA polymerase, &sigma;HRNA polymerase, &sigma;BRNA polymerase, &sigma;ARNA polymerase, &sigma;YRNA polymerase, &sigma;FRNA polymerase, &sigma;MRNA polymerase, &sigma;XRNA polymerase, &sigma;ZRNA polymerase, &sigma;WRNA polymerase, &sigma;KRNA polymerase, two-subunit &sigma;-factorRNA polymerase, &sigma;ERNA polymerase, ECF-type &sigma;RNA polymerase, core enzymeRNA polymerase, &sigma;VRNA polymerase, &sigma;Domega subunit of RNA polymeraseRNA polymerase, &sigma;GRNA polymerase, &sigma;IRNA polymerase, &sigma;L",Expression
+BSU15720,True,True,True,defA,peptide deformylase,S_Amino_acids_and_related_molecules
+BSU15430,True,True,True,ileS,isoleucyl-tRNA synthetase,Expression
+BSU15730,True,True,True,fmt,methionyl-tRNA formyltransferase,S_Other_function
+BSU15750,True,True,True,rlmN,23S rRNA m2A2503 methyltransferase and tRNA A37 C2 methyltransferase,Expression
+BSU16040,True,True,True,rplS,ribosomal protein L19,Expression
+BSU16670,False,True,True,ribC,riboflavin biosynthesis protein RibC,S_Coenzymes_and_prosthetic_groups
+BSU16490,True,True,True,rpsB,ribosomal protein S2,Expression
+BSU16500,True,True,True,tsf,elongation factor Ts,Expression
+BSU16020,True,True,True,rimM,16S rRNA processing protein,Expression
+BSU16520,True,True,True,frr,ribosome recycling factor,Expression
+BSU16570,True,True,True,proS,prolyl-tRNA synthetase,Expression
+BSU16680,True,True,True,rpsO,ribosomal protein S15 (BS18),Expression
+BSU16690,True,True,True,pnpA,polynucleotide phosphorylase (PNPase),Expression
+BSU16960,True,True,True,rny,endoribonuclease Y,Expression
+BSU22370,False,True,True,aspB,anabolic oxaloacetate / glutamate aminotransferase,S_Amino_acids_and_related_molecules
+BSU23380,False,True,True,lysA,"meso-2,6-diaminopimelate decarboxylase",S_Amino_acids_and_related_molecules
+BSU22360,True,True,True,asnS,asparaginyl-tRNA synthetase,Expression
+BSU22880,True,True,True,rpfA,RNA degradation presenting factor (ribosomal protein S1 homolog),Expression
+BSU24900,True,True,True,rpmGA,ribosomal protein L33,Expression
+BSU25410,True,True,True,rpsU,ribosomal protein S21,Expression
+BSU27320,True,True,True,greA,transcription elongation factor resolving backtracking / stalling,Expression
+BSU27560,True,True,True,hisS,histidyl-tRNA synthetase,Expression
+BSU27550,True,True,True,aspS,"aspartyl-tRNA synthetase, promiscuous (also recognizes tRNAasn)",Expression
+BSU27410,True,True,True,alaS,alanyl-tRNA synthetase,Expression
+BSU27650,True,True,True,secDF,protein-export membrane protein,Expression
+BSU27960,True,True,True,rplU,ribosomal protein L21 (BL20),Expression
+BSU35290,True,True,True,prfB,peptide chain release factor 2,Expression
+BSU35300,True,True,True,secA,translocase binding subunit (ATPase),Expression
+BSU15980,True,True,True,ffh,signal recognition particle-like (SRP) GTPase,Expression
+BSU21870,False,True,True,ilvD,dihydroxy-acid dehydratase,S_Amino_acids_and_related_molecules
+BSU06470,False,True,True,purQ,phosphoribosylformylglycinamidine synthetasephosphoribosylformylglycinamidine synthetase subunit I,S_Nucleotides_and_nucleic_acids
+BSU06480,False,True,True,purL,phosphoribosylformylglycinamidine synthetasephosphoribosylformylglycinamidine synthetase subunit II,S_Nucleotides_and_nucleic_acids
+BSU06440,False,True,True,purB,adenylosuccinate lyase,S_Nucleotides_and_nucleic_acids
+BSU06500,False,True,True,purM,phosphoribosylaminoimidazole synthetase,S_Nucleotides_and_nucleic_acids
+BSU06490,False,True,True,purF,glutamine phosphoribosylpyrophosphate amidotransferase,S_Nucleotides_and_nucleic_acids
+BSU06450,False,True,True,purC,phosphoribosylaminoimidazole succinocarboxamide synthetase,S_Nucleotides_and_nucleic_acids
+BSU06430,False,True,True,purK,N5-carboxyaminoimidazole ribonucleotide synthase,S_Nucleotides_and_nucleic_acids
+BSU06520,False,True,True,purH,fused phosphoribosylaminoimidazole carboxy formyl formyltransferase; inosine-monophosphate cyclohydrolase,S_Nucleotides_and_nucleic_acids
+BSU06530,False,True,True,purD,phosphoribosylglycinamide synthetase,S_Nucleotides_and_nucleic_acids
+BSU06460,False,True,True,purS,phosphoribosylformylglycinamidine synthetasefactor required for phosphoribosylformylglycinamidine synthetase activity,
+BSU30320,True,True,True,leuS,leucyl-tRNA synthetase,Expression
+BSU14540,True,True,True,rnpZA,"RNA polymerase, &sigma;HRNA polymerase, &sigma;BRNA polymerase, &sigma;ARNA polymerase, &sigma;YRNA polymerase, &sigma;FRNA polymerase, &sigma;MRNA polymerase, &sigma;XRNA polymerase (epsilon subunit)RNA polymerase, &sigma;ZRNA polymerase, &sigma;WRNA polymerase, &sigma;KRNA polymerase, two-subunit &sigma;-factorRNA polymerase, &sigma;ERNA polymerase, ECF-type &sigma;RNA polymerase, core enzymeRNA polymerase, &sigma;VRNA polymerase, &sigma;DRNA polymerase, &sigma;GRNA polymerase, &sigma;IRNA polymerase, &sigma;L",Expression
+BSU14530,True,True,True,rnjA,RNase J complexribonuclease J1,Expression
+BSU22620,False,True,True,hisC,histidinol-phosphate aminotransferase; tyrosine/phenylalanine aminotransferase (promiscuous),S_Amino_acids_and_related_molecules
+BSU22680,False,True,True,trpE,anthranilate synthase,S_Amino_acids_and_related_molecules
+BSU22640,False,True,True,trpB,tryptophan synthasetryptophan synthase (beta subunit),S_Amino_acids_and_related_molecules
+BSU22650,False,True,True,trpF,phosphoribosylanthranilate isomerase,S_Amino_acids_and_related_molecules
+BSU22660,False,True,True,trpC,indole-3-glycerol phosphate synthase,S_Amino_acids_and_related_molecules
+BSU22630,False,True,True,trpA,tryptophan synthasetryptophan synthase (alpha subunit),S_Amino_acids_and_related_molecules
+BSU22670,False,True,True,trpD,anthranilate phosphoribosyltransferase,S_Amino_acids_and_related_molecules
+BSU28290,False,True,True,ilvC,acetohydroxy-acid isomeroreductase (NADP-dependent),S_Amino_acids_and_related_molecules
+BSU06030,True,True,True,groEL,chaperoninchaperonin large subunit,Expression
+BSU06020,True,True,True,groES,chaperoninchaperonin small subunit,Expression
+BSU01050,True,True,True,rplL,ribosomal protein L12 (BL9),Expression
+BSU01040,True,True,True,rplJ,ribosomal protein L10 (BL5),Expression
+BSU26390,False,True,True,sigKc,"RNA polymerase sporulation-specific sigma factor (pro-&sigma;K)RNA polymerase, &sigma;KRNA polymerase sporulation-specific sigma-K factor precursor (Sigma-27) (C-terminal fragment)",Expression
+BSU25760,False,True,True,sigKn,"RNA polymerase sporulation-specific sigma factor (pro-&sigma;K)RNA polymerase, &sigma;KRNA polymerase sporulation-specific sigma-K factor precursor (Sigma-27) (N-terminal half)",Expression
+BSU29190,True,True,True,pfkA,6-phosphofructokinase,S_Carbohydrates_and_related_molecules
+BSU24310,True,True,True,folD,methylenetetrahydrofolate dehydrogenase; methenyltetrahydrofolate cyclohydrolase,S_Coenzymes_and_prosthetic_groups
+BSU25200,True,True,True,sigA,"RNA polymerase major sigma-43 factor (sigma-A)RNA polymerase, &sigma;A",Expression
+BSU28850,True,True,True,rplT,ribosomal protein L20,Expression
+BSU28860,True,True,True,rpmI,ribosomal protein L35,Expression
+BSU28870,True,True,True,infC,initiation factor IF-3,Expression
+BSU41060,True,True,True,rpmH,ribosomal protein L34,Expression
+BSU15990,True,True,True,rpsP,ribosomal protein S16 (BS17),Expression
+BSU23840,True,True,True,rnz,ribonuclease Z,Expression
+BSU30550,True,True,True,metK,S-adenosylmethionine synthetase,S_Amino_acids_and_related_molecules
+BSU33440,False,True,True,cysJ,assimilatory sulfite reductase (flavoprotein alpha-subunit)sulfite reductase,S_Phosphate_and_sulfur
+BSU11420,True,True,True,trpS,tryptophanyl-tRNA synthetase,Expression
+BSU33430,False,True,True,cysI,assimilatory sulfite reductase (hemoprotein beta-subunit)sulfite reductase,S_Phosphate_and_sulfur
+BSU37070,True,True,True,rpmEA,ribosomal protein L31,Expression
+BSU28630,True,True,True,pheT,phenylalanyl-tRNA synthetase (beta subunit)phenylalanyl-tRNA synthetase,Expression
+BSU01210,True,True,True,rplV,ribosomal protein L22 (BL17),Expression
+BSU01180,True,True,True,rplW,ribosomal protein L23,Expression
+BSU01250,True,True,True,rpsQ,ribosomal protein S17 (BS16),Expression
+BSU01230,True,True,True,rplP,ribosomal protein L16,Expression
+BSU01220,True,True,True,rpsC,ribosomal protein S3 (BS3),Expression
+BSU01240,True,True,True,rpmC,ribosomal protein L29,Expression
+BSU01270,True,True,True,rplX,ribosomal protein L24 (BL23),Expression
+BSU01260,True,True,True,rplNA,ribosomal protein L14,Expression
+BSU01200,True,True,True,rpsS,ribosomal protein S19 (BS19),Expression
+BSU01190,True,True,True,rplB,ribosomal protein L2 (BL2),Expression
+BSU01290,True,True,True,rpsNA,ribosomal protein S14,Expression
+BSU01340,True,True,True,rpmD,ribosomal protein L30 (BL27),Expression
+BSU01280,True,True,True,rplE,ribosomal protein L5 (BL6),Expression
+BSU01320,True,True,True,rplR,ribosomal protein L18,Expression
+BSU01330,True,True,True,rpsE,ribosomal protein S5,Expression
+BSU01310,True,True,True,rplF,ribosomal protein L6 (BL8),Expression
+BSU01300,True,True,True,rpsH,ribosomal protein S8 (BS8),Expression
+BSU01350,True,True,True,rplO,ribosomal protein L15,Expression
+BSU01360,True,True,True,secY,preprotein translocase subunit,Expression
+BSU01380,True,True,True,mapA,methionine aminopeptidase,Expression
+BSU04560,False,True,True,ddlA,D-alanyl-D-alanine ligase A,S_Cell_wall
+BSU04570,False,True,True,murF,"UDP-N-acetylmuramoylalanyl-D-glutamyl-2, 6-diaminopimelate-D-alanyl-D-alanine ligase",S_Cell_wall
+BSU01390,True,True,True,infA,initiation factor IF-I,Expression
+BSU01400,True,True,True,rpmJ,ribosomal protein L36 (ribosomal protein B),Expression
+BSU04640,False,True,True,alrA,D-alanine racemase,S_Amino_acids_and_related_molecules
+BSU01420,True,True,True,rpsK,ribosomal protein S11 (BS11),Expression
+BSU01430,True,True,True,rpoA,"RNA polymerase, &sigma;HRNA polymerase, &sigma;BRNA polymerase, &sigma;ARNA polymerase, &sigma;YRNA polymerase, &sigma;FRNA polymerase, &sigma;MRNA polymerase, &sigma;XRNA polymerase, &sigma;ZRNA polymerase, &sigma;WRNA polymerase, &sigma;KRNA polymerase (alpha subunit)RNA polymerase, two-subunit &sigma;-factorRNA polymerase, &sigma;ERNA polymerase, ECF-type &sigma;RNA polymerase, core enzymeRNA polymerase, &sigma;VRNA polymerase, &sigma;DRNA polymerase, &sigma;GRNA polymerase, &sigma;IRNA polymerase, &sigma;L",Expression
+BSU01410,True,True,True,rpsM,ribosomal protein S13,Expression
+BSU01490,True,True,True,rplM,ribosomal protein L13,Expression
+BSU01500,True,True,True,rpsI,ribosomal protein S9,Expression
+BSU01440,True,True,True,rplQ,ribosomal protein L17 (BL15),Expression
+BSU06670,True,True,True,gatC,glutamyl-tRNA(Gln) amidotransferase (subunit C)glutamyl-tRNA(Gln) amidotransferase,Expression
+BSU06690,True,True,True,gatB,glutamyl-tRNA(Gln) amidotransferase (subunit B)glutamyl-tRNA(Gln) amidotransferase,Expression
+BSU06680,True,True,True,gatA,glutamyl-tRNA(Gln) amidotransferase (subunit A)glutamyl-tRNA(Gln) amidotransferase,Expression
+BSU06730,True,True,True,rlmCD,23S rRNA m<sup>5</sup>U747/m<sup>5</sup>U1939 RNA methyltransferase,Expression
+BSU29450,False,True,True,argG,argininosuccinate synthase,S_Amino_acids_and_related_molecules
+BSU29440,False,True,True,argH,argininosuccinate lyase,S_Amino_acids_and_related_molecules
+BSU31400,False,True,True,yugH,putative aspartate aminotransferase,S_Amino_acids_and_related_molecules
+BSU31150,False,True,True,uppP,undecaprenyl-pyrophosphate phosphatase,S_Cell_wall
+BSU32170,False,True,True,dapF,diaminopimelate epimerase,S_Amino_acids_and_related_molecules
+BSU33170,False,True,True,yvrB,putative vitamin B12 permease,
+BSU32680,False,True,True,sufU,iron-sulfur cluster assembly sulfur-transfer protein (Zn(2+)-dependent),Expression
+BSU34860,False,True,True,hisIE,bifunctional phosphoribosyl-AMP cyclohydrolase; phosphoribosyl-ATP pyrophosphohydrolase,S_Amino_acids_and_related_molecules
+BSU34880,False,True,True,hisA,phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase,S_Amino_acids_and_related_molecules
+BSU34890,False,True,True,hisH,"imidazole glycerol phosphate synthaseimidazole glycerol phosphate synthase, glutamine amidotransferase subunit",S_Amino_acids_and_related_molecules
+BSU34870,False,True,True,hisF,imidazole glycerol phosphate synthaseimidazole glycerol phosphate synthase subunit,S_Amino_acids_and_related_molecules
+BSU34900,False,True,True,hisB,imidazoleglycerol-phosphate dehydratase [Mn(II)-dependent],S_Amino_acids_and_related_molecules
+BSU34910,False,True,True,hisD,histidinol dehydrogenase,S_Amino_acids_and_related_molecules
+BSU34920,False,True,True,hisG,ATP phosphoribosyltransferase,S_Amino_acids_and_related_molecules
+BSU28370,True,True,True,rph,ribonuclease PH,Expression
+BSU30690,True,True,True,ytiB,carbonic anhydrase,S_Other_function
+BSU37010,True,True,True,prfA,peptide chain release factor 1,Expression
+BSU37080,True,True,True,rho,transcriptional terminator Rho,Expression
+BSU41050,True,True,True,rnpA,ribonuclease Pprotein component of ribonuclease P (RNase P) (substrate specificity),Expression
+BSU36800,,True,True,atpC,"ATP synthase (subunit epsilon, F1 subunit)ATP synthase, F1ATP synthase",S_Membrane_bioenergetics
+BSU36840,,True,True,atpH,"ATP synthase, F1ATP synthaseATP synthase (subunit delta, component F1)",S_Membrane_bioenergetics
+BSU36830,,True,True,atpA,"ATP synthase, F1ATP synthaseATP synthase (subunit alpha, component F1)",S_Membrane_bioenergetics
+BSU36820,,True,True,atpG,"ATP synthase, F1ATP synthaseATP synthase (subunit gamma, component F1)",S_Membrane_bioenergetics
+BSU36810,,True,True,atpD,"ATP synthase, F1ATP synthaseATP synthase (subunit beta, component F1)",S_Membrane_bioenergetics
+BSU36870,,True,True,atpB,"ATP synthase (subunit a, component F0)ATP synthaseATP synthase, F0",S_Membrane_bioenergetics
+BSU36850,,True,True,atpF,"ATP synthase (subunit b, component F0)ATP synthaseATP synthase, F0",S_Membrane_bioenergetics
+BSU36860,,True,True,atpE,"ATP synthase (subunit c, component F0)ATP synthaseATP synthase, F0",S_Membrane_bioenergetics
+BSU36880,,True,True,atpI,AtpI protein,S_Membrane_bioenergetics

@@ -1,0 +1,46 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20231017)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.7942786 Released 2023-01-05
+Analyzed List:	FS_True_MC_False_VG_True.txt (Bacillus subtilis)
+Reference List:	reference.txt (Bacillus subtilis)
+Test Type:	FISHER
+Correction:	FDR
+GO biological process complete	reference.txt - REFLIST (883)	FS_True_MC_False_VG_True.txt (40)	FS_True_MC_False_VG_True.txt (expected)	FS_True_MC_False_VG_True.txt (over/under)	FS_True_MC_False_VG_True.txt (fold Enrichment)	FS_True_MC_False_VG_True.txt (raw P-value)	FS_True_MC_False_VG_True.txt (FDR)
+malonyl-CoA biosynthetic process (GO:2001295)	4	4	.18	+	22.07	1.87E-04	9.59E-03
+malonyl-CoA metabolic process (GO:2001293)	4	4	.18	+	22.07	1.87E-04	9.26E-03
+teichoic acid metabolic process (GO:0046374)	14	14	.63	+	22.07	1.88E-13	2.69E-10
+lipoteichoic acid biosynthetic process (GO:0070395)	5	5	.23	+	22.07	2.56E-05	1.83E-03
+lipoteichoic acid metabolic process (GO:0070394)	5	5	.23	+	22.07	2.56E-05	1.74E-03
+teichoic acid biosynthetic process (GO:0019350)	14	14	.63	+	22.07	1.88E-13	1.35E-10
+glycerophospholipid biosynthetic process (GO:0046474)	7	4	.32	+	12.61	8.04E-04	3.84E-02
+glycerolipid biosynthetic process (GO:0045017)	7	4	.32	+	12.61	8.04E-04	3.71E-02
+glycerolipid metabolic process (GO:0046486)	8	4	.36	+	11.04	1.17E-03	5.07E-02
+glycerophospholipid metabolic process (GO:0006650)	8	4	.36	+	11.04	1.17E-03	4.92E-02
+fatty acid biosynthetic process (GO:0006633)	16	8	.72	+	11.04	2.69E-06	2.57E-04
+peptidoglycan-based cell wall biogenesis (GO:0009273)	33	14	1.49	+	9.37	9.47E-10	4.52E-07
+cell wall biogenesis (GO:0042546)	33	14	1.49	+	9.37	9.47E-10	3.39E-07
+cell wall macromolecule biosynthetic process (GO:0044038)	33	14	1.49	+	9.37	9.47E-10	2.71E-07
+lipid biosynthetic process (GO:0008610)	42	15	1.90	+	7.88	1.41E-09	3.37E-07
+cell wall organization or biogenesis (GO:0071554)	41	14	1.86	+	7.54	9.64E-09	1.73E-06
+cell wall organization (GO:0071555)	36	10	1.63	+	6.13	9.71E-06	8.18E-04
+external encapsulating structure organization (GO:0045229)	36	10	1.63	+	6.13	9.71E-06	7.72E-04
+monocarboxylic acid biosynthetic process (GO:0072330)	29	8	1.31	+	6.09	9.31E-05	5.55E-03
+cellular component biogenesis (GO:0044085)	53	14	2.40	+	5.83	1.54E-07	2.21E-05
+lipid metabolic process (GO:0006629)	58	15	2.63	+	5.71	6.00E-08	9.55E-06
+fatty acid metabolic process (GO:0006631)	31	8	1.40	+	5.70	1.39E-04	7.66E-03
+cellular lipid metabolic process (GO:0044255)	57	14	2.58	+	5.42	3.39E-07	4.05E-05
+cellular component organization or biogenesis (GO:0071840)	68	14	3.08	+	4.54	2.26E-06	2.31E-04
+cellular component organization (GO:0016043)	50	10	2.27	+	4.42	1.16E-04	6.64E-03
+carbohydrate derivative biosynthetic process (GO:1901137)	106	21	4.80	+	4.37	2.39E-09	4.90E-07
+carbohydrate derivative metabolic process (GO:1901135)	144	21	6.52	+	3.22	3.68E-07	4.05E-05
+organic acid biosynthetic process (GO:0016053)	158	22	7.16	+	3.07	3.32E-07	4.32E-05
+macromolecule biosynthetic process (GO:0009059)	148	17	6.70	+	2.54	1.78E-04	9.42E-03
+small molecule biosynthetic process (GO:0044283)	204	22	9.24	+	2.38	3.21E-05	2.00E-03
+cellular biosynthetic process (GO:0044249)	406	32	18.39	+	1.74	2.86E-05	1.86E-03
+organic substance biosynthetic process (GO:1901576)	435	34	19.71	+	1.73	6.03E-06	5.40E-04
+biosynthetic process (GO:0009058)	441	34	19.98	+	1.70	1.27E-05	9.57E-04
+amino acid metabolic process (GO:0006520)	159	0	7.20	-	 < 0.01	8.45E-04	3.78E-02

@@ -1,0 +1,10 @@
+,FS,MC,VG,name,annotation,model
+BSU24410,False,True,,spoIIIAC,stage III sporulation protein (feeding tube apparatus),S_Transport
+BSU24370,False,True,,spoIIIAG,stage III sporulation engulfment assembly protein,S_Transport
+BSU24390,False,True,,spoIIIAE,stage III sporulation protein (feeding tube apparatus),S_Transport
+BSU24360,False,True,,spoIIIAH,SpoIIIAH-SpoIIQ complexstage III sporulation ratchet engulfment protein,S_Transport
+BSU24430,False,True,,spoIIIAA,ATP-binding stage III sporulation protein,S_Transport
+BSU24380,False,True,,spoIIIAF,stage III sporulation protein (feeding tube apparatus),S_Transport
+BSU24400,False,True,,spoIIIAD,stage III sporulation protein (feeding tube apparatus),S_Transport
+BSU24420,False,True,,spoIIIAB,stage III sporulation protein (feeding tube apparatus),S_Transport
+BSU15320,False,True,False,sigE,"RNA polymerase, &sigma;ERNA polymerase sporulation-specific sigma-29 factor (sigma-E)",Expression
