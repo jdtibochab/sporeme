@@ -138,3 +138,4 @@ dmypy.json
 
 # Zip files
 *.zip
+bacillusme/analysis/spore/tmp/
