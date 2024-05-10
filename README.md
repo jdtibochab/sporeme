@@ -5,8 +5,9 @@ SPOREme contains all the information and building scripts required to construct 
 [documentation](https://cobrame.readthedocs.io) for further instructions on 
 how to build and solve ME-models. Minor changes were necessary for COBRAme to function with this organism, so find the modified COBRAme we used for *i*JT964-ME [here](https://github.com/jdtibochab/cobrame).
 
-If you are using BACILLUSme or *i*JT964-ME, please cite [doi:10.1038/s41540-022-00259-0](https://www.nature.com/articles/s41540-022-00259-0).
+SporeME2 files and model are available in bacillusme/analysis/spore. The notebooks are listed in numerical order and reproduce the reconstruction and findings of the manuscript.
 
+If you are using BACILLUSme or *i*JT964-ME, please cite [doi:10.1038/s41540-022-00259-0](https://www.nature.com/articles/s41540-022-00259-0).
 
 ## Installation
 
