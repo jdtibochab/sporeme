@@ -32,6 +32,7 @@ There are two main folder locations that correspond to the two main steps of thi
 
    - Notebooks 1, 2, and 3 reconstruct the updated ME-model of _B. subtilis_, and individual the ME-models of the mother cell and forespore, respectively.
    - The data used for ME-model building (following previously used formatting and structure, see ECOLIme and BACILLUSme), is in [building_data](https://github.com/jdtibochab/sporeme/tree/main/bacillusme/building_data). Notebooks 1 and 2 generate input files used for ME-model building (already provided in building_data/, so there is no need to re-run).
+   - The output models are stored in ``me_models/``, as ``solution.pickle``, ``solution_mother.pickle``, and ``olution_spore.pickle``.
 
 2. Reconstruction of SporeME2: **Location**: [sporeme/bacillusme/analysis/spore/](https://github.com/jdtibochab/sporeme/tree/main/bacillusme/analysis/spore/)
 
