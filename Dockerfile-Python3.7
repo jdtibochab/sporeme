@@ -62,13 +62,23 @@ WORKDIR /root/cobrame/
 RUN python setup.py clean build install
 
 # Download sporeme
-WORKDIR /root/
+WORKDIR /opt/
 RUN git clone https://github.com/jdtibochab/sporeme.git
-WORKDIR /root/sporeme/
+WORKDIR /opt/sporeme/
+RUN python setup.py clean build install
+
+# Download solveme
+WORKDIR /root/
+RUN git clone https://github.com/SBRG/solvemepy.git
+WORKDIR /root/solvemepy/
+# Copy compiled solver files
+RUN cp /opt/sporeme/solver/*.so ./qminospy/
+# Copy solver setup
+RUN cp /opt/sporeme/solver/setup.py ./
 RUN python setup.py clean build install
 
 # Set the working directory
-WORKDIR /opt/notebooks
+WORKDIR /opt/
 
 # Set jupyter configuration
 RUN jupyter notebook --generate-config
@@ -77,4 +87,4 @@ RUN jupyter notebook --generate-config
 COPY ./jupyter_notebook_config.json /root/.jupyter/jupyter_notebook_config.json
 
 # Initiate jupyter server at runtime
-#CMD ["jupyter", "notebook", "--notebook-dir=/opt/notebooks", "--port=8888", "--no-browser", "--ip=0.0.0.0", "--allow-root"]
+#CMD ["jupyter", "notebook", "--notebook-dir=/opt", "--port=8888", "--no-browser", "--ip=0.0.0.0", "--allow-root"]

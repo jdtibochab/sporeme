@@ -1,0 +1,9 @@
+{
+  "NotebookApp": {
+    "password": "argon2:$argon2id$v=19$m=10240,t=10,p=8$TFvy0NZWUFytnmUTxz5xTA$rV62KQ5i5b+JftrlXe8raXDSQk0jHEDxS4OPOSQzAHY",
+    "nbserver_extensions": {
+      "nbserverproxy": true,
+      "jupyter_nbextensions_configurator": true
+    }
+  }
+}
