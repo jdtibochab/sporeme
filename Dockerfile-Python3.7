@@ -77,6 +77,7 @@ RUN cp /opt/sporeme/solver/*.so ./qminospy/
 # Copy solver setup
 RUN cp /opt/sporeme/solver/setup.py ./
 RUN python setup.py develop
+RUN mkdir /opt/sporeme/bacillusme/analysis/spore/figures/
 
 # Set the working directory
 WORKDIR /opt/
