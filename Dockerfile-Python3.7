@@ -1,0 +1,80 @@
+# Use the python3 official image as parent image
+FROM python:3.7
+
+# set shell
+RUN export SHELL=/bin/bash
+
+# Update
+RUN echo 'debconf debconf/frontend select Noninteractive' | debconf-set-selections
+RUN apt-get update
+RUN apt-get install -y dialog apt-utils
+RUN apt-get upgrade -y
+RUN apt-get install -y htop git gcc nano
+RUN apt-get install -y libgfortran5
+RUN apt-get install -y libglpk-dev
+RUN apt-get install -y ncbi-blast+
+
+# Install ZenglerLab coralme software stack
+# general purpose
+# RUN python -m pip install pip -U
+RUN python -m pip install wheel
+RUN python -m pip install cython
+#RUN python -m pip install cpython==0.0.6
+
+# data manipulation
+RUN python -m pip install numpy==1.21.6
+RUN python -m pip install scipy==1.7.3
+RUN python -m pip install sympy
+RUN python -m pip install pandas==1.3.5
+
+# pre-requisites
+RUN python -m pip install python-libsbml
+RUN python -m pip install Biopython==1.80
+RUN python -m pip install anyconfig==0.13.0
+RUN python -m pip install pyranges
+RUN python -m pip install xlsxwriter
+RUN python -m pip install openpyxl
+RUN python -m pip install jsonschema
+RUN python -m pip install tqdm
+
+# jupyter and plot
+RUN python -m pip install ipykernel
+RUN python -m pip install matplotlib
+RUN python -m pip install seaborn
+RUN python -m pip install notebook
+RUN python -m pip install versioneer
+RUN python -m pip install importlib-metadata
+
+# Install jupyter notebook extensions (not working)
+# RUN python3 -m pip install jupyter_nbextensions_configurator nbserverproxy
+
+# Download deleted cobrapy version
+WORKDIR /root/
+RUN git clone https://github.com/opencobra/cobrapy.git
+WORKDIR /root/cobrapy/
+RUN git checkout 077ac0a3a59da74d5774c3a17a18428f9540f122 # cobrapy==0.5.11
+RUN python setup.py clean build install
+
+# Download cobrame
+WORKDIR /root/
+RUN git clone https://github.com/jdtibochab/cobrame.git
+WORKDIR /root/cobrame/
+RUN python setup.py clean build install
+
+# Download sporeme
+WORKDIR /root/
+RUN git clone https://github.com/jdtibochab/sporeme.git
+WORKDIR /root/sporeme/
+RUN python setup.py clean build install
+
+# Set the working directory
+WORKDIR /opt/notebooks
+
+# Set jupyter configuration
+RUN jupyter notebook --generate-config
+
+# RUN wget https://raw.githubusercontent.com/glucksfall/zenglerlab/master/jupyter_notebook_config.json --directory-prefix=/root/.jupyter
+COPY ./jupyter_notebook_config.json /root/.jupyter/jupyter_notebook_config.json
+
+# Initiate jupyter server at runtime
+#CMD ["jupyter", "notebook", "--notebook-dir=/opt/notebooks", "--port=8888", "--no-browser", "--ip=0.0.0.0", "--allow-root"]
