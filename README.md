@@ -17,7 +17,7 @@ Install locally
 
 Note: You will need to manually download and install some necessary requirements: [COBRApy](https://github.com/opencobra/cobrapy/releases/tag/0.5.11) 0.5.11, [COBRAme (modified)](https://github.com/sbrg/cobrame), and [solveME](https://github.com/sbrg/solvemepy). solveME requires qMINOS, a quad-precision solver that is available upon request to Prof. Michael A. Saunders at Stanford University
 
-Install using docker
+Install using Docker
 ====================
 1. Clone repository and navigate to sporeme/
 2. ``docker build --file "./Dockerfile-Python3.7" . -t "python3.7-cobrame"``
