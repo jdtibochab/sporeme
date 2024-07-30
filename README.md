@@ -21,7 +21,7 @@ Install using Docker
 ====================
 1. Clone repository and navigate to sporeme/
 2. ``docker build --file "./Dockerfile-Python3.7" . -t "python3.7-cobrame"``
-3. ``docker run --detach -p 10000:8888 -v USER/PATH/TO/coralme/:/opt/notebooks/ python3.10-coralme``
+3. ``docker run --detach -p 10000:8888 python3.7-cobrame``
 4. In your browser, go to ``localhost:10000``
 
 Understanding the layout of this repository
