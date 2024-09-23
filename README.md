@@ -47,7 +47,7 @@ There are two main folder locations that correspond to the two main steps of thi
    - **Notebook 2.4**: Visualizes the activity and cell-specific expression of the QA channel.
    - **Notebook 3.1.1.**: Runs the calculation of the cell-specific protein essentiality analysis.
    - **Notebook 3.1.2.1.**: Reads and analyzes the results of the protein essentiality analysis.
-   - **Notebook 3.1.2.2.**: Prepares GO enrichment analysis input files and analyzes the output.
+   - **Notebook 3.1.2.2.**: Analyzes the output of the GO enrichment analysis.
    - **Notebook 3.1.3.**: Runs conditional activity/inactivity analysis to identify proteome-wide effects of protein depletions.
    - **Notebook 3.1.4.**: Visualizes results from the conditional activity/inactivity analysis and prepares inputs for visualization in Cytoscape.
    - **Notebook 3.2.1.**: Runs the calculation of the cell-specific protein essentiality analysis in the **naive** SporeME2 (containing no cell-specific depletion constraining). 
