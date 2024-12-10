@@ -1,0 +1,975 @@
+,FS,MC,VG,name,annotation,model
+BSU28720,False,False,False,abfA,&alpha;-L-arabinofuranosidase 1,S_Carbohydrates_and_related_molecules
+BSU33040,False,False,False,fumC,fumarate hydratase,S_Carbohydrates_and_related_molecules
+BSU03860,False,False,False,nfrAB,NADPH-FMN oxidoreductase (nitroreductase),S_Membrane_bioenergetics
+BSU28790,False,False,False,araB,L-ribulokinase,S_Carbohydrates_and_related_molecules
+BSU25580,False,False,False,comEB,dCMP deaminase associated to DNA transport (competence),S_Nucleotides_and_nucleic_acids
+BSU29060,False,False,False,coaE,dephosphocoenzyme A kinase,S_Coenzymes_and_prosthetic_groups
+BSU08860,False,False,False,ssuD,FMNH2-dependent aliphatic sulfonate monooxygenase,S_Phosphate_and_sulfur
+BSU37660,False,False,False,pta,phosphotransacetylase,S_Carbohydrates_and_related_molecules
+BSU28800,False,False,False,araA,L-arabinose isomerase,S_Carbohydrates_and_related_molecules
+BSU28780,False,False,False,araD,L-ribulose-5-phosphate 4-epimerase,S_Carbohydrates_and_related_molecules
+BSU39920,False,False,False,asnH,asparagine synthetase (glutamine-hydrolyzing),S_Amino_acids_and_related_molecules
+BSU34130,False,False,False,ganA,"short chain beta-1,4-galacto-oligosaccharides beta-galactosidase (beta-galacto-pyranoside hydrolase)",S_Carbohydrates_and_related_molecules
+BSU30210,False,False,False,bioD,dethiobiotin synthetase,S_Coenzymes_and_prosthetic_groups
+BSU17380,False,False,True,nrdE,ribonucleoside-diphosphate reductaseribonucleoside-diphosphate reductase (major subunit),S_Nucleotides_and_nucleic_acids
+BSU19800,False,False,False,phyC,phytase,S_Carbohydrates_and_related_molecules
+BSU29680,False,False,False,acsA,acetyl-CoA synthetase,S_Carbohydrates_and_related_molecules
+BSU30220,False,False,False,bioFC,8-amino-7-oxononanoate synthase (pimeloyl-CoA-dependent),S_Coenzymes_and_prosthetic_groups
+BSU30200,False,False,False,bioB,biotin synthase,S_Coenzymes_and_prosthetic_groups
+BSU27010,False,False,False,adhA,<em>S</em>-(hydroxymethyl)bacillithiol dehydrogenase,S_Carbohydrates_and_related_molecules
+BSU17390,False,False,True,nrdF,ribonucleoside-diphosphate reductaseribonucleoside-diphosphate reductase (minor subunit),S_Nucleotides_and_nucleic_acids
+BSU30240,False,False,False,bioW,6-carboxyhexanoate-CoA ligase monomer,S_Coenzymes_and_prosthetic_groups
+BSU28080,False,False,True,folC,folyl-polyglutamate synthase,S_Coenzymes_and_prosthetic_groups
+BSU30230,False,False,False,bioK,L-lysine-8-amino-7-oxononanoate aminotransferase,S_Coenzymes_and_prosthetic_groups
+BSU27870,False,False,True,nadB,L-aspartate oxidase,S_Coenzymes_and_prosthetic_groups
+BSU27850,False,False,True,nadA,quinolinate synthetase,S_Coenzymes_and_prosthetic_groups
+BSU21910,False,True,True,metAA,homoserine O-acetyltransferase,S_Amino_acids_and_related_molecules
+BSU27860,False,False,True,nadC,nicotinate-nucleotide pyrophosphorylase (quinolinate phosphoribosyltransferase),S_Coenzymes_and_prosthetic_groups
+BSU14730,False,False,False,sigP,"RNA polymerase ECF-type sigma factorRNA polymerase, ECF-type &sigma;",Expression
+BSU02130,False,False,False,glpQA,secreted glycerophosphoryl diester phosphodiesterase,S_Lipids
+BSU09410,False,False,False,phoA,alkaline phosphatase A,S_Phosphate_and_sulfur
+BSU28500,False,True,True,trxA,thioredoxin,Expression
+BSU15630,False,False,False,sirC,precorrin-2 dehydrogenase,S_Coenzymes_and_prosthetic_groups
+BSU15610,False,False,False,sumT,uroporphyrinogen III and precorrin-1 C-methyltransferase,S_Coenzymes_and_prosthetic_groups
+BSU15570,False,True,True,cysH,(phospho)adenosine phosphosulfate reductase,S_Amino_acids_and_related_molecules
+BSU15620,False,False,False,sirB,sirohydrochlorin ferrochelatase,S_Coenzymes_and_prosthetic_groups
+BSU15590,False,True,True,sat,sulfate adenylyltransferase,S_Phosphate_and_sulfur
+BSU15600,False,False,False,cysC,adenylylsulfate kinase,S_Amino_acids_and_related_molecules
+BSU28440,False,False,False,sdhA,succinate dehydrogenasesuccinate dehydrogenase (flavoprotein subunit),S_Carbohydrates_and_related_molecules
+BSU28430,False,False,False,sdhB,succinate dehydrogenase (iron-sulfur protein)succinate dehydrogenase,S_Carbohydrates_and_related_molecules
+BSU02490,False,False,False,gudD,glucarate dehydratase,S_Carbohydrates_and_related_molecules
+BSU02460,False,False,False,kdgD,5-dehydro-4-deoxyglucarate dehydratase,S_Carbohydrates_and_related_molecules
+BSU02510,False,False,False,garD,D-galactarate dehydratase,S_Carbohydrates_and_related_molecules
+BSU28450,False,False,False,sdhC,succinate dehydrogenase (cytochrome b558 subunit)succinate dehydrogenase,S_Carbohydrates_and_related_molecules
+BSU16770,False,True,True,dapA,4-hydroxy-tetrahydrodipicolinate synthase,S_Amino_acids_and_related_molecules
+BSU16750,False,True,True,asd,aspartate-semialdehyde dehydrogenase,S_Amino_acids_and_related_molecules
+BSU16740,False,False,False,spoVFB,spore dipicolinate synthasespore dipicolinate synthase subunit B,S_Other_function
+BSU16760,False,False,False,dapG,aspartokinase I (alpha and beta subunits),S_Amino_acids_and_related_molecules
+BSU28510,False,False,False,abfB,&alpha;-L-arabinofuranosidase 2,S_Carbohydrates_and_related_molecules
+BSU36920,False,False,True,rpiB,D-ribose 5-phosphate epimerase (promiscuous),S_Carbohydrates_and_related_molecules
+BSU03050,False,False,False,lctE,L-lactate dehydrogenase,S_Membrane_bioenergetics
+BSU16730,False,False,False,spoVFA,spore dipicolinate synthasespore dipicolinate synthase subunit A,S_Other_function
+BSU28090,True,True,True,valS,valyl-tRNA synthetase,Expression
+BSU24130,False,False,False,mmgE,2-methylcitrate dehydratase (promiscuous),S_Carbohydrates_and_related_molecules
+BSU24170,False,False,False,mmgA,degradative acetoacetyl-CoA thiolase,S_Lipids
+BSU24150,False,False,False,mmgC,propionyl-CoA dehydrogenase subunit,S_Lipids
+BSU24160,False,False,False,mmgB,3-hydroxybutyryl-CoA dehydrogenase,S_Lipids
+BSU24120,False,False,False,mmgF,2-methylisocitrate lyase,S_Carbohydrates_and_related_molecules
+BSU24140,False,False,False,mmgD,bifunctional citrate synthase/2-methylcitrate synthase,S_Carbohydrates_and_related_molecules
+BSU10790,False,False,False,asnO,asparagine synthetase (sporulation related),S_Amino_acids_and_related_molecules
+BSU33630,True,True,True,secG,preprotein translocase subunit,Expression
+BSU04740,False,True,True,rsbX,serine phosphatase,S_Amino_acids_and_related_molecules
+BSU39260,False,False,False,bglH,aryl-phospho-beta-d-glucosidase,S_Carbohydrates_and_related_molecules
+BSU07840,False,False,False,yfkN,"exported 2',3'-cyclic-nucleotide 2'-phosphodiesterase, 2' (or 3') nucleotidase and 5' nucleotidase",S_Nucleotides_and_nucleic_acids
+BSU00410,False,False,False,rnmV,ribonuclease M5,Expression
+BSU29200,True,False,True,accA,acetyl-CoA carboxylase (carboxyltransferase alpha subunit)acetyl-CoA carboxylase,S_Lipids
+BSU29210,True,False,True,accD,acetyl-CoA carboxylase (carboxyltransferase beta subunit)acetyl-CoA carboxylase,S_Lipids
+BSU40190,False,False,False,fbp,"fructose-1,6-bisphosphatase",S_Carbohydrates_and_related_molecules
+BSU29790,False,True,True,murC,UDP-N-acetyl muramate-alanine ligase,S_Cell_wall
+BSU00770,False,False,True,folP,dihydropteroate synthase,S_Coenzymes_and_prosthetic_groups
+BSU00750,False,True,True,pabA,4-amino-4-deoxychorismate synthase; anthranilate synthase (subunit II)4-amino-4-deoxychorismate synthaseanthranilate synthase,S_Amino_acids_and_related_molecules
+BSU00790,False,False,True,folK,"7,8-dihydro-6-hydroxymethylpterin pyrophosphokinase",S_Coenzymes_and_prosthetic_groups
+BSU00760,False,False,True,pabC,4-amino-4-deoxychorismate pyruvate-lyase,S_Coenzymes_and_prosthetic_groups
+BSU00740,False,False,True,pabB,4-amino-4-deoxychorismate synthase (para-aminobenzoate synthase)4-amino-4-deoxychorismate synthase,S_Coenzymes_and_prosthetic_groups
+BSU38520,True,False,True,dltC,D-alanyl carrier protein,S_Cell_wall
+BSU38530,True,False,True,dltD,D-alanine carrier protein:PG D-alanyltransferase,S_Cell_wall
+BSU38510,True,False,True,dltB,PG:teichoic acid D-alanyltransferase,S_Cell_wall
+BSU04730,True,False,True,sigB,"RNA polymerase, &sigma;BRNA polymerase sigma-37 factor (sigma(B))",Expression
+BSU00810,False,False,False,dusB,tRNA-dihydrouridine synthase B,Expression
+BSU38500,True,False,True,dltA,D-alanine--[D-alanyl carrier protein] ligase,S_Cell_wall
+BSU00780,False,False,True,folB,dihydroneopterin aldolase,S_Coenzymes_and_prosthetic_groups
+BSU29670,True,True,True,tyrS,tyrosyl-tRNA synthetase,Expression
+BSU00820,True,True,True,lysS,lysyl-tRNA synthetase,Expression
+BSU27260,False,False,False,mccA,cystathionine beta-synthase for the reverse transsulfuration pathway,S_Amino_acids_and_related_molecules
+BSU00090,False,False,False,guaB,inosine-monophosphate dehydrogenase,S_Nucleotides_and_nucleic_acids
+BSU03270,False,False,False,ffoR,Fur-regulated NADPH:ferredoxin oxidoreductase,S_Membrane_bioenergetics
+BSU28300,False,False,False,ilvH,acetolactate synthase (acetohydroxy-acid synthase)acetohydroxy-acid synthase (small subunit),S_Amino_acids_and_related_molecules
+BSU27250,False,False,False,mccB,cystathionine gamma-lyase and homocysteine gamma-lyase for reverse transsulfuration pathway,S_Amino_acids_and_related_molecules
+BSU19230,False,False,False,azoJ,FMN-dependent NADH-azoreductase,S_Lipids
+BSU13010,False,False,False,pgl,6-phosphogluconolactonase,S_Carbohydrates_and_related_molecules
+BSU29220,False,False,False,maeB,"NADP-dependent malic enzyme (conversion of malate into pyruvate, anabolic)",S_Carbohydrates_and_related_molecules
+BSU36590,False,False,False,clsA,cardiolipin synthase (major),S_Lipids
+BSU40040,False,False,False,glxK,D-glycerate kinase,S_Carbohydrates_and_related_molecules
+BSU38490,False,False,True,menA,"1,4-dihydroxy-2-naphthoate octaprenyltransferase",S_Coenzymes_and_prosthetic_groups
+BSU00930,False,False,False,cysE,serine O-acetyltransferase,S_Amino_acids_and_related_molecules
+BSU08650,False,False,False,fabL,enoyl-ACP reductase IIIenoyl-acyl carrier protein reductase III,S_Lipids
+BSU27900,False,False,True,pheA,prephenate dehydratase,S_Amino_acids_and_related_molecules
+BSU14860,False,False,False,pycA,pyruvate carboxylase,S_Carbohydrates_and_related_molecules
+BSU06150,False,False,False,gutB,glucitol (sorbitol) dehydrogenase,S_Carbohydrates_and_related_molecules
+BSU31180,False,False,False,rhaA,L-rhamnose isomerase,S_Carbohydrates_and_related_molecules
+BSU31200,False,False,False,rhaB,rhamnulokinase,S_Carbohydrates_and_related_molecules
+BSU27270,True,True,True,mtnN,methylthioadenosine / S-adenosylhomocysteine nucleosidase,S_Nucleotides_and_nucleic_acids
+BSU40910,True,True,True,rpsF,ribosomal protein S6 (BS9),Expression
+BSU37330,True,True,True,argS,arginyl-tRNA synthetase,Expression
+BSU40890,True,True,True,rpsR,ribosomal protein S18,Expression
+BSU09530,False,False,False,akrN,aldo/keto reductase specific for NADPH; protects against methylglyoxal,S_Carbohydrates_and_related_molecules
+BSU02360,False,False,False,gamA,glucosamine-6-phosphate deaminase,S_Carbohydrates_and_related_molecules
+BSU23800,False,False,False,proI,"pyrroline-5-carboxylate reductase (NADP-dependent, weak activity)",S_Amino_acids_and_related_molecules
+BSU37710,False,False,False,bacD,alanine-anticapsin ligase,S_Amino_acids_and_related_molecules
+BSU11220,False,True,True,argD,N-acetylornithine aminotransferase,S_Amino_acids_and_related_molecules
+BSU11250,False,True,True,argF,ornithine carbamoyltransferase,S_Amino_acids_and_related_molecules
+BSU11190,False,True,True,argC,N-acetylglutamate gamma-semialdehyde dehydrogenase,S_Amino_acids_and_related_molecules
+BSU25270,True,True,True,glyQ,glycyl-tRNA synthetaseglycyl-tRNA synthetase (alpha subunit),Expression
+BSU25260,True,True,True,glyS,glycyl-tRNA synthetaseglycyl-tRNA synthetase (beta subunit),Expression
+BSU11200,False,True,True,argJ,ornithine acetyltransferase; amino-acid acetyltransferase,S_Amino_acids_and_related_molecules
+BSU00940,True,True,True,cysS,dual cysteinyl-tRNA synthetase; cysteine persulfide synthase,Expression
+BSU11240,False,False,False,carB,carbamoyl-phosphate synthetase Aarginine-specific carbamoyl-phosphate synthetase (large subunit),S_Amino_acids_and_related_molecules
+BSU11210,False,True,True,argB,N-acetylglutamate 5-phosphotransferase (acetylglutamate kinase),S_Amino_acids_and_related_molecules
+BSU11230,False,False,False,carA,carbamoyl-phosphate synthetase Aarginine-specific carbamoyl-phosphate synthetase (small subunit),S_Amino_acids_and_related_molecules
+BSU11870,False,True,True,metI,cystathionine gamma-synthase and O-acetylhomoserine thiolyase,S_Amino_acids_and_related_molecules
+BSU11880,False,False,False,metC,cystathionine beta-lyase,S_Amino_acids_and_related_molecules
+BSU39780,False,False,False,iolS,putative aldo-keto reductase,S_Carbohydrates_and_related_molecules
+BSU12920,False,False,False,dppA,D-alanyl-aminopeptidase,S_Amino_acids_and_related_molecules
+BSU18410,False,False,False,ggt,membrane bound gamma-glutamyltranspeptidase,S_Amino_acids_and_related_molecules
+BSU00910,False,False,True,ispF,"2-C-methyl-D-erythritol-2,4-cyclodiphosphate synthase",S_Lipids
+BSU32200,False,False,False,yutJ,putative NADH dehydrogenase,S_Membrane_bioenergetics
+BSU00900,False,False,True,ispD,"2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase, nonmevalonate isoprenoid pathway",S_Lipids
+BSU36000,False,False,False,alsD,alpha-acetolactate decarboxylase,S_Carbohydrates_and_related_molecules
+BSU21770,False,False,False,ilvA,threonine dehydratase,S_Amino_acids_and_related_molecules
+BSU28230,True,True,True,tig,prolyl isomerase (trigger factor),Expression
+BSU09540,True,False,True,plsC,1-acylglycerol-phosphate (1-acyl-G3P) acyltransferase,S_Lipids
+BSU36010,False,False,False,alsS,alpha-acetolactate synthase,S_Amino_acids_and_related_molecules
+BSU34200,True,False,True,sigL,"RNA polymerase, &sigma;LRNA polymerase sigma-54 factor (sigma-L)",Expression
+BSU32250,False,True,True,thrC,threonine synthase,S_Amino_acids_and_related_molecules
+BSU32260,False,True,True,hom,homoserine dehydrogenase,S_Amino_acids_and_related_molecules
+BSU32240,False,True,True,thrB,homoserine kinase,S_Amino_acids_and_related_molecules
+BSU16090,False,False,False,sucC,succinyl-CoA synthetase (beta subunit)succinyl-CoA synthetase,S_Carbohydrates_and_related_molecules
+BSU16100,False,False,False,sucD,succinyl-CoA synthetasesuccinyl-CoA synthetase (alpha subunit),S_Carbohydrates_and_related_molecules
+BSU23070,False,False,True,serA,3-phosphoglycerate dehydrogenase,S_Amino_acids_and_related_molecules
+BSU28540,False,False,False,fadB,enoyl-CoA hydratase,S_Lipids
+BSU28560,False,False,False,lcfA,long chain acyl-CoA ligase (degradative),S_Lipids
+BSU17410,False,False,False,cwlC,N-acetylmuramoyl-L-alanine amidase (sporulation-specific),S_Cell_wall
+BSU11010,False,False,True,samT,"bifunctional homocysteine S-methyltransferase using (R,S)AdoMet and methylenetetrahydrofolate reductase [NAD(P)H]",S_Coenzymes_and_prosthetic_groups
+BSU03150,False,False,True,aroK,shikimate kinase,S_Amino_acids_and_related_molecules
+BSU37120,False,False,False,fbaA,"fructose-1,6-bisphosphate aldolase",S_Carbohydrates_and_related_molecules
+BSU32480,False,False,False,pucD,"xanthine dehydrogenasexanthine dehydrogenase, substrate and molybdenum cofactor subunit",S_Nucleotides_and_nucleic_acids
+BSU23850,False,False,False,zwf,glucose-6-phosphate 1-dehydrogenase (NADP-dependent),S_Carbohydrates_and_related_molecules
+BSU37110,False,False,False,tal,transaldolase,S_Carbohydrates_and_related_molecules
+BSU32510,False,False,False,pucA,xanthine dehydrogenase molybdopterin recruitment factor,S_Nucleotides_and_nucleic_acids
+BSU32500,False,False,False,pucB,putative molybdopterin cofactor synthesis cytidylyl transferase,S_Nucleotides_and_nucleic_acids
+BSU32490,False,False,False,pucC,"xanthine dehydrogenasexanthine dehydrogenase, FAD-binding subunit",S_Nucleotides_and_nucleic_acids
+BSU32470,False,False,False,pucE,"xanthine dehydrogenasexanthine dehydrogenase, iron-sulfur subunit",S_Nucleotides_and_nucleic_acids
+BSU00270,False,False,False,yaaO,putative decarboxylase,S_Amino_acids_and_related_molecules
+BSU00460,False,False,True,ispE,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase,S_Carbohydrates_and_related_molecules
+BSU00680,False,False,False,hprT,hypoxanthine-guanine phosphoribosyltransferase,S_Nucleotides_and_nucleic_acids
+BSU25550,True,True,True,rpsT,ribosomal protein S20 (BS20),Expression
+BSU00990,True,True,True,rpmGB,ribosomal protein L33,Expression
+BSU00280,True,False,True,tmk,thymidylate kinase,S_Nucleotides_and_nucleic_acids
+BSU00550,True,True,True,mfd,transcription-repair coupling factor,Expression
+BSU01000,True,True,True,secE,preprotein translocase subunit,Expression
+BSU01010,True,True,True,nusG,RNA polymerase elongation pause factor/intrinsic transcription termination factor NusG,Expression
+BSU01020,True,True,True,rplK,ribosomal protein L11 (BL11),Expression
+BSU01030,True,True,True,rplA,ribosomal protein L1 (BL1),Expression
+BSU01080,True,True,True,rpoC,"RNA polymerase, &sigma;VRNA polymerase, &sigma;FRNA polymerase, &sigma;MRNA polymerase, &sigma;KRNA polymerase, &sigma;WRNA polymerase, &sigma;IRNA polymerase, ECF-type &sigma;RNA polymerase, &sigma;BRNA polymerase, &sigma;XRNA polymerase, core enzymeRNA polymerase, &sigma;ARNA polymerase, &sigma;ZRNA polymerase, &sigma;ERNA polymerase, two-subunit &sigma;-factorRNA polymerase, &sigma;GRNA polymerase, &sigma;YRNA polymerase, &sigma;HRNA polymerase (beta' subunit)RNA polymerase, &sigma;DRNA polymerase, &sigma;L",Expression
+BSU01100,True,True,True,rpsL,ribosomal protein S12 (BS12),Expression
+BSU01110,True,True,True,rpsG,ribosomal protein S7 (BS7),Expression
+BSU01120,True,True,True,fusA,elongation factor G,Expression
+BSU01130,True,True,True,tufA,elongation factor Tu,Expression
+BSU01150,True,True,True,rpsJ,ribosomal protein S10 (BS13); transcription antitermination factor,Expression
+BSU01170,True,True,True,rplD,ribosomal protein L4,Expression
+BSU01160,True,True,True,rplC,ribosomal protein L3 (BL3),Expression
+BSU14630,False,False,False,speA,arginine decarboxylase,S_Amino_acids_and_related_molecules
+BSU14390,False,False,False,fruK,fructose-1-phosphate kinase,S_Carbohydrates_and_related_molecules
+BSU30540,False,False,False,asnB,meso-diaminopimelic acid amidotransferase (asparagine synthetase),S_Amino_acids_and_related_molecules
+BSU38550,False,False,False,ilvK,branched-chain amino acid aminotransferase,S_Amino_acids_and_related_molecules
+BSU09290,False,False,False,glpK,glycerol kinase (sn-glycerol-3-phosphate generating),S_Carbohydrates_and_related_molecules
+BSU30960,False,False,False,glgD,glucose-1-phosphate adenylyltransferaseglucose-1-phosphate adenylyltransferase (ADP-glucose pyrophosphorylase) beta subunit,S_Carbohydrates_and_related_molecules
+BSU30970,False,False,False,glgC,glucose-1-phosphate adenylyltransferase (ADP-glucose pyrophosphorylase) subunit alphaglucose-1-phosphate adenylyltransferase,S_Carbohydrates_and_related_molecules
+BSU40060,False,False,False,gntK,D-gluconate kinase,S_Carbohydrates_and_related_molecules
+BSU35020,False,False,False,nagBA,glucosamine-6-phosphate isomerase,S_Carbohydrates_and_related_molecules
+BSU30950,False,False,False,glgA,glycogen (starch) synthase,S_Carbohydrates_and_related_molecules
+BSU30940,False,False,False,glgP,glycogen phosphorylase,S_Carbohydrates_and_related_molecules
+BSU30980,False,False,False,glgB,"1,4-alpha-glucan branching enzyme",S_Carbohydrates_and_related_molecules
+BSU35010,False,False,False,nagA,N-acetylglucosamine-6-phosphate deacetylase,S_Carbohydrates_and_related_molecules
+BSU23100,False,False,False,sigX,"RNA polymerase, &sigma;XRNA polymerase ECF(extracytoplasmic function)-type sigma factor sigma(X)",Expression
+BSU32840,False,False,False,fadN,bifunctional enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase,S_Lipids
+BSU32820,False,False,False,fadE,acyl-CoA dehydrogenase (FAD dependent),S_Lipids
+BSU17460,False,True,True,glnA,glutamine synthetase,S_Amino_acids_and_related_molecules
+BSU32830,False,False,False,fadA,acetyl-CoA C-acyltransferase,S_Lipids
+BSU03300,False,False,False,nasD,assimilatory nitrite reductase subunitassimilatory nitrite reductase,S_Amino_acids_and_related_molecules
+BSU03280,False,False,False,nasF,uroporphyrin-III C-methyltransferase,S_Coenzymes_and_prosthetic_groups
+BSU03290,False,False,False,nasE,assimilatory nitrite reductase subunitassimilatory nitrite reductase,S_Amino_acids_and_related_molecules
+BSU11720,False,False,False,fabI,enoyl-acyl carrier protein reductase,S_Lipids
+BSU03990,False,False,False,mtlD,mannitol-1-phosphate 5-dehydrogenase,S_Carbohydrates_and_related_molecules
+BSU27940,True,True,True,rpmA,ribosomal protein L27 (BL24),Expression
+BSU38110,False,False,False,nfrAA,FMN-containing NADPH-linked nitro/flavin reductase,S_Membrane_bioenergetics
+BSU01070,True,True,True,rpoB,"RNA polymerase, &sigma;VRNA polymerase, &sigma;FRNA polymerase, &sigma;MRNA polymerase, &sigma;KRNA polymerase, &sigma;WRNA polymerase, &sigma;IRNA polymerase, ECF-type &sigma;RNA polymerase (beta subunit)RNA polymerase, &sigma;BRNA polymerase, &sigma;XRNA polymerase, core enzymeRNA polymerase, &sigma;ARNA polymerase, &sigma;ZRNA polymerase, &sigma;ERNA polymerase, two-subunit &sigma;-factorRNA polymerase, &sigma;GRNA polymerase, &sigma;YRNA polymerase, &sigma;HRNA polymerase, &sigma;DRNA polymerase, &sigma;L",Expression
+BSU40420,False,False,True,purA,adenylosuccinate synthetase,S_Nucleotides_and_nucleic_acids
+BSU32110,False,False,False,trxBB,ferredoxin/flavodoxin&mdash;NADP<sup>+</sup> reductase,S_Membrane_bioenergetics
+BSU22070,False,False,False,xpt,xanthine phosphoribosyltransferase,S_Nucleotides_and_nucleic_acids
+BSU08820,False,False,False,katA,vegetative catalase 1,S_Other_function
+BSU00130,True,True,True,serS,seryl-tRNA synthetase,Expression
+BSU15140,True,True,True,rsmH,putative 16S rRNA m4C1402 methyltransferase,Expression
+BSU01780,False,False,True,glmS,L-glutamine-D-fructose-6-phosphate amidotransferase,S_Amino_acids_and_related_molecules
+BSU28950,True,True,True,thrS,threonyl-tRNA synthetase,Expression
+BSU23080,False,False,True,aroC,3-dehydroquinate dehydratase,S_Amino_acids_and_related_molecules
+BSU39050,False,False,False,katE,catalase 2,S_Other_function
+BSU03040,False,False,False,amyE,alpha-amylase,S_Carbohydrates_and_related_molecules
+BSU24410,False,True,,spoIIIAC,stage III sporulation protein (feeding tube apparatus),S_Transport
+BSU24370,False,True,,spoIIIAG,stage III sporulation engulfment assembly protein,S_Transport
+BSU24390,False,True,,spoIIIAE,stage III sporulation protein (feeding tube apparatus),S_Transport
+BSU24360,False,True,,spoIIIAH,stage III sporulation ratchet engulfment proteinSpoIIIAH-SpoIIQ complex,S_Transport
+BSU24430,False,True,,spoIIIAA,ATP-binding stage III sporulation protein,S_Transport
+BSU24380,False,True,,spoIIIAF,stage III sporulation protein (feeding tube apparatus),S_Transport
+BSU24400,False,True,,spoIIIAD,stage III sporulation protein (feeding tube apparatus),S_Transport
+BSU24420,False,True,,spoIIIAB,stage III sporulation protein (feeding tube apparatus),S_Transport
+BSU10170,False,False,False,fabHB,beta-ketoacyl-acyl carrier protein synthase III 2,S_Lipids
+BSU35720,True,False,True,tagF,CDP-glycerol:polyglycerol phosphate glycero-phosphotransferase (poly(glycerol phosphate) polymerase),S_Cell_wall
+BSU39540,False,False,False,yxeI,penicillin V amidasepenicillin amidohydrolase,S_Other_function
+BSU12300,False,False,False,uxaC,galacturonate isomerase,S_Carbohydrates_and_related_molecules
+BSU12340,False,False,False,uxuA,D-mannonate dehydratase,S_Carbohydrates_and_related_molecules
+BSU35740,True,False,True,tagD,glycerol-3-phosphate cytidylyltransferase monomerglycerol-3-phosphate cytidylyltransferase,S_Cell_wall
+BSU35730,True,False,True,tagE,UDP-glucose:polyglycerol phosphate alpha-glucosyltransferase,S_Cell_wall
+BSU12330,False,False,False,yjmD,putative oxidoreductase,S_Carbohydrates_and_related_molecules
+BSU12380,False,False,False,uxaB,tagaturonate reductase (altronate oxidoreductase),S_Carbohydrates_and_related_molecules
+BSU12390,False,False,False,uxaA,altronate dehydratase,S_Carbohydrates_and_related_molecules
+BSU38290,False,False,False,thiE,thiamine-phosphate pyrophosphorylase (thiamine phosphate synthase),S_Coenzymes_and_prosthetic_groups
+BSU38300,False,False,False,thiM,5-(2-hydroxyethyl)-4-methylthiazole kinasehydroxyethylthiazole kinase,S_Coenzymes_and_prosthetic_groups
+BSU33400,False,False,False,pgoN,promiscuous glyoxal/methylglyoxal reductase,S_Carbohydrates_and_related_molecules
+BSU13170,False,False,False,guaN,guanine deaminase,S_Nucleotides_and_nucleic_acids
+BSU23450,True,False,False,sigF,"RNA polymerase, &sigma;FRNA polymerase sporulation-specific sigma factor (sigma-F)",Expression
+BSU38630,False,False,False,katX,major catalase in spores,S_Other_function
+BSU27600,False,False,False,rsh,GTP pyrophosphokinase (RelA/SpoT),S_Nucleotides_and_nucleic_acids
+BSU15320,False,True,False,sigE,"RNA polymerase, &sigma;ERNA polymerase sporulation-specific sigma-29 factor (sigma-E)",Expression
+BSU29620,False,True,True,hisK,histidinol phosphate phosphatase,S_Amino_acids_and_related_molecules
+BSU23570,False,False,False,ansB,L-aspartase (aspartate ammonia lyase),S_Amino_acids_and_related_molecules
+BSU23580,False,False,False,ansA,exported L-asparaginase,S_Amino_acids_and_related_molecules
+BSU23860,False,False,False,gndA,NADP<sup>+</sup>-dependent 6-P-gluconate dehydrogenase,S_Carbohydrates_and_related_molecules
+BSU09840,False,False,False,hemZ,coproporphyrinogen III oxidase,S_Coenzymes_and_prosthetic_groups
+BSU23270,False,False,True,ribE,"riboflavin synthase, light enzymelumazine synthase/riboflavin synthase complexriboflavin synthase (alpha subunit)",S_Coenzymes_and_prosthetic_groups
+BSU23280,False,False,True,ribD,fused diaminohydroxyphosphoribosylaminopyrimidine deaminase; 5-amino-6-(5-phosphoribosylamino) uracil reductase,S_Coenzymes_and_prosthetic_groups
+BSU23260,False,False,True,ribBA,"fused 3,4-dihydroxy-2-butanone 4-phosphate synthase and GTP cyclohydrolase II",S_Coenzymes_and_prosthetic_groups
+BSU23250,False,False,True,ribH,"6,7-dimethyl-8-ribityllumazine synthase, beta subunit6,7-dimethyl-8-ribityllumazine synthaselumazine synthase/riboflavin synthase complex",S_Coenzymes_and_prosthetic_groups
+BSU31930,False,False,False,ald,L-alanine dehydrogenase (NAD-dependent),S_Amino_acids_and_related_molecules
+BSU37500,False,False,False,speE,spermidine synthase; polyamine metabolism,S_Amino_acids_and_related_molecules
+BSU37490,False,False,False,speB,agmatinase,S_Amino_acids_and_related_molecules
+BSU17600,False,False,False,xylA,xylose isomerase,S_Carbohydrates_and_related_molecules
+BSU17610,False,False,False,xylB,xylulose kinase,S_Carbohydrates_and_related_molecules
+BSU03790,False,False,False,thrD,aspartate kinase III,S_Amino_acids_and_related_molecules
+BSU00180,False,False,False,tadA,tRNA specific adenosine A34 deaminase,S_Nucleotides_and_nucleic_acids
+BSU29660,True,True,True,rpsD,ribosomal protein S4 (BS4),Expression
+BSU08180,False,False,False,malA,6-phospho-alpha-glucosidase,S_Carbohydrates_and_related_molecules
+BSU02230,False,False,False,purT,phosphoribosylglycinamide formyltransferase 2,S_Nucleotides_and_nucleic_acids
+BSU33910,False,False,False,pgm,phosphoglycerate mutase,S_Carbohydrates_and_related_molecules
+BSU36550,True,False,,spoIIQ,forespore protein required for alternative engulfmentSpoIIIAH-SpoIIQ complex,Expression
+BSU36900,True,True,True,glyA,serine hydroxymethyltransferase,S_Amino_acids_and_related_molecules
+BSU33920,False,False,False,tpiA,triose phosphate isomerase,S_Carbohydrates_and_related_molecules
+BSU33930,False,False,False,pgk,phosphoglycerate kinase,S_Carbohydrates_and_related_molecules
+BSU33940,False,False,False,gapA,"glyceraldehyde-3-phosphate dehydrogenase (NAD-dependent, glycolytic)",S_Carbohydrates_and_related_molecules
+BSU39860,False,False,False,aldX,putative aldehyde dehydrogenase,S_Carbohydrates_and_related_molecules
+BSU04030,False,False,False,ycsD,putative hydroxyacyl-(acyl carrier protein) dehydratase,S_Lipids
+BSU25500,False,False,False,hemN,coproporphyrinogen III oxidase,S_Coenzymes_and_prosthetic_groups
+BSU24350,True,False,True,accB,acetyl-CoA carboxylase subunit (biotin carboxyl carrier subunit),S_Lipids
+BSU00510,False,False,True,prs,phosphoribosylpyrophosphate synthetase,S_Nucleotides_and_nucleic_acids
+BSU24340,True,False,True,accC,acetyl-CoA carboxylase subunit (biotin carboxylase subunit),S_Lipids
+BSU17680,False,False,False,thyA,thymidylate synthase A (phage origin),S_Nucleotides_and_nucleic_acids
+BSU02290,True,False,True,psd,phosphatidylserine decarboxylase; 32 kDa precursor processed into a 29 kDa protein,S_Lipids
+BSU02270,True,False,True,pssA,phosphatidylserine synthase,S_Lipids
+BSU33900,True,True,True,eno,enolase,S_Carbohydrates_and_related_molecules
+BSU00380,True,True,True,metS,methionyl-tRNA synthetase,S_Other_function
+BSU00500,True,True,True,glmU,bifunctional glucosamine-1-phosphate N-acetyltransferase/UDP-N-acetylglucosamine pyrophosphorylase,S_Cell_wall
+BSU06240,False,False,False,bdhA,"acetoin reductase/2,3-butanediol dehydrogenase",S_Carbohydrates_and_related_molecules
+BSU30560,False,False,False,pckA,phosphoenolpyruvate carboxykinase,S_Carbohydrates_and_related_molecules
+BSU36890,False,False,False,upp,uracil phosphoribosyltransferase,S_Nucleotides_and_nucleic_acids
+BSU09440,False,False,False,citA,citrate synthase I,S_Carbohydrates_and_related_molecules
+BSU15110,False,False,False,panE,2-dehydropantoate 2-reductase,S_Coenzymes_and_prosthetic_groups
+BSU35780,False,False,False,lytD,exported N-acetylglucosaminidase (major autolysin) (CWBP90),S_Cell_wall
+BSU10140,False,False,False,hemY,promiscuous protoporphyrinogen IX and coproporphyrinogen III oxidase,S_Coenzymes_and_prosthetic_groups
+BSU29020,False,False,False,gapB,"glyceraldehyde-3-phosphate dehydrogenase (NADP-dependent, gluconeogenesis)",S_Carbohydrates_and_related_molecules
+BSU10120,False,False,False,hemE,uroporphyrinogen III decarboxylase,S_Coenzymes_and_prosthetic_groups
+BSU10130,False,False,False,hemH,coproporphyrin ferrochelatase,S_Coenzymes_and_prosthetic_groups
+BSU29010,False,False,False,speD,S-adenosylmethionine decarboxylase,S_Amino_acids_and_related_molecules
+BSU24080,False,False,False,bcd,branched-chain amino acid dehydrogenase,S_Amino_acids_and_related_molecules
+BSU24070,False,False,False,buk,branched-chain fatty-acid kinase,S_Carbohydrates_and_related_molecules
+BSU24090,False,False,False,ptb,phosphate BCFA and butyryl coenzyme A transferase,S_Carbohydrates_and_related_molecules
+BSU18000,False,False,False,citB,aconitate hydratase (bifunctional aconitase),S_Carbohydrates_and_related_molecules
+BSU29300,False,False,False,ribR,RNA-binding riboflavin kinase,S_Coenzymes_and_prosthetic_groups
+BSU29140,False,False,False,citZ,citrate synthase II,S_Carbohydrates_and_related_molecules
+BSU29120,False,False,False,mdh,malate dehydrogenase (NAD-dependent),S_Carbohydrates_and_related_molecules
+BSU29130,False,False,False,icd,isocitrate dehydrogenase,S_Carbohydrates_and_related_molecules
+BSU40500,True,True,True,rplI,ribosomal protein L9,Expression
+BSU01770,True,True,True,glmM,phosphoglucosamine mutase,S_Carbohydrates_and_related_molecules
+BSU16780,True,True,True,rnjB,RNase J complexdual activity 5' exo-and endoribonuclease J2,Expression
+BSU11330,False,False,False,fabHA,beta-ketoacyl-acyl carrier protein synthase III 1,S_Lipids
+BSU18670,False,False,False,oxdD,oxalate decarboxylase (Mn2+-dependent); spore constituent,S_Carbohydrates_and_related_molecules
+BSU24050,True,False,True,bkdAA,branched-chain alpha-keto acid dehydrogenase E1 subunit,S_Lipids
+BSU40110,False,False,False,bglA,aryl-6-phospho-beta-glucosidase,S_Carbohydrates_and_related_molecules
+BSU01730,False,False,False,sigW,"RNA polymerase, &sigma;WRNA polymerase ECF(extracytoplasmic function)-type sigma factor W",Expression
+BSU03200,False,False,False,putB,proline oxidase,S_Amino_acids_and_related_molecules
+BSU15200,False,True,True,murD,UDP-N-acetylmuramoylalanyl-D-glutamate ligase,S_Cell_wall
+BSU15220,False,True,True,murG,UDP-N-acetylglucosamine-N-acetylmuramyl- (pentapeptide)pyrophosphoryl-undecaprenol N-acetylglucosamine transferase,S_Cell_wall
+BSU24030,True,False,True,bkdB,branched-chain alpha-keto acid dehydrogenase E2 subunit (lipoamide acyltransferase),S_Lipids
+BSU24040,True,False,True,bkdAB,branched-chain alpha-keto acid dehydrogenase E1 subunit,S_Lipids
+BSU15230,False,True,True,murB,UDP-N-acetylenolpyruvoylglucosamine reductase,S_Cell_wall
+BSU15180,False,True,True,murE,"UDP-N-acetylmuramoylalanyl-D-glutamate-2, 6-diaminopimelate ligase",S_Cell_wall
+BSU28120,False,False,False,hemL,"glutamate-1-semialdehyde 2,1-aminomutase",S_Coenzymes_and_prosthetic_groups
+BSU24060,True,False,True,lpdV,branched-chain alpha-keto acid dehydrogenase E3 subunit (dihydrolipoamide dehydrogenase),S_Lipids
+BSU15190,False,True,True,mraY,phospho-N-acetylmuramoyl-pentapeptide undecaprenyl phosphate (C55P) transferase,S_Cell_wall
+BSU28130,False,False,False,hemB,delta-aminolevulinic acid dehydratase (porphobilinogen synthase),S_Coenzymes_and_prosthetic_groups
+BSU28140,False,False,False,hemD,uroporphyrinogen III cosynthase,S_Coenzymes_and_prosthetic_groups
+BSU06360,False,False,True,guaA,GMP synthetase,S_Nucleotides_and_nucleic_acids
+BSU28150,False,False,False,hemC,porphobilinogen deaminase (hydroxymethylbilane synthase),S_Coenzymes_and_prosthetic_groups
+BSU13120,False,False,False,proB,glutamate 5-kinase,S_Amino_acids_and_related_molecules
+BSU13130,False,False,False,proA,gamma-glutamyl phosphate reductase,S_Amino_acids_and_related_molecules
+BSU15930,False,False,False,rnc,ribonuclease III,Expression
+BSU17150,False,False,False,pksG,acetyl-S-AcpK beta-ketothioester bacillaene intermediate transferase,S_Carbohydrates_and_related_molecules
+BSU31750,False,False,False,pncB,nicotinate phosphoribosyltransferase,S_Coenzymes_and_prosthetic_groups
+BSU37170,False,False,False,acdA,acyl-CoA dehydrogenase,S_Lipids
+BSU32130,False,False,False,guaC,GMP reductase (NADP-dependent),S_Nucleotides_and_nucleic_acids
+BSU11340,True,False,True,fabF,beta-ketoacyl-acyl carrier protein synthase II (involved in pimelate synthesis),S_Lipids
+BSU08030,False,False,False,dusC,tRNA-dihydrouridine synthase 2,Expression
+BSU11710,False,False,False,thiD,"phosphomethylpyrimidine kinase, 4-amino-5-hydroxymethyl-2-methylpyrimidine and 4-amino-5-hydroxymethyl-2-methylpyrimidine pyrophosphate kinase",S_Coenzymes_and_prosthetic_groups
+BSU11670,False,False,False,thiO,glycine oxidase,S_Amino_acids_and_related_molecules
+BSU11650,False,False,False,tenA,thiaminase II,S_Coenzymes_and_prosthetic_groups
+BSU38040,False,False,False,sacA,sucrose-6-phosphate hydrolase,S_Carbohydrates_and_related_molecules
+BSU18220,False,False,False,ldeF,methylglutaconyl-CoA hydratase (leucine degradation),S_Lipids
+BSU18230,False,False,False,ldeG,hydroxymethylglutaryl-CoA lyase (leucine degradation),S_Lipids
+BSU18260,False,False,False,ldeJ,isovaleryl-CoA dehydrogenase (leucine degradation),S_Lipids
+BSU16650,True,True,True,rbfA,pre-ribosomal (17S) RNA binding factor A,Expression
+BSU16630,True,True,True,infB,initiation factor IF-2,Expression
+BSU18210,False,False,False,ldeE,methylcrotonoyl-CoA carboxylase subunit (leucine degradation),S_Carbohydrates_and_related_molecules
+BSU16600,True,True,True,nusA,intrinsic transcription termination factor NusA,Expression
+BSU18250,False,False,False,ldeI,acetoacetyl-CoA synthetase,S_Lipids
+BSU13600,False,False,False,mtnX,2-hydroxy-3-keto-5-methylthiopentenyl-1- phosphatephosphatase (HK-MTPenyl-1-P phosphatase),S_Amino_acids_and_related_molecules
+BSU37160,True,True,True,rpoE,"RNA polymerase, &sigma;VRNA polymerase, &sigma;FRNA polymerase, &sigma;MRNA polymerase, &sigma;KRNA polymerase, &sigma;WRNA polymerase, &sigma;IRNA polymerase, ECF-type &sigma;RNA polymerase, &sigma;BRNA polymerase, &sigma;XRNA polymerase, core enzymeRNA polymerase, &sigma;ARNA polymerase, &sigma;ZRNA polymerase, &sigma;ERNA polymerase, two-subunit &sigma;-factorRNA polymerase, &sigma;GRNA polymerase, &sigma;YRNA polymerase, &sigma;HRNA polymerase (delta subunit) and transcriptional repressorRNA polymerase, &sigma;DRNA polymerase, &sigma;L",Expression
+BSU29470,False,False,False,ackA,acetate kinase,S_Carbohydrates_and_related_molecules
+BSU13610,False,False,False,mtnB,methylthioribulose-1-phosphate dehydratase (MTRu-1-P dehydratase),S_Amino_acids_and_related_molecules
+BSU13590,False,False,False,mtnW,"2,3-diketo-5-methylthiopentyl-1-phosphate enolase (DK-MTP-1-P enolase)",S_Amino_acids_and_related_molecules
+BSU15910,True,False,True,fabG,beta-ketoacyl-acyl carrier protein reductase,S_Lipids
+BSU13620,False,False,False,mtnD,acireductone dioxygenase (Ni2+ or Fe2+-requiring),S_Amino_acids_and_related_molecules
+BSU18800,False,False,False,penP,beta-lactamase precursor (putative hydrolase),S_Other_function
+BSU19360,False,False,False,odhB,"2-oxoglutarate dehydrogenase complex (dihydrolipoamide transsuccinylase, E2 subunit)",S_Carbohydrates_and_related_molecules
+BSU19370,False,False,False,odhA,2-oxoglutarate dehydrogenase (E1 subunit),S_Carbohydrates_and_related_molecules
+BSU26600,False,False,False,bltD,spermine/spermidine acetyltransferase,S_Amino_acids_and_related_molecules
+BSU15900,True,False,True,fabD,malonyl CoA:acyl carrier protein transacylase,S_Lipids
+BSU13450,False,False,False,sigI,"RNA polymerase sigma factor (heat stress responsive)RNA polymerase, &sigma;I",Expression
+BSU27610,False,False,False,apt,adenine phosphoribosyltransferase,S_Nucleotides_and_nucleic_acids
+BSU22100,False,False,False,kdgA,2-keto-3-deoxygluconate-6-phosphate aldolase,S_Carbohydrates_and_related_molecules
+BSU38700,False,False,False,sigY,"RNA polymerase, &sigma;YRNA polymerase ECF (extracytoplasmic function)-type sigma factor (sigma-Y)",Expression
+BSU22110,False,False,False,kdgK,2-keto-3-deoxygluconate kinase,S_Carbohydrates_and_related_molecules
+BSU36760,False,False,False,murAA,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,S_Cell_wall
+BSU33240,False,False,False,oxdC,oxalate decarboxylase,S_Carbohydrates_and_related_molecules
+BSU25300,False,False,False,cdd,cytidine/deoxycytidine deaminase,S_Nucleotides_and_nucleic_acids
+BSU22490,False,True,True,dapB,"(4S)-4-hydroxy-2,3,4, 5-tetrahydro-(2S)-dipicolinic acid (HTPA) dehydratase reductase",S_Amino_acids_and_related_molecules
+BSU37150,False,False,True,pyrG,CTP synthetase,S_Nucleotides_and_nucleic_acids
+BSU23760,False,False,False,coaA,pantothenate kinase,S_Coenzymes_and_prosthetic_groups
+BSU22480,False,False,False,mgsA,methylglyoxal synthase,S_Carbohydrates_and_related_molecules
+BSU25290,True,True,True,era,maturation of 16S RNA and assembly of 30S ribosomal subunit GTPase,Expression
+BSU35750,True,False,True,tagA,"N-acetylmannosamine (ManNAc) C4 hydroxyl of a membrane-anchored N-acetylglucosaminyl diphospholipid (GlcNAc-pp-undecaprenyl, lipid I) glycosyltransferase",S_Cell_wall
+BSU35760,True,False,True,tagB,"teichoic acid primase, CDP-glycerol:N-acetyl-beta-d-mannosaminyl-1, 4-N-acetyl-d-glucosaminyldiphosphoundecaprenyl glycerophosphotransferase",S_Cell_wall
+BSU28640,True,True,True,pheS,phenylalanyl-tRNA synthetase (alpha subunit)phenylalanyl-tRNA synthetase,Expression
+BSU23770,False,False,False,dsdA,D-serine ammonia-lyase,S_Amino_acids_and_related_molecules
+BSU38830,False,False,False,aldY,putative aldehyde dehydrogenase,S_Carbohydrates_and_related_molecules
+BSU15820,True,True,True,rpmB,ribosomal protein L28,Expression
+BSU40550,True,False,True,ppaC,inorganic pyrophosphatase (Mn2+-dependent),S_Phosphate_and_sulfur
+BSU22440,True,False,True,birA,biotin acetyl-CoA-carboxylase ligase and biotin regulon repressor (BirA-biotinoyl-5'-AMP),S_Lipids
+BSU14180,False,True,True,dapH,tetrahydrodipicolinate N-acetyltransferase,S_Amino_acids_and_related_molecules
+BSU14000,False,True,True,dapX,"N-acetyl-L,L-diaminopimelate aminotransferase",S_Amino_acids_and_related_molecules
+BSU13960,False,False,False,ohaC,beta-hydroxyacid dehydrogenase (acts on 3-hydroxypropionate with NADP),S_Carbohydrates_and_related_molecules
+BSU12160,False,False,False,yjgC,formate dehydrogenase ForCE1formate dehydrogenase subunit ForC1,S_Membrane_bioenergetics
+BSU14190,False,True,True,dapI,<i>N</i>-acetyl-diaminopimelate deacetylase,S_Amino_acids_and_related_molecules
+BSU12080,False,False,False,ctaO,heme <i>o</i> synthase 1,S_Membrane_bioenergetics
+BSU13730,False,False,False,queD,"6-carboxy-5,6,7,8-tetrahydropterin synthase; queuosine biosynthesis",S_Coenzymes_and_prosthetic_groups
+BSU13180,False,False,True,metE,cobalamin-independent methionine synthase,S_Amino_acids_and_related_molecules
+BSU13110,False,False,False,purU,formyltetrahydrofolate hydrolase,S_Coenzymes_and_prosthetic_groups
+BSU14520,False,False,False,adeC,adenine deaminase,S_Nucleotides_and_nucleic_acids
+BSU14830,False,False,False,glsB,L-glutamine amidohydrolase; glutaminase,S_Amino_acids_and_related_molecules
+BSU14670,False,False,False,suhB,inositol monophosphatase / 5' nucleotidase (purine nucleoside monophosphate),S_Carbohydrates_and_related_molecules
+BSU15350,False,False,False,thiQ,<i>N</i>-formyl-4-amino-5-aminomethyl-2-methylpyrimidine deformylase,S_Amino_acids_and_related_molecules
+BSU15020,False,False,False,coaD,phosphopantetheine adenylyltransferase,S_Coenzymes_and_prosthetic_groups
+BSU15680,False,False,True,gmk,guanylate kinase,S_Nucleotides_and_nucleic_acids
+BSU15700,False,False,False,coaBC,coenzyme A biosynthesis bifunctional protein CoaBC; phosphopantothenoylcysteine synthetase/decarboxylase,S_Coenzymes_and_prosthetic_groups
+BSU15790,False,False,False,rpe,ribulose-5-phosphate 3-epimerase,S_Carbohydrates_and_related_molecules
+BSU15860,False,False,False,sdaAA,L-serine dehydratase (alpha chain)L-serine dehydratase,S_Amino_acids_and_related_molecules
+BSU15850,False,False,False,sdaAB,L-serine dehydrataseL-serine dehydratase (beta chain),S_Amino_acids_and_related_molecules
+BSU15920,False,False,False,acpA,acyl carrier protein,Expression
+BSU15080,True,True,True,rpmF,ribosomal protein L32,Expression
+BSU15690,True,True,True,rpoZ,"RNA polymerase, &sigma;VRNA polymerase, &sigma;FRNA polymerase, &sigma;MRNA polymerase, &sigma;KRNA polymerase, &sigma;WRNA polymerase, &sigma;IRNA polymerase, ECF-type &sigma;RNA polymerase, core enzymeRNA polymerase, &sigma;BRNA polymerase, &sigma;XRNA polymerase, &sigma;ARNA polymerase, &sigma;Zomega subunit of RNA polymeraseRNA polymerase, &sigma;ERNA polymerase, two-subunit &sigma;-factorRNA polymerase, &sigma;GRNA polymerase, &sigma;YRNA polymerase, &sigma;HRNA polymerase, &sigma;DRNA polymerase, &sigma;L",Expression
+BSU15720,True,True,True,defA,peptide deformylase,S_Amino_acids_and_related_molecules
+BSU15430,True,True,True,ileS,isoleucyl-tRNA synthetase,Expression
+BSU16510,False,False,False,pyrH,uridylate kinase,S_Nucleotides_and_nucleic_acids
+BSU15730,True,True,True,fmt,methionyl-tRNA formyltransferase,S_Other_function
+BSU16530,False,False,False,uppS,undecaprenyl pyrophosphate synthase,S_Lipids
+BSU15750,True,True,True,rlmN,23S rRNA m2A2503 methyltransferase and tRNA A37 C2 methyltransferase,Expression
+BSU16550,False,False,True,dxr,1-deoxy-D-xylulose-5-phosphate reductoisomerase,S_Carbohydrates_and_related_molecules
+BSU16040,True,True,True,rplS,ribosomal protein L19,Expression
+BSU16670,False,True,True,ribC,riboflavin biosynthesis protein RibC,S_Coenzymes_and_prosthetic_groups
+BSU16490,True,True,True,rpsB,ribosomal protein S2,Expression
+BSU16500,True,True,True,tsf,elongation factor Ts,Expression
+BSU16020,True,True,True,rimM,16S rRNA processing protein,Expression
+BSU16990,False,False,False,tdh,threonine 3-dehydrogenase,S_Amino_acids_and_related_molecules
+BSU17000,False,False,False,kbl,2-amino-3-ketobutyrate CoA ligase (glycine acetyl transferase),S_Amino_acids_and_related_molecules
+BSU17660,False,False,False,dutA,deoxyuridine 5'-triphosphate pyrophosphatase (phage origin),S_Nucleotides_and_nucleic_acids
+BSU17710,False,False,False,tatAC,component of the twin-arginine pre-protein translocation pathway,Expression
+BSU18480,False,False,False,proH,pyrroline-5-carboxylate reductase ProH,S_Amino_acids_and_related_molecules
+BSU16520,True,True,True,frr,ribosome recycling factor,Expression
+BSU18570,False,False,False,yoaE,molybdopterin cofactor oxido-reductase,S_Membrane_bioenergetics
+BSU19310,False,False,False,dhaS,aldehyde dehydrogenase,S_Carbohydrates_and_related_molecules
+BSU16540,True,False,True,cdsA,phosphatidate cytidylyltransferase (CDP-diglyceride synthase),S_Lipids
+BSU19630,False,False,False,deoD,purine nucleoside phosphorylase,S_Nucleotides_and_nucleic_acids
+BSU19690,False,False,False,kamA,"lysine 2,3-aminomutase",S_Amino_acids_and_related_molecules
+BSU19710,False,False,False,yodQ,putative deacetylase,S_Amino_acids_and_related_molecules
+BSU16570,True,True,True,proS,prolyl-tRNA synthetase,Expression
+BSU20020,False,False,False,dutB,SPbeta phage deoxyuridine 5'-triphosphate nucleotidohydrolase,S_Nucleotides_and_nucleic_acids
+BSU20250,False,False,False,mtbP,DNA (cytosine-5-)-methyltransferase; phage SPbeta,S_Amino_acids_and_related_molecules
+BSU16680,True,True,True,rpsO,ribosomal protein S15 (BS18),Expression
+BSU21690,False,False,False,msrA,peptide methionine S-sulfoxide reductase,S_Amino_acids_and_related_molecules
+BSU21810,False,False,False,dfrA,dihydrofolate reductase,S_Coenzymes_and_prosthetic_groups
+BSU21820,False,False,False,thyB,thymidylate synthase B,S_Nucleotides_and_nucleic_acids
+BSU22130,False,False,False,kduI,"4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase, 5-keto-4-deoxyuronate isomerase",S_Carbohydrates_and_related_molecules
+BSU21900,False,False,False,bsaA,bacillithiol peroxidase,S_Other_function
+BSU22140,False,False,False,kduD,2-keto-3-deoxygluconate oxidoreductase,S_Carbohydrates_and_related_molecules
+BSU16690,True,True,True,pnpA,polynucleotide phosphorylase (PNPase),Expression
+BSU16960,True,True,True,rny,endoribonuclease Y,Expression
+BSU22370,False,True,True,aspB,anabolic oxaloacetate / glutamate aminotransferase,S_Amino_acids_and_related_molecules
+BSU22420,False,False,False,panC,pantothenate synthetase,S_Coenzymes_and_prosthetic_groups
+BSU22410,False,False,False,panD,aspartate 1-decarboxylase,S_Coenzymes_and_prosthetic_groups
+BSU22430,False,False,False,panB,ketopantoate hydroxymethyltransferase,S_Coenzymes_and_prosthetic_groups
+BSU22690,False,False,False,aroH,chorismate mutase,S_Amino_acids_and_related_molecules
+BSU22700,False,False,True,aroB,3-dehydroquinate synthase,S_Amino_acids_and_related_molecules
+BSU22710,False,False,True,aroF,chorismate synthase,S_Amino_acids_and_related_molecules
+BSU22740,False,False,True,hepT,heptaprenyl diphosphate synthase component IIheptaprenyl diphosphate synthase,S_Coenzymes_and_prosthetic_groups
+BSU22750,False,False,True,menG,demethylmenaquinone methyltransferase,S_Coenzymes_and_prosthetic_groups
+BSU22760,False,False,True,hepS,heptaprenyl diphosphate synthaseheptaprenyl diphosphate synthase component I,S_Coenzymes_and_prosthetic_groups
+BSU22830,False,False,True,gpsA,NADPH-dependent glycerol-3-phosphate dehydrogenase,S_Carbohydrates_and_related_molecules
+BSU22870,False,False,False,fni,isopentenyl diphosphate isomerase (typeII),S_Lipids
+BSU22890,False,False,True,cmk,cytidylate kinase,S_Nucleotides_and_nucleic_acids
+BSU23380,False,True,True,lysA,"meso-2,6-diaminopimelate decarboxylase",S_Amino_acids_and_related_molecules
+BSU23610,False,False,False,nudF,isopentenyl pyrophosphate and dimethylallyl pyrophosphate diphosphatase (moonlighting ADP-ribose pyrophosphatase),S_Carbohydrates_and_related_molecules
+BSU23920,False,False,False,yqjD,putative propionyl-CoA carboxylase beta chain,S_Carbohydrates_and_related_molecules
+BSU24280,False,False,True,ispA,farnesyl diphosphate synthase,S_Lipids
+BSU24270,False,False,True,dxs,1-deoxyxylulose-5-phosphate synthase,S_Carbohydrates_and_related_molecules
+BSU24850,False,False,False,glcK,glucose kinase,S_Carbohydrates_and_related_molecules
+BSU21920,True,False,True,ugtP,UDP-glucose diacylglyceroltransferase,S_Lipids
+BSU25020,False,False,False,sodA,superoxide dismutase (Mn[2+]-dependent),S_Other_function
+BSU25160,False,False,True,ispH,1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase,S_Lipids
+BSU22360,True,True,True,asnS,asparaginyl-tRNA synthetase,Expression
+BSU25310,False,False,False,unpK,undecaprenol kinase,S_Lipids
+BSU25660,False,False,True,aroE,shikimate 5-dehydrogenase,S_Amino_acids_and_related_molecules
+BSU27220,False,False,False,yrhE,formate dehydrogenase ForC2formate dehydrogenase ForCE2,S_Membrane_bioenergetics
+BSU25900,False,False,False,cwlA,N-acetylmuramoyl-L-alanine amidase; skin element,S_Cell_wall
+BSU26810,False,False,False,murI,glutamate racemase,S_Amino_acids_and_related_molecules
+BSU22730,True,False,True,ndk,nucleoside diphosphate kinase,S_Nucleotides_and_nucleic_acids
+BSU22880,True,True,True,rpfA,RNA degradation presenting factor (ribosomal protein S1 homolog),Expression
+BSU27330,False,False,False,udk,uridine kinase,S_Nucleotides_and_nucleic_acids
+BSU25640,True,False,True,nadD,nicotinate-nucleotide adenylyltransferase,S_Coenzymes_and_prosthetic_groups
+BSU24900,True,True,True,rpmGA,ribosomal protein L33,Expression
+BSU25410,True,True,True,rpsU,ribosomal protein S21,Expression
+BSU27320,True,True,True,greA,transcription elongation factor resolving backtracking / stalling,Expression
+BSU27560,True,True,True,hisS,histidyl-tRNA synthetase,Expression
+BSU27550,True,True,True,aspS,"aspartyl-tRNA synthetase, promiscuous (also recognizes tRNAasn)",Expression
+BSU27410,True,True,True,alaS,alanyl-tRNA synthetase,Expression
+BSU27650,True,True,True,secDF,protein-export membrane protein,Expression
+BSU27960,True,True,True,rplU,ribosomal protein L21 (BL20),Expression
+BSU18470,False,False,False,proJ,glutamate 5-kinase,S_Amino_acids_and_related_molecules
+BSU15560,False,False,True,pyrE,orotate phosphoribosyltransferase,S_Nucleotides_and_nucleic_acids
+BSU15500,False,False,True,pyrC,dihydroorotase,S_Nucleotides_and_nucleic_acids
+BSU05740,False,False,False,phoB,"alkaline phosphatase III (promiscuous, heptaprenylglyceryl phosphate is a substrate)",S_Phosphate_and_sulfur
+BSU14590,False,False,False,pdhB,pyruvate dehydrogenase (E1 beta subunit)pyruvate dehydrogenase,S_Carbohydrates_and_related_molecules
+BSU14580,False,False,False,pdhA,pyruvate dehydrogenase (E1 alpha subunit)pyruvate dehydrogenase,S_Carbohydrates_and_related_molecules
+BSU14610,False,False,False,pdhD,dihydrolipoamide dehydrogenase E3 subunit of both pyruvate dehydrogenase and 2-oxoglutarate dehydrogenase complexes,S_Carbohydrates_and_related_molecules
+BSU14600,False,False,False,pdhC,pyruvate dehydrogenase (dihydrolipoamide acetyltransferase E2 subunit),S_Carbohydrates_and_related_molecules
+BSU15490,False,False,True,pyrB,aspartate carbamoyltransferase,S_Nucleotides_and_nucleic_acids
+BSU15510,False,False,False,pyrAA,"carbamoyl-phosphate synthetase Ppyrimidine-specific carbamoyl-phosphate synthetase (small subunit, glutaminase subunit)",S_Amino_acids_and_related_molecules
+BSU15550,False,False,True,pyrF,orotidine 5'-phosphate decarboxylase,S_Nucleotides_and_nucleic_acids
+BSU15540,False,False,True,pyrD,dihydroorotate dehydrogenasedihydroorotate dehydrogenase (catalytic subunit),S_Nucleotides_and_nucleic_acids
+BSU15520,False,False,False,pyrAB,carbamoyl-phosphate synthetase Ppyrimidine-specific carbamoyl-phosphate synthetase (large subunit),S_Amino_acids_and_related_molecules
+BSU15530,False,False,True,pyrK,dihydroorotate dehydrogenasedihydroorotate dehydrogenase (electron transfer subunit),S_Nucleotides_and_nucleic_acids
+BSU02390,False,False,False,ilvE,isoleucine-valine aminotransferase / aromatic amino acid aminotransferase,S_Amino_acids_and_related_molecules
+BSU31990,False,False,False,dhbC,isochorismate synthase (siderophore-specific),S_Coenzymes_and_prosthetic_groups
+BSU31980,False,False,False,dhbE,"bacillibactin synthase multienzyme complex2,3-dihydroxybenzoate-[DhbB aryl-carrier protein] ligase2,3-dihydroxybenzoate-AMP ligase",S_Coenzymes_and_prosthetic_groups
+BSU32000,False,False,False,dhbA,"2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase",S_Coenzymes_and_prosthetic_groups
+BSU02430,False,False,False,glsA,glutaminase,S_Amino_acids_and_related_molecules
+BSU07990,False,False,False,yfjR,putative beta-hydroxyacid dehydrogenase,S_Amino_acids_and_related_molecules
+BSU31970,False,False,False,dhbB,<i>holo</i>-DhbB protein<i>apo</i>-DhbB pentamerbacillibactin synthase multienzyme complexisochorismatase (siderophore specific),S_Coenzymes_and_prosthetic_groups
+BSU07810,False,False,False,treA,trehalose-6-phosphate hydrolase,S_Carbohydrates_and_related_molecules
+BSU35570,False,False,False,tuaE,putative polymerase of teichuronic acid repeating units,S_Cell_wall
+BSU35600,False,False,False,tuaB,putative exporter involved in biosynthesis of teichuronic acid,S_Cell_wall
+BSU35540,False,False,False,tuaH,putative glycosyltransferase (teichuronic acid),S_Cell_wall
+BSU35609,False,False,False,tuaAc,putative undecaprenyl-phosphate N-acetylgalactosaminyl-1-phosphate transferase; C-terminal part of TuaA,S_Cell_wall
+BSU35290,True,True,True,prfB,peptide chain release factor 2,Expression
+BSU35550,False,False,False,tuaG,putative glycosyltransferase (teichuronic acid),S_Cell_wall
+BSU35300,True,True,True,secA,translocase binding subunit (ATPase),Expression
+BSU35590,False,False,False,tuaC,putative glycosyltransferase (teichuronic acid),S_Cell_wall
+BSU32410,False,False,False,pucH,allantoinase,S_Nucleotides_and_nucleic_acids
+BSU35580,False,False,False,tuaD,UDP-glucose 6-dehydrogenase (teichuronic acid),S_Cell_wall
+BSU26970,False,False,False,adhB,putative oxidoreductase (involving bacillithiol),S_Carbohydrates_and_related_molecules
+BSU00730,False,False,False,cysK,cysteine synthase,S_Amino_acids_and_related_molecules
+BSU15980,True,True,True,ffh,signal recognition particle-like (SRP) GTPase,Expression
+BSU21870,False,True,True,ilvD,dihydroxy-acid dehydratase,S_Amino_acids_and_related_molecules
+BSU06470,False,True,True,purQ,phosphoribosylformylglycinamidine synthetasephosphoribosylformylglycinamidine synthetase subunit I,S_Nucleotides_and_nucleic_acids
+BSU14880,False,False,False,ctaB,heme <i>o</i> synthase,S_Membrane_bioenergetics
+BSU22780,False,False,True,folEA,GTP cyclohydrolase I,S_Coenzymes_and_prosthetic_groups
+BSU06510,False,False,False,purN,phosphoribosylglycinamide formyltransferase,S_Nucleotides_and_nucleic_acids
+BSU38860,True,False,True,galE,UDP-glucose 4-epimerase,S_Carbohydrates_and_related_molecules
+BSU06480,False,True,True,purL,phosphoribosylformylglycinamidine synthetase subunit IIphosphoribosylformylglycinamidine synthetase,S_Nucleotides_and_nucleic_acids
+BSU03130,True,False,True,nadE,ammonium-dependent NAD+ synthetase,S_Coenzymes_and_prosthetic_groups
+BSU06440,False,True,True,purB,adenylosuccinate lyase,S_Nucleotides_and_nucleic_acids
+BSU06500,False,True,True,purM,phosphoribosylaminoimidazole synthetase,S_Nucleotides_and_nucleic_acids
+BSU06490,False,True,True,purF,glutamine phosphoribosylpyrophosphate amidotransferase,S_Nucleotides_and_nucleic_acids
+BSU06450,False,True,True,purC,phosphoribosylaminoimidazole succinocarboxamide synthetase,S_Nucleotides_and_nucleic_acids
+BSU06430,False,True,True,purK,N5-carboxyaminoimidazole ribonucleotide synthase,S_Nucleotides_and_nucleic_acids
+BSU06520,False,True,True,purH,fused phosphoribosylaminoimidazole carboxy formyl formyltransferase; inosine-monophosphate cyclohydrolase,S_Nucleotides_and_nucleic_acids
+BSU06530,False,True,True,purD,phosphoribosylglycinamide synthetase,S_Nucleotides_and_nucleic_acids
+BSU06460,False,True,True,purS,factor required for phosphoribosylformylglycinamidine synthetase activityphosphoribosylformylglycinamidine synthetase,
+BSU12290,False,False,False,ndh,NADH dehydrogenase,S_Membrane_bioenergetics
+BSU13580,False,False,False,mtnE,2-oxo-4-methylthiobutanoate-glutamine aminotransferase,S_Amino_acids_and_related_molecules
+BSU28470,False,False,False,lysCA,aspartokinase II alpha subunit (aa 1->408),S_Amino_acids_and_related_molecules
+BSU04520,False,False,False,ydbM,putative acyl-CoA dehydrogenase,S_Lipids
+BSU35790,False,False,False,pmiA,mannose-6-phosphate isomerase (active on aldose substrates with hydroxyl groups oriented in the same direction at the C-2 and C-3 positions as in mannose),S_Carbohydrates_and_related_molecules
+BSU37780,False,False,False,rocA,delta-1-pyrroline-5 carboxylate dehydrogenase,S_Amino_acids_and_related_molecules
+BSU14870,False,False,False,ctaA,heme <i>a</i> synthase,S_Membrane_bioenergetics
+BSU03900,False,False,False,gabT,4-aminobutyrate aminotransferase,S_Amino_acids_and_related_molecules
+BSU03910,False,False,False,gabD,succinate-semialdehyde dehydrogenase,S_Amino_acids_and_related_molecules
+BSU18450,False,False,False,gltA,"glutamate synthase (large subunit, NADP-dependent)glutamate synthase",S_Amino_acids_and_related_molecules
+BSU30320,True,True,True,leuS,leucyl-tRNA synthetase,Expression
+BSU18440,False,False,False,gltB,"glutamate synthaseglutamate synthase (small subunit, NADP-dependent)",S_Amino_acids_and_related_molecules
+BSU00120,False,False,False,pdxT,"glutamine amidotransferase for pyridoxal phosphate synthesis; pyridoxal 5'-phosphate synthase complex, glutamine amidotransferase subunit PdxTpyridoxal 5'-phosphate synthase complex",S_Coenzymes_and_prosthetic_groups
+BSU00110,False,False,False,pdxS,"pyridoxal 5'-phosphate synthase complexglutamine amidotransferase for pyridoxal phosphate synthesis; pyridoxal 5'-phosphate synthase complex, synthase subunit",S_Coenzymes_and_prosthetic_groups
+BSU29750,False,False,True,aroX,bifunctional chorismate mutase type II-isozyme 3 (regulatory domain); 3-deoxy-D-arabino-heptulosonate 7-phosphate synthase,S_Amino_acids_and_related_molecules
+BSU39980,False,False,False,qdoI,quercetin dioxygenase,S_Carbohydrates_and_related_molecules
+BSU25710,False,False,False,cwlH,N-acetylmuramoyl-L-alanine amidase,S_Cell_wall
+BSU21680,False,False,False,msrB,peptide methionine R-sulfoxide reductase,S_Amino_acids_and_related_molecules
+BSU27120,False,False,False,sigV,"RNA polymerase ECF(extracytoplasmic function)-type sigma factor (sigma(V))RNA polymerase, &sigma;V",Expression
+BSU30300,False,False,False,melA,alpha-D-galactoside galactohydrolase,S_Carbohydrates_and_related_molecules
+BSU00980,False,False,False,sigH,"RNA polymerase sigma-30 factor (sigma(H))RNA polymerase, &sigma;H",Expression
+BSU35920,False,False,False,rbsK,ribokinase,S_Carbohydrates_and_related_molecules
+BSU30830,False,False,False,menF,menaquinone-specific isochorismate synthase,S_Coenzymes_and_prosthetic_groups
+BSU14540,True,True,True,rnpZA,"RNA polymerase, &sigma;VRNA polymerase, &sigma;FRNA polymerase, &sigma;MRNA polymerase, &sigma;KRNA polymerase, &sigma;WRNA polymerase (epsilon subunit)RNA polymerase, &sigma;IRNA polymerase, ECF-type &sigma;RNA polymerase, &sigma;BRNA polymerase, &sigma;XRNA polymerase, core enzymeRNA polymerase, &sigma;ARNA polymerase, &sigma;ZRNA polymerase, &sigma;ERNA polymerase, two-subunit &sigma;-factorRNA polymerase, &sigma;GRNA polymerase, &sigma;YRNA polymerase, &sigma;HRNA polymerase, &sigma;DRNA polymerase, &sigma;L",Expression
+BSU30790,False,False,True,menE,O-succinylbenzoyl-CoA synthetase,S_Coenzymes_and_prosthetic_groups
+BSU30820,False,False,True,menD,2-oxoglutarate decarboxylase and 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1- carboxylic-acid synthase,S_Coenzymes_and_prosthetic_groups
+BSU30800,False,False,True,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",S_Coenzymes_and_prosthetic_groups
+BSU30780,False,False,True,menC,<i>o</i>-succinylbenzoate synthase,S_Coenzymes_and_prosthetic_groups
+BSU14530,True,True,True,rnjA,RNase J complexribonuclease J1,Expression
+BSU38020,False,False,False,pdxK,"pyridoxine, pyridoxal, and pyridoxamine kinase",S_Coenzymes_and_prosthetic_groups
+BSU22620,False,True,True,hisC,histidinol-phosphate aminotransferase; tyrosine/phenylalanine aminotransferase (promiscuous),S_Amino_acids_and_related_molecules
+BSU22610,False,False,True,tyrA,prephenate dehydrogenase,S_Amino_acids_and_related_molecules
+BSU22680,False,True,True,trpE,anthranilate synthase,S_Amino_acids_and_related_molecules
+BSU22640,False,True,True,trpB,tryptophan synthasetryptophan synthase (beta subunit),S_Amino_acids_and_related_molecules
+BSU22650,False,True,True,trpF,phosphoribosylanthranilate isomerase,S_Amino_acids_and_related_molecules
+BSU22660,False,True,True,trpC,indole-3-glycerol phosphate synthase,S_Amino_acids_and_related_molecules
+BSU22630,False,True,True,trpA,tryptophan synthase (alpha subunit)tryptophan synthase,S_Amino_acids_and_related_molecules
+BSU22670,False,True,True,trpD,anthranilate phosphoribosyltransferase,S_Amino_acids_and_related_molecules
+BSU22600,False,False,True,aroA,3-phosphoshikimate 1-carboxyvinyltransferase (5-enolpyruvoylshikimate-3-phosphate synthase),S_Amino_acids_and_related_molecules
+BSU28310,False,False,False,ilvB,acetohydroxy-acid synthase (large subunit)acetolactate synthase (acetohydroxy-acid synthase),S_Amino_acids_and_related_molecules
+BSU28270,False,False,True,leuB,3-isopropylmalate dehydrogenase,S_Amino_acids_and_related_molecules
+BSU28250,False,False,True,leuD,isopropylmalate dehydratase3-isopropylmalate dehydratase (small subunit),S_Amino_acids_and_related_molecules
+BSU28280,False,False,True,leuA,2-isopropylmalate synthase,S_Amino_acids_and_related_molecules
+BSU28290,False,True,True,ilvC,acetohydroxy-acid isomeroreductase (NADP-dependent),S_Amino_acids_and_related_molecules
+BSU06030,True,True,True,groEL,chaperoninchaperonin large subunit,Expression
+BSU06020,True,True,True,groES,chaperoninchaperonin small subunit,Expression
+BSU28260,False,False,True,leuC,isopropylmalate dehydratase3-isopropylmalate dehydratase (large subunit),S_Amino_acids_and_related_molecules
+BSU01050,True,True,True,rplL,ribosomal protein L12 (BL9),Expression
+BSU01040,True,True,True,rplJ,ribosomal protein L10 (BL5),Expression
+BSU39670,False,False,False,iolJ,2-deoxy-5-keto-D-gluconic acid 6-phosphate aldolase,S_Carbohydrates_and_related_molecules
+BSU39720,False,False,False,iolE,scyllo-inosose dehydratase,S_Carbohydrates_and_related_molecules
+BSU39740,False,False,False,iolC,2-deoxy-5-keto-D-gluconic acid kinase,S_Carbohydrates_and_related_molecules
+BSU29180,False,False,False,pyk,pyruvate kinase,S_Carbohydrates_and_related_molecules
+BSU39750,False,False,False,iolB,5-deoxy-D-glucuronate isomerase,S_Carbohydrates_and_related_molecules
+BSU39700,False,False,False,iolG,myo-inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenaseinositol dehydrogenase,S_Carbohydrates_and_related_molecules
+BSU39730,False,False,False,iolD,"3D-(3,5/4)-trihydroxycyclohexane-1,2-dione hydrolase",S_Carbohydrates_and_related_molecules
+BSU39760,False,False,False,iolA,(methyl)malonate-semialdehyde dehydrogenase(methyl)malonate-semialdehyde dehydrogenase monomer,S_Amino_acids_and_related_molecules
+BSU03930,False,False,False,gdh,forespore glucose 1-dehydrogenase,S_Carbohydrates_and_related_molecules
+BSU10270,False,False,False,lcfB,long-chain fatty-acid-CoA ligase (degradative),S_Lipids
+BSU12910,False,False,False,proCC,pyrroline-5-carboxylate reductase ProGredundant pyrroline-5-carboxylate reductase,S_Amino_acids_and_related_molecules
+BSU40320,False,False,False,argI,arginase,S_Amino_acids_and_related_molecules
+BSU04340,False,False,False,poxB,acetyl-phosphate generating pyruvate oxidase,S_Carbohydrates_and_related_molecules
+BSU40340,False,False,False,rocD,ornithine aminotransferase,S_Amino_acids_and_related_molecules
+BSU35620,False,False,False,lytC,N-acetylmuramoyl-L-alanine amidase (major autolysin),S_Cell_wall
+BSU26390,False,True,True,sigKc,"RNA polymerase, &sigma;KRNA polymerase sporulation-specific sigma factor (pro-&sigma;K)RNA polymerase sporulation-specific sigma-K factor precursor (Sigma-27) (C-terminal fragment)",Expression
+BSU25760,False,True,True,sigKn,"RNA polymerase sporulation-specific sigma-K factor precursor (Sigma-27) (N-terminal half)RNA polymerase, &sigma;KRNA polymerase sporulation-specific sigma factor (pro-&sigma;K)",Expression
+BSU31350,False,False,False,pgi,glucose-6-phosphate isomerase,S_Carbohydrates_and_related_molecules
+BSU29190,True,True,True,pfkA,6-phosphofructokinase,S_Carbohydrates_and_related_molecules
+BSU24310,True,True,True,folD,methylenetetrahydrofolate dehydrogenase; methenyltetrahydrofolate cyclohydrolase,S_Coenzymes_and_prosthetic_groups
+BSU25200,True,True,True,sigA,"RNA polymerase, &sigma;ARNA polymerase major sigma-43 factor (sigma-A)",Expression
+BSU35660,True,False,True,mnaA,UDP-<i>N</i>-acetylglucosamine 2-epimerase,S_Carbohydrates_and_related_molecules
+BSU02090,False,False,False,ybxI,exported beta-lactamase,S_Other_function
+BSU22960,False,False,False,gudB,cryptic glutamate dehydrogenase (active after removal of a 9 bp insert),S_Amino_acids_and_related_molecules
+BSU28850,True,True,True,rplT,ribosomal protein L20,Expression
+BSU13550,False,False,False,mtnA,methylthioribose-1-phosphate isomerase (methionine salvage pathway),S_Amino_acids_and_related_molecules
+BSU13560,False,False,False,mtnK,"methylthioribose kinase (methionine salvage pathway, promiscuous)",S_Amino_acids_and_related_molecules
+BSU07830,False,False,False,hypO,NAD(P)H-flavin oxidoreductase (nitroreductase),S_Membrane_bioenergetics
+BSU28860,True,True,True,rpmI,ribosomal protein L35,Expression
+BSU28870,True,True,True,infC,initiation factor IF-3,Expression
+BSU41060,True,True,True,rpmH,ribosomal protein L34,Expression
+BSU32460,False,False,False,pucM,5-hydroxyisourate hydrolase; also uricase subunit,S_Nucleotides_and_nucleic_acids
+BSU32450,False,False,False,pucL,urate oxidase with peroxide reductase N-terminal domain,S_Nucleotides_and_nucleic_acids
+BSU12020,False,False,False,manA,mannose-6 phosphate isomerase; cupin family,S_Carbohydrates_and_related_molecules
+BSU16920,True,False,True,pgsA,CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase,S_Lipids
+BSU03010,False,False,False,amhX,putative amidohydrolase,S_Coenzymes_and_prosthetic_groups
+BSU17890,False,False,True,tktA,transketolase,S_Carbohydrates_and_related_molecules
+BSU39420,False,False,False,deoC,deoxyribose-phosphate aldolase,S_Nucleotides_and_nucleic_acids
+BSU39400,False,False,False,pdp,pyrimidine-nucleoside phosphorylase,S_Nucleotides_and_nucleic_acids
+BSU15990,True,True,True,rpsP,ribosomal protein S16 (BS17),Expression
+BSU38190,False,False,False,galT,galactose-1-phosphate uridyltransferase,S_Carbohydrates_and_related_molecules
+BSU36650,False,False,False,ureB,urease (beta subunit)urease,S_Amino_acids_and_related_molecules
+BSU38200,False,False,False,galK,galactokinase,S_Carbohydrates_and_related_molecules
+BSU36660,False,False,False,ureA,ureaseurease (gamma subunit),S_Amino_acids_and_related_molecules
+BSU36640,False,False,False,ureC,urease (alpha subunit)urease,S_Amino_acids_and_related_molecules
+BSU38560,False,False,False,licH,6-phospho-beta-glucosidase,S_Carbohydrates_and_related_molecules
+BSU01530,False,False,False,cwlD,N-acetylmuramoyl-L-alanine amidase,S_Cell_wall
+BSU09300,False,False,False,glpD,sn-glycerol-3-phosphate oxidase (FAD-dependent),S_Carbohydrates_and_related_molecules
+BSU35670,True,False,True,gtaB,UTP-glucose-1-phosphate uridylyltransferase,S_Cell_wall
+BSU23490,False,False,False,pupG,purine nucleoside phosphorylase,S_Nucleotides_and_nucleic_acids
+BSU23500,False,False,False,deoB,"1,5-phosphopentomutase",S_Nucleotides_and_nucleic_acids
+BSU16470,False,False,False,sigD,"RNA polymerase sigma-28 factor (sigma-D)RNA polymerase, &sigma;D",Expression
+BSU23840,True,True,True,rnz,ribonuclease Z,Expression
+BSU09520,False,False,False,sigM,"RNA polymerase, &sigma;MRNA polymerase ECF (extracytoplasmic function)-type sigma factor (sigma(M))",Expression
+BSU38980,False,False,False,scoB,succinyl CoA:3-oxoacid CoA-transferasesuccinyl CoA:3-oxoacid CoA-transferase (subunit B),S_Carbohydrates_and_related_molecules
+BSU37790,False,False,False,rocG,glutamate dehydrogenase,S_Amino_acids_and_related_molecules
+BSU38990,False,False,False,scoA,acetoacetyl CoA-transferase (subunit A)succinyl CoA:3-oxoacid CoA-transferase,S_Carbohydrates_and_related_molecules
+BSU25070,False,False,True,ispG,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase),S_Lipids
+BSU05860,False,False,False,gmuE,ATP-dependent fructose kinaseROK fructokinase; glucomannan utilization protein E,S_Carbohydrates_and_related_molecules
+BSU00150,False,False,False,dgk,deoxyguanosine kinase,S_Nucleotides_and_nucleic_acids
+BSU00140,False,False,False,dck,deoxyadenosine/deoxycytidine kinase,S_Nucleotides_and_nucleic_acids
+BSU39350,False,False,False,hutH,histidine ammonia-lyase (histidase),S_Amino_acids_and_related_molecules
+BSU39370,False,False,False,hutI,imidazolone-5-propionate hydrolase,S_Amino_acids_and_related_molecules
+BSU39360,False,False,False,hutU,urocanase,S_Amino_acids_and_related_molecules
+BSU39380,False,False,False,hutG,formiminoglutamate hydrolase,S_Amino_acids_and_related_molecules
+BSU08070,False,False,False,acoB,acetoin dehydrogenase E1 component (TPP-dependent beta subunit)acetoin dehydrogenase E1,S_Carbohydrates_and_related_molecules
+BSU08060,False,False,False,acoA,acetoin dehydrogenase E1acetoin dehydrogenase E1 component (TPP-dependent alpha subunit),S_Carbohydrates_and_related_molecules
+BSU08090,False,False,False,acoL,acetoin dehydrogenase E1acetoin dehydrogenase E3 component (dihydrolipoamide dehydrogenase),
+BSU08080,False,False,False,acoC,acetoin dehydrogenase E1acetoin dehydrogenase E2 component (dihydrolipoamide acetyltransferase),
+BSU30550,True,True,True,metK,S-adenosylmethionine synthetase,S_Amino_acids_and_related_molecules
+BSU33440,False,True,True,cysJ,sulfite reductaseassimilatory sulfite reductase (flavoprotein alpha-subunit),S_Phosphate_and_sulfur
+BSU11420,True,True,True,trpS,tryptophanyl-tRNA synthetase,Expression
+BSU33430,False,True,True,cysI,sulfite reductaseassimilatory sulfite reductase (hemoprotein beta-subunit),S_Phosphate_and_sulfur
+BSU37070,True,True,True,rpmEA,ribosomal protein L31,Expression
+BSU28630,True,True,True,pheT,phenylalanyl-tRNA synthetase (beta subunit)phenylalanyl-tRNA synthetase,Expression
+BSU04000,False,False,False,ycsA,putative tartrate dehydrogenase,S_Carbohydrates_and_related_molecules
+BSU01210,True,True,True,rplV,ribosomal protein L22 (BL17),Expression
+BSU01180,True,True,True,rplW,ribosomal protein L23,Expression
+BSU01250,True,True,True,rpsQ,ribosomal protein S17 (BS16),Expression
+BSU01230,True,True,True,rplP,ribosomal protein L16,Expression
+BSU01220,True,True,True,rpsC,ribosomal protein S3 (BS3),Expression
+BSU01240,True,True,True,rpmC,ribosomal protein L29,Expression
+BSU01270,True,True,True,rplX,ribosomal protein L24 (BL23),Expression
+BSU01260,True,True,True,rplNA,ribosomal protein L14,Expression
+BSU01200,True,True,True,rpsS,ribosomal protein S19 (BS19),Expression
+BSU01190,True,True,True,rplB,ribosomal protein L2 (BL2),Expression
+BSU01370,False,False,True,adk,adenylate kinase,S_Nucleotides_and_nucleic_acids
+BSU01290,True,True,True,rpsNA,ribosomal protein S14,Expression
+BSU01340,True,True,True,rpmD,ribosomal protein L30 (BL27),Expression
+BSU01280,True,True,True,rplE,ribosomal protein L5 (BL6),Expression
+BSU01320,True,True,True,rplR,ribosomal protein L18,Expression
+BSU01330,True,True,True,rpsE,ribosomal protein S5,Expression
+BSU01310,True,True,True,rplF,ribosomal protein L6 (BL8),Expression
+BSU01300,True,True,True,rpsH,ribosomal protein S8 (BS8),Expression
+BSU01350,True,True,True,rplO,ribosomal protein L15,Expression
+BSU01360,True,True,True,secY,preprotein translocase subunit,Expression
+BSU01380,True,True,True,mapA,methionine aminopeptidase,Expression
+BSU02630,False,False,False,tatAD,component of the twin-arginine pre-protein translocation pathway,Expression
+BSU02640,False,False,False,tatCD,component of the twin-arginine pre-protein translocation pathway,Expression
+BSU04560,False,True,True,ddlA,D-alanyl-D-alanine ligase A,S_Cell_wall
+BSU04570,False,True,True,murF,"UDP-N-acetylmuramoylalanyl-D-glutamyl-2, 6-diaminopimelate-D-alanyl-D-alanine ligase",S_Cell_wall
+BSU04620,False,False,False,acpS,holo-acyl carrier protein synthase (phosphopantetheinyl transferase),S_Lipids
+BSU01390,True,True,True,infA,initiation factor IF-I,Expression
+BSU01400,True,True,True,rpmJ,ribosomal protein L36 (ribosomal protein B),Expression
+BSU04640,False,True,True,alrA,D-alanine racemase,S_Amino_acids_and_related_molecules
+BSU01420,True,True,True,rpsK,ribosomal protein S11 (BS11),Expression
+BSU01430,True,True,True,rpoA,"RNA polymerase, &sigma;VRNA polymerase, &sigma;FRNA polymerase, &sigma;MRNA polymerase, &sigma;KRNA polymerase, &sigma;WRNA polymerase, &sigma;IRNA polymerase, ECF-type &sigma;RNA polymerase, &sigma;BRNA polymerase, &sigma;XRNA polymerase, core enzymeRNA polymerase, &sigma;ARNA polymerase, &sigma;ZRNA polymerase, &sigma;ERNA polymerase, two-subunit &sigma;-factorRNA polymerase, &sigma;GRNA polymerase, &sigma;YRNA polymerase, &sigma;HRNA polymerase, &sigma;DRNA polymerase, &sigma;LRNA polymerase (alpha subunit)",Expression
+BSU01410,True,True,True,rpsM,ribosomal protein S13,Expression
+BSU01490,True,True,True,rplM,ribosomal protein L13,Expression
+BSU01500,True,True,True,rpsI,ribosomal protein S9,Expression
+BSU05900,False,False,False,thiL,thiamine monophosphate kinase,S_Coenzymes_and_prosthetic_groups
+BSU01440,True,True,True,rplQ,ribosomal protein L17 (BL15),Expression
+BSU05980,False,False,False,tatAY,component of the twin-arginine pre-protein translocation pathway,Expression
+BSU05990,False,False,False,tatCY,component of the twin-arginine pre-protein translocation pathway,Expression
+BSU06170,False,False,False,ydjE,putative sugar kinase (ribokinase family); prophage region 3,S_Carbohydrates_and_related_molecules
+BSU08710,False,False,False,gsaB,"glutamate-1-semialdehyde aminotransferase, class III aminotransferase",S_Coenzymes_and_prosthetic_groups
+BSU08790,False,False,False,thiC,phosphomethylpyrimidine synthase monomerphosphomethylpyrimidine synthase,S_Coenzymes_and_prosthetic_groups
+BSU09240,False,False,False,glpW,promiscuous phosphoglycolate phosphatase / glycerol-3-phosphate phosphatase / 2-deoxyglucose-6-phosphatase,S_Carbohydrates_and_related_molecules
+BSU09570,False,False,False,yhdR,phenylalanine aminotransferase,Expression
+BSU09310,False,False,False,pgcA,alpha-phosphoglucomutase,S_Carbohydrates_and_related_molecules
+BSU10020,False,False,True,serC,phosphoserine aminotransferase,S_Amino_acids_and_related_molecules
+BSU10360,False,False,False,yhfT,putative long-chain fatty-acid-CoA ligase (proofreading for biotin synthesis),S_Lipids
+BSU11610,False,False,False,ppnKA,inorganic polyphosphate/ATP-NAD kinase (quinolate activated),S_Nucleotides_and_nucleic_acids
+BSU06670,True,True,True,gatC,glutamyl-tRNA(Gln) amidotransferaseglutamyl-tRNA(Gln) amidotransferase (subunit C),Expression
+BSU06690,True,True,True,gatB,glutamyl-tRNA(Gln) amidotransferase (subunit B)glutamyl-tRNA(Gln) amidotransferase,Expression
+BSU06680,True,True,True,gatA,glutamyl-tRNA(Gln) amidotransferase (subunit A)glutamyl-tRNA(Gln) amidotransferase,Expression
+BSU06730,True,True,True,rlmCD,23S rRNA m<sup>5</sup>U747/m<sup>5</sup>U1939 RNA methyltransferase,Expression
+BSU28390,False,False,False,rcmE,glutamate racemase,S_Amino_acids_and_related_molecules
+BSU29050,False,False,False,ytbE,promiscuous aldo/keto reductase,S_Carbohydrates_and_related_molecules
+BSU29450,False,True,True,argG,argininosuccinate synthase,S_Amino_acids_and_related_molecules
+BSU30870,False,False,False,ytcB,putative UDP-glucose epimerase,S_Carbohydrates_and_related_molecules
+BSU28680,False,False,False,glcD,glycolate oxidase subunitglycolate oxidase,S_Carbohydrates_and_related_molecules
+BSU31060,False,False,False,gbsA,"glycine betaine aldehyde dehydrogenase, NAD+-dependent",S_Other_function
+BSU29440,False,True,True,argH,argininosuccinate lyase,S_Amino_acids_and_related_molecules
+BSU31050,False,False,False,gbsB,choline dehydrogenase,S_Other_function
+BSU31760,False,False,False,pncA,nicotinamidase; NAD salvage pathway,S_Coenzymes_and_prosthetic_groups
+BSU31400,False,True,True,yugH,putative aspartate aminotransferase,S_Amino_acids_and_related_molecules
+BSU31150,False,True,True,uppP,undecaprenyl-pyrophosphate phosphatase,S_Cell_wall
+BSU32170,False,True,True,dapF,diaminopimelate epimerase,S_Amino_acids_and_related_molecules
+BSU32100,False,False,False,yumB,putative NAD-disulfide oxidoreductase,S_Membrane_bioenergetics
+BSU33170,False,True,True,yvrB,putative vitamin B12 permease,
+BSU34550,False,False,False,mdxM,bifunctional beta-phosphoglucomutase / glucose-1-phosphate phosphodismutase,S_Carbohydrates_and_related_molecules
+BSU32680,False,True,True,sufU,iron-sulfur cluster assembly sulfur-transfer protein (Zn(2+)-dependent),Expression
+BSU34560,False,False,False,mdxL,"oligo-1,4-1,6-alpha-glucosidase (sucrase-maltase-isomaltase)",S_Carbohydrates_and_related_molecules
+BSU34860,False,True,True,hisIE,bifunctional phosphoribosyl-AMP cyclohydrolase; phosphoribosyl-ATP pyrophosphohydrolase,S_Amino_acids_and_related_molecules
+BSU34570,False,False,False,mdxK,maltose phosphorylase,S_Carbohydrates_and_related_molecules
+BSU34880,False,True,True,hisA,phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase,S_Amino_acids_and_related_molecules
+BSU34890,False,True,True,hisH,"imidazole glycerol phosphate synthaseimidazole glycerol phosphate synthase, glutamine amidotransferase subunit",S_Amino_acids_and_related_molecules
+BSU34790,False,False,False,trxB,thioredoxin reductase,S_Membrane_bioenergetics
+BSU34870,False,True,True,hisF,imidazole glycerol phosphate synthaseimidazole glycerol phosphate synthase subunit,S_Amino_acids_and_related_molecules
+BSU34900,False,True,True,hisB,imidazoleglycerol-phosphate dehydratase [Mn(II)-dependent],S_Amino_acids_and_related_molecules
+BSU34910,False,True,True,hisD,histidinol dehydrogenase,S_Amino_acids_and_related_molecules
+BSU34920,False,True,True,hisG,ATP phosphoribosyltransferase,S_Amino_acids_and_related_molecules
+BSU36370,False,False,False,fabZ,beta-hydroxyacyl-[acyl carrier protein] dehydratase,S_Lipids
+BSU28370,True,True,True,rph,ribonuclease PH,Expression
+BSU30690,True,True,True,ytiB,carbonic anhydrase,S_Other_function
+BSU36710,False,False,False,fdhD,protein sulfur transferase involved in molybdenum cofactor synthesis,S_Membrane_bioenergetics
+BSU37060,False,False,False,tdk,thymidine kinase,S_Nucleotides_and_nucleic_acids
+BSU37100,False,False,False,murAB,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,S_Cell_wall
+BSU37190,False,False,False,clsB,minor cardiolipin synthetase (phospholipase D family),S_Lipids
+BSU37240,False,False,False,clsC,minor cardiolipin synthetase,S_Lipids
+BSU40850,False,False,False,maa,maltose O-acetyltransferase,S_Carbohydrates_and_related_molecules
+BSU35530,True,False,True,tagO,UDP-N-acetylglucosamine:undecaprenyl-P N-acetylglucosaminyl-1-P transferase,S_Cell_wall
+BSU35710,True,False,True,tagG,wall teichoic acid ABC transporterwall teichoic acid ABC transporter membrane subunit,S_Cell_wall
+BSU35680,True,False,True,ggaB,poly(glucosyl N-acetylgalactosamine 1-phosphate) glucosyltransferase,S_Cell_wall
+BSU35690,True,False,True,ggaA,poly(glucosyl N-acetylgalactosamine 1-phosphate) glucosyltransferase (missing signal peptide),S_Cell_wall
+BSU35700,True,False,True,tagH,wall teichoic acid ABC transporterwall teichoic acid ABC transporter ATP-binding protein,S_Cell_wall
+BSU37010,True,True,True,prfA,peptide chain release factor 1,Expression
+BSU37080,True,True,True,rho,transcriptional terminator Rho,Expression
+BSU41050,True,True,True,rnpA,protein component of ribonuclease P (RNase P) (substrate specificity)ribonuclease P,Expression
+BSU05340,,False,False,arsF,arsenite/antimonite/H+ antiporter,S_Transport
+BSU05830,,False,False,gmuC,oligo-&alpha;-mannoside phosphotransferase systemoligo-alpha-mannoside phosphotransferase system enzyme IIC,S_Transport
+BSU05810,,False,False,gmuB,oligo-alpha-mannoside phosphotransferase system enzyme IIBoligo-&alpha;-mannoside phosphotransferase system,S_Transport
+BSU05820,,False,False,gmuA,oligo-alpha-mannoside phosphotransferase system enzyme IIAoligo-&alpha;-mannoside phosphotransferase system,S_Transport
+BSU06160,,False,False,gutP,H+-glucitol symporter; prophage region 3,S_Transport
+BSU06230,,False,False,iolT,myo-inositol transporter,S_Transport
+BSU06310,,False,False,gabP,gamma-aminobutyrate (GABA) permease; proline permease,S_Transport
+BSU06370,,False,False,pbuG,hypoxanthine/guanine permease,S_Transport
+BSU06660,,False,False,opuE,proline transporter,S_Transport
+BSU06970,,False,False,yesO,putative carbohydrate ABC transporterrhamnogalacturonan trisaccharide-binding lipoprotein,S_Transport
+BSU06980,,False,False,rhgP,putative carbohydrate ABC transporterputative carbohydrate ABC transporter membrane subunit YesP,S_Transport
+BSU06990,,False,False,rhgQ,putative carbohydrate ABC transporter membrane subunit YesQputative carbohydrate ABC transporter,S_Transport
+BSU07490,,False,False,fecF,ferric citrate ABC transporter ATP-binding proteinferric citrate ABC transporter,S_Transport
+BSU07500,,False,False,fecE,ferric citrate ABC transporter membrane subunit YfmEferric citrate ABC transporter,S_Transport
+BSU07510,,False,False,fecD,ferric citrate ABC transporter membrane subunit YfmDferric citrate ABC transporter,S_Transport
+BSU07520,,False,False,fecC,ferric citrate ABC transporter substrate-binding lipoproteinferric citrate ABC transporter,S_Transport
+BSU07570,,False,False,maeS,malate (2-oxoglutarate) transporter,S_Transport
+BSU07610,,False,False,citM,transporter of divalent metal ions/citrate complexes,S_Transport
+BSU07700,,False,False,nagP,phosphotransferase system (PTS) N-acetylglucosamine-specific enzyme IICB component,S_Transport
+BSU07800,,False,False,treP,phosphotransferase system (PTS) trehalose-specific enzyme IIBC component,S_Transport
+BSU07920,,False,False,chaA,Ca<sup>2+</sup>/H<sup>+</sup> antiporter,S_Transport
+BSU08000,,False,False,yfjQ,CorA-family transporter YfjQ,S_Transport
+BSU08200,,False,False,malP,phosphotransferase system (PTS) maltose-specific enzyme IICB component,S_Transport
+BSU08440,,False,False,sxzY,xenosiderophore schizokinen (dihydroxamate) transporter binding lipoprotein,S_Transport
+BSU08450,,False,False,sxzZ,xenosiderophore schizokinen (dihydroxamate) transporter (permease),S_Transport
+BSU08460,,False,False,sxzA,xenosiderophore schizokinen (dihydroxamate) transporter (permease),S_Transport
+BSU08830,,False,False,ssuB,"aliphatic sulfonate ABC transporteraliphatic sulfonate ABC transporter, ATP-binding subunit",S_Transport
+BSU28740,,False,False,araP,arabinose/arabinan permease,S_Transport
+BSU28730,,False,False,araQ,arabinose/arabinan permease,S_Transport
+BSU28750,,False,False,araN,sugar-binding lipoprotein,S_Transport
+BSU28900,,False,False,pftB,pyruvate import system subunit Bpyruvate transporter,S_Transport
+BSU28910,,False,False,pftA,pyruvate transporterpyruvate uptake system subunit A,S_Transport
+BSU29340,,False,False,tcyN,S-alkyl cysteine ABC transporterS-alkyl cysteine ABC transporter ATP-binding protein TcyN,S_Transport
+BSU29350,,False,False,tcyM,S-alkyl cysteine ABC transporterS-alkyl cysteine ABC transporter membrane subunit TcyM,S_Transport
+BSU29360,,False,False,tcyL,S-alkyl cysteine ABC transporterS-alkyl cysteine ABC transporter membrane subunit TcyL,S_Transport
+BSU29370,,False,False,tcyK,S-alkyl cysteine ABC transporterS-alkyl cysteine ABC transporter substrate-binding lipoprotein TcyK,S_Transport
+BSU29380,,False,False,tcyJ,S-alkyl cysteine ABC transporterS-alkyl cysteine ABC transporter substrate-binding lipoprotein TcyJ,S_Transport
+BSU29600,,False,False,braB,branched-chain amino acid-Na+ symporter,S_Transport
+BSU29990,,False,False,pbuO,hypoxanthine/guanine permease,S_Transport
+BSU30070,,False,False,opuD,glycine betaine transporter,S_Transport
+BSU30410,,False,False,ytrF,putative ABC transporter membrane protein,S_Transport
+BSU30420,,False,False,ytrE,putative ABC transporter ATP-binding protein YtrE,S_Transport
+BSU30430,,False,False,ytrD,putative ABC transporter membrane protein YtrD,S_Transport
+BSU30440,,False,False,ytrC,putative ABC transporter membrane protein YtrC,S_Transport
+BSU30450,,False,False,ytrB,putative ABC transporter ATP-binding protein YtrB,S_Transport
+BSU30530,,False,False,ytnA,alanine permease,S_Transport
+BSU30740,,False,False,mntD,Mn<sup>2+</sup> ABC transporterMn<sup>2+</sup> ABC transporter membrane subunit MntD,S_Transport
+BSU30750,,False,False,mntC,Mn<sup>2+</sup> ABC transporter membrane subunit MntCMn<sup>2+</sup> ABC transporter,S_Transport
+BSU30760,,False,False,mntB,Mn<sup>2+</sup> ABC transporterMn<sup>2+</sup> ABC transporter ATP-binding protein,S_Transport
+BSU30770,,False,False,mntA,Mn<sup>2+</sup> ABC transporter substrate-binding lipoproteinMn<sup>2+</sup> ABC transporter,S_Transport
+BSU01680,,False,False,murP,N-acetylmuramic acid PTS permease-MurP subunit,S_Transport
+BSU01580,,False,False,ybaR,putative permease,S_Transport
+BSU01630,,False,False,feuA,ferri-bacillibactin-binding lipoproteinferri-bacillibactin transporter,S_Transport
+BSU01610,,False,False,feuC,ferri-bacillibactin transporteriron-uptake protein,S_Transport
+BSU01620,,False,False,feuB,ferri-bacillibactin transporterferri-bacillibactin permease,S_Transport
+BSU02140,,False,False,glpT,sn-glycerol-3-phosphate permease,S_Transport
+BSU02340,,False,False,gltP,proton/glutamate symport protein,S_Transport
+BSU02350,,False,False,gamP,phosphotransferase system (PTS) glucosamine-specific enzyme IICBA component,S_Transport
+BSU02400,,False,False,ybgF,putative aminoacid permease,S_Transport
+BSU02420,,False,False,glnT,glutamine transporter,S_Transport
+BSU02480,,False,False,gudP,glucarate transporter,S_Transport
+BSU02760,,False,False,natB,Na<sup>+</sup> ABC efflux transporter membrane subunitNa<sup>+</sup> ABC efflux transporter,S_Transport
+BSU02750,,False,False,natA,Na<sup>+</sup> ABC efflux transporter ATP-binding proteinNa<sup>+</sup> ABC efflux transporter,S_Transport
+BSU02850,,False,False,znuA,Zn<sup>2+</sup> ABC transporterZn<sup>2+</sup> ABC transporter substrate-binding lipoprotein,S_Transport
+BSU02860,,False,False,znuC,Zn<sup>2+</sup> ABC transporterZn<sup>2+</sup> ABC transporter ATP-binding protein,S_Transport
+BSU02870,,False,False,znuB,Zn<sup>2+</sup> ABC transporterZn<sup>2+</sup> ABC transporter membrane subunit,S_Transport
+BSU02980,,False,False,opuAA,glycine betaine ABC transporter ATP-binding proteinglycine betaine ABC transporter OpuA,S_Transport
+BSU02990,,False,False,opuAB,glycine betaine ABC transporter OpuAglycine betaine ABC transporter membrane subunit,S_Transport
+BSU03000,,False,False,opuAC,glycine betaine ABC transporter OpuAglycine betaine ABC transporter substrate-binding lipoprotein,S_Transport
+BSU03060,,False,False,lctP,L-lactate permease,S_Transport
+BSU03070,,False,False,mdr,multidrug-efflux transporter,S_Transport
+BSU03220,,False,False,putP,putative proline/ornithine permease,S_Transport
+BSU03310,,False,False,nasC,assimilatory nitrate reductaseassimilatory nitrate reductase (catalytic subunit),S_Membrane_bioenergetics
+BSU03320,,False,False,nasB,assimilatory nitrate reductaseassimilatory nitrate reductase (electron transfer subunit NasB),S_Membrane_bioenergetics
+BSU03330,,False,False,nasA,putative nitrate transporter,S_Transport
+BSU03800,,False,False,pbtN,iron(III)-petrobactin ABC transporter membrane subunit FpiBiron(III)-petrobactin ABC transporter,S_Transport
+BSU03820,,False,False,pbtP,iron(III)-petrobactin ABC transporter ATP-binding proteiniron(III)-petrobactin ABC transporter,S_Transport
+BSU03810,,False,False,pbtO,iron(III)-petrobactin ABC transporteriron(III)-petrobactin ABC transporter membrane subunit FpiC,S_Transport
+BSU03830,,False,False,pbtQ,iron(III)-petrobactin ABC transporter substrate-binding lipoproteiniron(III)-petrobactin ABC transporter,S_Transport
+BSU03981,,False,False,mtlA,phosphotransferase system (PTS) mannitol-specificphosphotransferase system (PTS) mannitol-specific enzyme IICB component,S_Transport
+BSU03950,,False,False,cutJ,copper import permease subunit,S_Transport
+BSU04360,,False,False,mntH,proton-coupled manganese transporter,S_Transport
+BSU04470,,False,False,dctP,C4-dicarboxylate transport protein,S_Transport
+BSU08840,,False,False,ssuA,"aliphatic sulfonate ABC transporter, substrate-binding lipoproteinaliphatic sulfonate ABC transporter",S_Transport
+BSU09130,,False,False,tcyP,(sodium)-cystine symporter,S_Transport
+BSU09280,,False,False,glpF,glycerol permease,S_Transport
+BSU08850,,False,False,ssuC,"aliphatic sulfonate ABC transporter, membrane subunitaliphatic sulfonate ABC transporter",S_Transport
+BSU09680,,False,False,nhaC,Na+/H+ antiporter,S_Transport
+BSU10010,,False,False,trpP,"putative tryptophan ECF transporter, S component",S_Transport
+BSU09850,,False,False,khtU,proton/potassium antiporter; methylglyoxal resistance,S_Transport
+BSU10520,,False,False,glcP,glucose/mannose:H+ symporter (recent HGT island),S_Transport
+BSU10220,,False,False,gltT,proton/sodium-glutamate (aspartate) symport permease,S_Transport
+BSU10870,,False,False,yisU,putative aminoacid related metabolite efflux transporter,S_Transport
+BSU11640,,False,False,kefQ,gated K+/H+ antiporter,S_Transport
+BSU12010,,False,False,manP,phosphotransferase system (PTS) mannose-specific enzyme IIBCA component,S_Transport
+BSU12360,,False,False,exuT,hexuronate transporter,S_Transport
+BSU12840,,False,False,pitB,putative low-affinity inorganic phosphate transporter,S_Transport
+BSU12930,,False,False,dppB,dipeptide ABC transporter membrane subunit DppBdipeptide ABC transporter,S_Transport
+BSU12940,,False,False,dppC,dipeptide ABC transporter membrane subunit DppCdipeptide ABC transporter,S_Transport
+BSU12950,,False,False,dppD,dipeptide ABC transporterdipeptide ABC transporter ATP-binding protein,S_Transport
+BSU12960,,False,False,dppE,dipeptide ABC transporter substrate-binding lipoproteindipeptide ABC transporter,S_Transport
+BSU13300,,False,False,mgtE,magnesium transporter,S_Transport
+BSU13850,,False,False,pfeT,Fe(II) efflux transporter possibly involved in copper(II) uptake,S_Transport
+BSU13890,,False,False,ptsG,phosphotransferase system (PTS) glucose-specific enzyme IICBA component,S_Transport
+BSU13900,,False,False,ptsH,histidine-containing phosphocarrier protein of the phosphotransferase system (PTS) (HPr protein),S_Transport
+BSU13910,,False,False,ptsI,phosphotransferase system (PTS) enzyme I,S_Transport
+BSU14400,,False,False,fruA,phosphotransferase system (PTS) fructose-specific enzyme IIABC component,S_Transport
+BSU23980,,False,False,artP,arginine ABC transporterarginine ABC transporter substrate-binding lipoprotein,S_Transport
+BSU23970,,False,False,artQ,arginine ABC transporterarginine ABC transporter membrane subunit,S_Transport
+BSU23960,,False,False,artR,arginine ABC transporterarginine ABC transporter ATP-binding protein,S_Transport
+BSU24740,,False,False,yqxL,CorA-family divalent ion transporter,S_Transport
+BSU24950,,False,False,pstBB,phosphate ABC transporterphosphate ABC transporter ATP-binding protein PstBB,S_Transport
+BSU24970,,False,False,pstA,phosphate ABC transporterphosphate ABC transporter membrane subunit PstA,S_Transport
+BSU24960,,False,False,pstBA,phosphate ABC transporter ATP-binding protein PstBAphosphate ABC transporter,S_Transport
+BSU24990,,False,False,pstS,phosphate ABC transporter substrate-binding lipoproteinphosphate ABC transporter,S_Transport
+BSU24980,,False,False,pstC,phosphate ABC transporterphosphate ABC transporter membrane subunit PstC,S_Transport
+BSU25420,,False,False,yqeW,putative Na+/anion cotransporter,S_Transport
+BSU25790,,False,False,arsB,arsenite efflux transporter,S_Transport
+BSU26590,,False,False,blt,spermidine efflux transporter Blt,S_Transport
+BSU26640,,False,False,yrdP,putative oxidoreductase,S_Transport
+BSU26650,,False,False,czcD,potassium/proton-divalent cation antiporter,S_Transport
+BSU26690,,False,False,brnQ,low-affinity branched-chain amino acid transporter,S_Transport
+BSU26860,,False,False,yraO,putative citrate transporter,S_Transport
+BSU27040,,False,False,levG,phosphotransferase system (PTS) fructose-specific enzyme IID componentphosphotransferase system (PTS) fructose-specific,S_Transport
+BSU27050,,False,False,levF,phosphotransferase system (PTS) fructose-specific enzyme IIC componentphosphotransferase system (PTS) fructose-specific,S_Transport
+BSU27060,,False,False,levE,phosphotransferase system (PTS) fructose-specific enzyme IIB componentphosphotransferase system (PTS) fructose-specific,S_Transport
+BSU27070,,False,False,levD,phosphotransferase system (PTS) fructose-specific enzyme IIA componentphosphotransferase system (PTS) fructose-specific,S_Transport
+BSU27200,,False,False,yrhG,putative formate/nitrite transporter,S_Transport
+BSU27430,,False,False,glnQ,putative L-glutamine ABC transporterputative L-glutamine ABC transporter ATP-binding protein,S_Transport
+BSU27440,,False,False,glnH,putative L-glutamine ABC transporter substrate-binding lipoproteinputative L-glutamine ABC transporter,S_Transport
+BSU27450,,False,False,glnM,putative L-glutamine ABC transporterputative L-glutamine ABC transporter membrane subunit GlnM,S_Transport
+BSU27460,,False,False,glnP,putative L-glutamine ABC transporter membrane subunit GlnPputative L-glutamine ABC transporter,S_Transport
+BSU27810,,False,False,alaP,sodium/proton-dependent alanine transporter,S_Transport
+BSU37760,,False,False,rocC,basic aminoacid permease,S_Transport
+BSU38060,,False,False,nirC,nitrite transporter,S_Transport
+BSU38050,,False,False,sacP,phosphotransferase system (PTS) sucrose-specific enzyme IIBC component,S_Transport
+BSU38140,,False,False,qoxD,cytochrome aa3-600 menaquinol oxidasecytochrome aa3-600 quinol oxidase (subunit IV),S_Membrane_bioenergetics
+BSU38260,,False,False,efeB,peroxidase converting ferric iron into ferrous iron,S_Transport
+BSU38150,,False,False,qoxC,cytochrome aa3-600 menaquinol oxidasecytochrome aa3-600 quinol oxidase (subunit III),S_Membrane_bioenergetics
+BSU38170,,False,False,qoxA,cytochrome aa3-600 menaquinol oxidasecytochrome aa3-600 quinol oxidase (subunit II),S_Membrane_bioenergetics
+BSU38270,,False,False,efeM,ferric iron transporterlipoprotein binding ferrous or ferric iron for transport,S_Transport
+BSU38240,,False,False,vbfA,acetate Na+-dependent symporter subunit involved in volatile signal for biofilm formation,S_Transport
+BSU38280,,False,False,efeU,ferrous ion permeaseferric iron transporter,S_Transport
+BSU38160,,False,False,qoxB,cytochrome aa3-600 menaquinol oxidasecytochrome aa3-600 quinol oxidase (subunit I),S_Membrane_bioenergetics
+BSU38390,,False,False,ywbA,putative cellobiose phosphotransferase system enzyme IIC permease component,S_Transport
+BSU38570,,False,False,licA,phosphotransferase system (PTS) lichenan-specificphosphotransferase system (PTS) lichenan-specific enzyme IIA component,S_Transport
+BSU38580,,False,False,licC,phosphotransferase system (PTS) lichenan-specific enzyme IIC componentphosphotransferase system (PTS) lichenan-specific,S_Transport
+BSU38590,,False,False,licB,phosphotransferase system (PTS) lichenan-specificphosphotransferase system (PTS) lichenan-specific enzyme IIB component,S_Transport
+BSU38770,,False,False,cimH,citrate/malate/H+ symporter,S_Transport
+BSU38710,,False,False,yxlA,putative purine-cytosine (pyridoxine) permease,S_Transport
+BSU38760,,False,False,cydA,cytochrome bb' ubiquinol oxidase (subunit I)cytochrome bd ubiquinol oxidase,S_Membrane_bioenergetics
+BSU38750,,False,False,cydB,cytochrome bd ubiquinol oxidasecytochrome bb' ubiquinol oxidase (subunit II),S_Membrane_bioenergetics
+BSU39020,,False,False,nupG,purine nucleoside transporter,S_Transport
+BSU39060,,False,False,citH,secondary transporter of divalent metal ions/citrate complexes,S_Transport
+BSU39270,,False,False,bglP,phosphotransferase system (PTS) beta-glucoside-specific enzyme IIBCA component,S_Transport
+BSU39390,,False,False,hutM,histidine degradation metabolites permease,S_Transport
+BSU39450,,False,False,yxeR,putative ethanolamine permease,S_Transport
+BSU39610,,False,False,frxB,iron(III)-hydroxamate ABC transporter ferrioxamine-binding lipoprotein,S_Transport
+BSU39410,,False,False,nupC,pyrimidine-nucleoside Na+(H+) cotransporter,S_Transport
+BSU39710,,False,False,iolF,inositol transport protein,S_Transport
+BSU40330,,False,False,rocE,arginine/ornithine/gamma-aminobutyrate permease,S_Transport
+BSU40070,,False,False,gntP,gluconate/proton permease,S_Transport
+BSU31322,,False,False,kbfO,potassium channel protein involved in biofilm formation,S_Transport
+BSU31100,,False,False,ktrB,potassium transporter ATPaseK<sup>+</sup> transporter KtrAB,S_Transport
+BSU31090,,False,False,ktrA,"potassium uptake proteinK<sup>+</sup> transporter, KtrA complex subunitK<sup>+</sup> transporter KtrAB",S_Transport
+BSU31600,,False,False,mrpA,Na<sup>+</sup>:H<sup>+</sup> antiporterNa<sup>+</sup>:H<sup>+</sup> antiporter subunit A,S_Transport
+BSU31610,,False,False,mrpB,Na<sup>+</sup>:H<sup>+</sup> antiporter subunit BNa<sup>+</sup>:H<sup>+</sup> antiporter,S_Transport
+BSU31580,,False,False,maeN,Na+/malate symporter,S_Transport
+BSU31620,,False,False,mrpC,Na<sup>+</sup>:H<sup>+</sup> antiporter subunit CNa<sup>+</sup>:H<sup>+</sup> antiporter,S_Transport
+BSU31640,,False,False,mrpE,Na<sup>+</sup>:H<sup>+</sup> antiporter subunit ENa<sup>+</sup>:H<sup>+</sup> antiporter,S_Transport
+BSU31630,,False,False,mrpD,Na<sup>+</sup>:H<sup>+</sup> antiporterNa<sup>+</sup>:H<sup>+</sup> antiporter subunit D,S_Transport
+BSU31650,,False,False,mrpF,Na<sup>+</sup>:H<sup>+</sup> antiporterNa<sup>+</sup>:H<sup>+</sup> antiporter subunit F,S_Transport
+BSU31660,,False,False,mrpG,Na<sup>+</sup>:H<sup>+</sup> antiporterNa<sup>+</sup>:H<sup>+</sup> antiporter subunit A,S_Transport
+BSU32180,,False,False,yutK,putative Na+(H+)/nucleoside cotransporter,S_Transport
+BSU32430,,False,False,pucJ,uric acid permease,S_Transport
+BSU32440,,False,False,pucK,uric acid permease subunit,S_Transport
+BSU33160,,False,False,yvrA,"putative vitamin B12 transport system, ATPase component",S_Transport
+BSU33180,,False,False,yvrC,putative lipoprotein binding vitamin B12,S_Transport
+BSU33300,,False,False,fhuG,iron(III) hydroxamate ABC transporteriron(III) hydroxamate ABC transporter membrane subunit FhuG,S_Transport
+BSU33290,,False,False,fhuC,iron(III) hydroxamate ABC transporteriron(III) hydroxamate ABC transporter ATP-binding protein,S_Transport
+BSU33310,,False,False,fhuB,iron(III) hydroxamate ABC transporteriron(III) hydroxamate ABC transporter membrane subunit FhuB,S_Transport
+BSU33330,,False,False,lysP,lysine permease,S_Transport
+BSU33370,,False,False,yvgK,putative molybdate binding regulator,S_Transport
+BSU33390,,False,False,modB,molybdenum transport permease,S_Transport
+BSU33380,,False,False,modA,molybdate-binding lipoprotein,S_Transport
+BSU33420,,False,False,nhaK,Na+/H+ antiporter,S_Transport
+BSU33490,,False,False,cadA,Cd<sup>2+</sup> / Zn<sup>2+</sup> / Co<sup>2+</sup> exporting P-type ATPase,S_Transport
+BSU33500,,False,False,copA,Cu<sup>+</sup> exporting P-type ATPase,
+BSU33510,,False,False,copZ,copper chaperone CopZ,S_Transport
+BSU33700,,False,False,opuBD,choline ABC transporter membrane subunit OpuBDcholine ABC transporter OpuB,S_Transport
+BSU33710,,False,False,opuBC,choline ABC transporter OpuBcholine ABC transporter substrate-binding lipoprotein,S_Transport
+BSU33720,,False,False,opuBB,choline ABC transporter membrane subunit OpuBBcholine ABC transporter OpuB,S_Transport
+BSU33730,,False,False,opuBA,choline ABC transporter ATP-binding proteincholine ABC transporter OpuB,S_Transport
+BSU33800,,False,False,opuCD,"glycine betaine/carnitine/choline/choline sulfate ABC transporterglycine betaine/carnitine/choline/choline sulfate ABC transporter, membrane subunit OpuCD",S_Transport
+BSU33810,,False,False,opuCC,"glycine betaine/carnitine/choline/choline sulfate ABC transporterglycine betaine/carnitine/choline/choline sulfate ABC transporter, substrate-binding lipoprotein",S_Transport
+BSU33820,,False,False,opuCB,"glycine betaine/carnitine/choline/choline sulfate ABC transporter, membrane subunit OpuCBglycine betaine/carnitine/choline/choline sulfate ABC transporter",S_Transport
+BSU18540,,False,False,yoaB,negatively charged metabolite transporter,S_Transport
+BSU19350,,False,False,yocS,putative sodium-dependent symporter,S_Transport
+BSU19520,,False,False,yojA,putative H+/anion permease,S_Transport
+BSU19580,,False,False,yodF,putative Na+/metabolite permease,S_Transport
+BSU22060,,False,False,pbuX,xanthine permease,S_Transport
+BSU22090,,False,False,kdgT,2-keto-3-deoxygluconate permease,S_Transport
+BSU22540,,False,False,qcrC,menaquinol:cytochrome c oxidoreductase (cytochrome cc subunit)menaquinol:cytochrome c oxidoreductase,S_Membrane_bioenergetics
+BSU22550,,False,False,qcrB,menaquinol:cytochrome c oxidoreductase (cytochrome b subunit)menaquinol:cytochrome c oxidoreductase,S_Membrane_bioenergetics
+BSU22560,,False,False,qcrA,menaquinol:cytochrome c oxidoreductase (iron-sulfur subunit)menaquinol:cytochrome c oxidoreductase,S_Membrane_bioenergetics
+BSU23050,,False,False,fmnP,"putative riboflavin ECF transporterriboflavin ECF transporter, S component",S_Transport
+BSU23560,,False,False,mleN,malate-H+/Na+-lactate antiporter,S_Transport
+BSU33830,,False,False,opuCA,"glycine betaine/carnitine/choline/choline sulfate ABC transporterglycine betaine/carnitine/choline/choline sulfate ABC transporter, ATP-binding protein",S_Transport
+BSU34190,,False,False,lutP,L-lactate permease,S_Transport
+BSU33960,,False,False,araE,arabinose-related compounds permease,S_Transport
+BSU34590,,False,False,mdxG,maltodextrin ABC transportermaltodextrin ABC transporter membrane subunit MdxG,S_Transport
+BSU34610,,False,False,mdxE,maltodextrin ABC transporter substrate-binding lipoproteinmaltodextrin ABC transporter,S_Transport
+BSU34600,,False,False,mdxF,maltodextrin ABC transportermaltodextrin ABC transporter membrane subunit MdxF,S_Transport
+BSU34660,,False,False,yvdB,putative anion transporter,S_Transport
+BSU35930,,False,False,rbsD,D-ribose pyranase,S_Transport
+BSU35950,,False,False,rbsC,ribose ABC transporter membrane subunitribose ABC transporter,S_Transport
+BSU35940,,False,False,rbsA,ribose ABC transporterribose ABC transporter ATP-binding protein,S_Transport
+BSU35960,,False,False,rbsB,ribose ABC transporterribose ABC transporter substrate-binding lipoprotein,S_Transport
+BSU36030,,False,False,ywrK,putative Na+/H+ antiporter,S_Transport
+BSU36130,,False,False,chrA,putative chromate efflux transporter subunit ChrAputative chromate efflux transporter,S_Transport
+BSU36120,,False,False,chrB,putative chromate efflux transporter subunit ChrBputative chromate efflux transporter,S_Transport
+BSU36470,,False,False,pucI,allantoin permease,S_Transport
+BSU36510,,False,True,amtB,ammonium transporter,S_Transport
+BSU36800,,True,True,atpC,"ATP synthase, F1ATP synthase (subunit epsilon, F1 subunit)ATP synthase",S_Membrane_bioenergetics
+BSU36840,,True,True,atpH,"ATP synthase, F1ATP synthaseATP synthase (subunit delta, component F1)",S_Membrane_bioenergetics
+BSU36830,,True,True,atpA,"ATP synthase (subunit alpha, component F1)ATP synthase, F1ATP synthase",S_Membrane_bioenergetics
+BSU36820,,True,True,atpG,"ATP synthase (subunit gamma, component F1)ATP synthase, F1ATP synthase",S_Membrane_bioenergetics
+BSU36810,,True,True,atpD,"ATP synthase (subunit beta, component F1)ATP synthase, F1ATP synthase",S_Membrane_bioenergetics
+BSU36870,,True,True,atpB,"ATP synthase (subunit a, component F0)ATP synthase, F0ATP synthase",S_Membrane_bioenergetics
+BSU36850,,True,True,atpF,"ATP synthase, F0ATP synthaseATP synthase (subunit b, component F0)",S_Membrane_bioenergetics
+BSU36860,,True,True,atpE,"ATP synthase, F0ATP synthaseATP synthase (subunit c, component F0)",S_Membrane_bioenergetics
+BSU36880,,True,True,atpI,AtpI protein,S_Membrane_bioenergetics
+BSU37320,,False,False,narK,nitrite extrusion permease,S_Transport
+BSU14890,,False,False,ctaC,cytochrome caa3 oxidasecytochrome caa3 oxidase (subunit II),S_Membrane_bioenergetics
+BSU14920,,False,False,ctaF,cytochrome caa3 oxidasecytochrome caa3 oxidase (subunit IV),S_Membrane_bioenergetics
+BSU14900,,False,False,ctaD,cytochrome caa3 oxidase (subunit I)cytochrome caa3 oxidase,S_Membrane_bioenergetics
+BSU14910,,False,False,ctaE,cytochrome caa3 oxidasecytochrome caa3 oxidase (subunit III),S_Membrane_bioenergetics
+BSU15480,,False,False,pyrP,uracil permease,S_Transport
+BSU15580,,False,False,cysP,sulfate permease,S_Transport
+BSU15650,,False,False,tcaB,P-type calcium transport ATPase (sporulation),S_Transport
+BSU18120,,False,False,alsT,H+/Na+:nitrogen-donor aminoacid symporter,S_Transport

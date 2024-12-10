@@ -5,6 +5,7 @@ import pandas as pd
 import re
 import matplotlib.pyplot as plt
 import numpy as np
+import cobra
 
 def get_base_complex_data(model, complex_id):
     """If a complex is modified in a metabolic reaction it will not
@@ -630,7 +631,7 @@ def read_curation(filename):
     df = pd.read_csv(filename,index_col=1)
     return df[(~df["decision"].isna()) & (df["decision"]!="keep")]
 
-def perform_instruction(reaction, instruction):
+def perform_instruction(reaction, instruction, row=None):
     if instruction == "keep":
         return
     elif instruction == "remove":
@@ -644,6 +645,10 @@ def perform_instruction(reaction, instruction):
         return
     elif instruction == "make_reversible":
         reaction.bounds = (-1000,1000)
+        return
+    elif instruction == "add":
+        reaction.build_reaction_from_string(row["reaction"])
+        reaction.name = row["name"]
         return
     elif ":" not in instruction:
         print("Instruction could not be read: {}".format(instruction))
@@ -674,10 +679,13 @@ def perform_instruction(reaction, instruction):
         return
 def curate_model(model,curation):
     for r, row in curation.iterrows():
-        if r not in model.reactions:
-            print("{} not in model".format(r))
-            continue
+        # if r not in model.reactions:
+        #     print("{} not in model".format(r))
+        #     continue
+        if not model.reactions.has_id(r):
+            rxn = cobra.core.Reaction(r)
+            model.add_reactions([rxn])
         reaction = model.reactions.get_by_id(r)
         instructions = row["decision"].split(",")
         for i in instructions:
-            perform_instruction(reaction, i)
+            perform_instruction(reaction, i, row=row)

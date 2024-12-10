@@ -98,10 +98,10 @@ keep,KAS1,(BSU15900 and BSU11340 and BSU15910 and BSU11330 and BSU11720 and BSU0
 keep,TECA3S45,BSU35750 and BSU35760 and BSU35730 and BSU35720 and BSU35710 and BSU35700 and BSU35530,0.0000952,0,Glycerol teichoic acid  n45   unlinked  glucose substituted,45.0 cdpglyc_c + h2o_c + uacgam_c + uacmam_c + 45.0 udpg_c --> 45.0 cmp_c + gtca3_45_BS_c + 91.0 h_c + 46.0 udp_c + ump_c,45.0 CDPglycerol C12H19N3O13P2 + H2O H2O + UDP-N-acetyl-D-glucosamine + UDP-N-acetyl-D-mannosamine + 45.0 UDPglucose --> 45.0 CMP C9H12N3O8P + Glycerol teichoic acid  n45   unlinked  glucose substituted C421H749N2O464P46 + 91.0 H+ + 46.0 UDP C9H11N2O12P2 + UMP C9H11N2O9P
 keep,TECA2S45,BSU38500 and BSU38510 and BSU38520 and BSU38530 and BSU35750 and BSU35760 and BSU35720 and BSU35710 and BSU35700 and BSU35530,0.0000735,0,Glycerol teichoic acid  n45   unlinked  D ala substituted,45.0 ala__D_c + 45.0 atp_c + 45.0 cdpglyc_c + 45.0 h2o_c + uacgam_c + uacmam_c --> 45.0 amp_c + 45.0 cmp_c + gtca2_45_BS_c + 91.0 h_c + 45.0 ppi_c + udp_c + ump_c,45.0 D-Alanine + 45.0 ATP C10H12N5O13P3 + 45.0 CDPglycerol C12H19N3O13P2 + 45.0 H2O H2O + UDP-N-acetyl-D-glucosamine + UDP-N-acetyl-D-mannosamine --> 45.0 AMP C10H12N5O7P + 45.0 CMP C9H12N3O8P + Glycerol teichoic acid  n45   unlinked  D ala substituted C286H612N47O328P46 + 91.0 H+ + 45.0 Diphosphate + UDP C9H11N2O12P2 + UMP C9H11N2O9P
 keep,CITt10,BSU07610,0.0000331,0,Citrate transport in via Mg complex,cit_e + h_e + mg2_e --> cit_c + h_c + mg2_c,Citrate + H+ + Magnesium --> Citrate + H+ + Magnesium
-keep,FBA,BSU39670 or BSU37120,2.30E-05,-0.13321311,Fructose-bisphosphate aldolase,fdp_c <=> dhap_c + g3p_c,"D-Fructose 1,6-bisphosphate <=> Dihydroxyacetone phosphate + Glyceraldehyde 3-phosphate"
+keep,FBA,BSU39670 or BSU37120,0.000023,-0.13321311,Fructose-bisphosphate aldolase,fdp_c <=> dhap_c + g3p_c,"D-Fructose 1,6-bisphosphate <=> Dihydroxyacetone phosphate + Glyceraldehyde 3-phosphate"
 keep,CLPNS2_BS,BSU37190 or BSU37240 or BSU36590,0.000023,0,Cardiolipin synthase,0.02 pgly_BS_c --> 0.01 cdlp_BS_c + glyc_c,0.02 Phosphatidylglycerol  B subtils  C3736H7272O1000P100 --> 0.01 Cardiolipin  B subtilis  C7172H13744O1700P200 + Glycerol
 keep,FRUK,BSU14390,0.000023,0,Fructose-1-phosphate kinase,atp_c + f1p_c --> adp_c + fdp_c + h_c,"ATP C10H12N5O13P3 + D-Fructose 1-phosphate --> ADP C10H12N5O10P2 + D-Fructose 1,6-bisphosphate + H+"
-keep,FOLR2,BSU21810,1.15E-05,-1.15E-05,Folate reductase,fol_c + nadph_c <=> dhf_c + nadp_c,"Folate + Nicotinamide adenine dinucleotide phosphate - reduced <=> 7,8-Dihydrofolate + Nicotinamide adenine dinucleotide phosphate"
+keep,FOLR2,BSU21810,0.0000115,-0.0000115,Folate reductase,fol_c + nadph_c <=> dhf_c + nadp_c,"Folate + Nicotinamide adenine dinucleotide phosphate - reduced <=> 7,8-Dihydrofolate + Nicotinamide adenine dinucleotide phosphate"
 keep,23CN2P1,BSU07840,0,0,2  3  cyclic nucleotide 2  phosphodiesterase  2  3  cyclc AMP ,23camp_c + h2o_c <=> 3amp_c + h_c,"2',3'-Cyclic AMP + H2O H2O <=> 3  AMP C10H12N5O7P + H+"
 keep,23CN2P2,BSU07840,0,0,2  3  cyclic nucleotide 2  phosphodiesterase  2  3  cyclic UMP ,23cump_c + h2o_c <=> 3ump_c + h_c,"2',3'-Cyclic UMP + H2O H2O <=> 3  UMP C9H11N2O9P + H+"
 keep,23CN2P3,BSU07840,0,0,2  3  cyclic nucleotide 2  phosphodiesterase  2  3  cyclic CMP ,23ccmp_c + h2o_c <=> 3cmp_c + h_c,"2',3'-Cyclic CMP + H2O H2O <=> 3  CMP C9H12N3O8P + H+"
@@ -147,8 +147,8 @@ keep,FACOAL171_anteiso,BSU10270 or BSU10360 or BSU18250 or BSU28560,0,0,Fatty ac
 keep,FACOAL171_ISO,BSU10270 or BSU10360 or BSU18250 or BSU28560,0,0,Fatty acid  CoA ligase  Iso C171 ,atp_c + coa_c + fa9_c <=> amp_c + fa9coa_c + ppi_c,ATP C10H12N5O13P3 + Coenzyme A + Fatty acid (Iso-C17:1) <=> AMP C10H12N5O7P + Iso C171 CoA C38H62N7O17P3S1 + Diphosphate
 keep,FACOAL181,BSU18250 or BSU10270 or BSU10360 or BSU28560,0,0,Fatty acid  CoA ligase  octadecenoate ,atp_c + coa_c + ocdcea_c <=> amp_c + odecoa_c + ppi_c,ATP C10H12N5O13P3 + Coenzyme A + Octadecenoate (n-C18:1) <=> AMP C10H12N5O7P + Octadecenoyl-CoA (n-C18:1CoA) + Diphosphate
 keep,FBP,BSU40190,0,0.13321311,Fructose-bisphosphatase,fdp_c + h2o_c --> f6p_c + pi_c,"D-Fructose 1,6-bisphosphate + H2O H2O --> D-Fructose 6-phosphate + Phosphate"
-keep,FMNAT,BSU16670,0,1.03E-08,FMN adenylyltransferase,atp_c + fmn_c + h_c <=> fad_c + ppi_c,ATP C10H12N5O13P3 + FMN C17H19N4O9P + H+ <=> Flavin adenine dinucleotide oxidized + Diphosphate
-keep,FOLD3,BSU00770,0,1.15E-05,Dihydropteroate synthase,2ahhmd_c + 4abz_c --> dhpt_c + ppi_c,2 Amino 4 hydroxy 6 hydroxymethyl 7 8 dihydropteridine diphosphate C7H8N5O8P2 + 4-Aminobenzoate --> Dihydropteroate + Diphosphate
+keep,FMNAT,BSU16670,0,0.0000000103,FMN adenylyltransferase,atp_c + fmn_c + h_c <=> fad_c + ppi_c,ATP C10H12N5O13P3 + FMN C17H19N4O9P + H+ <=> Flavin adenine dinucleotide oxidized + Diphosphate
+keep,FOLD3,BSU00770,0,0.0000115,Dihydropteroate synthase,2ahhmd_c + 4abz_c --> dhpt_c + ppi_c,2 Amino 4 hydroxy 6 hydroxymethyl 7 8 dihydropteridine diphosphate C7H8N5O8P2 + 4-Aminobenzoate --> Dihydropteroate + Diphosphate
 keep,FUM,BSU33040,0,3.151293388,Fumarase,fum_c + h2o_c <=> mal__L_c,Fumarate + H2O H2O <=> L-Malate
 keep,G5SD,BSU13130,0,0.007422498,Glutamate-5-semialdehyde dehydrogenase,glu5p_c + h_c + nadph_c --> glu5sa_c + nadp_c + pi_c,L-Glutamate 5-phosphate + H+ + Nicotinamide adenine dinucleotide phosphate - reduced --> L-Glutamate 5-semialdehyde + Nicotinamide adenine dinucleotide phosphate + Phosphate
 keep,GAPDi_nadp,BSU29020,0,0.82199569,Glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating),13dpg_c + h_c + nadph_c --> g3p_c + nadp_c + pi_c,3-Phospho-D-glyceroyl phosphate + H+ + Nicotinamide adenine dinucleotide phosphate - reduced --> Glyceraldehyde 3-phosphate + Nicotinamide adenine dinucleotide phosphate + Phosphate
@@ -195,7 +195,7 @@ keep,PRATPP,BSU34860,0,0.003987822,Phosphoribosyl-ATP pyrophosphatase,h2o_c + pr
 keep,PSERT,BSU10020,0,0.08115306,Phosphoserine transaminase,3php_c + glu__L_c <=> akg_c + pser__L_c,3-Phosphohydroxypyruvate + L-Glutamate <=> 2-Oxoglutarate + O-Phospho-L-serine
 keep,PSP_L,BSU04740,0,0.08115306,Phosphoserine phosphatase (L-serine),h2o_c + pser__L_c --> pi_c + ser__L_c,H2O H2O + O-Phospho-L-serine --> Phosphate + L-Serine
 keep,PYNP2r,BSU39400,0,0.001488939,Pyrimidine-nucleoside phosphorylase (uracil),pi_c + uri_c <=> r1p_c + ura_c,Phosphate + Uridine <=> Alpha-D-Ribose 1-phosphate + Uracil
-keep,RBFK,BSU29300 or BSU16670,0,1.03E-08,Riboflavin kinase,atp_c + ribflv_c --> adp_c + fmn_c + h_c,ATP C10H12N5O13P3 + Riboflavin C17H20N4O6 --> ADP C10H12N5O10P2 + FMN C17H19N4O9P + H+
+keep,RBFK,BSU29300 or BSU16670,0,0.0000000103,Riboflavin kinase,atp_c + ribflv_c --> adp_c + fmn_c + h_c,ATP C10H12N5O13P3 + Riboflavin C17H20N4O6 --> ADP C10H12N5O10P2 + FMN C17H19N4O9P + H+
 keep,SHKK,BSU03150,0,0.017092813,Shikimate kinase,atp_c + skm_c --> adp_c + h_c + skm5p_c,ATP C10H12N5O13P3 + Shikimate --> ADP C10H12N5O10P2 + H+ + Shikimate 5-phosphate
 keep,SHSL2,BSU11870,0,0.006658848,O succinylhomoserine lyase  H2S ,h2s_c + suchms_c --> hcys__L_c + succ_c,Hydrogen sulfide + O-Succinyl-L-homoserine --> L-Homocysteine + Succinate
 keep,SHSL4r,BSU11870,0,0.011097163,O succinylhomoserine lyase  elimination   reversible,h2o_c + suchms_c --> 2obut_c + h_c + nh4_c + succ_c,H2O H2O + O-Succinyl-L-homoserine --> 2-Oxobutanoate + H+ + Ammonium + Succinate
@@ -217,7 +217,7 @@ keep,UDCPDP,BSU31150,0,0.00318784,Undecaprenyl-diphosphatase,h2o_c + udcpdp_c --
 keep,UGMDDS,BSU04570,0,0.00318784,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine synthetase",alaala_c + atp_c + ugmd_c --> adp_c + h_c + pi_c + ugmda_c,"D-Alanyl-D-alanine + ATP C10H12N5O13P3 + UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate --> ADP C10H12N5O10P2 + H+ + Phosphate + UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine"
 keep,APSR,BSU15570,0,0.006658848,Adenosine 5'-phosphosulfate reductase;,BSU28500-MONOMER + aps_c --> BSU28500-MONOMER_mod_Oxidized + amp_c + 2.0 h_c + so3_c,Reduced thioredoxin + Adenosine 5'-phosphosulfate --> Oxidized thioredoxin + AMP C10H12N5O7P + 2.0 H+ + Sulfite
 keep,3NUCLE3,BSU07840,-0.000000754,0.000000754,3  nucleotidase  3  cMP ,3cmp_c + h2o_c <=> cytd_c + pi_c,3  CMP C9H12N3O8P + H2O H2O <=> Cytidine + Phosphate
-keep,FBA2,BSU37120 or BSU39670,-2.30E-05,0,D Fructose 1 phosphate D glyceraldehyde 3 phosphate lyase,f1p_c <=> dhap_c + glyald_c,D-Fructose 1-phosphate <=> Dihydroxyacetone phosphate + D-Glyceraldehyde
+keep,FBA2,BSU37120 or BSU39670,-0.000023,0,D Fructose 1 phosphate D glyceraldehyde 3 phosphate lyase,f1p_c <=> dhap_c + glyald_c,D-Fructose 1-phosphate <=> Dihydroxyacetone phosphate + D-Glyceraldehyde
 keep,ALCD19y,BSU09530 or BSU39780,-0.000023,0,Alcohol dehydrogenase  glycerol  NADP ,glyald_c + h_c + nadph_c <=> glyc_c + nadp_c,D-Glyceraldehyde + H+ + Nicotinamide adenine dinucleotide phosphate - reduced <=> Glycerol + Nicotinamide adenine dinucleotide phosphate
 keep,FORt2,BSU27200,-0.0001108,0,Formate transport in via proton symport,for_e + h_e <=> for_c + h_c,Formate + H+ <=> Formate + H+
 keep,ACOAD7,BSU24150 or BSU37170,-0.001003242,0,Acyl-CoA dehydrogenase (hexadecanoyl-CoA),nad_c + pmtcoa_c <=> h_c + hdd2coa_c + nadh_c,Nicotinamide adenine dinucleotide + Palmitoyl-CoA (n-C16:0CoA) <=> H+ + Trans-Hexadec-2-enoyl-CoA + Nicotinamide adenine dinucleotide - reduced
@@ -304,6 +304,7 @@ make_reversible,TMDS,BSU17680 or BSU21820,0,0.001488939,Thymidylate synthase,dum
 remove,ALKP,BSU09410 or BSU05740,0,0,Alkaline phophatase,,
 remove,PPS,BSU18830,0,0,Phosphoenol pyruvate synthase,,
 "replace:h_na1,change_name:Na+-dependent acetate symporter ",ACt2r,BSU38240,-0.736389865,0,Acetate reversible transport via proton symport,ac_e + h_e <=> ac_c + h_c,Acetate + H+ <=> Acetate + H+
+add,NTP5,,,,Nucleoside-triphosphatase (CTP)  ,ctp_c + h2o_c --> cdp_c + h_c + pi_c,
 ,G6Pt6_2,,0,0,Glucose-6-phosphate transport via phosphate antiport,g6p_e + 2.0 pi_c --> g6p_c + 2.0 pi_e,D-Glucose 6-phosphate + 2.0 Phosphate --> D-Glucose 6-phosphate + 2.0 Phosphate
 ,G1Pt6_2,,0,0,Glucose 1 phosphate transport via phosphate antiport,g1p_e + 2.0 pi_c --> g1p_c + 2.0 pi_e,D-Glucose 1-phosphate + 2.0 Phosphate --> D-Glucose 1-phosphate + 2.0 Phosphate
 ,2PGt6,,1.205047069,0,D Glycerate 2 phosphate transport inout via proton symport,2pg_e + h_e <=> 2pg_c + h_c,D-Glycerate 2-phosphate + H+ <=> D-Glycerate 2-phosphate + H+
@@ -321,22 +322,22 @@ remove,PPS,BSU18830,0,0,Phosphoenol pyruvate synthase,,
 ,CHORt2,,0.000986258,0,Chorismate transport inout via proton symport,chor_e + h_e <=> chor_c + h_c,Chorismate + H+ <=> Chorismate + H+
 ,UMPt6,,0.0003822,0,UMP transport in via proton symport,h_e + ump_e <=> h_c + ump_c,H+ + UMP C9H11N2O9P <=> H+ + UMP C9H11N2O9P
 ,LYSLG_BS,,0.00010389,0,Lysylphosphatidylglycerol synthesis,atp_c + lys__L_c + 0.01 pgly_BS_c --> amp_c + h_c + 0.01 lysylpgly_BS_c + ppi_c,ATP C10H12N5O13P3 + L-Lysine + 0.01 Phosphatidylglycerol  B subtils  C3736H7272O1000P100 --> AMP C10H12N5O7P + H+ + 0.01 Lysylphophatidylglycerol C4336H8572N200O1100P100 + Diphosphate
-,CYSabc,,9.53E-05,0,L-cysteine transport via ABC system,atp_c + cys__L_e + h2o_c --> adp_c + cys__L_c + h_c + pi_c,ATP C10H12N5O13P3 + L-Cysteine + H2O H2O --> ADP C10H12N5O10P2 + L-Cysteine + H+ + Phosphate
-,FOLt,,1.15E-05,0,Folate transport via proton simport,fol_e + h_e <=> fol_c + h_c,Folate + H+ <=> Folate + H+
-,PYNP1,BSU39400,7.54E-07,4.35E-06,Pyrimidine-nucleoside phosphorylase (cytosine),csn_c + r1p_c <=> cytd_c + pi_c,Cytosine + Alpha-D-Ribose 1-phosphate <=> Cytidine + Phosphate
-,THMDt2,BSU39020 or BSU39410 or BSU32180,7.54E-07,0,Thymidine transport in via proton symport,h_e + thymd_e --> h_c + thymd_c,H+ + Thymidine C10H14N2O5 --> H+ + Thymidine C10H14N2O5
-,TMDPP,BSU39400,7.54E-07,4.35E-06,Thymidine phosphorylase,pi_c + thymd_c <=> 2dr1p_c + thym_c,Phosphate + Thymidine C10H14N2O5 <=> 2-Deoxy-D-ribose 1-phosphate + Thymine C5H6N2O2
-,LIPO3S24_BS,BSU38500 and BSU38510 and BSU38520 and BSU38530,5.64E-07,0,Lipoteichoic acid synthesis  n24   unliked  D alanine substituted,2400.0 ala__D_c + 2400.0 atp_c + 2400.0 cdpglyc_c + d12dg_BS_c + 2400.0 h2o_c --> 2400.0 amp_c + 2400.0 cmp_c + 4800.0 h_c + lipo3_24_BS_c + 2400.0 ppi_c,2400.0 D-Alanine + 2400.0 ATP C10H12N5O13P3 + 2400.0 CDPglycerol C12H19N3O13P2 + Diglucosyl 1 2 diacylglycerol C4636H8672O1500 + 2400.0 H2O H2O --> 2400.0 AMP C10H12N5O7P + 2400.0 CMP C9H12N3O8P + 4800.0 H+ + Lipoteichoic acid  n24   linked  D alanine substituted C19036H39872N2400O18300P2400 + 2400.0 Diphosphate
-,LIPO4S24_BS,,4.70E-07,0,Lipoteichoic acid synthesis  n24   linked  unsubstituted,2400.0 cdpglyc_c + d12dg_BS_c --> 2400.0 cmp_c + 2400.0 h_c + lipo4_24_BS_c,2400.0 CDPglycerol C12H19N3O13P2 + Diglucosyl 1 2 diacylglycerol C4636H8672O1500 --> 2400.0 CMP C9H12N3O8P + 2400.0 H+ + Lipoteichoic acid  n24   linked  unsubstituted C11836H23072O13500P2400
-,LIPO1S24_BS,,3.66E-07,0,Lipoteichoic acid synthesis  n24   linked  glucose substituted,2400.0 cdpglyc_c + d12dg_BS_c + 2400.0 udpg_c --> 2400.0 cmp_c + 4800.0 h_c + lipo1_24_BS_c + 2400.0 udp_c,2400.0 CDPglycerol C12H19N3O13P2 + Diglucosyl 1 2 diacylglycerol C4636H8672O1500 + 2400.0 UDPglucose --> 2400.0 CMP C9H12N3O8P + 4800.0 H+ + Lipoteichoic acid  n24   linked  glucose substituted C26236H47072O25500P2400 + 2400.0 UDP C9H11N2O12P2
-,LIPO2S24_BS,,1.88E-07,0,Lipoteichoic acid synthesis  n24   linked  N acetylglucosamine substituted,2400.0 cdpglyc_c + d12dg_BS_c + 2400.0 uacgam_c --> 2400.0 cmp_c + 4800.0 h_c + lipo2_24_BS_c + 2400.0 udp_c,2400.0 CDPglycerol C12H19N3O13P2 + Diglucosyl 1 2 diacylglycerol C4636H8672O1500 + 2400.0 UDP-N-acetyl-D-glucosamine --> 2400.0 CMP C9H12N3O8P + 4800.0 H+ + Lipoteichoic acid  n24   linked  N acetyl D glucosamine C31036H54272N2400O25500P2400 + 2400.0 UDP C9H11N2O12P2
-,CITt11,BSU07610,6.42E-08,2.22E-07,Citrate transport in via Mn complex,cit_e + h_e + mn2_e --> cit_c + h_c + mn2_c,Citrate + H+ + Manganese --> Citrate + H+ + Manganese
-,Kt2r,(BSU31090 and BSU31100) or (BSU14510 and BSU13500) or BSU26640,3.35E-08,0,Potassium reversible transport  via proton symport,h_e + k_e --> h_c + k_c,H+ + Potassium --> H+ + Potassium
-,NACt,,1.30E-08,0,Nicotinic acid transport,nac_e --> nac_c,Nicotinate --> Nicotinate
-,NADS1,BSU03130,1.30E-08,1.95E-08,NAD synthase (nh3),atp_c + dnad_c + nh4_c --> amp_c + h_c + nad_c + ppi_c,ATP C10H12N5O13P3 + Deamino-NAD+ + Ammonium --> AMP C10H12N5O7P + H+ + Nicotinamide adenine dinucleotide + Diphosphate
-,NAPRT,BSU31750,1.30E-08,-1.30E-08,NAPRTase (rev),h_c + nac_c + prpp_c <=> nicrnt_c + ppi_c,H+ + Nicotinate + 5-Phospho-alpha-D-ribose 1-diphosphate <=> Nicotinate D-ribonucleotide + Diphosphate
-,NNATr,BSU25640,1.30E-08,1.95E-08,Nicotinate-nucleotide adenylyltransferase,atp_c + h_c + nicrnt_c <=> dnad_c + ppi_c,ATP C10H12N5O13P3 + H+ + Nicotinate D-ribonucleotide <=> Deamino-NAD+ + Diphosphate
-,CITt15,BSU07610,5.76E-09,1.30E-08,Citrate transport in via Zn complex,cit_e + h_e + zn2_e --> cit_c + h_c + zn2_c,Citrate + H+ + Zinc --> Citrate + H+ + Zinc
+,CYSabc,,0.0000953,0,L-cysteine transport via ABC system,atp_c + cys__L_e + h2o_c --> adp_c + cys__L_c + h_c + pi_c,ATP C10H12N5O13P3 + L-Cysteine + H2O H2O --> ADP C10H12N5O10P2 + L-Cysteine + H+ + Phosphate
+,FOLt,,0.0000115,0,Folate transport via proton simport,fol_e + h_e <=> fol_c + h_c,Folate + H+ <=> Folate + H+
+,PYNP1,BSU39400,0.000000754,0.00000435,Pyrimidine-nucleoside phosphorylase (cytosine),csn_c + r1p_c <=> cytd_c + pi_c,Cytosine + Alpha-D-Ribose 1-phosphate <=> Cytidine + Phosphate
+,THMDt2,BSU39020 or BSU39410 or BSU32180,0.000000754,0,Thymidine transport in via proton symport,h_e + thymd_e --> h_c + thymd_c,H+ + Thymidine C10H14N2O5 --> H+ + Thymidine C10H14N2O5
+,TMDPP,BSU39400,0.000000754,0.00000435,Thymidine phosphorylase,pi_c + thymd_c <=> 2dr1p_c + thym_c,Phosphate + Thymidine C10H14N2O5 <=> 2-Deoxy-D-ribose 1-phosphate + Thymine C5H6N2O2
+,LIPO3S24_BS,BSU38500 and BSU38510 and BSU38520 and BSU38530,0.000000564,0,Lipoteichoic acid synthesis  n24   unliked  D alanine substituted,2400.0 ala__D_c + 2400.0 atp_c + 2400.0 cdpglyc_c + d12dg_BS_c + 2400.0 h2o_c --> 2400.0 amp_c + 2400.0 cmp_c + 4800.0 h_c + lipo3_24_BS_c + 2400.0 ppi_c,2400.0 D-Alanine + 2400.0 ATP C10H12N5O13P3 + 2400.0 CDPglycerol C12H19N3O13P2 + Diglucosyl 1 2 diacylglycerol C4636H8672O1500 + 2400.0 H2O H2O --> 2400.0 AMP C10H12N5O7P + 2400.0 CMP C9H12N3O8P + 4800.0 H+ + Lipoteichoic acid  n24   linked  D alanine substituted C19036H39872N2400O18300P2400 + 2400.0 Diphosphate
+,LIPO4S24_BS,,0.00000047,0,Lipoteichoic acid synthesis  n24   linked  unsubstituted,2400.0 cdpglyc_c + d12dg_BS_c --> 2400.0 cmp_c + 2400.0 h_c + lipo4_24_BS_c,2400.0 CDPglycerol C12H19N3O13P2 + Diglucosyl 1 2 diacylglycerol C4636H8672O1500 --> 2400.0 CMP C9H12N3O8P + 2400.0 H+ + Lipoteichoic acid  n24   linked  unsubstituted C11836H23072O13500P2400
+,LIPO1S24_BS,,0.000000366,0,Lipoteichoic acid synthesis  n24   linked  glucose substituted,2400.0 cdpglyc_c + d12dg_BS_c + 2400.0 udpg_c --> 2400.0 cmp_c + 4800.0 h_c + lipo1_24_BS_c + 2400.0 udp_c,2400.0 CDPglycerol C12H19N3O13P2 + Diglucosyl 1 2 diacylglycerol C4636H8672O1500 + 2400.0 UDPglucose --> 2400.0 CMP C9H12N3O8P + 4800.0 H+ + Lipoteichoic acid  n24   linked  glucose substituted C26236H47072O25500P2400 + 2400.0 UDP C9H11N2O12P2
+,LIPO2S24_BS,,0.000000188,0,Lipoteichoic acid synthesis  n24   linked  N acetylglucosamine substituted,2400.0 cdpglyc_c + d12dg_BS_c + 2400.0 uacgam_c --> 2400.0 cmp_c + 4800.0 h_c + lipo2_24_BS_c + 2400.0 udp_c,2400.0 CDPglycerol C12H19N3O13P2 + Diglucosyl 1 2 diacylglycerol C4636H8672O1500 + 2400.0 UDP-N-acetyl-D-glucosamine --> 2400.0 CMP C9H12N3O8P + 4800.0 H+ + Lipoteichoic acid  n24   linked  N acetyl D glucosamine C31036H54272N2400O25500P2400 + 2400.0 UDP C9H11N2O12P2
+,CITt11,BSU07610,0.0000000642,0.000000222,Citrate transport in via Mn complex,cit_e + h_e + mn2_e --> cit_c + h_c + mn2_c,Citrate + H+ + Manganese --> Citrate + H+ + Manganese
+,Kt2r,(BSU31090 and BSU31100) or (BSU14510 and BSU13500) or BSU26640,0.0000000335,0,Potassium reversible transport  via proton symport,h_e + k_e --> h_c + k_c,H+ + Potassium --> H+ + Potassium
+,NACt,,0.000000013,0,Nicotinic acid transport,nac_e --> nac_c,Nicotinate --> Nicotinate
+,NADS1,BSU03130,0.000000013,0.0000000195,NAD synthase (nh3),atp_c + dnad_c + nh4_c --> amp_c + h_c + nad_c + ppi_c,ATP C10H12N5O13P3 + Deamino-NAD+ + Ammonium --> AMP C10H12N5O7P + H+ + Nicotinamide adenine dinucleotide + Diphosphate
+,NAPRT,BSU31750,0.000000013,-0.000000013,NAPRTase (rev),h_c + nac_c + prpp_c <=> nicrnt_c + ppi_c,H+ + Nicotinate + 5-Phospho-alpha-D-ribose 1-diphosphate <=> Nicotinate D-ribonucleotide + Diphosphate
+,NNATr,BSU25640,0.000000013,0.0000000195,Nicotinate-nucleotide adenylyltransferase,atp_c + h_c + nicrnt_c <=> dnad_c + ppi_c,ATP C10H12N5O13P3 + H+ + Nicotinate D-ribonucleotide <=> Deamino-NAD+ + Diphosphate
+,CITt15,BSU07610,0.00000000576,0.000000013,Citrate transport in via Zn complex,cit_e + h_e + zn2_e --> cit_c + h_c + zn2_c,Citrate + H+ + Zinc --> Citrate + H+ + Zinc
 ,ADSK,BSU15600,6.09E-19,0,Adenylyl-sulfate kinase,aps_c + atp_c <=> adp_c + h_c + paps_c,Adenosine 5'-phosphosulfate + ATP C10H12N5O13P3 <=> ADP C10H12N5O10P2 + H+ + 3'-Phosphoadenylyl sulfate
 ,APNPT,BSU23760,6.09E-19,0,ATP:pantetheine 4'-phosphotransferase,atp_c + ptth_c <=> adp_c + h_c + pan4p_c,ATP C10H12N5O13P3 + Pantetheine <=> ADP C10H12N5O10P2 + H+ + Pantetheine 4'-phosphate
 ,PAPSR,BSU15570,6.09E-19,0,Phosphoadenylyl-sulfate reductase (thioredoxin),BSU28500-MONOMER + paps_c --> BSU28500-MONOMER_mod_Oxidized + 2.0 h_c + pap_c + so3_c,"Reduced thioredoxin + 3'-Phosphoadenylyl sulfate --> Oxidized thioredoxin + 2.0 H+ + Adenosine 3',5'-bisphosphate + Sulfite"
@@ -373,8 +374,8 @@ remove,PPS,BSU18830,0,0,Phosphoenol pyruvate synthase,,
 ,ACTNabc,BSU30450 and BSU30440 and BSU30430 and BSU30420 and BSU30410,0,0,Acetoin transport via ABC system,actn__R_e + atp_c + h2o_c --> actn__R_c + adp_c + h_c + pi_c, R  Acetoin C4H8O2 + ATP C10H12N5O13P3 + H2O H2O -->  R  Acetoin C4H8O2 + ADP C10H12N5O10P2 + H+ + Phosphate
 ,ACTNabc1,BSU30450 and BSU30440 and BSU30430 and BSU30420 and BSU30410,0,0,Acetoin efflux  via ABC system,actn__R_c + atp_c + h2o_c --> actn__R_e + adp_c + h_c + pi_c, R  Acetoin C4H8O2 + ATP C10H12N5O13P3 + H2O H2O -->  R  Acetoin C4H8O2 + ADP C10H12N5O10P2 + H+ + Phosphate
 ,ADADir,BSU00140,0,0,Deoxycytidine kinase,atp_c + dcyt_c --> adp_c + dcmp_c + h_c,ATP C10H12N5O13P3 + Deoxycytidine --> ADP C10H12N5O10P2 + DCMP C9H12N3O7P + H+
-,ADCL,BSU00760,0,1.15E-05,4-aminobenzoate synthase,4adcho_c --> 4abz_c + h_c + pyr_c,4-amino-4-deoxychorismate --> 4-Aminobenzoate + H+ + Pyruvate
-,ADCS,BSU00740 and BSU00750,0,1.15E-05,4-amino-4-deoxychorismate synthase,chor_c + gln__L_c --> 4adcho_c + glu__L_c,Chorismate + L-Glutamine --> 4-amino-4-deoxychorismate + L-Glutamate
+,ADCL,BSU00760,0,0.0000115,4-aminobenzoate synthase,4adcho_c --> 4abz_c + h_c + pyr_c,4-amino-4-deoxychorismate --> 4-Aminobenzoate + H+ + Pyruvate
+,ADCS,BSU00740 and BSU00750,0,0.0000115,4-amino-4-deoxychorismate synthase,chor_c + gln__L_c --> 4adcho_c + glu__L_c,Chorismate + L-Glutamine --> 4-amino-4-deoxychorismate + L-Glutamate
 ,ADD,BSU14520,0,0,Adenine deaminase,ade_c + h2o_c + h_c --> hxan_c + nh4_c,Adenine + H2O H2O + H+ --> Hypoxanthine + Ammonium
 ,ADEt2,,0,0,Adenine transport in via proton symport,ade_e + h_e --> ade_c + h_c,Adenine + H+ --> Adenine + H+
 ,ADK2,BSU01370,0,0,Adenylate kinase (Inorganic triphosphate),amp_c + pppi_c <=> adp_c + ppi_c,AMP C10H12N5O7P + Inorganic triphosphate <=> ADP C10H12N5O10P2 + Diphosphate
@@ -390,7 +391,7 @@ remove,PPS,BSU18830,0,0,Phosphoenol pyruvate synthase,,
 ,AHSERL3,BSU00730,0,0,Cysteine synthase  Selenide ,acser_c + seln_c <=> ac_c + scys__L_c,O-Acetyl-L-serine + Selenide <=> Acetate + S-Sulfo-L-cysteine
 ,AHSERL4,BSU00730,0,0,Cysteine synthase  Thiosulfate ,BSU28500-MONOMER + acser_c + tsul_c <=> BSU28500-MONOMER_mod_Oxidized + ac_c + cys__L_c + h_c + so3_c,Reduced thioredoxin + O-Acetyl-L-serine + Thiosulfate <=> Oxidized thioredoxin + Acetate + L-Cysteine + H+ + Sulfite
 ,AKGt2r,BSU07570 or BSU18540,0,0,2 oxoglutarate reversible transport via symport,akg_e + h_e --> akg_c + h_c,2-Oxoglutarate + H+ --> 2-Oxoglutarate + H+
-,AKP1,BSU09410 or BSU05740,0,1.15E-05,Alkaline phosphatase  Dihydroneopterin ,ahdt_c + 3.0 h2o_c --> dhnpt_c + 2.0 h_c + 3.0 pi_c,"2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl)dihydropteridine triphosphate + 3.0 H2O H2O --> Dihydroneopterin + 2.0 H+ + 3.0 Phosphate"
+,AKP1,BSU09410 or BSU05740,0,0.0000115,Alkaline phosphatase  Dihydroneopterin ,ahdt_c + 3.0 h2o_c --> dhnpt_c + 2.0 h_c + 3.0 pi_c,"2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl)dihydropteridine triphosphate + 3.0 H2O H2O --> Dihydroneopterin + 2.0 H+ + 3.0 Phosphate"
 ,ALAD_L,BSU31930,0,0,L-alanine dehydrogenase,ala__L_c + h2o_c + nad_c --> h_c + nadh_c + nh4_c + pyr_c,L-Alanine + H2O H2O + Nicotinamide adenine dinucleotide --> H+ + Nicotinamide adenine dinucleotide - reduced + Ammonium + Pyruvate
 ,ALAt2r,BSU27810 or BSU02420 or BSU18120,0,0,L alanine reversible transport via proton symport,ala__L_e + h_e --> ala__L_c + h_c,L-Alanine + H+ --> L-Alanine + H+
 ,ALCD19_L,BSU09530 or BSU39780,0,0,Alcohol dehydrogenase  L glyceraldehyde to glycerol  NADP ,Lglyald_c + h_c + nadph_c <=> glyc_c + nadp_c,L Glyceraldehyde C3H6O3 + H+ + Nicotinamide adenine dinucleotide phosphate - reduced <=> Glycerol + Nicotinamide adenine dinucleotide phosphate
@@ -426,7 +427,7 @@ remove,PPS,BSU18830,0,0,Phosphoenol pyruvate synthase,,
 ,AMMQT7,BSU22750,0,0,S adenosylmethione2 demthylmenaquinone methyltransferase  menaquinone 7 ,2dmmq7_c + amet_c + nadph_c --> ahcys_c + mql7_c + nadp_c,2 Demethylmenaquinone 7 C45H62O2 + S-Adenosyl-L-methionine + Nicotinamide adenine dinucleotide phosphate - reduced --> S-Adenosyl-L-homocysteine + Menaquinol 7 C46H66O2 + Nicotinamide adenine dinucleotide phosphate
 ,ANTIMt1,BSU25790,0,0,Antimonite  transporter via uniport,antim_c --> antim_e,Antimonite Sb --> Antimonite Sb
 ,AOXSr,BSU30220,0,0,8-amino-7-oxononanoate synthase,ala__L_c + h_c + pmcoa_c --> 8aonn_c + co2_c + coa_c,L-Alanine + H+ + Pimeloyl-CoA --> 8-Amino-7-oxononanoate + CO2 CO2 + Coenzyme A
-,APRAUR,BSU23280,0,1.03E-08,5-amino-6-(5-phosphoribosylamino)uracil reductase,5apru_c + h_c + nadph_c --> 5aprbu_c + nadp_c,5-Amino-6-(5'-phosphoribosylamino)uracil + H+ + Nicotinamide adenine dinucleotide phosphate - reduced --> 5-Amino-6-(5'-phosphoribitylamino)uracil + Nicotinamide adenine dinucleotide phosphate
+,APRAUR,BSU23280,0,0.0000000103,5-amino-6-(5-phosphoribosylamino)uracil reductase,5apru_c + h_c + nadph_c --> 5aprbu_c + nadp_c,5-Amino-6-(5'-phosphoribosylamino)uracil + H+ + Nicotinamide adenine dinucleotide phosphate - reduced --> 5-Amino-6-(5'-phosphoribitylamino)uracil + Nicotinamide adenine dinucleotide phosphate
 ,ARAB_Dt,,0,0,D arabinose reversible transport,arab__D_e <=> arab__D_c,D Arabinose C5H10O5 <=> D Arabinose C5H10O5
 ,ARABDI,,0,0,L-fucose isomerase,arab__D_c <=> rbl__D_c,D Arabinose C5H10O5 <=> D-Ribulose
 ,ARABRr,BSU29050 or BSU33400,0,0,Arabinose reductase,arab__L_c + h_c + nadph_c <=> abt__L_c + nadp_c,L-Arabinose + H+ + Nicotinamide adenine dinucleotide phosphate - reduced <=> L Arabinitol C5H12O5 + Nicotinamide adenine dinucleotide phosphate
@@ -445,7 +446,7 @@ remove,PPS,BSU18830,0,0,Phosphoenol pyruvate synthase,,
 ,ASNN,BSU23580,0,0,L-asparaginase,asn__L_c + h2o_c --> asp__L_c + nh4_c,L-Asparagine + H2O H2O --> L-Aspartate + Ammonium
 ,ASP1DC,BSU22410,0,6.09E-19,Aspartate 1-decarboxylase,asp__L_c + h_c --> ala_B_c + co2_c,L-Aspartate + H+ --> Beta-Alanine + CO2 CO2
 ,ASPO1,BSU27870,0,0,L-aspartate oxidase,asp__L_c + h2o_c + o2_c --> h2o2_c + nh4_c + oaa_c,L-Aspartate + H2O H2O + O2 O2 --> Hydrogen peroxide + Ammonium + Oxaloacetate
-,ASPO6,BSU27870,0,3.25E-08,L-aspartate oxidase,asp__L_c + o2_c --> h2o2_c + h_c + iasp_c,L-Aspartate + O2 O2 --> Hydrogen peroxide + H+ + Iminoaspartate
+,ASPO6,BSU27870,0,0.0000000325,L-aspartate oxidase,asp__L_c + o2_c --> h2o2_c + h_c + iasp_c,L-Aspartate + O2 O2 --> Hydrogen peroxide + H+ + Iminoaspartate
 ,ASPT,BSU23570,0,0,L-aspartase,asp__L_c --> fum_c + nh4_c,L-Aspartate --> Fumarate + Ammonium
 ,ASPt2r,BSU10220,0,0,L aspartate reversible transport via proton symport,asp__L_e + h_e --> asp__L_c + h_c,L-Aspartate + H+ --> L-Aspartate + H+
 ,ATPM,,0,0,ATP maintenance requirement,atp_c + h2o_c --> adp_c + h_c + pi_c,ATP C10H12N5O13P3 + H2O H2O --> ADP C10H12N5O10P2 + H+ + Phosphate
@@ -480,7 +481,7 @@ remove,PPS,BSU18830,0,0,Phosphoenol pyruvate synthase,,
 ,CITt13,BSU07610,0,0,Citrate transport in via Co complex,cit_e + cobalt2_e + h_e --> cit_c + cobalt2_c + h_c,Citrate + Co2+ + H+ --> Citrate + Co2+ + H+
 ,CITt14,BSU07610 or BSU39060,0,0,Citrate transport in via Ca complex,ca2_e + cit_e + h_e --> ca2_c + cit_c + h_c,Calcium + Citrate + H+ --> Calcium + Citrate + H+
 ,CMPDAi,BSU25580,0,0,CMP deaminase,cmp_c + h2o_c + h_c --> nh4_c + ump_c,CMP C9H12N3O8P + H2O H2O + H+ --> Ammonium + UMP C9H11N2O9P
-,COBALTt5,,0,6.52E-09,Cobalt(II) transport via diffusion,cobalt2_e --> cobalt2_c,Co2+ --> Co2+
+,COBALTt5,,0,0.00000000652,Cobalt(II) transport via diffusion,cobalt2_e --> cobalt2_c,Co2+ --> Co2+
 ,CPPPGO,BSU25500 or BSU09840,0,0,Coproporphyrinogen oxidase (O2 required),cpppg3_c + 2.0 h_c + o2_c --> 2.0 co2_c + 2.0 h2o_c + pppg9_c,Coproporphyrinogen III + 2.0 H+ + O2 O2 --> 2.0 CO2 CO2 + 2.0 H2O H2O + Protoporphyrinogen IX
 ,CRNabc,BSU33830 and BSU33820 and BSU33810 and BSU33800,0,0,L-carnitine transport via ABC system,atp_c + crn_e + h2o_c --> adp_c + crn_c + h_c + pi_c,ATP C10H12N5O13P3 + L-Carnitine + H2O H2O --> ADP C10H12N5O10P2 + L-Carnitine + H+ + Phosphate
 ,CRO4t3,BSU36120 or BSU36130,0,0,Chromate transport out via proton antiport,cro4_c + h_e --> cro4_e + h_c,Chromate + H+ --> Chromate + H+
@@ -496,7 +497,7 @@ remove,PPS,BSU18830,0,0,Phosphoenol pyruvate synthase,,
 ,CYTB_B2,(BSU30710 and BSU30720) or (BSU38760 and BSU38750),0,0,Menaquinol oxidase  71 protons ,2.0 h_c + mql7_c + 0.5 o2_c --> h2o_c + 2.0 h_e + mqn7_c,2.0 H+ + Menaquinol 7 C46H66O2 + 0.5 O2 O2 --> H2O H2O + 2.0 H+ + Menaquinone 7 C46H64O2
 ,CYTB_B3,BSU38170 and BSU38160 and BSU38150 and BSU38140,0,0,Menauinol oxidase  72 protons ,4.0 h_c + mql7_c + 0.5 o2_c --> h2o_c + 4.0 h_e + mqn7_c,4.0 H+ + Menaquinol 7 C46H66O2 + 0.5 O2 O2 --> H2O H2O + 4.0 H+ + Menaquinone 7 C46H64O2
 ,CYTD,BSU25300,0,0,Cytidine deaminase,cytd_c + h2o_c + h_c --> nh4_c + uri_c,Cytidine + H2O H2O + H+ --> Ammonium + Uridine
-,CYTDK1,BSU27330,0,5.10E-06,ATP:cytidine 5'-phosphotransferase,atp_c + cytd_c --> adp_c + cmp_c + h_c,ATP C10H12N5O13P3 + Cytidine --> ADP C10H12N5O10P2 + CMP C9H12N3O8P + H+
+,CYTDK1,BSU27330,0,0.0000051,ATP:cytidine 5'-phosphotransferase,atp_c + cytd_c --> adp_c + cmp_c + h_c,ATP C10H12N5O13P3 + Cytidine --> ADP C10H12N5O10P2 + CMP C9H12N3O8P + H+
 ,CYTDK2,BSU27330,0,0,Cytidine kinase (GTP),cytd_c + gtp_c --> cmp_c + gdp_c + h_c,Cytidine + GTP C10H12N5O14P3 --> CMP C9H12N3O8P + GDP C10H12N5O11P2 + H+
 ,CYTDt2,BSU39020 or BSU39410 or BSU32180,0,0,Cytidine transport in via proton symport,cytd_e + h_e --> cytd_c + h_c,Cytidine + H+ --> Cytidine + H+
 ,CYTK2,BSU22890,0,0,Cytidylate kinase (dCMP),atp_c + dcmp_c <=> adp_c + dcdp_c,ATP C10H12N5O13P3 + DCMP C9H12N3O7P <=> ADP C10H12N5O10P2 + DCDP C9H12N3O10P2
@@ -507,7 +508,7 @@ remove,PPS,BSU18830,0,0,Phosphoenol pyruvate synthase,,
 ,DAGK_BS,BSU25310,0,0,Diacylglycerol kinase,0.01 12dgr_BS_c + atp_c --> 0.01 12dag3p_BS_c + adp_c + h_c,0.01 1 2 diacylglycerol C3436H6672O500 + ATP C10H12N5O13P3 --> 0.01 1 2 diacyl sn glycerol 3 phosphate C3436H6572O800P100 + ADP C10H12N5O10P2 + H+
 ,DALAOX,BSU11670,0,0,D amino acid oxidase,ala__D_c + h2o_c + o2_c --> h2o2_c + nh4_c + pyr_c,D-Alanine + H2O H2O + O2 O2 --> Hydrogen peroxide + Ammonium + Pyruvate
 ,DALAt2r,BSU27810 or BSU02420 or BSU18120,0,0,D-alanine transport via proton symport,ala__D_e + h_e --> ala__D_c + h_c,D-Alanine + H+ --> D-Alanine + H+
-,DB4PS,BSU23260,0,2.05E-08,"3,4-Dihydroxy-2-butanone-4-phosphate synthase",ru5p__D_c --> db4p_c + for_c + h_c,"D-Ribulose 5-phosphate --> 3,4-dihydroxy-2-butanone 4-phosphate + Formate + H+"
+,DB4PS,BSU23260,0,0.0000000205,"3,4-Dihydroxy-2-butanone-4-phosphate synthase",ru5p__D_c --> db4p_c + for_c + h_c,"D-Ribulose 5-phosphate --> 3,4-dihydroxy-2-butanone 4-phosphate + Formate + H+"
 ,DBTS,BSU30210,0,0,Dethiobiotin synthase,atp_c + co2_c + dann_c --> adp_c + dtbt_c + 3.0 h_c + pi_c,"ATP C10H12N5O13P3 + CO2 CO2 + 7,8-Diaminononanoate --> ADP C10H12N5O10P2 + Dethiobiotin + 3.0 H+ + Phosphate"
 ,DCMPDA,BSU25580,0,0,DCMP deaminase,dcmp_c + h2o_c + h_c --> dump_c + nh4_c,DCMP C9H12N3O7P + H2O H2O + H+ --> DUMP C9H11N2O8P + Ammonium
 ,DCYTD,BSU25300,0,0,Deoxycytidine deaminase,dcyt_c + h2o_c + h_c --> duri_c + nh4_c,Deoxycytidine + H2O H2O + H+ --> Deoxyuridine + Ammonium
@@ -518,10 +519,10 @@ remove,PPS,BSU18830,0,0,Phosphoenol pyruvate synthase,,
 ,DHAt,,0,0,Dihydroxyacetone transport via facilitated diffusion,dha_e <=> dha_c,Dihydroxyacetone <=> Dihydroxyacetone
 ,DHBD,BSU32000,0,0,"2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase",23ddhb_c + nad_c <=> 23dhb_c + h_c + nadh_c,"2,3-Dihydro-2,3-dihydroxybenzoate + Nicotinamide adenine dinucleotide <=> 2,3-Dihydroxybenzoate + H+ + Nicotinamide adenine dinucleotide - reduced"
 ,DHBS,BSU31980,0,0,"2,3-dihydroxybenzoate adenylate synthase",23dhb_c + atp_c + h_c --> 23dhba_c + ppi_c,"2,3-Dihydroxybenzoate + ATP C10H12N5O13P3 + H+ --> (2,3-Dihydroxybenzoyl)adenylate + Diphosphate"
-,DHFS,BSU28080,0,1.15E-05,Dihydrofolate synthase,atp_c + dhpt_c + glu__L_c --> adp_c + dhf_c + h_c + pi_c,"ATP C10H12N5O13P3 + Dihydropteroate + L-Glutamate --> ADP C10H12N5O10P2 + 7,8-Dihydrofolate + H+ + Phosphate"
+,DHFS,BSU28080,0,0.0000115,Dihydrofolate synthase,atp_c + dhpt_c + glu__L_c --> adp_c + dhf_c + h_c + pi_c,"ATP C10H12N5O13P3 + Dihydropteroate + L-Glutamate --> ADP C10H12N5O10P2 + 7,8-Dihydrofolate + H+ + Phosphate"
 ,DHNAOT7,BSU38490,0,0,1 4 dihydroxy 2 naphthoate octaprenyltransferase,dhna_c + hepdp_c + nad_c --> 2dmmq7_c + co2_c + nadh_c + ppi_c,"1,4-Dihydroxy-2-naphthoate + All-trans-Heptaprenyl diphosphate + Nicotinamide adenine dinucleotide --> 2 Demethylmenaquinone 7 C45H62O2 + CO2 CO2 + Nicotinamide adenine dinucleotide - reduced + Diphosphate"
-,DHNPA_1,BSU00780,0,1.15E-05,Dihydroneopterin aldolase,dhnpt_c --> 2ahhmp_c + gcald_c,Dihydroneopterin --> 2 Amino 4 hydroxy 6 hydroxymethyl 7 8 dihydropteridine C7H9N5O2 + Glycolaldehyde
-,DHPPDA,BSU23280,0,1.03E-08,Diaminohydroxyphosphoribosylaminopyrimidine deaminase,25dhpp_c + h2o_c + h_c --> 5apru_c + nh4_c,2 5 Diamino 6 hydroxy 4  5  phosphoribosylamino  pyrimidine C9H14N5O8P + H2O H2O + H+ --> 5-Amino-6-(5'-phosphoribosylamino)uracil + Ammonium
+,DHNPA_1,BSU00780,0,0.0000115,Dihydroneopterin aldolase,dhnpt_c --> 2ahhmp_c + gcald_c,Dihydroneopterin --> 2 Amino 4 hydroxy 6 hydroxymethyl 7 8 dihydropteridine C7H9N5O2 + Glycolaldehyde
+,DHPPDA,BSU23280,0,0.0000000103,Diaminohydroxyphosphoribosylaminopyrimidine deaminase,25dhpp_c + h2o_c + h_c --> 5apru_c + nh4_c,2 5 Diamino 6 hydroxy 4  5  phosphoribosylamino  pyrimidine C9H14N5O8P + H2O H2O + H+ --> 5-Amino-6-(5'-phosphoribosylamino)uracil + Ammonium
 ,DINSK,BSU00150,0,0,Deoxyinosine kinase,atp_c + din_c --> adp_c + dimp_c,ATP C10H12N5O13P3 + Deoxyinosine --> ADP C10H12N5O10P2 + DIMP C10H12N4O7P
 ,DIPEPabc1,BSU12930 and BSU12940 and BSU12950 and BSU12960,0,0,Dipeptide transport via ABC system  ala asp ,ala_L_asp__L_e + atp_c + h2o_c --> adp_c + ala_L_asp__L_c + h_c + pi_c,Ala L asp L C7H11N2O5 + ATP C10H12N5O13P3 + H2O H2O --> ADP C10H12N5O10P2 + Ala L asp L C7H11N2O5 + H+ + Phosphate
 ,DIPEPabc10,BSU12930 and BSU12940 and BSU12950 and BSU12960,0,0,Dipeptide transport via ABC system  gly glu ,atp_c + gly_glu__L_e + h2o_c --> adp_c + gly_glu__L_c + h_c + pi_c,ATP C10H12N5O13P3 + Gly glu L C7H11N2O5 + H2O H2O --> ADP C10H12N5O10P2 + Gly glu L C7H11N2O5 + H+ + Phosphate
@@ -844,7 +845,7 @@ remove,PPS,BSU18830,0,0,Phosphoenol pyruvate synthase,,
 ,GAMpts,BSU02350 and BSU13900 and BSU13910,0,0,D-glucosamine transport via PEP:Pyr PTS,gam_e + pep_c --> gam6p_c + pyr_c,D-Glucosamine + Phosphoenolpyruvate --> D-Glucosamine 6-phosphate + Pyruvate
 ,GBBTNabc,BSU33830 and BSU33820 and BSU33810 and BSU33800,0,0,Gamma butyrobetaine transport in via ABC system,atp_c + gbbtn_e + h2o_c --> adp_c + gbbtn_c + h_c + pi_c,ATP C10H12N5O13P3 + Gamma-butyrobetaine + H2O H2O --> ADP C10H12N5O10P2 + Gamma-butyrobetaine + H+ + Phosphate
 ,GBEZY,BSU30980,0,0,1 4 alpha glucan branching enzyme,14glun_c --> glycogen_c, 1 4 alpha D Glucosyl n C6H12O6 --> Glycogen C6H10O5
-,GCALDD,BSU38830 or BSU39860 or BSU19310,0,1.15E-05,Glycolaldehyde dehydrogenase,gcald_c + h2o_c + nad_c --> glyclt_c + 2.0 h_c + nadh_c,Glycolaldehyde + H2O H2O + Nicotinamide adenine dinucleotide --> Glycolate C2H3O3 + 2.0 H+ + Nicotinamide adenine dinucleotide - reduced
+,GCALDD,BSU38830 or BSU39860 or BSU19310,0,0.0000115,Glycolaldehyde dehydrogenase,gcald_c + h2o_c + nad_c --> glyclt_c + 2.0 h_c + nadh_c,Glycolaldehyde + H2O H2O + Nicotinamide adenine dinucleotide --> Glycolate C2H3O3 + 2.0 H+ + Nicotinamide adenine dinucleotide - reduced
 ,GGTAe2,BSU18410,0,0,Gamma glutamyltransferase,gthrd_e + h2o_e --> cgly_e + glu__L_e,Reduced glutathione + H2O H2O --> Cys Gly C5H10N2O3S + L-Glutamate
 ,GGTT,,0,0,Geranylgeranyltranstransferase,ggdp_c + ipdp_c --> pendp_c + ppi_c,Geranylgeranyl diphosphate C20H33O7P2 + Isopentenyl diphosphate --> All trans Pentaprenyl diphosphate C25H41O7P2 + Diphosphate
 ,GK2,BSU15680,0,0,Guanylate kinase  GMPdATP ,datp_c + gmp_c <=> dadp_c + gdp_c,DATP C10H12N5O12P3 + GMP C10H12N5O8P <=> DADP C10H12N5O9P2 + GDP C10H12N5O11P2
@@ -874,7 +875,7 @@ remove,PPS,BSU18830,0,0,Phosphoenol pyruvate synthase,,
 ,GLYCLTt2r,BSU03060 or BSU34190,0,0,"Glycolate transport via proton symport, reversible",glyclt_e + h_e <=> glyclt_c + h_c,Glycolate C2H3O3 + H+ <=> Glycolate C2H3O3 + H+
 ,GLYCOGENt,,0,0,Glycogen transport in,glycogen_e --> glycogen_c,Glycogen C6H10O5 --> Glycogen C6H10O5
 ,GLYCt,BSU09280,0,0,Glycerol transport via channel,glyc_c <=> glyc_e,Glycerol <=> Glycerol
-,GLYCTO1,BSU28680,0,1.15E-05,Glycolate oxidase,glyclt_c + o2_c --> glx_c + h2o2_c,Glycolate C2H3O3 + O2 O2 --> Glyoxylate + Hydrogen peroxide
+,GLYCTO1,BSU28680,0,0.0000115,Glycolate oxidase,glyclt_c + o2_c --> glx_c + h2o2_c,Glycolate C2H3O3 + O2 O2 --> Glyoxylate + Hydrogen peroxide
 ,GLYK,BSU09290,0,0,Glycerol kinase,atp_c + glyc_c --> adp_c + glyc3p_c + h_c,ATP C10H12N5O13P3 + Glycerol --> ADP C10H12N5O10P2 + Glycerol 3-phosphate + H+
 ,GMPR,BSU32130,0,0,GMP reductase,gmp_c + 2.0 h_c + nadph_c --> imp_c + nadp_c + nh4_c,GMP C10H12N5O8P + 2.0 H+ + Nicotinamide adenine dinucleotide phosphate - reduced --> IMP C10H11N4O8P + Nicotinamide adenine dinucleotide phosphate + Ammonium
 ,GMPt6,,0,0,GMP transport inout via proton symport,gmp_e + h_e <=> gmp_c + h_c,GMP C10H12N5O8P + H+ <=> GMP C10H12N5O8P + H+
@@ -884,8 +885,8 @@ remove,PPS,BSU18830,0,0,Phosphoenol pyruvate synthase,,
 ,GPDDA4,BSU02130,0,0,Glycerophosphodiester phosphodiesterase (Glycerophosphoglycerol),g3pg_c + h2o_c --> glyc3p_c + glyc_c + h_c,Glycerophosphoglycerol + H2O H2O --> Glycerol 3-phosphate + Glycerol + H+
 ,GRTT,BSU24280,0,0,Geranyltranstransferase,grdp_c + ipdp_c --> frdp_c + ppi_c,Geranyl diphosphate + Isopentenyl diphosphate --> Farnesyl diphosphate + Diphosphate
 ,GTHPe,BSU21900,0,0,Glutathione peroxidase,2.0 gthrd_e + h2o2_e <=> gthox_e + 2.0 h2o_e,2.0 Reduced glutathione + Hydrogen peroxide <=> Oxidized glutathione + 2.0 H2O H2O
-,GTPCI,BSU22780,0,1.15E-05,GTP cyclohydrolase I,gtp_c + h2o_c --> ahdt_c + for_c + h_c,"GTP C10H12N5O14P3 + H2O H2O --> 2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl)dihydropteridine triphosphate + Formate + H+"
-,GTPCII,BSU23260,0,1.03E-08,GTP cyclohydrolase II,gtp_c + 3.0 h2o_c --> 25dhpp_c + for_c + 2.0 h_c + ppi_c,GTP C10H12N5O14P3 + 3.0 H2O H2O --> 2 5 Diamino 6 hydroxy 4  5  phosphoribosylamino  pyrimidine C9H14N5O8P + Formate + 2.0 H+ + Diphosphate
+,GTPCI,BSU22780,0,0.0000115,GTP cyclohydrolase I,gtp_c + h2o_c --> ahdt_c + for_c + h_c,"GTP C10H12N5O14P3 + H2O H2O --> 2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl)dihydropteridine triphosphate + Formate + H+"
+,GTPCII,BSU23260,0,0.0000000103,GTP cyclohydrolase II,gtp_c + 3.0 h2o_c --> 25dhpp_c + for_c + 2.0 h_c + ppi_c,GTP C10H12N5O14P3 + 3.0 H2O H2O --> 2 5 Diamino 6 hydroxy 4  5  phosphoribosylamino  pyrimidine C9H14N5O8P + Formate + 2.0 H+ + Diphosphate
 ,GTPDPK,BSU27600,0,0,GTP diphosphokinase,atp_c + gtp_c --> amp_c + gdptp_c + h_c,ATP C10H12N5O13P3 + GTP C10H12N5O14P3 --> AMP C10H12N5O7P + Guanosine 3'-diphosphate 5'-triphosphate + H+
 ,GUAD,BSU13170,0,0,Guanine deaminase,gua_c + h2o_c + h_c --> nh4_c + xan_c,Guanine + H2O H2O + H+ --> Ammonium + Xanthine
 ,GUAt2r,BSU06370 or BSU29990,0,0,Guanine reversible transport via proton symport,gua_e + h_e --> gua_c + h_c,Guanine + H+ --> Guanine + H+
@@ -919,7 +920,7 @@ remove,PPS,BSU18830,0,0,Phosphoenol pyruvate synthase,,
 ,HMPK1,BSU11710 or BSU38020,0,0,Hydroxymethylpyrimidine kinase (ATP),4ahmmp_c + atp_c --> 4ampm_c + adp_c + h_c,4-Amino-5-hydroxymethyl-2-methylpyrimidine + ATP C10H12N5O13P3 --> 4-Amino-2-methyl-5-phosphomethylpyrimidine + ADP C10H12N5O10P2 + H+
 ,HOXPRx,BSU13960,0,0,2 hydroxy 3 oxopropionate reductase  NAD ,glyc__R_c + nad_c <=> 2h3opp_c + h_c + nadh_c,(R)-Glycerate + Nicotinamide adenine dinucleotide <=> 2 Hydroxy 3 oxopropanoate C3H3O4 + H+ + Nicotinamide adenine dinucleotide - reduced
 ,HP5CD_1,BSU37780,0,0,3 hydroxy 1 pyrroline 5 carboxylate dehydrogenase,1p3h5c_c + 2.0 h2o_c + nad_c --> 4hglu_c + h_c + nadh_c,L 1 Pyrroline 3 hydroxy 5 carboxylate C5H6NO3 + 2.0 H2O H2O + Nicotinamide adenine dinucleotide --> 4-Hydroxy-L-glutamate + H+ + Nicotinamide adenine dinucleotide - reduced
-,HPPK,BSU00790,0,1.15E-05,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase,2ahhmp_c + atp_c --> 2ahhmd_c + amp_c + h_c,2 Amino 4 hydroxy 6 hydroxymethyl 7 8 dihydropteridine C7H9N5O2 + ATP C10H12N5O13P3 --> 2 Amino 4 hydroxy 6 hydroxymethyl 7 8 dihydropteridine diphosphate C7H8N5O8P2 + AMP C10H12N5O7P + H+
+,HPPK,BSU00790,0,0.0000115,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase,2ahhmp_c + atp_c --> 2ahhmd_c + amp_c + h_c,2 Amino 4 hydroxy 6 hydroxymethyl 7 8 dihydropteridine C7H9N5O2 + ATP C10H12N5O13P3 --> 2 Amino 4 hydroxy 6 hydroxymethyl 7 8 dihydropteridine diphosphate C7H8N5O8P2 + AMP C10H12N5O7P + H+
 ,HQNt6,,0,0,Hydroquinone transport inout via proton symport,h_e + hqn_e <=> h_c + hqn_c,H+ + Hydroquinone <=> H+ + Hydroquinone
 ,HXAD,BSU35780,0,0,Hexosaminidase,chitob_c + h2o_c --> 2.0 acgam_c,Chitobiose C16H28N2O11 + H2O H2O --> 2.0 N-Acetyl-D-glucosamine
 ,HXAND,BSU32490 or BSU32470 or BSU32510 or BSU32480 or BSU32500,0,0,Hypoxanthine dehydrogenase,h2o_c + hxan_c + nad_c --> h_c + nadh_c + xan_c,H2O H2O + Hypoxanthine + Nicotinamide adenine dinucleotide --> H+ + Nicotinamide adenine dinucleotide - reduced + Xanthine
@@ -947,7 +948,7 @@ remove,PPS,BSU18830,0,0,Phosphoenol pyruvate synthase,,
 ,KAS7,(BSU15900 and BSU11340 and BSU15910 and BSU11330 and BSU11720 and BSU04030) or (BSU15900 and BSU11340 and BSU15910 and BSU10170 and BSU08650 and BSU36370),0,0,B-ketoacyl synthetase (n-C16:1),accoa_c + 19.0 h_c + 7.0 malcoa_c + 13.0 nadph_c --> 7.0 co2_c + 8.0 coa_c + 6.0 h2o_c + hdcea_c + 13.0 nadp_c,Acetyl-CoA + 19.0 H+ + 7.0 Malonyl CoA C24H33N7O19P3S + 13.0 Nicotinamide adenine dinucleotide phosphate - reduced --> 7.0 CO2 CO2 + 8.0 Coenzyme A + 6.0 H2O H2O + Hexadecenoate (n-C16:1) + 13.0 Nicotinamide adenine dinucleotide phosphate
 ,KAS8,(BSU15900 and BSU11340 and BSU15910 and BSU11720 and BSU04030) or (BSU15900 and BSU11340 and BSU15910 and BSU10170 and BSU08650 and BSU36370),0,0,"B-ketoacyl synthetase (palmitate, n-C16:0)",accoa_c + 20.0 h_c + 7.0 malcoa_c + 14.0 nadph_c --> 7.0 co2_c + 8.0 coa_c + 6.0 h2o_c + hdca_c + 14.0 nadp_c,Acetyl-CoA + 20.0 H+ + 7.0 Malonyl CoA C24H33N7O19P3S + 14.0 Nicotinamide adenine dinucleotide phosphate - reduced --> 7.0 CO2 CO2 + 8.0 Coenzyme A + 6.0 H2O H2O + Hexadecanoate (n-C16:0) + 14.0 Nicotinamide adenine dinucleotide phosphate
 ,KAS9,(BSU15900 and BSU11340 and BSU15910 and BSU10170 and BSU08650 and BSU36370) or (BSU15900 and BSU11340 and BSU15910 and BSU11330 and BSU11720 and BSU04030),0,0,B-ketoacyl synthetase (Iso-C17:1),16.0 h_c + ivcoa_c + 6.0 malcoa_c + 11.0 nadph_c --> 6.0 co2_c + 7.0 coa_c + fa9_c + 5.0 h2o_c + 11.0 nadp_c,16.0 H+ + Isovaleryl-CoA + 6.0 Malonyl CoA C24H33N7O19P3S + 11.0 Nicotinamide adenine dinucleotide phosphate - reduced --> 6.0 CO2 CO2 + 7.0 Coenzyme A + Fatty acid (Iso-C17:1) + 5.0 H2O H2O + 11.0 Nicotinamide adenine dinucleotide phosphate
-,Kt1,BSU31322,0,4.11E-08,Potassium transport via uniport (facilitated diffusion),k_e <=> k_c,Potassium <=> Potassium
+,Kt1,BSU31322,0,0.0000000411,Potassium transport via uniport (facilitated diffusion),k_e <=> k_c,Potassium <=> Potassium
 ,Kt3r,BSU31610 and BSU31660 and BSU31600 and BSU31620 and BSU31630 and BSU31650 and BSU31640,0,0,Potassium transport out via proton antiport,h_e + k_c --> h_c + k_e,H+ + Potassium --> H+ + Potassium
 ,LAAF,BSU28720 or BSU28510,0,0,Alpha N arabinofuranosidase,Larab_e + 3.0 h2o_e --> 3.0 arab__L_e,Alpha L Arabinan C15H24O12 + 3.0 H2O H2O --> 3.0 L-Arabinose
 ,LAAL1,BSU37710,0,0,L amino acid ligase  L glycine L glycine ,atp_c + 2.0 gly_c --> adp_c + glygly_c + h_c + pi_c,ATP C10H12N5O13P3 + 2.0 Glycine --> ADP C10H12N5O10P2 + Glycylglycine C4H8N2O3 + H+ + Phosphate
@@ -1071,7 +1072,7 @@ remove,PPS,BSU18830,0,0,Phosphoenol pyruvate synthase,,
 ,NMNAT,BSU25640,0,0,Nicotinamide-nucleotide adenylyltransferase,atp_c + h_c + nmn_c <=> nad_c + ppi_c,ATP C10H12N5O13P3 + H+ + NMN C11H14N2O8P <=> Nicotinamide adenine dinucleotide + Diphosphate
 ,NMNHYD,,0,0,Nicotinamide ribonucleotide phosphohydrolase,h2o_c + nmn_c <=> pi_c + rnam_c,H2O H2O + NMN C11H14N2O8P <=> Phosphate + N Ribosylnicotinamide C11H15N2O5
 ,NNAM,BSU31760,0,0,Nicotinamidase,h2o_c + ncam_c --> nac_c + nh4_c,H2O H2O + Nicotinamide --> Nicotinate + Ammonium
-,NNDPR,BSU27860,0,3.25E-08,Nicotinate-nucleotide diphosphorylase (carboxylating),2.0 h_c + prpp_c + quln_c --> co2_c + nicrnt_c + ppi_c,2.0 H+ + 5-Phospho-alpha-D-ribose 1-diphosphate + Quinolinate --> CO2 CO2 + Nicotinate D-ribonucleotide + Diphosphate
+,NNDPR,BSU27860,0,0.0000000325,Nicotinate-nucleotide diphosphorylase (carboxylating),2.0 h_c + prpp_c + quln_c --> co2_c + nicrnt_c + ppi_c,2.0 H+ + 5-Phospho-alpha-D-ribose 1-diphosphate + Quinolinate --> CO2 CO2 + Nicotinate D-ribonucleotide + Diphosphate
 ,NO2t2r,BSU38060,0,0,"Nitrite transport in via proton symport, reversible",h_e + no2_e --> h_c + no2_c,H+ + Nitrite --> H+ + Nitrite
 ,NO2t3,BSU37320 or BSU38060,0,0,Nitrite transport out via proton antiport,h_e + no2_c --> h_c + no2_e,H+ + Nitrite --> H+ + Nitrite
 ,NO3t2,BSU03330,0,0,Nitrate transport in via proton symport,h_e + no3_e --> h_c + no3_c,H+ + Nitrate --> H+ + Nitrate
@@ -1080,7 +1081,7 @@ remove,PPS,BSU18830,0,0,Phosphoenol pyruvate synthase,,
 ,NTD10,BSU07840,0,0,5'-nucleotidase (XMP),h2o_c + xmp_c --> pi_c + xtsn_c,H2O H2O + Xanthosine 5'-phosphate --> Phosphate + Xanthosine
 ,NTD3,BSU07840,0,0,5'-nucleotidase (dCMP),dcmp_c + h2o_c --> dcyt_c + pi_c,DCMP C9H12N3O7P + H2O H2O --> Deoxycytidine + Phosphate
 ,NTD4,BSU07840,0,0,5'-nucleotidase (CMP),cmp_c + h2o_c --> cytd_c + pi_c,CMP C9H12N3O8P + H2O H2O --> Cytidine + Phosphate
-,NTD5,BSU07840,0,5.10E-06,5'-nucleotidase (dTMP),dtmp_c + h2o_c --> pi_c + thymd_c,DTMP C10H13N2O8P + H2O H2O --> Phosphate + Thymidine C10H14N2O5
+,NTD5,BSU07840,0,0.0000051,5'-nucleotidase (dTMP),dtmp_c + h2o_c --> pi_c + thymd_c,DTMP C10H13N2O8P + H2O H2O --> Phosphate + Thymidine C10H14N2O5
 ,NTD6,BSU07840,0,0,5'-nucleotidase (dAMP),damp_c + h2o_c --> dad_2_c + pi_c,DAMP C10H12N5O6P + H2O H2O --> Deoxyadenosine + Phosphate
 ,NTD7,BSU07840,0,0,5'-nucleotidase (AMP),amp_c + h2o_c --> adn_c + pi_c,AMP C10H12N5O7P + H2O H2O --> Adenosine + Phosphate
 ,NTD8,BSU07840,0,0,5'-nucleotidase (dGMP),dgmp_c + h2o_c --> dgsn_c + pi_c,DGMP C10H12N5O7P + H2O H2O --> Deoxyguanosine + Phosphate
@@ -1108,7 +1109,7 @@ remove,PPS,BSU18830,0,0,Phosphoenol pyruvate synthase,,
 ,PHYT3,BSU19800,0,0,3 phytase,h2o_c + inoshp_c --> inospp1_c + pi_c,H2O H2O + Myo Inositol hexakisphosphate C6H6O24P6 --> 1D myo inositol 1 3 4 5 6 pentakisphosphate C6H7O21P5 + Phosphate
 ,PIabc,BSU24970 and BSU24960 and BSU24950 and BSU24980 and BSU24990,0,0,Phosphate transport via ABC system,atp_c + h2o_c + pi_e --> adp_c + h_c + 2.0 pi_c,ATP C10H12N5O13P3 + H2O H2O + Phosphate --> ADP C10H12N5O10P2 + H+ + 2.0 Phosphate
 ,PMANM,BSU09310,0,0,Phosphomannomutase,man1p_c <=> man6p_c,D-Mannose 1-phosphate <=> D-Mannose 6-phosphate
-,PMDPHT,,0,1.03E-08,Pyrimidine phosphatase,5aprbu_c + h2o_c --> 4r5au_c + pi_c,5-Amino-6-(5'-phosphoribitylamino)uracil + H2O H2O --> 4-(1-D-Ribitylamino)-5-aminouracil + Phosphate
+,PMDPHT,,0,0.0000000103,Pyrimidine phosphatase,5aprbu_c + h2o_c --> 4r5au_c + pi_c,5-Amino-6-(5'-phosphoribitylamino)uracil + H2O H2O --> 4-(1-D-Ribitylamino)-5-aminouracil + Phosphate
 ,PMPK,BSU38020 or BSU11710,0,0,Phosphomethylpyrimidine kinase,4ampm_c + atp_c --> 2mahmp_c + adp_c,4-Amino-2-methyl-5-phosphomethylpyrimidine + ATP C10H12N5O13P3 --> 2-Methyl-4-amino-5-hydroxymethylpyrimidine diphosphate + ADP C10H12N5O10P2
 ,PNP,BSU23490 or BSU19630,0,0,Purine nucleoside phosphorylase,pi_c + rnam_c <=> h_c + ncam_c + r1p_c,Phosphate + N Ribosylnicotinamide C11H15N2O5 <=> H+ + Nicotinamide + Alpha-D-Ribose 1-phosphate
 ,PNTK,BSU23760,0,0,Pantothenate kinase,atp_c + pnto__R_c --> 4ppan_c + adp_c + h_c,ATP C10H12N5O13P3 + (R)-Pantothenate --> D-4'-Phosphopantothenate + ADP C10H12N5O10P2 + H+
@@ -1137,11 +1138,11 @@ remove,PPS,BSU18830,0,0,Phosphoenol pyruvate synthase,,
 ,PYRIS,BSU00110 and BSU00120,0,0,Pyridoxal 5  phsophate synthase,g3p_c + gln__L_c + r5p_c --> pydx5p_c + unk2_BS_c,Glyceraldehyde 3-phosphate + L-Glutamine + Alpha-D-Ribose 5-phosphate --> Pyridoxal 5'-phosphate + Unknown 2 C5H17O11NP
 ,PYRt2,BSU28900 and BSU28910,0,0,Pyruvate transport in via proton symport,h_e + pyr_e <=> h_c + pyr_c,H+ + Pyruvate <=> H+ + Pyruvate
 ,Q23DO,BSU39980,0,0,Quercetin 2 3 dioxygenase,o2_c + quc_c --> 2pcpgc_c + co_c,O2 O2 + Quercetin C15H7O7 --> 2 Protocatechoylphloroglucinolcarboxylate C14H7O8 + Carbon monoxide
-,QULNS,BSU27850,0,3.25E-08,Quinolinate synthase,dhap_c + iasp_c --> 2.0 h2o_c + pi_c + quln_c,Dihydroxyacetone phosphate + Iminoaspartate --> 2.0 H2O H2O + Phosphate + Quinolinate
+,QULNS,BSU27850,0,0.0000000325,Quinolinate synthase,dhap_c + iasp_c --> 2.0 h2o_c + pi_c + quln_c,Dihydroxyacetone phosphate + Iminoaspartate --> 2.0 H2O H2O + Phosphate + Quinolinate
 ,RAFFINt2,,0,0,Raffinose transport in via proton symport,h_e + raffin_e --> h_c + raffin_c,H+ + Raffinose C18H32O16 --> H+ + Raffinose C18H32O16
 ,RAFH,BSU38040,0,0,Raffinose hydrolyzing enzyme,h2o_c + raffin_c --> fru_c + melib_c,H2O H2O + Raffinose C18H32O16 --> D-Fructose + Melibiose C12H22O11
-,RBFSa,BSU23270 and BSU23250,0,2.05E-08,Riboflavin synthase,4r5au_c + db4p_c --> dmlz_c + 2.0 h2o_c + pi_c,"4-(1-D-Ribitylamino)-5-aminouracil + 3,4-dihydroxy-2-butanone 4-phosphate --> 6,7-Dimethyl-8-(1-D-ribityl)lumazine + 2.0 H2O H2O + Phosphate"
-,RBFSb,BSU23270 and BSU23250,0,1.03E-08,Riboflavin synthase,2.0 dmlz_c --> 4r5au_c + ribflv_c,"2.0 6,7-Dimethyl-8-(1-D-ribityl)lumazine --> 4-(1-D-Ribitylamino)-5-aminouracil + Riboflavin C17H20N4O6"
+,RBFSa,BSU23270 and BSU23250,0,0.0000000205,Riboflavin synthase,4r5au_c + db4p_c --> dmlz_c + 2.0 h2o_c + pi_c,"4-(1-D-Ribitylamino)-5-aminouracil + 3,4-dihydroxy-2-butanone 4-phosphate --> 6,7-Dimethyl-8-(1-D-ribityl)lumazine + 2.0 H2O H2O + Phosphate"
+,RBFSb,BSU23270 and BSU23250,0,0.0000000103,Riboflavin synthase,2.0 dmlz_c --> 4r5au_c + ribflv_c,"2.0 6,7-Dimethyl-8-(1-D-ribityl)lumazine --> 4-(1-D-Ribitylamino)-5-aminouracil + Riboflavin C17H20N4O6"
 ,RBK,BSU35920,0,0,Ribokinase,atp_c + rib__D_c <=> adp_c + h_c + r5p_c,ATP C10H12N5O13P3 + D-Ribose <=> ADP C10H12N5O10P2 + H+ + Alpha-D-Ribose 5-phosphate
 ,RBK_Dr,BSU28790,0,0,D-ribulokinase (D-ribulose),atp_c + rbl__D_c --> adp_c + h_c + ru5p__D_c,ATP C10H12N5O13P3 + D-Ribulose --> ADP C10H12N5O10P2 + H+ + D-Ribulose 5-phosphate
 ,RBK_L1,BSU28790,0,0,L-ribulokinase (L-ribulose),atp_c + rbl__L_c --> adp_c + h_c + ru5p__L_c,ATP C10H12N5O13P3 + L-Ribulose --> ADP C10H12N5O10P2 + H+ + L-Ribulose 5-phosphate
@@ -1241,7 +1242,7 @@ remove,PPS,BSU18830,0,0,Phosphoenol pyruvate synthase,,
 ,ACPpds,BSU19230,-6.09E-19,0,[acyl-carrier-protein] phosphodiesterase,BSU15920-MONOMER_mod_pan4p + h2o_c --> BSU15920-MONOMER + h_c + pan4p_c,Acyl carrier protein + H2O H2O --> Apoprotein [acyl carrier protein] + H+ + Pantetheine 4'-phosphate
 ,ACPS1,BSU04620,-6.09E-19,0,Acyl-carrier protein synthase,BSU15920-MONOMER + coa_c --> BSU15920-MONOMER_mod_pan4p + h_c + pap_c,"Apoprotein [acyl carrier protein] + Coenzyme A --> Acyl carrier protein + H+ + Adenosine 3',5'-bisphosphate"
 ,PNTEH,BSU03010,-6.09E-19,0,Hydrolase Class   RXN R02973 ,h2o_c + ptth_c --> cysam_c + pnto__R_c,H2O H2O + Pantetheine --> Cysteamine C2H8NS + (R)-Pantothenate
-,3CMPt6,,-7.54E-07,0,3  CMP transport in via proton symport,3cmp_e + h_e <=> 3cmp_c + h_c,3  CMP C9H12N3O8P + H+ <=> 3  CMP C9H12N3O8P + H+
+,3CMPt6,,-0.000000754,0,3  CMP transport in via proton symport,3cmp_e + h_e <=> 3cmp_c + h_c,3  CMP C9H12N3O8P + H+ <=> 3  CMP C9H12N3O8P + H+
 ,3AMPt6,,-0.00153071,0,3  AMP transport inout via proton symport,3amp_e + h_e <=> 3amp_c + h_c,3  AMP C10H12N5O7P + H+ <=> 3  AMP C10H12N5O7P + H+
 ,LLEUDr,BSU24080,-0.014427245,0,L leucine dehydrogenase,h2o_c + leu__L_c + nad_c <=> 4mop_c + h_c + nadh_c + nh4_c,H2O H2O + L-Leucine + Nicotinamide adenine dinucleotide <=> 4-Methyl-2-oxopentanoate + H+ + Nicotinamide adenine dinucleotide - reduced + Ammonium
 ,GAM6Pt,,-0.121193527,0,D glucosamine 6 phosphate reversible uniport,gam6p_e <=> gam6p_c,D-Glucosamine 6-phosphate <=> D-Glucosamine 6-phosphate
