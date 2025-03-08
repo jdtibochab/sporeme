@@ -9,6 +9,7 @@ SporeME2 files and model are available in bacillusme/analysis/spore. The noteboo
 
 If you are using BACILLUSme or *i*JT964-ME, please cite [doi:10.1038/s41540-022-00259-0](https://www.nature.com/articles/s41540-022-00259-0).
 
+If you are using SporeME2, please cite [doi: 10.1038/s41467-024-55586-z](https://www.nature.com/articles/s41467-024-55586-z).
 
 Install locally
 ====================
